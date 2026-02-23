@@ -12,8 +12,8 @@
     "since": 1771869452421
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1771869452421
+    "status": "offline",
+    "since": 1771871567625
   },
   "AMZ9HX32": {
     "status": "online",
@@ -80,8 +80,8 @@
     "since": 1771869452421
   },
   "toolAL23-2-2026": {
-    "status": "online",
-    "since": 1771869452421
+    "status": "offline",
+    "since": 1771871567625
   },
   "utral9": {
     "status": "online",
@@ -122,5 +122,21 @@
   "xeonVPS": {
     "status": "online",
     "since": 1771869452421
+  },
+  "E3": {
+    "status": "online",
+    "since": 1771871567625
+  },
+  "i516p": {
+    "status": "online",
+    "since": 1771871567625
+  },
+  "i72028": {
+    "status": "online",
+    "since": 1771871567625
+  },
+  "xeonYEU": {
+    "status": "online",
+    "since": 1771871567625
   }
 }
