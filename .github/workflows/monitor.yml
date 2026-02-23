@@ -1,7 +1,7 @@
 name: XMR_Worker_Monitor_247
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/10 * * * *' 
   workflow_dispatch:      
 
 jobs:
@@ -16,6 +16,7 @@ jobs:
       - name: Run Check Logic
         run: |
           WALLET="8A1jQsrACPy4yWbGzCJRFMZCay6sfnsDnY73dnN1dbiQPTb3fmi2e1hhHMQpmbUc4gKkAPWgaykERTJsFSAukW1iLDJUigP"
+          # Lấy danh sách thợ đào đang online từ API
           curl -s "https://www.supportxmr.com/api/miner/$WALLET/identifiers" > online_now.json
           
           python3 -c "
@@ -32,13 +33,17 @@ jobs:
               with open('online_now.json', 'r') as f: online_now = json.load(f)
           except: online_now = []
 
+          # Duyệt qua các máy đang online
           for name in online_now:
               if name not in history:
+                  # Nếu máy mới xuất hiện lần đầu: Lưu trạng thái và ngày khai sinh (first_seen)
                   history[name] = {'status': 'online', 'since': now, 'first_seen': now}
               elif history[name].get('status') == 'offline':
+                  # Nếu máy cũ quay lại online
                   history[name]['status'] = 'online'
                   history[name]['since'] = now
           
+          # Duyệt qua lịch sử để cập nhật các máy vừa bị sập (offline)
           for name in list(history.keys()):
               if name not in online_now and history[name].get('status') == 'online':
                   history[name]['status'] = 'offline'
@@ -52,9 +57,18 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Monitor-Bot"
-          git add -A
-          git commit -m "Auto-commit any unstaged changes" || true
-          git pull --rebase origin main
+          
+          # 1. Đưa file mới vào hàng chờ rồi tạm cất đi để tránh lỗi pull/rebase
           git add data.json
-          git commit -m "Bot: Updated worker status [$(date)]" || true
+          git stash
+          
+          # 2. Cập nhật code mới nhất từ Repo về máy ảo (đề phòng mày đang sửa CSS/HTML trên web)
+          git pull --rebase origin main
+          
+          # 3. Lấy lại file data.json đã cất ra
+          git stash pop || echo "No changes to pop"
+          
+          # 4. Commit và đẩy lên GitHub
+          git add data.json
+          git commit -m "Bot: Updated worker status [$(date)]" || exit 0
           git push
