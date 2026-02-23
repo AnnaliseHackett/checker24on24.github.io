@@ -46,7 +46,7 @@ async function fetchData() {
                 `DOWN SINCE: <span class="time-val" style="color:var(--neon-red)">${fullTime}</span>`;
 
             card.innerHTML = `
-                <span class="name">pokemon: ${name}</span>
+                <span class="name">ID: ${name}</span>
                 <div class="info" style="color:${isOn ? 'var(--neon-green)' : 'var(--neon-red)'}">
                     STATUS: <b>${isOn ? '[ OPERATIONAL ]' : '[ DISCONNECTED ]'}</b>
                 </div>
@@ -94,5 +94,6 @@ function toggleFilter() {
 }
 
 window.onload = initMonitor;
+
 
 
