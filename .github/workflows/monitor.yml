@@ -52,8 +52,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Monitor-Bot"
+          git pull --rebase origin main
           git add data.json
-          # Dòng này cực quan trọng để tránh lỗi khi mày sửa file CSS/HTML trên web
-          git pull --rebase origin main 
           git commit -m "Bot: Updated worker status [$(date)]" || exit 0
           git push
