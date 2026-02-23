@@ -1,7 +1,7 @@
 name: XMR_Worker_Monitor_247
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:      
 
 jobs:
@@ -25,16 +25,12 @@ jobs:
           history = {}
           if os.path.exists('data.json'):
               try:
-                  with open('data.json', 'r') as f:
-                      history = json.load(f)
-              except:
-                  history = {}
+                  with open('data.json', 'r') as f: history = json.load(f)
+              except: history = {}
           
           try:
-              with open('online_now.json', 'r') as f:
-                  online_now = json.load(f)
-          except:
-              online_now = []
+              with open('online_now.json', 'r') as f: online_now = json.load(f)
+          except: online_now = []
 
           for name in online_now:
               if name not in history:
@@ -57,5 +53,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "Monitor-Bot"
           git add data.json
+          # Dòng này cực quan trọng để tránh lỗi khi mày sửa file CSS/HTML trên web
+          git pull --rebase origin main 
           git commit -m "Bot: Updated worker status [$(date)]" || exit 0
           git push
