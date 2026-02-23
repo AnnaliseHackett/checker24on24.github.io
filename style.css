@@ -29,6 +29,8 @@ body {
 
 .brand { color: var(--neon-green); font-weight: bold; font-size: 14px; letter-spacing: 1px; }
 
+.controls { display: flex; gap: 5px; }
+
 .btn-main {
     background: transparent;
     border: 1px solid #444;
@@ -40,42 +42,45 @@ body {
     text-transform: uppercase;
 }
 
-.btn-main.active { border-color: var(--neon-red); color: var(--neon-red); }
+.btn-main.active { border-color: var(--neon-green); color: var(--neon-green); }
+.btn-main#btn-off.active { border-color: var(--neon-red); color: var(--neon-red); }
 
 .status-bar { font-size: 12px; }
 
 .worker-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-    gap: 15px;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
 }
 
 .card {
     background: var(--card-bg);
     border: 1px solid #1a1a1a;
-    padding: 12px;
+    padding: 15px; 
     transition: 0.2s;
     position: relative;
 }
 
 .card.online { border-left: 3px solid var(--neon-green); }
-.card.offline { border-left: 3px solid var(--neon-red); opacity: 0.7; }
+.card.offline { border-left: 3px solid var(--neon-red); opacity: 0.8; }
 
 .card:hover { border-color: #444; background: #111; }
 
 .name {
-    font-size: 13px;
+    font-size: 14px; 
     color: #fff;
     margin-bottom: 8px;
     display: block;
     overflow: hidden;
     text-overflow: ellipsis;
     border-bottom: 1px solid #222;
-    padding-bottom: 5px;
+    padding-bottom: 8px;
 }
 
-.info { font-size: 11px; margin: 4px 0; line-height: 1.4; }
+.info { font-size: 11px; margin: 6px 0; line-height: 1.4; }
 .time-val { color: #eee; font-weight: bold; }
+
+.entry-date { color: #555; font-size: 9px; margin-bottom: 5px; display: block; }
 
 #timer { color: var(--neon-orange); }
 #total-count { color: var(--neon-green); }
