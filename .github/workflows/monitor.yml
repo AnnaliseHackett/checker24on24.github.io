@@ -1,0 +1,49 @@
+name: XMR_Worker_Monitor_247
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:      
+
+jobs:
+  check_and_log:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Run Check Logic
+        run: |
+          WALLET="8A1jQsrACPy4yWbGzCJRFMZCay6sfnsDnY73dnN1dbiQPTb3fmi2e1hhHMQpmbUc4gKkAPWgaykERTJsFSAukW1iLDJUigP"
+          
+          curl -s "https://www.supportxmr.com/api/miner/$WALLET/identifiers" > online_now.json
+          
+          python3 - c "
+          import json, time, os
+          now = int(time.time() * 1000)
+          
+          if os.path.exists('data.json'):
+              with open('data.json', 'r') as f: history = json.load(f)
+          else: history = {}
+          
+          with open('online_now.json', 'r') as f: online_now = json.load(f)
+          
+          for name in online_now:
+              if name not in history or history[name]['status'] == 'offline':
+                  history[name] = {'status': 'online', 'since': now}
+          
+          for name in list(history.keys()):
+              if name not in online_now and history[name]['status'] == 'online':
+                  history[name] = {'status': 'offline', 'since': now}
+          
+          with open('data.json', 'w') as f: json.dump(history, f, indent=2)
+          "
+
+      - name: Save to GitHub
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Monitor-Bot"
+          git add data.json
+          git commit -m "Bot: Updated worker status" || exit 0
+          git push
