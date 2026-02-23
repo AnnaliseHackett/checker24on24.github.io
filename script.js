@@ -1,4 +1,3 @@
-// [ SETTINGS ]
 const WALLET_ADDR = "8A1jQsrACPy4yWbGzCJRFMZCay6sfnsDnY73dnN1dbiQPTb3fmi2e1hhHMQpmbUc4gKkAPWgaykERTJsFSAukW1iLDJUigP";
 
 let timeLeft = 60;
@@ -11,53 +10,39 @@ async function fetchData() {
     
     try {
         const resPool = await fetch(`https://www.supportxmr.com/api/miner/${WALLET_ADDR}/identifiers?_=${Date.now()}`);
-        if (!resPool.ok) throw new Error("Pool API Error");
         const onlineNow = await resPool.json();
 
         let history = {};
         try {
             const resHistory = await fetch(`data.json?t=${Date.now()}`);
-            if (resHistory.ok) {
-                history = await resHistory.json();
-            }
-        } catch (e) {
-            console.log("History file not found yet, skipping...");
-        }
+            if (resHistory.ok) history = await resHistory.json();
+        } catch (e) { console.log("Waiting for data.json..."); }
 
         const now = Date.now();
         let allWorkers = new Set([...Object.keys(history), ...onlineNow]);
-        
-        if (allWorkers.size === 0) {
-            listDiv.innerHTML = "<div style='color:orange; padding:20px;'>[ SYSTEM_READY ]: Waiting for data from Pool...</div>";
-            return;
-        }
-
         listDiv.innerHTML = "";
         let onCount = 0;
 
         Array.from(allWorkers).sort().forEach(name => {
             const isOn = onlineNow.includes(name);
-            const statusStr = isOn ? 'online' : 'offline';
-
-            if (!history[name]) {
-                history[name] = { status: statusStr, since: now };
-            }
-            if (history[name].status !== statusStr) {
-                history[name].status = statusStr;
-                history[name].since = now;
-            }
+            const hData = history[name] || { status: isOn ? 'online' : 'offline', since: now };
+            
+            let displaySince = hData.since;
+            if (hData.status === 'online' && !isOn) displaySince = now; 
+            if (hData.status === 'offline' && isOn) displaySince = now; 
 
             if (isOn) onCount++;
             if (showOnlyOff && isOn) return;
 
             const card = document.createElement('div');
+            
             card.className = `card ${isOn ? 'online' : 'offline'}`;
             
-            const eventTime = new Date(history[name].since);
+            const eventTime = new Date(displaySince);
             const fullTime = `${eventTime.getHours().toString().padStart(2,'0')}:${eventTime.getMinutes().toString().padStart(2,'0')} - ${eventTime.getDate().toString().padStart(2,'0')}/${(eventTime.getMonth()+1).toString().padStart(2,'0')}/${eventTime.getFullYear()}`;
 
             let timeDisplay = isOn ? 
-                `UPTIME: <span class="time-val">${formatDuration(now - history[name].since)}</span>` : 
+                `UPTIME: <span class="time-val">${formatDuration(now - displaySince)}</span>` : 
                 `DOWN SINCE: <span class="time-val" style="color:var(--neon-red)">${fullTime}</span>`;
 
             card.innerHTML = `
@@ -74,7 +59,7 @@ async function fetchData() {
 
     } catch (e) { 
         console.error(e);
-        listDiv.innerHTML = `<div style='color:red; padding:20px;'>[ ERROR ]: POOL_CONNECTION_FAILED</div>`;
+        listDiv.innerHTML = `<div style='color:red; padding:20px;'>[ ERROR ]: CONNECTION_LOST</div>`;
     }
 }
 
@@ -83,8 +68,7 @@ function initMonitor() {
     if(countdown) clearInterval(countdown);
     countdown = setInterval(() => {
         timeLeft--;
-        const timerEl = document.getElementById('timer');
-        if(timerEl) timerEl.innerText = timeLeft;
+        if(document.getElementById('timer')) document.getElementById('timer').innerText = timeLeft;
         if(timeLeft <= 0) { timeLeft = 60; fetchData(); }
     }, 1000);
 }
