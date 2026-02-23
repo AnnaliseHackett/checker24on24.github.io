@@ -16,15 +16,15 @@ jobs:
       - name: Run Check Logic
         run: |
           WALLET="8A1jQsrACPy4yWbGzCJRFMZCay6sfnsDnY73dnN1dbiQPTb3fmi2e1hhHMQpmbUc4gKkAPWgaykERTJsFSAukW1iLDJUigP"
-          
           curl -s "https://www.supportxmr.com/api/miner/$WALLET/identifiers" > online_now.json
           
-          python3 - c "
+          python3 -c "
           import json, time, os
           now = int(time.time() * 1000)
-          
           if os.path.exists('data.json'):
-              with open('data.json', 'r') as f: history = json.load(f)
+              try:
+                  with open('data.json', 'r') as f: history = json.load(f)
+              except: history = {}
           else: history = {}
           
           with open('online_now.json', 'r') as f: online_now = json.load(f)
