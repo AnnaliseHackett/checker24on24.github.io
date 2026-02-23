@@ -52,7 +52,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Monitor-Bot"
+          git add -A
+          git commit -m "Auto-commit any unstaged changes" || true
           git pull --rebase origin main
           git add data.json
-          git commit -m "Bot: Updated worker status [$(date)]" || exit 0
+          git commit -m "Bot: Updated worker status [$(date)]" || true
           git push
