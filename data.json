@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "offline",
-    "since": 1771875679195
+    "status": "online",
+    "since": 1771884332768
   },
   "spacemarine": {
     "status": "online",
@@ -136,12 +136,17 @@
     "since": 1771872935999
   },
   "xeonYEU": {
-    "status": "online",
-    "since": 1771871567625
+    "status": "offline",
+    "since": 1771884332768
   },
   "word": {
     "status": "online",
     "since": 1771872177555,
     "first_seen": 1771872177555
+  },
+  "hieu": {
+    "status": "online",
+    "since": 1771884332768,
+    "first_seen": 1771884332768
   }
 }
