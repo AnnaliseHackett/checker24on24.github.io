@@ -1,7 +1,7 @@
 name: XMR_Worker_Monitor_247
 on:
   schedule:
-    - cron: '*/5 * * * *' 
+    - cron: '*/5 * * * *'
   workflow_dispatch:      
 
 jobs:
@@ -22,7 +22,6 @@ jobs:
           import json, time, os
           now = int(time.time() * 1000)
           
-          # Đọc file history cũ
           history = {}
           if os.path.exists('data.json'):
               try:
@@ -31,34 +30,32 @@ jobs:
               except:
                   history = {}
           
-          # Đọc dữ liệu online mới từ API
           try:
               with open('online_now.json', 'r') as f:
                   online_now = json.load(f)
           except:
               online_now = []
 
-          # Logic cập nhật
           for name in online_now:
-              if name not in history or history[name].get('status') == 'offline':
-                  history[name] = {'status': 'online', 'since': now}
+              if name not in history:
+                  history[name] = {'status': 'online', 'since': now, 'first_seen': now}
+              elif history[name].get('status') == 'offline':
+                  history[name]['status'] = 'online'
+                  history[name]['since'] = now
           
           for name in list(history.keys()):
               if name not in online_now and history[name].get('status') == 'online':
-                  history[name] = {'status': 'offline', 'since': now}
+                  history[name]['status'] = 'offline'
+                  history[name]['since'] = now
           
-          # Ghi lại vào data.json
           with open('data.json', 'w') as f:
               json.dump(history, f, indent=2)
           "
 
       - name: Save to GitHub
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Monitor-Bot"
           git add data.json
-          # Commit nếu có thay đổi, nếu không có gì mới thì bỏ qua (exit 0)
           git commit -m "Bot: Updated worker status [$(date)]" || exit 0
           git push
