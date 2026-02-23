@@ -12,8 +12,8 @@
     "since": 1771869452421
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1771881111022
+    "status": "offline",
+    "since": 1771887545391
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -68,8 +68,8 @@
     "since": 1771884332768
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1771869452421
+    "status": "offline",
+    "since": 1771887545391
   },
   "tool1-2-2026": {
     "status": "online",
@@ -136,8 +136,8 @@
     "since": 1771872935999
   },
   "xeonYEU": {
-    "status": "offline",
-    "since": 1771884332768
+    "status": "online",
+    "since": 1771887545391
   },
   "word": {
     "status": "online",
@@ -145,8 +145,18 @@
     "first_seen": 1771872177555
   },
   "hieu": {
-    "status": "online",
-    "since": 1771884332768,
+    "status": "offline",
+    "since": 1771887545391,
     "first_seen": 1771884332768
+  },
+  "i93224": {
+    "status": "online",
+    "since": 1771887545391,
+    "first_seen": 1771887545391
+  },
+  "xeon80v1": {
+    "status": "online",
+    "since": 1771887545391,
+    "first_seen": 1771887545391
   }
 }
