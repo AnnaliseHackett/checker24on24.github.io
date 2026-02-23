@@ -2,7 +2,7 @@ const WALLET_ADDR = "8A1jQsrACPy4yWbGzCJRFMZCay6sfnsDnY73dnN1dbiQPTb3fmi2e1hhHMQ
 
 let timeLeft = 60;
 let countdown = null;
-let currentFilter = 'all'; // all, online, offline
+let currentFilter = 'all'; 
 
 async function fetchData() {
     if(!WALLET_ADDR) return;
@@ -28,7 +28,7 @@ async function fetchData() {
             const hData = history[name] || { status: isOn ? 'online' : 'offline', since: now, first_seen: now };
             
             const bornTs = hData.first_seen || hData.since || now;
-            const bornDate = new Date(bornTs).toLocaleDateString('vi-VN');
+            const bornString = new Date(bornTs).toLocaleDateString('vi-VN');
 
             if (isOn) onCount++;
 
@@ -39,19 +39,19 @@ async function fetchData() {
             card.className = `card ${isOn ? 'online' : 'offline'}`;
             
             const eventTime = new Date(hData.since);
-            const fullTime = `${eventTime.getHours().toString().padStart(2,'0')}:${eventTime.getMinutes().toString().padStart(2,'0')} - ${eventTime.getDate().toString().padStart(2,'0')}/${(eventTime.getMonth()+1).toString().padStart(2,'0')}`;
-
-            let timeDisplay = isOn ? 
-                `UPTIME: <span class="time-val">${formatDuration(now - hData.since)}</span>` : 
-                `DOWN SINCE: <span class="time-val" style="color:var(--neon-red)">${fullTime}</span>`;
+            const fullTime = `${eventTime.getHours().toString().padStart(2,'0')}:${eventTime.getMinutes().toString().padStart(2,'0')} - ${eventTime.getDate().toString().padStart(2,'0')}/${(eventTime.getMonth()+1).toString().padStart(2,'0')}/${eventTime.getFullYear()}`;
 
             card.innerHTML = `
-                <div class="born-tag">ENTRY_DATE: ${bornDate}</div>
+                <span class="entry-date">ENTRY_DATE: ${bornString}</span>
                 <span class="name">ID: ${name}</span>
-                <div class="info" style="color:${isOn ? 'var(--neon-green)' : 'var(--neon-red)'}">
+                <div class="info" style="color:${isOn?'var(--neon-green)':'var(--neon-red)'}">
                     STATUS: <b>${isOn ? '[ OPERATIONAL ]' : '[ DISCONNECTED ]'}</b>
                 </div>
-                <div class="info">${timeDisplay}</div>
+                <div class="info">
+                    ${isOn 
+                        ? `UPTIME: <span class="time-val">${formatDuration(now - hData.since)}</span>` 
+                        : `DOWN SINCE: <span class="time-val" style="color:var(--neon-red)">${fullTime}</span>`}
+                </div>
             `;
             listDiv.appendChild(card);
         });
@@ -94,4 +94,3 @@ function initMonitor() {
 }
 
 window.onload = initMonitor;
-
