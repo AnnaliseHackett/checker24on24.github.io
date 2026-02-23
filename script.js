@@ -2,7 +2,7 @@ const WALLET_ADDR = "8A1jQsrACPy4yWbGzCJRFMZCay6sfnsDnY73dnN1dbiQPTb3fmi2e1hhHMQ
 
 let timeLeft = 60;
 let countdown = null;
-let showOnlyOff = false;
+let currentFilter = 'all'; // all, online, offline
 
 async function fetchData() {
     if(!WALLET_ADDR) return;
@@ -25,28 +25,29 @@ async function fetchData() {
 
         Array.from(allWorkers).sort().forEach(name => {
             const isOn = onlineNow.includes(name);
-            const hData = history[name] || { status: isOn ? 'online' : 'offline', since: now };
+            const hData = history[name] || { status: isOn ? 'online' : 'offline', since: now, first_seen: now };
             
-            let displaySince = hData.since;
-            if (hData.status === 'online' && !isOn) displaySince = now; 
-            if (hData.status === 'offline' && isOn) displaySince = now; 
+            const bornTs = hData.first_seen || hData.since || now;
+            const bornDate = new Date(bornTs).toLocaleDateString('vi-VN');
 
             if (isOn) onCount++;
-            if (showOnlyOff && isOn) return;
+
+            if (currentFilter === 'online' && !isOn) return;
+            if (currentFilter === 'offline' && isOn) return;
 
             const card = document.createElement('div');
-            
             card.className = `card ${isOn ? 'online' : 'offline'}`;
             
-            const eventTime = new Date(displaySince);
-            const fullTime = `${eventTime.getHours().toString().padStart(2,'0')}:${eventTime.getMinutes().toString().padStart(2,'0')} - ${eventTime.getDate().toString().padStart(2,'0')}/${(eventTime.getMonth()+1).toString().padStart(2,'0')}/${eventTime.getFullYear()}`;
+            const eventTime = new Date(hData.since);
+            const fullTime = `${eventTime.getHours().toString().padStart(2,'0')}:${eventTime.getMinutes().toString().padStart(2,'0')} - ${eventTime.getDate().toString().padStart(2,'0')}/${(eventTime.getMonth()+1).toString().padStart(2,'0')}`;
 
             let timeDisplay = isOn ? 
-                `UPTIME: <span class="time-val">${formatDuration(now - displaySince)}</span>` : 
+                `UPTIME: <span class="time-val">${formatDuration(now - hData.since)}</span>` : 
                 `DOWN SINCE: <span class="time-val" style="color:var(--neon-red)">${fullTime}</span>`;
 
             card.innerHTML = `
-                <span class="name">ID: ${name}</span>
+                <div class="born-tag">ENTRY_DATE: ${bornDate}</div>
+                <span class="name">_ID: ${name}</span>
                 <div class="info" style="color:${isOn ? 'var(--neon-green)' : 'var(--neon-red)'}">
                     STATUS: <b>${isOn ? '[ OPERATIONAL ]' : '[ DISCONNECTED ]'}</b>
                 </div>
@@ -63,14 +64,13 @@ async function fetchData() {
     }
 }
 
-function initMonitor() {
+function setFilter(type) {
+    currentFilter = type;
+    document.querySelectorAll('.btn-main').forEach(btn => btn.classList.remove('active'));
+    if(type === 'all') document.getElementById('btn-all').classList.add('active');
+    if(type === 'online') document.getElementById('btn-on').classList.add('active');
+    if(type === 'offline') document.getElementById('btn-off').classList.add('active');
     fetchData();
-    if(countdown) clearInterval(countdown);
-    countdown = setInterval(() => {
-        timeLeft--;
-        if(document.getElementById('timer')) document.getElementById('timer').innerText = timeLeft;
-        if(timeLeft <= 0) { timeLeft = 60; fetchData(); }
-    }, 1000);
 }
 
 function formatDuration(ms) {
@@ -83,17 +83,14 @@ function formatDuration(ms) {
     return `${m}m ${s % 60}s`;
 }
 
-function toggleFilter() {
-    showOnlyOff = !showOnlyOff;
-    const btn = document.getElementById('filter-btn');
-    if(btn) {
-        btn.innerText = showOnlyOff ? "FILTER_OFFLINE: ON" : "FILTER_OFFLINE: OFF";
-        btn.classList.toggle('active', showOnlyOff);
-    }
+function initMonitor() {
     fetchData();
+    if(countdown) clearInterval(countdown);
+    countdown = setInterval(() => {
+        timeLeft--;
+        if(document.getElementById('timer')) document.getElementById('timer').innerText = timeLeft;
+        if(timeLeft <= 0) { timeLeft = 60; fetchData(); }
+    }, 1000);
 }
 
 window.onload = initMonitor;
-
-
-
