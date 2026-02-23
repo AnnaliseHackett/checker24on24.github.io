@@ -47,7 +47,7 @@ async function fetchData() {
 
             card.innerHTML = `
                 <div class="born-tag">ENTRY_DATE: ${bornDate}</div>
-                <span class="name">_ID: ${name}</span>
+                <span class="name">ID: ${name}</span>
                 <div class="info" style="color:${isOn ? 'var(--neon-green)' : 'var(--neon-red)'}">
                     STATUS: <b>${isOn ? '[ OPERATIONAL ]' : '[ DISCONNECTED ]'}</b>
                 </div>
@@ -94,3 +94,4 @@ function initMonitor() {
 }
 
 window.onload = initMonitor;
+
