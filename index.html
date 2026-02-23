@@ -8,7 +8,9 @@
 <body>
     <div class="header">
         <div class="controls">
-            <button onclick="toggleFilter()" id="filter-btn" class="btn-main">FILTER_OFFLINE: OFF</button>
+            <button onclick="setFilter('all')" id="btn-all" class="btn-main active">ALL</button>
+            <button onclick="setFilter('online')" id="btn-on" class="btn-main">ONLINE</button>
+            <button onclick="setFilter('offline')" id="btn-off" class="btn-main">OFFLINE</button>
         </div>
         <div class="status-bar">
             SYNC: <span id="timer">60</span>s | ACTIVE: <span id="total-count">0/0</span>
@@ -21,4 +23,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-
