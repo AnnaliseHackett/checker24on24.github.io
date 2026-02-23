@@ -1,4 +1,4 @@
-// [ SETTINGS ] - Replace with your XMR wallet
+// [ SETTINGS ]
 const WALLET_ADDR = "8A1jQsrACPy4yWbGzCJRFMZCay6sfnsDnY73dnN1dbiQPTb3fmi2e1hhHMQpmbUc4gKkAPWgaykERTJsFSAukW1iLDJUigP";
 
 let timeLeft = 60;
@@ -6,34 +6,33 @@ let countdown = null;
 let showOnlyOff = false;
 
 async function fetchData() {
-    if(!WALLET_ADDR || WALLET_ADDR.includes("PASTE_YOUR")) return;
+    if(!WALLET_ADDR) return;
     
     const listDiv = document.getElementById('worker-list');
-    const ts = Date.now();
     
     try {
-        const res = await fetch(`https://www.supportxmr.com/api/miner/${WALLET_ADDR}/identifiers?_=${ts}`);
-        const onlineNames = await res.json();
+        const resPool = await fetch(`https://www.supportxmr.com/api/miner/${WALLET_ADDR}/identifiers?_=${Date.now()}`);
+        const onlineNow = await resPool.json();
 
-        let history = JSON.parse(localStorage.getItem('uptime_history') || '{}');
+        const resHistory = await fetch(`data.json?t=${Date.now()}`);
+        let history = {};
+        if (resHistory.ok) {
+            history = await resHistory.json();
+        }
+
         const now = Date.now();
-
-        // Merge existing history with current online names to keep tracking offline ones
-        let allWorkers = new Set([...Object.keys(history), ...onlineNames]);
+        let allWorkers = new Set([...Object.keys(history), ...onlineNow]);
         listDiv.innerHTML = "";
         let onCount = 0;
 
-        // Sort alphabetically
-        let sortedNames = Array.from(allWorkers).sort();
-
-        sortedNames.forEach(name => {
-            const isOn = onlineNames.includes(name);
+        Array.from(allWorkers).sort().forEach(name => {
+            const isOn = onlineNow.includes(name);
             const statusStr = isOn ? 'online' : 'offline';
 
             if (!history[name]) {
                 history[name] = { status: statusStr, since: now };
             }
-
+            
             if (history[name].status !== statusStr) {
                 history[name].status = statusStr;
                 history[name].since = now;
@@ -46,37 +45,37 @@ async function fetchData() {
             card.className = `card ${isOn ? 'online' : 'offline'}`;
             
             let timeDisplay = "";
+            const eventTime = new Date(history[name].since);
+            const day = String(eventTime.getDate()).padStart(2, '0');
+            const mon = String(eventTime.getMonth() + 1).padStart(2, '0');
+            const yr = eventTime.getFullYear();
+            const hr = String(eventTime.getHours()).padStart(2, '0');
+            const min = String(eventTime.getMinutes()).padStart(2, '0');
+            const fullTime = `${hr}:${min} - ${day}/${mon}/${yr}`;
+
             if (isOn) {
                 timeDisplay = `UPTIME: <span class="time-val">${formatDuration(now - history[name].since)}</span>`;
             } else {
-                // [ PERMANENT TIME FORMAT ]
-                const offTime = new Date(history[name].since);
-                const day = String(offTime.getDate()).padStart(2, '0');
-                const mon = String(offTime.getMonth() + 1).padStart(2, '0');
-                const yr = offTime.getFullYear(); // Lấy đủ 4 số năm
-                const hr = String(offTime.getHours()).padStart(2, '0');
-                const min = String(offTime.getMinutes()).padStart(2, '0');
-
-                // Hiện full: Giờ:Phút - Ngày/Tháng/Năm
-                timeDisplay = `DOWN SINCE: <span class="time-val" style="color:var(--neon-red)">${hr}:${min} - ${day}/${mon}/${yr}</span>`;
+                timeDisplay = `DOWN SINCE: <span class="time-val" style="color:var(--neon-red)">${fullTime}</span>`;
             }
 
             card.innerHTML = `
-                <span class="name">${name}</span>
+                <span class="name">_ID: ${name}</span>
                 <div class="info" style="color:${isOn ? 'var(--neon-green)' : 'var(--neon-red)'}">
                     STATUS: <b>${isOn ? '[ OPERATIONAL ]' : '[ DISCONNECTED ]'}</b>
                 </div>
                 <div class="info">${timeDisplay}</div>
-                <div class="info" style="font-size:9px; opacity:0.4; margin-top:10px;">LST_CHK: ${new Date().toLocaleTimeString()}</div>
+                <div class="info" style="font-size:9px; opacity:0.3; margin-top:10px;">LST_CHK: ${new Date().toLocaleTimeString()}</div>
             `;
             listDiv.appendChild(card);
         });
 
         document.getElementById('total-count').innerText = `${onCount}/${allWorkers.size}`;
+
         localStorage.setItem('uptime_history', JSON.stringify(history));
 
     } catch (e) { 
-        console.error("POOL_CONNECTION_ERROR"); 
+        console.error("SYNC_ERROR: Check if data.json exists on GitHub"); 
     }
 }
 
