@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MONERO</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <div class="brand">> BigMoney</div>
+        <div class="controls">
+            <button onclick="toggleFilter()" id="filter-btn" class="btn-main">FILTER_OFFLINE: OFF</button>
+        </div>
+        <div class="status-bar">
+            SYNC: <span id="timer">60</span>s | ACTIVE: <span id="total-count">0/0</span>
+        </div>
+    </div>
+
+    <div id="worker-list" class="worker-grid">
+        </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
