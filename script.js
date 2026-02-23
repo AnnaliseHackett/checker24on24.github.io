@@ -7,21 +7,31 @@ let showOnlyOff = false;
 
 async function fetchData() {
     if(!WALLET_ADDR) return;
-    
     const listDiv = document.getElementById('worker-list');
     
     try {
         const resPool = await fetch(`https://www.supportxmr.com/api/miner/${WALLET_ADDR}/identifiers?_=${Date.now()}`);
+        if (!resPool.ok) throw new Error("Pool API Error");
         const onlineNow = await resPool.json();
 
-        const resHistory = await fetch(`data.json?t=${Date.now()}`);
         let history = {};
-        if (resHistory.ok) {
-            history = await resHistory.json();
+        try {
+            const resHistory = await fetch(`data.json?t=${Date.now()}`);
+            if (resHistory.ok) {
+                history = await resHistory.json();
+            }
+        } catch (e) {
+            console.log("History file not found yet, skipping...");
         }
 
         const now = Date.now();
         let allWorkers = new Set([...Object.keys(history), ...onlineNow]);
+        
+        if (allWorkers.size === 0) {
+            listDiv.innerHTML = "<div style='color:orange; padding:20px;'>[ SYSTEM_READY ]: Waiting for data from Pool...</div>";
+            return;
+        }
+
         listDiv.innerHTML = "";
         let onCount = 0;
 
@@ -32,7 +42,6 @@ async function fetchData() {
             if (!history[name]) {
                 history[name] = { status: statusStr, since: now };
             }
-            
             if (history[name].status !== statusStr) {
                 history[name].status = statusStr;
                 history[name].since = now;
@@ -44,20 +53,12 @@ async function fetchData() {
             const card = document.createElement('div');
             card.className = `card ${isOn ? 'online' : 'offline'}`;
             
-            let timeDisplay = "";
             const eventTime = new Date(history[name].since);
-            const day = String(eventTime.getDate()).padStart(2, '0');
-            const mon = String(eventTime.getMonth() + 1).padStart(2, '0');
-            const yr = eventTime.getFullYear();
-            const hr = String(eventTime.getHours()).padStart(2, '0');
-            const min = String(eventTime.getMinutes()).padStart(2, '0');
-            const fullTime = `${hr}:${min} - ${day}/${mon}/${yr}`;
+            const fullTime = `${eventTime.getHours().toString().padStart(2,'0')}:${eventTime.getMinutes().toString().padStart(2,'0')} - ${eventTime.getDate().toString().padStart(2,'0')}/${(eventTime.getMonth()+1).toString().padStart(2,'0')}/${eventTime.getFullYear()}`;
 
-            if (isOn) {
-                timeDisplay = `UPTIME: <span class="time-val">${formatDuration(now - history[name].since)}</span>`;
-            } else {
-                timeDisplay = `DOWN SINCE: <span class="time-val" style="color:var(--neon-red)">${fullTime}</span>`;
-            }
+            let timeDisplay = isOn ? 
+                `UPTIME: <span class="time-val">${formatDuration(now - history[name].since)}</span>` : 
+                `DOWN SINCE: <span class="time-val" style="color:var(--neon-red)">${fullTime}</span>`;
 
             card.innerHTML = `
                 <span class="name">_ID: ${name}</span>
@@ -65,17 +66,15 @@ async function fetchData() {
                     STATUS: <b>${isOn ? '[ OPERATIONAL ]' : '[ DISCONNECTED ]'}</b>
                 </div>
                 <div class="info">${timeDisplay}</div>
-                <div class="info" style="font-size:9px; opacity:0.3; margin-top:10px;">LST_CHK: ${new Date().toLocaleTimeString()}</div>
             `;
             listDiv.appendChild(card);
         });
 
         document.getElementById('total-count').innerText = `${onCount}/${allWorkers.size}`;
 
-        localStorage.setItem('uptime_history', JSON.stringify(history));
-
     } catch (e) { 
-        console.error("SYNC_ERROR: Check if data.json exists on GitHub"); 
+        console.error(e);
+        listDiv.innerHTML = `<div style='color:red; padding:20px;'>[ ERROR ]: POOL_CONNECTION_FAILED</div>`;
     }
 }
 
@@ -84,17 +83,10 @@ function initMonitor() {
     if(countdown) clearInterval(countdown);
     countdown = setInterval(() => {
         timeLeft--;
-        document.getElementById('timer').innerText = timeLeft;
+        const timerEl = document.getElementById('timer');
+        if(timerEl) timerEl.innerText = timeLeft;
         if(timeLeft <= 0) { timeLeft = 60; fetchData(); }
     }, 1000);
-}
-
-function toggleFilter() {
-    showOnlyOff = !showOnlyOff;
-    const btn = document.getElementById('filter-btn');
-    btn.innerText = showOnlyOff ? "FILTER_OFFLINE: ON" : "FILTER_OFFLINE: OFF";
-    btn.classList.toggle('active', showOnlyOff);
-    fetchData();
 }
 
 function formatDuration(ms) {
@@ -105,6 +97,16 @@ function formatDuration(ms) {
     if (d > 0) return `${d}d ${h % 24}h`;
     if (h > 0) return `${h}h ${m % 60}m`;
     return `${m}m ${s % 60}s`;
+}
+
+function toggleFilter() {
+    showOnlyOff = !showOnlyOff;
+    const btn = document.getElementById('filter-btn');
+    if(btn) {
+        btn.innerText = showOnlyOff ? "FILTER_OFFLINE: ON" : "FILTER_OFFLINE: OFF";
+        btn.classList.toggle('active', showOnlyOff);
+    }
+    fetchData();
 }
 
 window.onload = initMonitor;
