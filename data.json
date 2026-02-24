@@ -84,16 +84,16 @@
     "since": 1771958480856
   },
   "utral9": {
-    "status": "offline",
-    "since": 1771951499378
+    "status": "online",
+    "since": 1771974328190
   },
   "x": {
     "status": "online",
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "online",
-    "since": 1771969831217
+    "status": "offline",
+    "since": 1771974328190
   },
   "XEON8H": {
     "status": "offline",
@@ -155,8 +155,8 @@
     "first_seen": 1771887545391
   },
   "xeon80v1": {
-    "status": "offline",
-    "since": 1771955167369,
+    "status": "online",
+    "since": 1771974328190,
     "first_seen": 1771887545391
   },
   "nhungoc": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1771955167369,
+    "status": "offline",
+    "since": 1771974328190,
     "first_seen": 1771943661252
   },
   "opengl": {
