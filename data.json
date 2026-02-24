@@ -24,8 +24,8 @@
     "since": 1771872177555
   },
   "i5125": {
-    "status": "offline",
-    "since": 1771931250125
+    "status": "online",
+    "since": 1771934133329
   },
   "i5kf20": {
     "status": "online",
@@ -84,8 +84,8 @@
     "since": 1771904259023
   },
   "utral9": {
-    "status": "online",
-    "since": 1771913721773
+    "status": "offline",
+    "since": 1771934133329
   },
   "x": {
     "status": "online",
@@ -165,18 +165,18 @@
     "first_seen": 1771890094719
   },
   "cftmon": {
-    "status": "online",
-    "since": 1771894415726,
+    "status": "offline",
+    "since": 1771934133329,
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "online",
-    "since": 1771927690320,
+    "status": "offline",
+    "since": 1771934133329,
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "online",
-    "since": 1771931250125,
+    "status": "offline",
+    "since": 1771934133329,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -335,13 +335,13 @@
     "first_seen": 1771909942902
   },
   "xeon24louis": {
-    "status": "offline",
-    "since": 1771918204510,
+    "status": "online",
+    "since": 1771934133329,
     "first_seen": 1771909942902
   },
   "xeonR5": {
-    "status": "online",
-    "since": 1771927690320,
+    "status": "offline",
+    "since": 1771934133329,
     "first_seen": 1771909942902
   },
   "VM": {
@@ -380,8 +380,8 @@
     "first_seen": 1771924014596
   },
   "DMU": {
-    "status": "online",
-    "since": 1771931250125,
+    "status": "offline",
+    "since": 1771934133329,
     "first_seen": 1771924014596
   },
   "manghinhL": {
@@ -405,13 +405,13 @@
     "first_seen": 1771927690320
   },
   "bacar": {
-    "status": "online",
-    "since": 1771931250125,
+    "status": "offline",
+    "since": 1771934133329,
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1771931250125,
+    "status": "offline",
+    "since": 1771934133329,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -438,5 +438,20 @@
     "status": "online",
     "since": 1771931250125,
     "first_seen": 1771931250125
+  },
+  "i5Te": {
+    "status": "online",
+    "since": 1771934133329,
+    "first_seen": 1771934133329
+  },
+  "meo": {
+    "status": "online",
+    "since": 1771934133329,
+    "first_seen": 1771934133329
+  },
+  "xeonutra": {
+    "status": "online",
+    "since": 1771934133329,
+    "first_seen": 1771934133329
   }
 }
