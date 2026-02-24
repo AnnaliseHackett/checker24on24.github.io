@@ -64,12 +64,12 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "offline",
-    "since": 1771951499378
+    "status": "online",
+    "since": 1771976774390
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1771951499378
+    "status": "offline",
+    "since": 1771976774390
   },
   "tool1-2-2026": {
     "status": "online",
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1771951499378,
+    "status": "offline",
+    "since": 1771976774390,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1771947443714,
+    "status": "online",
+    "since": 1771976774390,
     "first_seen": 1771931250125
   },
   "pc": {
