@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1771943661252
+    "status": "online",
+    "since": 1771969831217
   },
   "XEON8H": {
     "status": "offline",
@@ -140,8 +140,8 @@
     "since": 1771887545391
   },
   "word": {
-    "status": "online",
-    "since": 1771967016485,
+    "status": "offline",
+    "since": 1771969831217,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -195,8 +195,8 @@
     "first_seen": 1771894415726
   },
   "xeon72pm": {
-    "status": "offline",
-    "since": 1771947443714,
+    "status": "online",
+    "since": 1771969831217,
     "first_seen": 1771894415726
   },
   "xeonW": {
@@ -350,8 +350,8 @@
     "first_seen": 1771913721773
   },
   "nguye": {
-    "status": "online",
-    "since": 1771967016485,
+    "status": "offline",
+    "since": 1771969831217,
     "first_seen": 1771918204510
   },
   "thinkbad": {
