@@ -170,8 +170,8 @@
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "online",
-    "since": 1771920460571,
+    "status": "offline",
+    "since": 1771924014596,
     "first_seen": 1771894415726
   },
   "i5plugin": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1771918204510,
+    "status": "online",
+    "since": 1771924014596,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "online",
-    "since": 1771918204510,
+    "status": "offline",
+    "since": 1771924014596,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "online",
-    "since": 1771918204510,
+    "status": "offline",
+    "since": 1771924014596,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1771913721773,
+    "status": "offline",
+    "since": 1771924014596,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -373,5 +373,25 @@
     "status": "online",
     "since": 1771920460571,
     "first_seen": 1771920460571
+  },
+  "amthanh": {
+    "status": "online",
+    "since": 1771924014596,
+    "first_seen": 1771924014596
+  },
+  "DMU": {
+    "status": "online",
+    "since": 1771924014596,
+    "first_seen": 1771924014596
+  },
+  "manghinhL": {
+    "status": "online",
+    "since": 1771924014596,
+    "first_seen": 1771924014596
+  },
+  "ryzen5U": {
+    "status": "online",
+    "since": 1771924014596,
+    "first_seen": 1771924014596
   }
 }
