@@ -68,8 +68,8 @@
     "since": 1772052463881
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1772042537054
+    "status": "offline",
+    "since": 1772061415256
   },
   "tool1-2-2026": {
     "status": "online",
@@ -128,8 +128,8 @@
     "since": 1771878468475
   },
   "i516p": {
-    "status": "online",
-    "since": 1772059565157
+    "status": "offline",
+    "since": 1772061415256
   },
   "i72028": {
     "status": "offline",
@@ -155,8 +155,8 @@
     "first_seen": 1771887545391
   },
   "xeon80v1": {
-    "status": "offline",
-    "since": 1772042537054,
+    "status": "online",
+    "since": 1772061415256,
     "first_seen": 1771887545391
   },
   "nhungoc": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1772038429799,
+    "status": "online",
+    "since": 1772061415256,
     "first_seen": 1771931250125
   },
   "pc": {
