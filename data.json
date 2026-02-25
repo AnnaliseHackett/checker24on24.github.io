@@ -32,8 +32,8 @@
     "since": 1771990967353
   },
   "i711": {
-    "status": "online",
-    "since": 1772030425253
+    "status": "offline",
+    "since": 1772049437768
   },
   "i7118": {
     "status": "online",
@@ -128,16 +128,16 @@
     "since": 1771878468475
   },
   "i516p": {
-    "status": "online",
-    "since": 1772047170678
+    "status": "offline",
+    "since": 1772049437768
   },
   "i72028": {
     "status": "offline",
     "since": 1772047170678
   },
   "xeonYEU": {
-    "status": "offline",
-    "since": 1772047170678
+    "status": "online",
+    "since": 1772049437768
   },
   "word": {
     "status": "online",
