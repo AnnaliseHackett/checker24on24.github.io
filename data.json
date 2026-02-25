@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1772030425253
+    "status": "online",
+    "since": 1772056698567
   },
   "XEON8H": {
     "status": "online",
@@ -128,16 +128,16 @@
     "since": 1771878468475
   },
   "i516p": {
-    "status": "online",
-    "since": 1772054597317
+    "status": "offline",
+    "since": 1772056698567
   },
   "i72028": {
     "status": "offline",
     "since": 1772047170678
   },
   "xeonYEU": {
-    "status": "offline",
-    "since": 1772054597317
+    "status": "online",
+    "since": 1772056698567
   },
   "word": {
     "status": "online",
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "offline",
-    "since": 1772054597317,
+    "status": "online",
+    "since": 1772056698567,
     "first_seen": 1771943661252
   },
   "opengl": {
