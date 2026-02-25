@@ -24,8 +24,8 @@
     "since": 1771872177555
   },
   "i5125": {
-    "status": "online",
-    "since": 1772042537054
+    "status": "offline",
+    "since": 1772059565157
   },
   "i5kf20": {
     "status": "online",
@@ -84,8 +84,8 @@
     "since": 1772047170678
   },
   "utral9": {
-    "status": "offline",
-    "since": 1772042537054
+    "status": "online",
+    "since": 1772059565157
   },
   "x": {
     "status": "online",
@@ -128,8 +128,8 @@
     "since": 1771878468475
   },
   "i516p": {
-    "status": "offline",
-    "since": 1772056698567
+    "status": "online",
+    "since": 1772059565157
   },
   "i72028": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1772047170678,
+    "status": "online",
+    "since": 1772059565157,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -210,8 +210,8 @@
     "first_seen": 1771904259023
   },
   "amz7743": {
-    "status": "online",
-    "since": 1772038429799,
+    "status": "offline",
+    "since": 1772059565157,
     "first_seen": 1771904259023
   },
   "amz7wifi": {
