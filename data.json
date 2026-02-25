@@ -128,16 +128,16 @@
     "since": 1771878468475
   },
   "i516p": {
-    "status": "offline",
-    "since": 1772049437768
+    "status": "online",
+    "since": 1772054597317
   },
   "i72028": {
     "status": "offline",
     "since": 1772047170678
   },
   "xeonYEU": {
-    "status": "online",
-    "since": 1772049437768
+    "status": "offline",
+    "since": 1772054597317
   },
   "word": {
     "status": "online",
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1772052463881,
+    "status": "offline",
+    "since": 1772054597317,
     "first_seen": 1771943661252
   },
   "opengl": {
