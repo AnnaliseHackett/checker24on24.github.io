@@ -32,8 +32,8 @@
     "since": 1771990967353
   },
   "i711": {
-    "status": "online",
-    "since": 1772001353986
+    "status": "offline",
+    "since": 1772008108909
   },
   "i7118": {
     "status": "offline",
@@ -68,8 +68,8 @@
     "since": 1771990967353
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1772005069738
+    "status": "online",
+    "since": 1772008108909
   },
   "tool1-2-2026": {
     "status": "online",
@@ -132,16 +132,16 @@
     "since": 1771996579072
   },
   "i72028": {
-    "status": "online",
-    "since": 1772001353986
+    "status": "offline",
+    "since": 1772008108909
   },
   "xeonYEU": {
     "status": "online",
     "since": 1771887545391
   },
   "word": {
-    "status": "offline",
-    "since": 1771969831217,
+    "status": "online",
+    "since": 1772008108909,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1771996579072,
+    "status": "online",
+    "since": 1772008108909,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -240,8 +240,8 @@
     "first_seen": 1771904259023
   },
   "i7120": {
-    "status": "offline",
-    "since": 1771939283101,
+    "status": "online",
+    "since": 1772008108909,
     "first_seen": 1771904259023
   },
   "i7127k": {
@@ -310,8 +310,8 @@
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
-    "status": "offline",
-    "since": 1771964380143,
+    "status": "online",
+    "since": 1772008108909,
     "first_seen": 1771904259023
   },
   "xeon2676": {
@@ -340,13 +340,13 @@
     "first_seen": 1771909942902
   },
   "xeonR5": {
-    "status": "offline",
-    "since": 1772005069738,
+    "status": "online",
+    "since": 1772008108909,
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1771996579072,
+    "status": "offline",
+    "since": 1772008108909,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -505,8 +505,8 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "offline",
-    "since": 1771955167369,
+    "status": "online",
+    "since": 1772008108909,
     "first_seen": 1771951499378
   },
   "2112026t4": {
