@@ -32,16 +32,16 @@
     "since": 1772127919610
   },
   "i711": {
-    "status": "offline",
-    "since": 1772123907472
+    "status": "online",
+    "since": 1772130771171
   },
   "i7118": {
     "status": "online",
     "since": 1772127919610
   },
   "i7pubg": {
-    "status": "online",
-    "since": 1772076874941
+    "status": "offline",
+    "since": 1772130771171
   },
   "i929k": {
     "status": "online",
@@ -80,8 +80,8 @@
     "since": 1772101563109
   },
   "toolAL23-2-2026": {
-    "status": "online",
-    "since": 1772105043530
+    "status": "offline",
+    "since": 1772130771171
   },
   "utral9": {
     "status": "online",
@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1772042537054,
+    "status": "offline",
+    "since": 1772130771171,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1772107358055,
+    "status": "offline",
+    "since": 1772130771171,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1772113352656,
+    "status": "offline",
+    "since": 1772130771171,
     "first_seen": 1771947443714
   },
   "i512500": {
