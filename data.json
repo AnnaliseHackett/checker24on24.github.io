@@ -12,8 +12,8 @@
     "since": 1772094357856
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1772086463387
+    "status": "online",
+    "since": 1772098029329
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -180,13 +180,13 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1772076874941,
+    "status": "offline",
+    "since": 1772098029329,
     "first_seen": 1771894415726
   },
   "ps4": {
-    "status": "online",
-    "since": 1772067261114,
+    "status": "offline",
+    "since": 1772098029329,
     "first_seen": 1771894415726
   },
   "xeon2686": {
@@ -250,8 +250,8 @@
     "first_seen": 1771904259023
   },
   "i7128": {
-    "status": "online",
-    "since": 1772091016863,
+    "status": "offline",
+    "since": 1772098029329,
     "first_seen": 1771904259023
   },
   "i720m": {
@@ -340,8 +340,8 @@
     "first_seen": 1771909942902
   },
   "xeonR5": {
-    "status": "online",
-    "since": 1772094357856,
+    "status": "offline",
+    "since": 1772098029329,
     "first_seen": 1771909942902
   },
   "VM": {
@@ -485,8 +485,8 @@
     "first_seen": 1771943661252
   },
   "opengl": {
-    "status": "offline",
-    "since": 1772094357856,
+    "status": "online",
+    "since": 1772098029329,
     "first_seen": 1771943661252
   },
   "xeonSL": {
@@ -515,13 +515,13 @@
     "first_seen": 1771990967353
   },
   "i512adobe": {
-    "status": "offline",
-    "since": 1772091016863,
+    "status": "online",
+    "since": 1772098029329,
     "first_seen": 1771990967353
   },
   "xeonGPU": {
-    "status": "offline",
-    "since": 1772094357856,
+    "status": "online",
+    "since": 1772098029329,
     "first_seen": 1771990967353
   },
   "amd5": {
@@ -545,8 +545,8 @@
     "first_seen": 1772026925768
   },
   "xeon20": {
-    "status": "online",
-    "since": 1772091016863,
+    "status": "offline",
+    "since": 1772098029329,
     "first_seen": 1772026925768
   },
   "xeon528": {
