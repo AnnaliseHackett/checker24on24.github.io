@@ -16,8 +16,8 @@
     "since": 1772134215543
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1772139283144
+    "status": "offline",
+    "since": 1772148937271
   },
   "bluestack": {
     "status": "offline",
@@ -36,8 +36,8 @@
     "since": 1772136378043
   },
   "i7118": {
-    "status": "online",
-    "since": 1772127919610
+    "status": "offline",
+    "since": 1772148937271
   },
   "i7pubg": {
     "status": "offline",
@@ -84,8 +84,8 @@
     "since": 1772130771171
   },
   "utral9": {
-    "status": "offline",
-    "since": 1772134215543
+    "status": "online",
+    "since": 1772148937271
   },
   "x": {
     "status": "online",
@@ -350,8 +350,8 @@
     "first_seen": 1771913721773
   },
   "nguye": {
-    "status": "offline",
-    "since": 1772123907472,
+    "status": "online",
+    "since": 1772148937271,
     "first_seen": 1771918204510
   },
   "thinkbad": {
