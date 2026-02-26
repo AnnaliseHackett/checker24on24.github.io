@@ -68,8 +68,8 @@
     "since": 1772052463881
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1772134215543
+    "status": "offline",
+    "since": 1772141853927
   },
   "tool1-2-2026": {
     "status": "online",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1772113352656
+    "status": "online",
+    "since": 1772141853927
   },
   "XEON8H": {
     "status": "offline",
@@ -128,8 +128,8 @@
     "since": 1771878468475
   },
   "i516p": {
-    "status": "offline",
-    "since": 1772139283144
+    "status": "online",
+    "since": 1772141853927
   },
   "i72028": {
     "status": "offline",
@@ -365,8 +365,8 @@
     "first_seen": 1771918204510
   },
   "xeonSHOPPE": {
-    "status": "offline",
-    "since": 1772136378043,
+    "status": "online",
+    "since": 1772141853927,
     "first_seen": 1771918204510
   },
   "L": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "offline",
-    "since": 1771996579072,
+    "status": "online",
+    "since": 1772141853927,
     "first_seen": 1771990967353
   },
   "i512adobe": {
