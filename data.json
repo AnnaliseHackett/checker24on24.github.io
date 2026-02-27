@@ -1,7 +1,7 @@
 {
   "15h": {
-    "status": "offline",
-    "since": 1772174018006
+    "status": "online",
+    "since": 1772193272578
   },
   "20CN": {
     "status": "online",
@@ -32,8 +32,8 @@
     "since": 1772170723982
   },
   "i711": {
-    "status": "online",
-    "since": 1772182755577
+    "status": "offline",
+    "since": 1772193272578
   },
   "i7118": {
     "status": "online",
@@ -80,8 +80,8 @@
     "since": 1772146327589
   },
   "toolAL23-2-2026": {
-    "status": "online",
-    "since": 1772160502701
+    "status": "offline",
+    "since": 1772193272578
   },
   "utral9": {
     "status": "online",
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "online",
-    "since": 1772160502701,
+    "status": "offline",
+    "since": 1772193272578,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -290,8 +290,8 @@
     "first_seen": 1771904259023
   },
   "sll": {
-    "status": "online",
-    "since": 1772186144738,
+    "status": "offline",
+    "since": 1772193272578,
     "first_seen": 1771904259023
   },
   "tool16": {
@@ -340,8 +340,8 @@
     "first_seen": 1771909942902
   },
   "xeonR5": {
-    "status": "online",
-    "since": 1772186144738,
+    "status": "offline",
+    "since": 1772193272578,
     "first_seen": 1771909942902
   },
   "VM": {
@@ -395,8 +395,8 @@
     "first_seen": 1771924014596
   },
   "0x8": {
-    "status": "online",
-    "since": 1772191382954,
+    "status": "offline",
+    "since": 1772193272578,
     "first_seen": 1771927690320
   },
   "xeon3672": {
@@ -535,8 +535,8 @@
     "first_seen": 1772015605036
   },
   "09799": {
-    "status": "offline",
-    "since": 1772034326495,
+    "status": "online",
+    "since": 1772193272578,
     "first_seen": 1772026925768
   },
   "laptop": {
