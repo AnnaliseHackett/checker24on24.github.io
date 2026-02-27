@@ -8,12 +8,12 @@
     "since": 1771869452421
   },
   "3672xeon": {
-    "status": "offline",
-    "since": 1772182755577
+    "status": "online",
+    "since": 1772201190921
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1772134215543
+    "status": "online",
+    "since": 1772201190921
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -36,12 +36,12 @@
     "since": 1772193272578
   },
   "i7118": {
-    "status": "online",
-    "since": 1772191382954
+    "status": "offline",
+    "since": 1772201190921
   },
   "i7pubg": {
-    "status": "offline",
-    "since": 1772177543590
+    "status": "online",
+    "since": 1772201190921
   },
   "i929k": {
     "status": "online",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "online",
-    "since": 1772189316714
+    "status": "offline",
+    "since": 1772201190921
   },
   "XEON8H": {
     "status": "offline",
@@ -145,8 +145,8 @@
     "first_seen": 1771872177555
   },
   "hieu": {
-    "status": "offline",
-    "since": 1772005069738,
+    "status": "online",
+    "since": 1772201190921,
     "first_seen": 1771884332768
   },
   "i93224": {
@@ -165,8 +165,8 @@
     "first_seen": 1771890094719
   },
   "cftmon": {
-    "status": "offline",
-    "since": 1772197809994,
+    "status": "online",
+    "since": 1772201190921,
     "first_seen": 1771894415726
   },
   "excel": {
@@ -240,8 +240,8 @@
     "first_seen": 1771904259023
   },
   "i7120": {
-    "status": "online",
-    "since": 1772182755577,
+    "status": "offline",
+    "since": 1772201190921,
     "first_seen": 1771904259023
   },
   "i7127k": {
@@ -295,8 +295,8 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "offline",
-    "since": 1772179582581,
+    "status": "online",
+    "since": 1772201190921,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -330,8 +330,8 @@
     "first_seen": 1771909942902
   },
   "i7update": {
-    "status": "online",
-    "since": 1772170723982,
+    "status": "offline",
+    "since": 1772201190921,
     "first_seen": 1771909942902
   },
   "xeon24louis": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1772197809994,
+    "status": "offline",
+    "since": 1772201190921,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -375,13 +375,13 @@
     "first_seen": 1771920460571
   },
   "amthanh": {
-    "status": "offline",
-    "since": 1772116732672,
+    "status": "online",
+    "since": 1772201190921,
     "first_seen": 1771924014596
   },
   "DMU": {
-    "status": "online",
-    "since": 1772197809994,
+    "status": "offline",
+    "since": 1772201190921,
     "first_seen": 1771924014596
   },
   "manghinhL": {
@@ -395,8 +395,8 @@
     "first_seen": 1771924014596
   },
   "0x8": {
-    "status": "offline",
-    "since": 1772193272578,
+    "status": "online",
+    "since": 1772201190921,
     "first_seen": 1771927690320
   },
   "xeon3672": {
@@ -470,13 +470,13 @@
     "first_seen": 1771939283101
   },
   "kataa": {
-    "status": "offline",
-    "since": 1772123907472,
+    "status": "online",
+    "since": 1772201190921,
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1772197809994,
+    "status": "online",
+    "since": 1772201190921,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "offline",
-    "since": 1772160502701,
+    "status": "online",
+    "since": 1772201190921,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -535,8 +535,8 @@
     "first_seen": 1772015605036
   },
   "09799": {
-    "status": "online",
-    "since": 1772193272578,
+    "status": "offline",
+    "since": 1772201190921,
     "first_seen": 1772026925768
   },
   "laptop": {
@@ -550,8 +550,8 @@
     "first_seen": 1772026925768
   },
   "xeon528": {
-    "status": "online",
-    "since": 1772170723982,
+    "status": "offline",
+    "since": 1772201190921,
     "first_seen": 1772026925768
   },
   "12thsql": {
@@ -620,8 +620,13 @@
     "first_seen": 1772120207512
   },
   "xeongG": {
-    "status": "online",
-    "since": 1772197809994,
+    "status": "offline",
+    "since": 1772201190921,
     "first_seen": 1772197809994
+  },
+  "xmsi": {
+    "status": "online",
+    "since": 1772201190921,
+    "first_seen": 1772201190921
   }
 }
