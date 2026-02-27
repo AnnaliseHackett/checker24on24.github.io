@@ -36,8 +36,8 @@
     "since": 1772222378907
   },
   "i7118": {
-    "status": "online",
-    "since": 1772218383298
+    "status": "offline",
+    "since": 1772224780566
   },
   "i7pubg": {
     "status": "offline",
@@ -625,8 +625,8 @@
     "first_seen": 1772197809994
   },
   "xmsi": {
-    "status": "online",
-    "since": 1772218383298,
+    "status": "offline",
+    "since": 1772224780566,
     "first_seen": 1772201190921
   },
   "ooo": {
