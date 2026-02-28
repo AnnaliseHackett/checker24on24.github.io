@@ -32,8 +32,8 @@
     "since": 1772251642509
   },
   "i711": {
-    "status": "offline",
-    "since": 1772262041732
+    "status": "online",
+    "since": 1772277851148
   },
   "i7118": {
     "status": "offline",
@@ -335,8 +335,8 @@
     "first_seen": 1771909942902
   },
   "xeon24louis": {
-    "status": "online",
-    "since": 1772274533780,
+    "status": "offline",
+    "since": 1772277851148,
     "first_seen": 1771909942902
   },
   "xeonR5": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "offline",
-    "since": 1772275899728,
+    "status": "online",
+    "since": 1772277851148,
     "first_seen": 1771918204510
   },
   "w": {
@@ -470,8 +470,8 @@
     "first_seen": 1771939283101
   },
   "kataa": {
-    "status": "offline",
-    "since": 1772211900941,
+    "status": "online",
+    "since": 1772277851148,
     "first_seen": 1771939283101
   },
   "dell1": {
@@ -525,8 +525,8 @@
     "first_seen": 1771990967353
   },
   "amd5": {
-    "status": "online",
-    "since": 1772271350120,
+    "status": "offline",
+    "since": 1772277851148,
     "first_seen": 1772011924609
   },
   "xeon2696v2": {
@@ -545,8 +545,8 @@
     "first_seen": 1772026925768
   },
   "xeon20": {
-    "status": "offline",
-    "since": 1772265281559,
+    "status": "online",
+    "since": 1772277851148,
     "first_seen": 1772026925768
   },
   "xeon528": {
