@@ -1,7 +1,7 @@
 {
   "15h": {
-    "status": "online",
-    "since": 1772271350120
+    "status": "offline",
+    "since": 1772304008013
   },
   "20CN": {
     "status": "online",
@@ -12,8 +12,8 @@
     "since": 1772294415155
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1772301157277
+    "status": "offline",
+    "since": 1772304008013
   },
   "AMZ9HX32": {
     "status": "online",
@@ -32,8 +32,8 @@
     "since": 1772251642509
   },
   "i711": {
-    "status": "online",
-    "since": 1772290485395
+    "status": "offline",
+    "since": 1772304008013
   },
   "i7118": {
     "status": "online",
@@ -132,8 +132,8 @@
     "since": 1772292494668
   },
   "i72028": {
-    "status": "online",
-    "since": 1772298029708
+    "status": "offline",
+    "since": 1772304008013
   },
   "xeonYEU": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1772233303540,
+    "status": "offline",
+    "since": 1772304008013,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -165,8 +165,8 @@
     "first_seen": 1771890094719
   },
   "cftmon": {
-    "status": "online",
-    "since": 1772289406654,
+    "status": "offline",
+    "since": 1772304008013,
     "first_seen": 1771894415726
   },
   "excel": {
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "online",
-    "since": 1772301157277,
+    "status": "offline",
+    "since": 1772304008013,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -370,13 +370,13 @@
     "first_seen": 1771918204510
   },
   "L": {
-    "status": "online",
-    "since": 1772287265864,
+    "status": "offline",
+    "since": 1772304008013,
     "first_seen": 1771920460571
   },
   "amthanh": {
-    "status": "online",
-    "since": 1772292494668,
+    "status": "offline",
+    "since": 1772304008013,
     "first_seen": 1771924014596
   },
   "DMU": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "offline",
-    "since": 1772296829126,
+    "status": "online",
+    "since": 1772304008013,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1772290485395,
+    "status": "offline",
+    "since": 1772304008013,
     "first_seen": 1771947443714
   },
   "i512500": {
