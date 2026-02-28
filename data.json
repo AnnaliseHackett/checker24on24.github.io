@@ -230,8 +230,8 @@
     "first_seen": 1771904259023
   },
   "f15wifi": {
-    "status": "online",
-    "since": 1772286428339,
+    "status": "offline",
+    "since": 1772287265864,
     "first_seen": 1771904259023
   },
   "i5D": {
@@ -370,8 +370,8 @@
     "first_seen": 1771918204510
   },
   "L": {
-    "status": "offline",
-    "since": 1772283811236,
+    "status": "online",
+    "since": 1772287265864,
     "first_seen": 1771920460571
   },
   "amthanh": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1772279020730,
+    "status": "online",
+    "since": 1772287265864,
     "first_seen": 1771931250125
   },
   "pc": {
