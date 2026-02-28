@@ -165,8 +165,8 @@
     "first_seen": 1771890094719
   },
   "cftmon": {
-    "status": "online",
-    "since": 1772251642509,
+    "status": "offline",
+    "since": 1772279020730,
     "first_seen": 1771894415726
   },
   "excel": {
@@ -190,8 +190,8 @@
     "first_seen": 1771894415726
   },
   "xeon2686": {
-    "status": "online",
-    "since": 1772245639893,
+    "status": "offline",
+    "since": 1772279020730,
     "first_seen": 1771894415726
   },
   "xeon72pm": {
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "online",
-    "since": 1772245639893,
+    "status": "offline",
+    "since": 1772279020730,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1772274533780,
+    "status": "offline",
+    "since": 1772279020730,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -450,8 +450,8 @@
     "first_seen": 1771934133329
   },
   "xeonutra": {
-    "status": "online",
-    "since": 1772271350120,
+    "status": "offline",
+    "since": 1772279020730,
     "first_seen": 1771934133329
   },
   "+1": {
@@ -490,8 +490,8 @@
     "first_seen": 1771943661252
   },
   "xeonSL": {
-    "status": "offline",
-    "since": 1772207291773,
+    "status": "online",
+    "since": 1772279020730,
     "first_seen": 1771943661252
   },
   "mua5": {
@@ -555,8 +555,8 @@
     "first_seen": 1772026925768
   },
   "12thsql": {
-    "status": "online",
-    "since": 1772267754503,
+    "status": "offline",
+    "since": 1772279020730,
     "first_seen": 1772030425253
   },
   "baroi": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "offline",
-    "since": 1772245639893,
+    "status": "online",
+    "since": 1772279020730,
     "first_seen": 1772105043530
   },
   "driver2": {
