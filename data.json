@@ -8,12 +8,12 @@
     "since": 1771869452421
   },
   "3672xeon": {
-    "status": "offline",
-    "since": 1772289406654
+    "status": "online",
+    "since": 1772294415155
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1772289406654
+    "status": "online",
+    "since": 1772294415155
   },
   "AMZ9HX32": {
     "status": "online",
@@ -80,8 +80,8 @@
     "since": 1772289406654
   },
   "toolAL23-2-2026": {
-    "status": "online",
-    "since": 1772245639893
+    "status": "offline",
+    "since": 1772294415155
   },
   "utral9": {
     "status": "online",
@@ -270,8 +270,8 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "online",
-    "since": 1772262041732,
+    "status": "offline",
+    "since": 1772294415155,
     "first_seen": 1771904259023
   },
   "MD5": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1772292494668,
+    "status": "online",
+    "since": 1772294415155,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1772274533780,
+    "status": "offline",
+    "since": 1772294415155,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1772257697737,
+    "status": "offline",
+    "since": 1772294415155,
     "first_seen": 1772218383298
   },
   "xeon2670": {
