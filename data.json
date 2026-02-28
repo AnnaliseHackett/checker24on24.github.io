@@ -68,8 +68,8 @@
     "since": 1772309699447
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1772300032274
+    "status": "offline",
+    "since": 1772317708062
   },
   "tool1-2-2026": {
     "status": "online",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1772289406654
+    "status": "online",
+    "since": 1772317708062
   },
   "XEON8H": {
     "status": "offline",
