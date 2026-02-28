@@ -16,8 +16,8 @@
     "since": 1772304008013
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1772286428339
+    "status": "offline",
+    "since": 1772305790372
   },
   "bluestack": {
     "status": "online",
@@ -36,8 +36,8 @@
     "since": 1772304008013
   },
   "i7118": {
-    "status": "online",
-    "since": 1772283811236
+    "status": "offline",
+    "since": 1772305790372
   },
   "i7pubg": {
     "status": "online",
@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "offline",
-    "since": 1772271350120
+    "status": "online",
+    "since": 1772305790372
   },
   "spacemarine": {
     "status": "online",
@@ -350,8 +350,8 @@
     "first_seen": 1771913721773
   },
   "nguye": {
-    "status": "online",
-    "since": 1772296829126,
+    "status": "offline",
+    "since": 1772305790372,
     "first_seen": 1771918204510
   },
   "thinkbad": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1772272438371,
+    "status": "offline",
+    "since": 1772305790372,
     "first_seen": 1771934133329
   },
   "meo": {
