@@ -12,8 +12,8 @@
     "since": 1772257697737
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1772251642509
+    "status": "offline",
+    "since": 1772259592095
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -128,8 +128,8 @@
     "since": 1771878468475
   },
   "i516p": {
-    "status": "online",
-    "since": 1772245639893
+    "status": "offline",
+    "since": 1772259592095
   },
   "i72028": {
     "status": "offline",
@@ -170,13 +170,13 @@
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "offline",
-    "since": 1772255031039,
+    "status": "online",
+    "since": 1772259592095,
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1772257697737,
+    "status": "online",
+    "since": 1772259592095,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -220,8 +220,8 @@
     "first_seen": 1771904259023
   },
   "dell8": {
-    "status": "offline",
-    "since": 1772257697737,
+    "status": "online",
+    "since": 1772259592095,
     "first_seen": 1771904259023
   },
   "driveGG": {
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "offline",
-    "since": 1772204263223,
+    "status": "online",
+    "since": 1772259592095,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "offline",
-    "since": 1772251642509,
+    "status": "online",
+    "since": 1772259592095,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "offline",
-    "since": 1772257697737,
+    "status": "online",
+    "since": 1772259592095,
     "first_seen": 1771918204510
   },
   "w": {
@@ -370,8 +370,8 @@
     "first_seen": 1771918204510
   },
   "L": {
-    "status": "offline",
-    "since": 1772255031039,
+    "status": "online",
+    "since": 1772259592095,
     "first_seen": 1771920460571
   },
   "amthanh": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1772255031039,
+    "status": "offline",
+    "since": 1772259592095,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1772251642509,
+    "status": "offline",
+    "since": 1772259592095,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -545,8 +545,8 @@
     "first_seen": 1772026925768
   },
   "xeon20": {
-    "status": "online",
-    "since": 1772251642509,
+    "status": "offline",
+    "since": 1772259592095,
     "first_seen": 1772026925768
   },
   "xeon528": {
