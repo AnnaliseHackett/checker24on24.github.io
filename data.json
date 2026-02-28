@@ -24,8 +24,8 @@
     "since": 1772251642509
   },
   "i5125": {
-    "status": "online",
-    "since": 1772298029708
+    "status": "offline",
+    "since": 1772308178767
   },
   "i5kf20": {
     "status": "online",
@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1772305790372
+    "status": "offline",
+    "since": 1772308178767
   },
   "spacemarine": {
     "status": "online",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1772290485395,
+    "status": "offline",
+    "since": 1772308178767,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1772289406654,
+    "status": "offline",
+    "since": 1772308178767,
     "first_seen": 1771913721773
   },
   "nguye": {
