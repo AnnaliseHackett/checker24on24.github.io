@@ -24,8 +24,8 @@
     "since": 1772251642509
   },
   "i5125": {
-    "status": "offline",
-    "since": 1772292494668
+    "status": "online",
+    "since": 1772293682570
   },
   "i5kf20": {
     "status": "online",
@@ -52,8 +52,8 @@
     "since": 1772255031039
   },
   "i9pokemon": {
-    "status": "online",
-    "since": 1772113352656
+    "status": "offline",
+    "since": 1772293682570
   },
   "loginfailed": {
     "status": "offline",
@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1772264245014,
+    "status": "offline",
+    "since": 1772293682570,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -330,13 +330,13 @@
     "first_seen": 1771909942902
   },
   "i7update": {
-    "status": "online",
-    "since": 1772255031039,
+    "status": "offline",
+    "since": 1772293682570,
     "first_seen": 1771909942902
   },
   "xeon24louis": {
-    "status": "offline",
-    "since": 1772277851148,
+    "status": "online",
+    "since": 1772293682570,
     "first_seen": 1771909942902
   },
   "xeonR5": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1772283811236,
+    "status": "offline",
+    "since": 1772293682570,
     "first_seen": 1771918204510
   },
   "w": {
@@ -525,13 +525,13 @@
     "first_seen": 1771990967353
   },
   "amd5": {
-    "status": "online",
-    "since": 1772290485395,
+    "status": "offline",
+    "since": 1772293682570,
     "first_seen": 1772011924609
   },
   "xeon2696v2": {
-    "status": "online",
-    "since": 1772286428339,
+    "status": "offline",
+    "since": 1772293682570,
     "first_seen": 1772015605036
   },
   "09799": {
@@ -650,8 +650,8 @@
     "first_seen": 1772269114612
   },
   "RX6600": {
-    "status": "online",
-    "since": 1772283811236,
+    "status": "offline",
+    "since": 1772293682570,
     "first_seen": 1772274533780
   },
   "i71818": {
