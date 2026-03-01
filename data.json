@@ -16,8 +16,8 @@
     "since": 1772393960665
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1772398578138
+    "status": "offline",
+    "since": 1772407774622
   },
   "bluestack": {
     "status": "offline",
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1772341680947,
+    "status": "online",
+    "since": 1772407774622,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "offline",
-    "since": 1771924014596,
+    "status": "online",
+    "since": 1772407774622,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -390,13 +390,13 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1772384233331,
+    "status": "offline",
+    "since": 1772407774622,
     "first_seen": 1771924014596
   },
   "0x8": {
-    "status": "online",
-    "since": 1772401973621,
+    "status": "offline",
+    "since": 1772407774622,
     "first_seen": 1771927690320
   },
   "xeon3672": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1772382909467,
+    "status": "online",
+    "since": 1772407774622,
     "first_seen": 1771931250125
   },
   "pc": {
