@@ -1,7 +1,7 @@
 {
   "15h": {
-    "status": "online",
-    "since": 1772372732441
+    "status": "offline",
+    "since": 1772390452999
   },
   "20CN": {
     "status": "online",
@@ -80,8 +80,8 @@
     "since": 1772296829126
   },
   "toolAL23-2-2026": {
-    "status": "online",
-    "since": 1772358451181
+    "status": "offline",
+    "since": 1772390452999
   },
   "utral9": {
     "status": "offline",
@@ -132,8 +132,8 @@
     "since": 1772292494668
   },
   "i72028": {
-    "status": "online",
-    "since": 1772382909467
+    "status": "offline",
+    "since": 1772390452999
   },
   "xeonYEU": {
     "status": "offline",
@@ -165,8 +165,8 @@
     "first_seen": 1771890094719
   },
   "cftmon": {
-    "status": "online",
-    "since": 1772377040134,
+    "status": "offline",
+    "since": 1772390452999,
     "first_seen": 1771894415726
   },
   "excel": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1772375925434,
+    "status": "offline",
+    "since": 1772390452999,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1772382909467,
+    "status": "offline",
+    "since": 1772390452999,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -250,8 +250,8 @@
     "first_seen": 1771904259023
   },
   "i7128": {
-    "status": "online",
-    "since": 1772382909467,
+    "status": "offline",
+    "since": 1772390452999,
     "first_seen": 1771904259023
   },
   "i720m": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1772341680947,
+    "status": "offline",
+    "since": 1772390452999,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -485,8 +485,8 @@
     "first_seen": 1771943661252
   },
   "opengl": {
-    "status": "online",
-    "since": 1772386277388,
+    "status": "offline",
+    "since": 1772390452999,
     "first_seen": 1771943661252
   },
   "xeonSL": {
@@ -505,8 +505,8 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "online",
-    "since": 1772384233331,
+    "status": "offline",
+    "since": 1772390452999,
     "first_seen": 1771951499378
   },
   "2112026t4": {
@@ -678,5 +678,10 @@
     "status": "offline",
     "since": 1772379161526,
     "first_seen": 1772377040134
+  },
+  "xeonDell": {
+    "status": "online",
+    "since": 1772390452999,
+    "first_seen": 1772390452999
   }
 }
