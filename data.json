@@ -36,8 +36,8 @@
     "since": 1772393960665
   },
   "i7118": {
-    "status": "online",
-    "since": 1772354786276
+    "status": "offline",
+    "since": 1772397200998
   },
   "i7pubg": {
     "status": "online",
@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "offline",
-    "since": 1772361756089
+    "status": "online",
+    "since": 1772397200998
   },
   "spacemarine": {
     "status": "online",
@@ -445,8 +445,8 @@
     "first_seen": 1771934133329
   },
   "meo": {
-    "status": "online",
-    "since": 1772379161526,
+    "status": "offline",
+    "since": 1772397200998,
     "first_seen": 1771934133329
   },
   "xeonutra": {
