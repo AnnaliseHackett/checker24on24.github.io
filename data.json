@@ -8,8 +8,8 @@
     "since": 1771869452421
   },
   "3672xeon": {
-    "status": "online",
-    "since": 1772294415155
+    "status": "offline",
+    "since": 1772401973621
   },
   "amz7profile": {
     "status": "offline",
@@ -395,8 +395,8 @@
     "first_seen": 1771924014596
   },
   "0x8": {
-    "status": "offline",
-    "since": 1772375925434,
+    "status": "online",
+    "since": 1772401973621,
     "first_seen": 1771927690320
   },
   "xeon3672": {
