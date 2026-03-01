@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1772373765227
+    "status": "online",
+    "since": 1772404185751
   },
   "XEON8H": {
     "status": "offline",
@@ -215,13 +215,13 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1772392279717,
+    "status": "offline",
+    "since": 1772404185751,
     "first_seen": 1771904259023
   },
   "dell8": {
-    "status": "offline",
-    "since": 1772377040134,
+    "status": "online",
+    "since": 1772404185751,
     "first_seen": 1771904259023
   },
   "driveGG": {
