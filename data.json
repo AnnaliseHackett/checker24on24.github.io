@@ -12,16 +12,16 @@
     "since": 1772294415155
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1772392279717
+    "status": "offline",
+    "since": 1772393960665
   },
   "AMZ9HX32": {
     "status": "offline",
     "since": 1772386277388
   },
   "bluestack": {
-    "status": "online",
-    "since": 1772335218375
+    "status": "offline",
+    "since": 1772393960665
   },
   "i5125": {
     "status": "online",
@@ -32,8 +32,8 @@
     "since": 1772382909467
   },
   "i711": {
-    "status": "online",
-    "since": 1772373765227
+    "status": "offline",
+    "since": 1772393960665
   },
   "i7118": {
     "status": "online",
@@ -68,8 +68,8 @@
     "since": 1772361756089
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1772369956501
+    "status": "online",
+    "since": 1772393960665
   },
   "tool1-2-2026": {
     "status": "online",
