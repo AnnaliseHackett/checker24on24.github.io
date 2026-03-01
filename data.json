@@ -1,7 +1,7 @@
 {
   "15h": {
-    "status": "offline",
-    "since": 1772362825856
+    "status": "online",
+    "since": 1772372732441
   },
   "20CN": {
     "status": "online",
@@ -40,8 +40,8 @@
     "since": 1772354786276
   },
   "i7pubg": {
-    "status": "offline",
-    "since": 1772341680947
+    "status": "online",
+    "since": 1772372732441
   },
   "i929k": {
     "status": "online",
@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "offline",
-    "since": 1772369956501,
+    "status": "online",
+    "since": 1772372732441,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -220,8 +220,8 @@
     "first_seen": 1771904259023
   },
   "dell8": {
-    "status": "offline",
-    "since": 1772262041732,
+    "status": "online",
+    "since": 1772372732441,
     "first_seen": 1771904259023
   },
   "driveGG": {
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "online",
-    "since": 1772365893735,
+    "status": "offline",
+    "since": 1772372732441,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "online",
-    "since": 1772369956501,
+    "status": "offline",
+    "since": 1772372732441,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1772362825856,
+    "status": "offline",
+    "since": 1772372732441,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -525,8 +525,8 @@
     "first_seen": 1771990967353
   },
   "amd5": {
-    "status": "offline",
-    "since": 1772341680947,
+    "status": "online",
+    "since": 1772372732441,
     "first_seen": 1772011924609
   },
   "xeon2696v2": {
@@ -545,8 +545,8 @@
     "first_seen": 1772026925768
   },
   "xeon20": {
-    "status": "offline",
-    "since": 1772356594785,
+    "status": "online",
+    "since": 1772372732441,
     "first_seen": 1772026925768
   },
   "xeon528": {
@@ -625,8 +625,8 @@
     "first_seen": 1772197809994
   },
   "xmsi": {
-    "status": "online",
-    "since": 1772369956501,
+    "status": "offline",
+    "since": 1772372732441,
     "first_seen": 1772201190921
   },
   "ooo": {
