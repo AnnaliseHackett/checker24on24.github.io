@@ -12,8 +12,8 @@
     "since": 1772294415155
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1772375925434
+    "status": "offline",
+    "since": 1772377040134
   },
   "AMZ9HX32": {
     "status": "online",
@@ -165,8 +165,8 @@
     "first_seen": 1771890094719
   },
   "cftmon": {
-    "status": "offline",
-    "since": 1772361756089,
+    "status": "online",
+    "since": 1772377040134,
     "first_seen": 1771894415726
   },
   "excel": {
@@ -220,8 +220,8 @@
     "first_seen": 1771904259023
   },
   "dell8": {
-    "status": "online",
-    "since": 1772372732441,
+    "status": "offline",
+    "since": 1772377040134,
     "first_seen": 1771904259023
   },
   "driveGG": {
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "offline",
-    "since": 1772372732441,
+    "status": "online",
+    "since": 1772377040134,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1772361756089,
+    "status": "online",
+    "since": 1772377040134,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -460,8 +460,8 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "offline",
-    "since": 1772264245014,
+    "status": "online",
+    "since": 1772377040134,
     "first_seen": 1771939283101
   },
   "i5kkey": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "offline",
-    "since": 1772296829126,
+    "status": "online",
+    "since": 1772377040134,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -565,8 +565,8 @@
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "online",
-    "since": 1772352051875,
+    "status": "offline",
+    "since": 1772377040134,
     "first_seen": 1772076874941
   },
   "i728p": {
@@ -668,5 +668,15 @@
     "status": "offline",
     "since": 1772351143313,
     "first_seen": 1772341680947
+  },
+  "i5144a": {
+    "status": "online",
+    "since": 1772377040134,
+    "first_seen": 1772377040134
+  },
+  "i5k": {
+    "status": "online",
+    "since": 1772377040134,
+    "first_seen": 1772377040134
   }
 }
