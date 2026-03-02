@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1772465093234
+    "status": "online",
+    "since": 1772491835377
   },
   "XEON8H": {
     "status": "offline",
@@ -155,8 +155,8 @@
     "first_seen": 1771887545391
   },
   "xeon80v1": {
-    "status": "offline",
-    "since": 1772474286745,
+    "status": "online",
+    "since": 1772491835377,
     "first_seen": 1771887545391
   },
   "nhungoc": {
