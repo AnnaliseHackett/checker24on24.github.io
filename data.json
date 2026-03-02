@@ -8,8 +8,8 @@
     "since": 1771869452421
   },
   "3672xeon": {
-    "status": "online",
-    "since": 1772465093234
+    "status": "offline",
+    "since": 1772478112327
   },
   "amz7profile": {
     "status": "offline",
@@ -40,8 +40,8 @@
     "since": 1772446108119
   },
   "i7pubg": {
-    "status": "online",
-    "since": 1772458884603
+    "status": "offline",
+    "since": 1772478112327
   },
   "i929k": {
     "status": "online",
@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1772465093234,
+    "status": "offline",
+    "since": 1772478112327,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1772471102508,
+    "status": "online",
+    "since": 1772478112327,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -625,8 +625,8 @@
     "first_seen": 1772197809994
   },
   "xmsi": {
-    "status": "online",
-    "since": 1772471102508,
+    "status": "offline",
+    "since": 1772478112327,
     "first_seen": 1772201190921
   },
   "ooo": {
