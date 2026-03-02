@@ -12,8 +12,8 @@
     "since": 1772429917906
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1772393960665
+    "status": "online",
+    "since": 1772437053482
   },
   "AMZ9HX32": {
     "status": "online",
@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "offline",
-    "since": 1772429917906,
+    "status": "online",
+    "since": 1772437053482,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1772429917906,
+    "status": "online",
+    "since": 1772437053482,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1772433456120,
+    "status": "offline",
+    "since": 1772437053482,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -265,8 +265,8 @@
     "first_seen": 1771904259023
   },
   "i7sql": {
-    "status": "offline",
-    "since": 1772429917906,
+    "status": "online",
+    "since": 1772437053482,
     "first_seen": 1771904259023
   },
   "key": {
@@ -280,8 +280,8 @@
     "first_seen": 1771904259023
   },
   "print1": {
-    "status": "offline",
-    "since": 1772429917906,
+    "status": "online",
+    "since": 1772437053482,
     "first_seen": 1771904259023
   },
   "ryzen784u": {
@@ -385,8 +385,8 @@
     "first_seen": 1771924014596
   },
   "manghinhL": {
-    "status": "online",
-    "since": 1772380384215,
+    "status": "offline",
+    "since": 1772437053482,
     "first_seen": 1771924014596
   },
   "ryzen5U": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1772425676985,
+    "status": "offline",
+    "since": 1772437053482,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -515,8 +515,8 @@
     "first_seen": 1771990967353
   },
   "i512adobe": {
-    "status": "online",
-    "since": 1772433456120,
+    "status": "offline",
+    "since": 1772437053482,
     "first_seen": 1771990967353
   },
   "xeonGPU": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "offline",
-    "since": 1772429917906,
+    "status": "online",
+    "since": 1772437053482,
     "first_seen": 1772091016863
   },
   "light": {
@@ -708,5 +708,15 @@
     "status": "offline",
     "since": 1772429917906,
     "first_seen": 1772425676985
+  },
+  "toolLQ": {
+    "status": "online",
+    "since": 1772437053482,
+    "first_seen": 1772437053482
+  },
+  "utra125": {
+    "status": "online",
+    "since": 1772437053482,
+    "first_seen": 1772437053482
   }
 }
