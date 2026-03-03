@@ -16,8 +16,8 @@
     "since": 1772545246897
   },
   "AMZ9HX32": {
-    "status": "offline",
-    "since": 1772449378912
+    "status": "online",
+    "since": 1772558697088
   },
   "bluestack": {
     "status": "online",
@@ -36,8 +36,8 @@
     "since": 1772548393994
   },
   "i7118": {
-    "status": "offline",
-    "since": 1772555245952
+    "status": "online",
+    "since": 1772558697088
   },
   "i7pubg": {
     "status": "online",
@@ -80,8 +80,8 @@
     "since": 1772451849595
   },
   "toolAL23-2-2026": {
-    "status": "online",
-    "since": 1772538061891
+    "status": "offline",
+    "since": 1772558697088
   },
   "utral9": {
     "status": "offline",
@@ -128,8 +128,8 @@
     "since": 1771878468475
   },
   "i516p": {
-    "status": "online",
-    "since": 1772292494668
+    "status": "offline",
+    "since": 1772558697088
   },
   "i72028": {
     "status": "online",
@@ -140,13 +140,13 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1772506376749,
+    "status": "offline",
+    "since": 1772558697088,
     "first_seen": 1771872177555
   },
   "hieu": {
-    "status": "online",
-    "since": 1772545246897,
+    "status": "offline",
+    "since": 1772558697088,
     "first_seen": 1771884332768
   },
   "i93224": {
@@ -155,8 +155,8 @@
     "first_seen": 1771887545391
   },
   "xeon80v1": {
-    "status": "online",
-    "since": 1772491835377,
+    "status": "offline",
+    "since": 1772558697088,
     "first_seen": 1771887545391
   },
   "nhungoc": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1772551908478,
+    "status": "offline",
+    "since": 1772558697088,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -310,8 +310,8 @@
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
-    "status": "online",
-    "since": 1772506376749,
+    "status": "offline",
+    "since": 1772558697088,
     "first_seen": 1771904259023
   },
   "xeon2676": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1772555245952,
+    "status": "offline",
+    "since": 1772558697088,
     "first_seen": 1771918204510
   },
   "w": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1772548393994,
+    "status": "offline",
+    "since": 1772558697088,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -445,8 +445,8 @@
     "first_seen": 1771934133329
   },
   "meo": {
-    "status": "offline",
-    "since": 1772540802545,
+    "status": "online",
+    "since": 1772558697088,
     "first_seen": 1771934133329
   },
   "xeonutra": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1772551908478,
+    "status": "offline",
+    "since": 1772558697088,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -555,8 +555,8 @@
     "first_seen": 1772026925768
   },
   "12thsql": {
-    "status": "offline",
-    "since": 1772526577664,
+    "status": "online",
+    "since": 1772558697088,
     "first_seen": 1772030425253
   },
   "baroi": {
@@ -600,13 +600,13 @@
     "first_seen": 1772113352656
   },
   "1212026": {
-    "status": "online",
-    "since": 1772506376749,
+    "status": "offline",
+    "since": 1772558697088,
     "first_seen": 1772116732672
   },
   "i5ssd": {
-    "status": "online",
-    "since": 1772551908478,
+    "status": "offline",
+    "since": 1772558697088,
     "first_seen": 1772116732672
   },
   "YEU": {
@@ -680,8 +680,8 @@
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "online",
-    "since": 1772548393994,
+    "status": "offline",
+    "since": 1772558697088,
     "first_seen": 1772390452999
   },
   "umt7T": {
