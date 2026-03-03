@@ -295,8 +295,8 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "online",
-    "since": 1772548393994,
+    "status": "offline",
+    "since": 1772561189305,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1772551908478,
+    "status": "offline",
+    "since": 1772561189305,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1772551908478,
+    "status": "offline",
+    "since": 1772561189305,
     "first_seen": 1772034326495
   },
   "xeonv36": {
