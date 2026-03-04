@@ -220,8 +220,8 @@
     "first_seen": 1771904259023
   },
   "dell8": {
-    "status": "offline",
-    "since": 1772624673039,
+    "status": "online",
+    "since": 1772625746307,
     "first_seen": 1771904259023
   },
   "driveGG": {
@@ -395,8 +395,8 @@
     "first_seen": 1771924014596
   },
   "0x8": {
-    "status": "offline",
-    "since": 1772548393994,
+    "status": "online",
+    "since": 1772625746307,
     "first_seen": 1771927690320
   },
   "xeon3672": {
@@ -465,8 +465,8 @@
     "first_seen": 1771939283101
   },
   "i5kkey": {
-    "status": "offline",
-    "since": 1772622235769,
+    "status": "online",
+    "since": 1772625746307,
     "first_seen": 1771939283101
   },
   "kataa": {
@@ -565,8 +565,8 @@
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "offline",
-    "since": 1772548393994,
+    "status": "online",
+    "since": 1772625746307,
     "first_seen": 1772076874941
   },
   "i728p": {
