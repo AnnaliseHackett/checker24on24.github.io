@@ -128,8 +128,8 @@
     "since": 1771878468475
   },
   "i516p": {
-    "status": "online",
-    "since": 1772614448911
+    "status": "offline",
+    "since": 1772646192485
   },
   "i72028": {
     "status": "online",
@@ -155,8 +155,8 @@
     "first_seen": 1771887545391
   },
   "xeon80v1": {
-    "status": "online",
-    "since": 1772578168142,
+    "status": "offline",
+    "since": 1772646192485,
     "first_seen": 1771887545391
   },
   "nhungoc": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1772639673239,
+    "status": "offline",
+    "since": 1772646192485,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -270,8 +270,8 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "online",
-    "since": 1772622235769,
+    "status": "offline",
+    "since": 1772646192485,
     "first_seen": 1771904259023
   },
   "MD5": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1772639673239,
+    "status": "offline",
+    "since": 1772646192485,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1772636313530,
+    "status": "offline",
+    "since": 1772646192485,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1772636313530,
+    "status": "offline",
+    "since": 1772646192485,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -600,8 +600,8 @@
     "first_seen": 1772113352656
   },
   "1212026": {
-    "status": "online",
-    "since": 1772602233002,
+    "status": "offline",
+    "since": 1772646192485,
     "first_seen": 1772116732672
   },
   "i5ssd": {
@@ -680,8 +680,8 @@
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "online",
-    "since": 1772636313530,
+    "status": "offline",
+    "since": 1772646192485,
     "first_seen": 1772390452999
   },
   "umt7T": {
