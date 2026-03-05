@@ -12,8 +12,8 @@
     "since": 1772679096197
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1772697793566
+    "status": "offline",
+    "since": 1772701152429
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -32,8 +32,8 @@
     "since": 1772633392794
   },
   "i711": {
-    "status": "online",
-    "since": 1772695735731
+    "status": "offline",
+    "since": 1772701152429
   },
   "i7118": {
     "status": "offline",
@@ -132,8 +132,8 @@
     "since": 1772697793566
   },
   "i72028": {
-    "status": "online",
-    "since": 1772692330320
+    "status": "offline",
+    "since": 1772701152429
   },
   "xeonYEU": {
     "status": "offline",
@@ -265,8 +265,8 @@
     "first_seen": 1771904259023
   },
   "i7sql": {
-    "status": "online",
-    "since": 1772695735731,
+    "status": "offline",
+    "since": 1772701152429,
     "first_seen": 1771904259023
   },
   "key": {
@@ -290,8 +290,8 @@
     "first_seen": 1771904259023
   },
   "sll": {
-    "status": "online",
-    "since": 1772692330320,
+    "status": "offline",
+    "since": 1772701152429,
     "first_seen": 1771904259023
   },
   "tool16": {
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "offline",
-    "since": 1772689178677,
+    "status": "online",
+    "since": 1772701152429,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1772695735731,
+    "status": "offline",
+    "since": 1772701152429,
     "first_seen": 1771918204510
   },
   "w": {
@@ -435,8 +435,8 @@
     "first_seen": 1771931250125
   },
   "y": {
-    "status": "offline",
-    "since": 1772643272940,
+    "status": "online",
+    "since": 1772701152429,
     "first_seen": 1771931250125
   },
   "i5Te": {
@@ -505,8 +505,8 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "online",
-    "since": 1772695735731,
+    "status": "offline",
+    "since": 1772701152429,
     "first_seen": 1771951499378
   },
   "2112026t4": {
@@ -540,8 +540,8 @@
     "first_seen": 1772026925768
   },
   "laptop": {
-    "status": "offline",
-    "since": 1772692330320,
+    "status": "online",
+    "since": 1772701152429,
     "first_seen": 1772026925768
   },
   "xeon20": {
