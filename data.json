@@ -155,8 +155,8 @@
     "first_seen": 1771887545391
   },
   "xeon80v1": {
-    "status": "offline",
-    "since": 1772732812322,
+    "status": "online",
+    "since": 1772755220063,
     "first_seen": 1771887545391
   },
   "nhungoc": {
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1772692330320,
+    "status": "online",
+    "since": 1772755220063,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -305,8 +305,8 @@
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "offline",
-    "since": 1772717713346,
+    "status": "online",
+    "since": 1772755220063,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -710,8 +710,8 @@
     "first_seen": 1772425676985
   },
   "toolLQ": {
-    "status": "offline",
-    "since": 1772732812322,
+    "status": "online",
+    "since": 1772755220063,
     "first_seen": 1772437053482
   },
   "utra125": {
