@@ -305,8 +305,8 @@
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "offline",
-    "since": 1772901260774,
+    "status": "online",
+    "since": 1772927358632,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -680,8 +680,8 @@
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "offline",
-    "since": 1772909818361,
+    "status": "online",
+    "since": 1772927358632,
     "first_seen": 1772390452999
   },
   "umt7T": {
@@ -808,5 +808,10 @@
     "status": "online",
     "since": 1772915779834,
     "first_seen": 1772895624848
+  },
+  "proxy": {
+    "status": "online",
+    "since": 1772927358632,
+    "first_seen": 1772927358632
   }
 }
