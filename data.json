@@ -24,8 +24,8 @@
     "since": 1772904549247
   },
   "i5125": {
-    "status": "offline",
-    "since": 1772913546412
+    "status": "online",
+    "since": 1772915779834
   },
   "i5kf20": {
     "status": "offline",
@@ -120,8 +120,8 @@
     "since": 1771869452421
   },
   "xeonVPS": {
-    "status": "online",
-    "since": 1772369956501
+    "status": "offline",
+    "since": 1772915779834
   },
   "E3": {
     "status": "offline",
@@ -295,8 +295,8 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "online",
-    "since": 1772907660371,
+    "status": "offline",
+    "since": 1772915779834,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1772913546412,
+    "status": "online",
+    "since": 1772915779834,
     "first_seen": 1772895624848
   }
 }
