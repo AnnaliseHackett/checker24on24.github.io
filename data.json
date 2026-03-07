@@ -128,8 +128,8 @@
     "since": 1771878468475
   },
   "i516p": {
-    "status": "online",
-    "since": 1772892740721
+    "status": "offline",
+    "since": 1772894666196
   },
   "i72028": {
     "status": "offline",
@@ -160,8 +160,8 @@
     "first_seen": 1771887545391
   },
   "nhungoc": {
-    "status": "online",
-    "since": 1772888746231,
+    "status": "offline",
+    "since": 1772894666196,
     "first_seen": 1771890094719
   },
   "cftmon": {
@@ -185,8 +185,8 @@
     "first_seen": 1771894415726
   },
   "ps4": {
-    "status": "offline",
-    "since": 1772636313530,
+    "status": "online",
+    "since": 1772894666196,
     "first_seen": 1771894415726
   },
   "xeon2686": {
@@ -230,8 +230,8 @@
     "first_seen": 1771904259023
   },
   "f15wifi": {
-    "status": "online",
-    "since": 1772891300852,
+    "status": "offline",
+    "since": 1772894666196,
     "first_seen": 1771904259023
   },
   "i5D": {
@@ -330,8 +330,8 @@
     "first_seen": 1771909942902
   },
   "i7update": {
-    "status": "offline",
-    "since": 1772868788234,
+    "status": "online",
+    "since": 1772894666196,
     "first_seen": 1771909942902
   },
   "xeon24louis": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1772888746231,
+    "status": "online",
+    "since": 1772894666196,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -420,8 +420,8 @@
     "first_seen": 1771931250125
   },
   "i7T": {
-    "status": "online",
-    "since": 1772892740721,
+    "status": "offline",
+    "since": 1772894666196,
     "first_seen": 1771931250125
   },
   "msitool": {
@@ -605,8 +605,8 @@
     "first_seen": 1772116732672
   },
   "i5ssd": {
-    "status": "offline",
-    "since": 1772811897961,
+    "status": "online",
+    "since": 1772894666196,
     "first_seen": 1772116732672
   },
   "YEU": {
@@ -650,8 +650,8 @@
     "first_seen": 1772269114612
   },
   "RX6600": {
-    "status": "online",
-    "since": 1772888746231,
+    "status": "offline",
+    "since": 1772894666196,
     "first_seen": 1772274533780
   },
   "i71818": {
