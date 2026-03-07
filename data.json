@@ -16,8 +16,8 @@
     "since": 1772916960515
   },
   "AMZ9HX32": {
-    "status": "offline",
-    "since": 1772911745455
+    "status": "online",
+    "since": 1772918947695
   },
   "bluestack": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1772866218975
+    "status": "online",
+    "since": 1772918947695
   },
   "XEON8H": {
     "status": "offline",
@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1772898807986,
+    "status": "offline",
+    "since": 1772918947695,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -405,8 +405,8 @@
     "first_seen": 1771927690320
   },
   "bacar": {
-    "status": "offline",
-    "since": 1772535504413,
+    "status": "online",
+    "since": 1772918947695,
     "first_seen": 1771931250125
   },
   "DELL": {
