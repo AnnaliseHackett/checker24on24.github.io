@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1772860258093
+    "status": "offline",
+    "since": 1772870094400
   },
   "spacemarine": {
     "status": "online",
@@ -80,8 +80,8 @@
     "since": 1772451849595
   },
   "toolAL23-2-2026": {
-    "status": "online",
-    "since": 1772860258093
+    "status": "offline",
+    "since": 1772870094400
   },
   "utral9": {
     "status": "online",
@@ -215,13 +215,13 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1772856802009,
+    "status": "online",
+    "since": 1772870094400,
     "first_seen": 1771904259023
   },
   "dell8": {
-    "status": "offline",
-    "since": 1772860258093,
+    "status": "online",
+    "since": 1772870094400,
     "first_seen": 1771904259023
   },
   "driveGG": {
@@ -550,8 +550,8 @@
     "first_seen": 1772026925768
   },
   "xeon528": {
-    "status": "online",
-    "since": 1772866218975,
+    "status": "offline",
+    "since": 1772870094400,
     "first_seen": 1772026925768
   },
   "12thsql": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "offline",
-    "since": 1772866218975,
+    "status": "online",
+    "since": 1772870094400,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -775,8 +775,8 @@
     "first_seen": 1772605623801
   },
   "i7camera": {
-    "status": "offline",
-    "since": 1772868788234,
+    "status": "online",
+    "since": 1772870094400,
     "first_seen": 1772630475350
   },
   "umt1": {
