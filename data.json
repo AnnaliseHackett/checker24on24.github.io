@@ -215,13 +215,13 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1772882721450,
+    "status": "online",
+    "since": 1772884666923,
     "first_seen": 1771904259023
   },
   "dell8": {
-    "status": "online",
-    "since": 1772883876896,
+    "status": "offline",
+    "since": 1772884666923,
     "first_seen": 1771904259023
   },
   "driveGG": {
@@ -395,8 +395,8 @@
     "first_seen": 1771924014596
   },
   "0x8": {
-    "status": "online",
-    "since": 1772882721450,
+    "status": "offline",
+    "since": 1772884666923,
     "first_seen": 1771927690320
   },
   "xeon3672": {
@@ -580,8 +580,8 @@
     "first_seen": 1772091016863
   },
   "light": {
-    "status": "offline",
-    "since": 1772883876896,
+    "status": "online",
+    "since": 1772884666923,
     "first_seen": 1772101563109
   },
   "panel": {
