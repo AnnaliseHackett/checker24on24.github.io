@@ -12,8 +12,8 @@
     "since": 1772941074014
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1772920777444
+    "status": "online",
+    "since": 1772961304116
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "offline",
-    "since": 1772888746231
+    "status": "online",
+    "since": 1772961304116
   },
   "spacemarine": {
     "status": "offline",
@@ -96,8 +96,8 @@
     "since": 1772952984321
   },
   "XEON8H": {
-    "status": "online",
-    "since": 1772955427107
+    "status": "offline",
+    "since": 1772961304116
   },
   "xeonE548": {
     "status": "online",
@@ -250,8 +250,8 @@
     "first_seen": 1771904259023
   },
   "i7128": {
-    "status": "online",
-    "since": 1772959276408,
+    "status": "offline",
+    "since": 1772961304116,
     "first_seen": 1771904259023
   },
   "i720m": {
@@ -370,8 +370,8 @@
     "first_seen": 1771918204510
   },
   "L": {
-    "status": "offline",
-    "since": 1772361756089,
+    "status": "online",
+    "since": 1772961304116,
     "first_seen": 1771920460571
   },
   "amthanh": {
@@ -395,8 +395,8 @@
     "first_seen": 1771924014596
   },
   "0x8": {
-    "status": "online",
-    "since": 1772955427107,
+    "status": "offline",
+    "since": 1772961304116,
     "first_seen": 1771927690320
   },
   "xeon3672": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1772956583091,
+    "status": "online",
+    "since": 1772961304116,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -470,8 +470,8 @@
     "first_seen": 1771939283101
   },
   "kataa": {
-    "status": "offline",
-    "since": 1772814154131,
+    "status": "online",
+    "since": 1772961304116,
     "first_seen": 1771939283101
   },
   "dell1": {
@@ -555,8 +555,8 @@
     "first_seen": 1772026925768
   },
   "12thsql": {
-    "status": "online",
-    "since": 1772941074014,
+    "status": "offline",
+    "since": 1772961304116,
     "first_seen": 1772030425253
   },
   "baroi": {
@@ -680,8 +680,8 @@
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "offline",
-    "since": 1772932069892,
+    "status": "online",
+    "since": 1772961304116,
     "first_seen": 1772390452999
   },
   "umt7T": {
