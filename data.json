@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1772979151161
+    "status": "online",
+    "since": 1773008984632
   },
   "XEON8H": {
     "status": "offline",
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "online",
-    "since": 1772909818361,
+    "status": "offline",
+    "since": 1773008984632,
     "first_seen": 1772808930371
   },
   "i728brute": {
