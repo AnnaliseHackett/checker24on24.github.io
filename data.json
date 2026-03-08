@@ -1,7 +1,7 @@
 {
   "15h": {
-    "status": "online",
-    "since": 1772977633414
+    "status": "offline",
+    "since": 1772995303235
   },
   "20CN": {
     "status": "online",
@@ -12,8 +12,8 @@
     "since": 1772987764567
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1772992514358
+    "status": "offline",
+    "since": 1772995303235
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -24,8 +24,8 @@
     "since": 1772974777883
   },
   "i5125": {
-    "status": "offline",
-    "since": 1772992514358
+    "status": "online",
+    "since": 1772995303235
   },
   "i5kf20": {
     "status": "offline",
@@ -128,8 +128,8 @@
     "since": 1771878468475
   },
   "i516p": {
-    "status": "offline",
-    "since": 1772984177473
+    "status": "online",
+    "since": 1772995303235
   },
   "i72028": {
     "status": "offline",
@@ -385,8 +385,8 @@
     "first_seen": 1771924014596
   },
   "manghinhL": {
-    "status": "online",
-    "since": 1772974777883,
+    "status": "offline",
+    "since": 1772995303235,
     "first_seen": 1771924014596
   },
   "ryzen5U": {
@@ -680,8 +680,8 @@
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "online",
-    "since": 1772979151161,
+    "status": "offline",
+    "since": 1772995303235,
     "first_seen": 1772390452999
   },
   "umt7T": {
