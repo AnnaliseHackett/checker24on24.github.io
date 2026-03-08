@@ -12,8 +12,8 @@
     "since": 1772987764567
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1772987764567
+    "status": "online",
+    "since": 1772989110560
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -28,8 +28,8 @@
     "since": 1772987764567
   },
   "i5kf20": {
-    "status": "online",
-    "since": 1772932069892
+    "status": "offline",
+    "since": 1772989110560
   },
   "i711": {
     "status": "offline",
@@ -56,8 +56,8 @@
     "since": 1772977633414
   },
   "loginfailed": {
-    "status": "online",
-    "since": 1772970740613
+    "status": "offline",
+    "since": 1772989110560
   },
   "note": {
     "status": "online",
@@ -68,8 +68,8 @@
     "since": 1772963244416
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1772974777883
+    "status": "online",
+    "since": 1772989110560
   },
   "tool1-2-2026": {
     "status": "online",
@@ -80,8 +80,8 @@
     "since": 1772451849595
   },
   "toolAL23-2-2026": {
-    "status": "offline",
-    "since": 1772987764567
+    "status": "online",
+    "since": 1772989110560
   },
   "utral9": {
     "status": "offline",
@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1772979151161,
+    "status": "offline",
+    "since": 1772989110560,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -305,8 +305,8 @@
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "offline",
-    "since": 1772985264348,
+    "status": "online",
+    "since": 1772989110560,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1772985264348,
+    "status": "offline",
+    "since": 1772989110560,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -470,8 +470,8 @@
     "first_seen": 1771939283101
   },
   "kataa": {
-    "status": "online",
-    "since": 1772974777883,
+    "status": "offline",
+    "since": 1772989110560,
     "first_seen": 1771939283101
   },
   "dell1": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "offline",
-    "since": 1772987764567,
+    "status": "online",
+    "since": 1772989110560,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1772967675246,
+    "status": "offline",
+    "since": 1772989110560,
     "first_seen": 1771947443714
   },
   "i512500": {
