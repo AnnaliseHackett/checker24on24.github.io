@@ -16,8 +16,8 @@
     "since": 1773002246843
   },
   "AMZ9HX32": {
-    "status": "offline",
-    "since": 1772979151161
+    "status": "online",
+    "since": 1773010408837
   },
   "bluestack": {
     "status": "offline",
@@ -155,8 +155,8 @@
     "first_seen": 1771887545391
   },
   "xeon80v1": {
-    "status": "offline",
-    "since": 1772984177473,
+    "status": "online",
+    "since": 1773010408837,
     "first_seen": 1771887545391
   },
   "nhungoc": {
@@ -450,8 +450,8 @@
     "first_seen": 1771934133329
   },
   "xeonutra": {
-    "status": "online",
-    "since": 1772866218975,
+    "status": "offline",
+    "since": 1773010408837,
     "first_seen": 1771934133329
   },
   "+1": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "offline",
-    "since": 1773006810486,
+    "status": "online",
+    "since": 1773010408837,
     "first_seen": 1771943661252
   },
   "opengl": {
