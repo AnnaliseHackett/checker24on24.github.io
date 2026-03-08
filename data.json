@@ -8,8 +8,8 @@
     "since": 1771869452421
   },
   "3672xeon": {
-    "status": "offline",
-    "since": 1772909818361
+    "status": "online",
+    "since": 1772941074014
   },
   "amz7profile": {
     "status": "offline",
@@ -80,8 +80,8 @@
     "since": 1772451849595
   },
   "toolAL23-2-2026": {
-    "status": "offline",
-    "since": 1772907660371
+    "status": "online",
+    "since": 1772941074014
   },
   "utral9": {
     "status": "offline",
@@ -92,12 +92,12 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1772924118991
+    "status": "online",
+    "since": 1772941074014
   },
   "XEON8H": {
-    "status": "offline",
-    "since": 1772895624848
+    "status": "online",
+    "since": 1772941074014
   },
   "xeonE548": {
     "status": "online",
@@ -145,13 +145,13 @@
     "first_seen": 1771872177555
   },
   "hieu": {
-    "status": "offline",
-    "since": 1772926117454,
+    "status": "online",
+    "since": 1772941074014,
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1772892740721,
+    "status": "online",
+    "since": 1772941074014,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -165,8 +165,8 @@
     "first_seen": 1771890094719
   },
   "cftmon": {
-    "status": "offline",
-    "since": 1772911745455,
+    "status": "online",
+    "since": 1772941074014,
     "first_seen": 1771894415726
   },
   "excel": {
@@ -255,13 +255,13 @@
     "first_seen": 1771904259023
   },
   "i720m": {
-    "status": "offline",
-    "since": 1772879762889,
+    "status": "online",
+    "since": 1772941074014,
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "online",
-    "since": 1772913546412,
+    "status": "offline",
+    "since": 1772941074014,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -270,8 +270,8 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "offline",
-    "since": 1772909818361,
+    "status": "online",
+    "since": 1772941074014,
     "first_seen": 1771904259023
   },
   "MD5": {
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "offline",
-    "since": 1772876498255,
+    "status": "online",
+    "since": 1772941074014,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "offline",
-    "since": 1772902570887,
+    "status": "online",
+    "since": 1772941074014,
     "first_seen": 1771918204510
   },
   "w": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1772901260774,
+    "status": "online",
+    "since": 1772941074014,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1772912816131,
+    "status": "online",
+    "since": 1772941074014,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -490,8 +490,8 @@
     "first_seen": 1771943661252
   },
   "xeonSL": {
-    "status": "offline",
-    "since": 1772686138313,
+    "status": "online",
+    "since": 1772941074014,
     "first_seen": 1771943661252
   },
   "mua5": {
@@ -555,18 +555,18 @@
     "first_seen": 1772026925768
   },
   "12thsql": {
-    "status": "offline",
-    "since": 1772905796495,
+    "status": "online",
+    "since": 1772941074014,
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "offline",
-    "since": 1772909818361,
+    "status": "online",
+    "since": 1772941074014,
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "offline",
-    "since": 1772895624848,
+    "status": "online",
+    "since": 1772941074014,
     "first_seen": 1772076874941
   },
   "i728p": {
@@ -640,8 +640,8 @@
     "first_seen": 1772218383298
   },
   "xeon2670": {
-    "status": "offline",
-    "since": 1772932069892,
+    "status": "online",
+    "since": 1772941074014,
     "first_seen": 1772229650681
   },
   "i9fan": {
@@ -710,8 +710,8 @@
     "first_seen": 1772425676985
   },
   "toolLQ": {
-    "status": "offline",
-    "since": 1772901260774,
+    "status": "online",
+    "since": 1772941074014,
     "first_seen": 1772437053482
   },
   "utra125": {
