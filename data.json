@@ -16,8 +16,8 @@
     "since": 1773076409679
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1773065668773
+    "status": "offline",
+    "since": 1773083311590
   },
   "bluestack": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1773072953094,
+    "status": "offline",
+    "since": 1773083311590,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -295,8 +295,8 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "online",
-    "since": 1773069241799,
+    "status": "offline",
+    "since": 1773083311590,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1773079423092,
+    "status": "offline",
+    "since": 1773083311590,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1773079423092,
+    "status": "offline",
+    "since": 1773083311590,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1773044906943,
+    "status": "offline",
+    "since": 1773083311590,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -845,8 +845,8 @@
     "first_seen": 1773044906943
   },
   "mic": {
-    "status": "online",
-    "since": 1773079423092,
+    "status": "offline",
+    "since": 1773083311590,
     "first_seen": 1773079423092
   }
 }
