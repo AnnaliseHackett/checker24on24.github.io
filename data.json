@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "online",
-    "since": 1773093084497
+    "status": "offline",
+    "since": 1773097205275
   },
   "XEON8H": {
     "status": "offline",
@@ -155,8 +155,8 @@
     "first_seen": 1771887545391
   },
   "xeon80v1": {
-    "status": "offline",
-    "since": 1773076409679,
+    "status": "online",
+    "since": 1773097205275,
     "first_seen": 1771887545391
   },
   "nhungoc": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1773083311590,
+    "status": "online",
+    "since": 1773097205275,
     "first_seen": 1771924014596
   },
   "0x8": {
