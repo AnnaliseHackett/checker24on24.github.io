@@ -16,8 +16,8 @@
     "since": 1773093084497
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1773091087883
+    "status": "offline",
+    "since": 1773100606995
   },
   "bluestack": {
     "status": "offline",
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "online",
-    "since": 1773099480432,
+    "status": "offline",
+    "since": 1773100606995,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1773099480432,
+    "status": "offline",
+    "since": 1773100606995,
     "first_seen": 1771990967353
   },
   "i512adobe": {
