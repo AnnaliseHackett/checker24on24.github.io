@@ -68,8 +68,8 @@
     "since": 1773072953094
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1773124122527
+    "status": "offline",
+    "since": 1773127552565
   },
   "tool1-2-2026": {
     "status": "online",
@@ -132,8 +132,8 @@
     "since": 1773072953094
   },
   "i72028": {
-    "status": "online",
-    "since": 1773120800419
+    "status": "offline",
+    "since": 1773127552565
   },
   "xeonYEU": {
     "status": "offline",
@@ -165,13 +165,13 @@
     "first_seen": 1771890094719
   },
   "cftmon": {
-    "status": "online",
-    "since": 1773110668055,
+    "status": "offline",
+    "since": 1773127552565,
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "offline",
-    "since": 1773120800419,
+    "status": "online",
+    "since": 1773127552565,
     "first_seen": 1771894415726
   },
   "i5plugin": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1773124122527,
+    "status": "offline",
+    "since": 1773127552565,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1773120800419,
+    "status": "online",
+    "since": 1773127552565,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -255,8 +255,8 @@
     "first_seen": 1771904259023
   },
   "i720m": {
-    "status": "offline",
-    "since": 1773120800419,
+    "status": "online",
+    "since": 1773127552565,
     "first_seen": 1771904259023
   },
   "i77": {
@@ -265,8 +265,8 @@
     "first_seen": 1771904259023
   },
   "i7sql": {
-    "status": "offline",
-    "since": 1773120800419,
+    "status": "online",
+    "since": 1773127552565,
     "first_seen": 1771904259023
   },
   "key": {
@@ -280,8 +280,8 @@
     "first_seen": 1771904259023
   },
   "print1": {
-    "status": "offline",
-    "since": 1773048500470,
+    "status": "online",
+    "since": 1773127552565,
     "first_seen": 1771904259023
   },
   "ryzen784u": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "offline",
-    "since": 1773072953094,
+    "status": "online",
+    "since": 1773127552565,
     "first_seen": 1771918204510
   },
   "w": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1773099480432,
+    "status": "online",
+    "since": 1773127552565,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1773116680631,
+    "status": "offline",
+    "since": 1773127552565,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -645,8 +645,8 @@
     "first_seen": 1772229650681
   },
   "i9fan": {
-    "status": "offline",
-    "since": 1773062118251,
+    "status": "online",
+    "since": 1773127552565,
     "first_seen": 1772269114612
   },
   "RX6600": {
@@ -830,8 +830,8 @@
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
-    "status": "online",
-    "since": 1773120800419,
+    "status": "offline",
+    "since": 1773127552565,
     "first_seen": 1772998826370
   },
   "UC": {
