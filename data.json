@@ -36,8 +36,8 @@
     "since": 1773250372538
   },
   "i7118": {
-    "status": "online",
-    "since": 1773253958462
+    "status": "offline",
+    "since": 1773272100396
   },
   "i7pubg": {
     "status": "online",
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "offline",
-    "since": 1773239470015,
+    "status": "online",
+    "since": 1773272100396,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1773242972360,
+    "status": "offline",
+    "since": 1773272100396,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1773253958462,
+    "status": "online",
+    "since": 1773272100396,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "offline",
-    "since": 1773242972360,
+    "status": "online",
+    "since": 1773272100396,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1773269782024,
+    "status": "offline",
+    "since": 1773272100396,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -565,8 +565,8 @@
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "online",
-    "since": 1773226388097,
+    "status": "offline",
+    "since": 1773272100396,
     "first_seen": 1772076874941
   },
   "i728p": {
