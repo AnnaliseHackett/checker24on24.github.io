@@ -155,8 +155,8 @@
     "first_seen": 1771887545391
   },
   "xeon80v1": {
-    "status": "offline",
-    "since": 1773246611406,
+    "status": "online",
+    "since": 1773269782024,
     "first_seen": 1771887545391
   },
   "nhungoc": {
@@ -350,8 +350,8 @@
     "first_seen": 1771913721773
   },
   "nguye": {
-    "status": "offline",
-    "since": 1773242972360,
+    "status": "online",
+    "since": 1773269782024,
     "first_seen": 1771918204510
   },
   "thinkbad": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "offline",
-    "since": 1773214223052,
+    "status": "online",
+    "since": 1773269782024,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -680,8 +680,8 @@
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "online",
-    "since": 1773242972360,
+    "status": "offline",
+    "since": 1773269782024,
     "first_seen": 1772390452999
   },
   "umt7T": {
