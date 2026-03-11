@@ -132,8 +132,8 @@
     "since": 1773160812159
   },
   "i72028": {
-    "status": "online",
-    "since": 1773207294253
+    "status": "offline",
+    "since": 1773216296133
   },
   "xeonYEU": {
     "status": "offline",
@@ -280,8 +280,8 @@
     "first_seen": 1771904259023
   },
   "print1": {
-    "status": "offline",
-    "since": 1773203157629,
+    "status": "online",
+    "since": 1773216296133,
     "first_seen": 1771904259023
   },
   "ryzen784u": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1773210692147,
+    "status": "offline",
+    "since": 1773216296133,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -555,8 +555,8 @@
     "first_seen": 1772026925768
   },
   "12thsql": {
-    "status": "offline",
-    "since": 1773133149835,
+    "status": "online",
+    "since": 1773216296133,
     "first_seen": 1772030425253
   },
   "baroi": {
@@ -635,13 +635,13 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "offline",
-    "since": 1773152977030,
+    "status": "online",
+    "since": 1773216296133,
     "first_seen": 1772218383298
   },
   "xeon2670": {
-    "status": "online",
-    "since": 1773203157629,
+    "status": "offline",
+    "since": 1773216296133,
     "first_seen": 1772229650681
   },
   "i9fan": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1773207294253,
+    "status": "offline",
+    "since": 1773216296133,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -830,8 +830,8 @@
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
-    "status": "online",
-    "since": 1773207294253,
+    "status": "offline",
+    "since": 1773216296133,
     "first_seen": 1772998826370
   },
   "UC": {
