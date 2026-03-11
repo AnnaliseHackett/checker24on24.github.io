@@ -1,7 +1,7 @@
 {
   "15h": {
-    "status": "offline",
-    "since": 1773214223052
+    "status": "online",
+    "since": 1773230467321
   },
   "20CN": {
     "status": "online",
@@ -16,8 +16,8 @@
     "since": 1773172744406
   },
   "AMZ9HX32": {
-    "status": "offline",
-    "since": 1773164114216
+    "status": "online",
+    "since": 1773230467321
   },
   "bluestack": {
     "status": "offline",
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1773223006889,
+    "status": "online",
+    "since": 1773230467321,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -330,8 +330,8 @@
     "first_seen": 1771909942902
   },
   "i7update": {
-    "status": "offline",
-    "since": 1773157205765,
+    "status": "online",
+    "since": 1773230467321,
     "first_seen": 1771909942902
   },
   "xeon24louis": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "offline",
-    "since": 1773207294253,
+    "status": "online",
+    "since": 1773230467321,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -520,8 +520,8 @@
     "first_seen": 1771990967353
   },
   "xeonGPU": {
-    "status": "online",
-    "since": 1773229022048,
+    "status": "offline",
+    "since": 1773230467321,
     "first_seen": 1771990967353
   },
   "amd5": {
@@ -550,8 +550,8 @@
     "first_seen": 1772026925768
   },
   "xeon528": {
-    "status": "online",
-    "since": 1773214223052,
+    "status": "offline",
+    "since": 1773230467321,
     "first_seen": 1772026925768
   },
   "12thsql": {
@@ -580,8 +580,8 @@
     "first_seen": 1772091016863
   },
   "light": {
-    "status": "online",
-    "since": 1773207294253,
+    "status": "offline",
+    "since": 1773230467321,
     "first_seen": 1772101563109
   },
   "panel": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1773229022048,
+    "status": "offline",
+    "since": 1773230467321,
     "first_seen": 1772895624848
   },
   "proxy": {
