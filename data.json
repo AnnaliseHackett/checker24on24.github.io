@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1773210692147,
+    "status": "online",
+    "since": 1773273424790,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "online",
-    "since": 1773272100396,
+    "status": "offline",
+    "since": 1773273424790,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -545,8 +545,8 @@
     "first_seen": 1772026925768
   },
   "xeon20": {
-    "status": "offline",
-    "since": 1773236198188,
+    "status": "online",
+    "since": 1773273424790,
     "first_seen": 1772026925768
   },
   "xeon528": {
