@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1773236198188
+    "status": "online",
+    "since": 1773266158034
   },
   "XEON8H": {
     "status": "offline",
@@ -124,8 +124,8 @@
     "since": 1773257336329
   },
   "E3": {
-    "status": "offline",
-    "since": 1771878468475
+    "status": "online",
+    "since": 1773266158034
   },
   "i516p": {
     "status": "online",
