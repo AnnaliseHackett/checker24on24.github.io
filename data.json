@@ -120,16 +120,16 @@
     "since": 1773139999824
   },
   "xeonVPS": {
-    "status": "online",
-    "since": 1773257336329
+    "status": "offline",
+    "since": 1773355144285
   },
   "E3": {
     "status": "offline",
     "since": 1773268441624
   },
   "i516p": {
-    "status": "online",
-    "since": 1773253958462
+    "status": "offline",
+    "since": 1773355144285
   },
   "i72028": {
     "status": "offline",
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "offline",
-    "since": 1773340334792,
+    "status": "online",
+    "since": 1773355144285,
     "first_seen": 1771931250125
   },
   "i7136": {
