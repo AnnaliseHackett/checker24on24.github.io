@@ -20,8 +20,8 @@
     "since": 1773262140259
   },
   "bluestack": {
-    "status": "online",
-    "since": 1773297282048
+    "status": "offline",
+    "since": 1773306090106
   },
   "i5125": {
     "status": "online",
@@ -132,8 +132,8 @@
     "since": 1773253958462
   },
   "i72028": {
-    "status": "online",
-    "since": 1773293888932
+    "status": "offline",
+    "since": 1773306090106
   },
   "xeonYEU": {
     "status": "offline",
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1773297282048,
+    "status": "offline",
+    "since": 1773306090106,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -505,8 +505,8 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "offline",
-    "since": 1773253958462,
+    "status": "online",
+    "since": 1773306090106,
     "first_seen": 1771951499378
   },
   "2112026t4": {
@@ -550,8 +550,8 @@
     "first_seen": 1772026925768
   },
   "xeon528": {
-    "status": "online",
-    "since": 1773297282048,
+    "status": "offline",
+    "since": 1773306090106,
     "first_seen": 1772026925768
   },
   "12thsql": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "offline",
-    "since": 1773302809463,
+    "status": "online",
+    "since": 1773306090106,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -580,8 +580,8 @@
     "first_seen": 1772091016863
   },
   "light": {
-    "status": "online",
-    "since": 1773300828611,
+    "status": "offline",
+    "since": 1773306090106,
     "first_seen": 1772101563109
   },
   "panel": {
@@ -730,8 +730,8 @@
     "first_seen": 1772506376749
   },
   "umt10": {
-    "status": "offline",
-    "since": 1773300828611,
+    "status": "online",
+    "since": 1773306090106,
     "first_seen": 1772513424370
   },
   "umt22": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1773293888932,
+    "status": "online",
+    "since": 1773306090106,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
