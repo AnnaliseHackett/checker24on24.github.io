@@ -12,8 +12,8 @@
     "since": 1773333622678
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1773333622678
+    "status": "online",
+    "since": 1773345671735
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1773333622678,
+    "status": "online",
+    "since": 1773345671735,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -540,8 +540,8 @@
     "first_seen": 1772026925768
   },
   "laptop": {
-    "status": "online",
-    "since": 1772701152429,
+    "status": "offline",
+    "since": 1773345671735,
     "first_seen": 1772026925768
   },
   "xeon20": {
