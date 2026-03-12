@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "online",
-    "since": 1773283791154,
+    "status": "offline",
+    "since": 1773316639701,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1773312879265,
+    "status": "online",
+    "since": 1773316639701,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "online",
-    "since": 1773315310350,
+    "status": "offline",
+    "since": 1773316639701,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1773300828611,
+    "status": "offline",
+    "since": 1773316639701,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1773302809463,
+    "status": "offline",
+    "since": 1773316639701,
     "first_seen": 1771918204510
   },
   "w": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "offline",
-    "since": 1773283791154,
+    "status": "online",
+    "since": 1773316639701,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -645,8 +645,8 @@
     "first_seen": 1772229650681
   },
   "i9fan": {
-    "status": "online",
-    "since": 1773283791154,
+    "status": "offline",
+    "since": 1773316639701,
     "first_seen": 1772269114612
   },
   "RX6600": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "online",
-    "since": 1773312879265,
+    "status": "offline",
+    "since": 1773316639701,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1773309560938,
+    "status": "offline",
+    "since": 1773316639701,
     "first_seen": 1772895624848
   },
   "proxy": {
