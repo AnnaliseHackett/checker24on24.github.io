@@ -68,8 +68,8 @@
     "since": 1773337102251
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1773428928073
+    "status": "offline",
+    "since": 1773431226159
   },
   "tool1-2-2026": {
     "status": "online",
@@ -132,8 +132,8 @@
     "since": 1773417903928
   },
   "i72028": {
-    "status": "online",
-    "since": 1773409535834
+    "status": "offline",
+    "since": 1773431226159
   },
   "xeonYEU": {
     "status": "offline",
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1773428928073,
+    "status": "offline",
+    "since": 1773431226159,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1773426179169,
+    "status": "offline",
+    "since": 1773431226159,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
