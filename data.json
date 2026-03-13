@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1773421014472,
+    "status": "online",
+    "since": 1773443701413,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -535,8 +535,8 @@
     "first_seen": 1772015605036
   },
   "09799": {
-    "status": "offline",
-    "since": 1773421014472,
+    "status": "online",
+    "since": 1773443701413,
     "first_seen": 1772026925768
   },
   "laptop": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1773433100650,
+    "status": "offline",
+    "since": 1773443701413,
     "first_seen": 1772895624848
   },
   "proxy": {
