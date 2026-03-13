@@ -76,16 +76,16 @@
     "since": 1771869452421
   },
   "tool-8-2-2026": {
-    "status": "online",
-    "since": 1773409535834
+    "status": "offline",
+    "since": 1773417903928
   },
   "toolAL23-2-2026": {
     "status": "offline",
     "since": 1773144042180
   },
   "utral9": {
-    "status": "online",
-    "since": 1773370267006
+    "status": "offline",
+    "since": 1773417903928
   },
   "x": {
     "status": "online",
@@ -128,8 +128,8 @@
     "since": 1773268441624
   },
   "i516p": {
-    "status": "online",
-    "since": 1773356455235
+    "status": "offline",
+    "since": 1773417903928
   },
   "i72028": {
     "status": "online",
@@ -140,13 +140,13 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "offline",
-    "since": 1773409535834,
+    "status": "online",
+    "since": 1773417903928,
     "first_seen": 1771872177555
   },
   "hieu": {
-    "status": "online",
-    "since": 1773405428495,
+    "status": "offline",
+    "since": 1773417903928,
     "first_seen": 1771884332768
   },
   "i93224": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1773383631115,
+    "status": "online",
+    "since": 1773417903928,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "offline",
-    "since": 1773415605405,
+    "status": "online",
+    "since": 1773417903928,
     "first_seen": 1771918204510
   },
   "w": {
@@ -370,8 +370,8 @@
     "first_seen": 1771918204510
   },
   "L": {
-    "status": "offline",
-    "since": 1773333622678,
+    "status": "online",
+    "since": 1773417903928,
     "first_seen": 1771920460571
   },
   "amthanh": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1773400784168,
+    "status": "online",
+    "since": 1773417903928,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1773415605405,
+    "status": "offline",
+    "since": 1773417903928,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -580,8 +580,8 @@
     "first_seen": 1772091016863
   },
   "light": {
-    "status": "online",
-    "since": 1773412343029,
+    "status": "offline",
+    "since": 1773417903928,
     "first_seen": 1772101563109
   },
   "panel": {
@@ -650,8 +650,8 @@
     "first_seen": 1772269114612
   },
   "RX6600": {
-    "status": "online",
-    "since": 1773409535834,
+    "status": "offline",
+    "since": 1773417903928,
     "first_seen": 1772274533780
   },
   "i71818": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "online",
-    "since": 1773409535834,
+    "status": "offline",
+    "since": 1773417903928,
     "first_seen": 1772437053482
   },
   "tmp": {
