@@ -8,8 +8,8 @@
     "since": 1772982071167
   },
   "3672xeon": {
-    "status": "online",
-    "since": 1773409535834
+    "status": "offline",
+    "since": 1773428928073
   },
   "amz7profile": {
     "status": "offline",
@@ -20,8 +20,8 @@
     "since": 1773405428495
   },
   "bluestack": {
-    "status": "online",
-    "since": 1773415605405
+    "status": "offline",
+    "since": 1773428928073
   },
   "i5125": {
     "status": "online",
@@ -56,8 +56,8 @@
     "since": 1773392288855
   },
   "loginfailed": {
-    "status": "online",
-    "since": 1773426179169
+    "status": "offline",
+    "since": 1773428928073
   },
   "note": {
     "status": "online",
@@ -68,8 +68,8 @@
     "since": 1773337102251
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1773405428495
+    "status": "online",
+    "since": 1773428928073
   },
   "tool1-2-2026": {
     "status": "online",
@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1773423875818,
+    "status": "offline",
+    "since": 1773428928073,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1773405428495,
+    "status": "offline",
+    "since": 1773428928073,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -530,8 +530,8 @@
     "first_seen": 1772011924609
   },
   "xeon2696v2": {
-    "status": "offline",
-    "since": 1773409535834,
+    "status": "online",
+    "since": 1773428928073,
     "first_seen": 1772015605036
   },
   "09799": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1773402603376,
+    "status": "offline",
+    "since": 1773428928073,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -680,8 +680,8 @@
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "online",
-    "since": 1773400784168,
+    "status": "offline",
+    "since": 1773428928073,
     "first_seen": 1772390452999
   },
   "umt7T": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1773423875818,
+    "status": "online",
+    "since": 1773428928073,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -895,8 +895,8 @@
     "first_seen": 1773325655043
   },
   "iT": {
-    "status": "online",
-    "since": 1773421014472,
+    "status": "offline",
+    "since": 1773428928073,
     "first_seen": 1773329602916
   },
   "truomsi": {
