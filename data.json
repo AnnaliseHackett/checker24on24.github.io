@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1773409535834
+    "status": "online",
+    "since": 1773442049963
   },
   "XEON8H": {
     "status": "offline",
@@ -155,8 +155,8 @@
     "first_seen": 1771887545391
   },
   "xeon80v1": {
-    "status": "offline",
-    "since": 1773421014472,
+    "status": "online",
+    "since": 1773442049963,
     "first_seen": 1771887545391
   },
   "nhungoc": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1773380376115,
+    "status": "offline",
+    "since": 1773442049963,
     "first_seen": 1771943661252
   },
   "opengl": {
