@@ -36,8 +36,8 @@
     "since": 1773600880246
   },
   "i7118": {
-    "status": "online",
-    "since": 1773600880246
+    "status": "offline",
+    "since": 1773604499198
   },
   "i7pubg": {
     "status": "offline",
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1773600880246,
+    "status": "offline",
+    "since": 1773604499198,
     "first_seen": 1772895624848
   },
   "proxy": {
