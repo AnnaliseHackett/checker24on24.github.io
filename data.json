@@ -32,8 +32,8 @@
     "since": 1773467740971
   },
   "i711": {
-    "status": "online",
-    "since": 1773566699704
+    "status": "offline",
+    "since": 1773568669985
   },
   "i7118": {
     "status": "online",
@@ -96,8 +96,8 @@
     "since": 1773558949043
   },
   "XEON8H": {
-    "status": "online",
-    "since": 1773545201239
+    "status": "offline",
+    "since": 1773568669985
   },
   "xeonE548": {
     "status": "online",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1773566699704,
+    "status": "offline",
+    "since": 1773568669985,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1773561407950,
+    "status": "offline",
+    "since": 1773568669985,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "online",
-    "since": 1773564598963,
+    "status": "offline",
+    "since": 1773568669985,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "offline",
-    "since": 1773566699704,
+    "status": "online",
+    "since": 1773568669985,
     "first_seen": 1771918204510
   },
   "w": {
@@ -370,8 +370,8 @@
     "first_seen": 1771918204510
   },
   "L": {
-    "status": "offline",
-    "since": 1773558949043,
+    "status": "online",
+    "since": 1773568669985,
     "first_seen": 1771920460571
   },
   "amthanh": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1773551956657,
+    "status": "offline",
+    "since": 1773568669985,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1773558949043,
+    "status": "online",
+    "since": 1773568669985,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -555,8 +555,8 @@
     "first_seen": 1772026925768
   },
   "12thsql": {
-    "status": "online",
-    "since": 1773566699704,
+    "status": "offline",
+    "since": 1773568669985,
     "first_seen": 1772030425253
   },
   "baroi": {
@@ -920,8 +920,13 @@
     "first_seen": 1773485176827
   },
   "i7gra": {
-    "status": "offline",
-    "since": 1773566699704,
+    "status": "online",
+    "since": 1773568669985,
     "first_seen": 1773493976888
+  },
+  "bl": {
+    "status": "online",
+    "since": 1773568669985,
+    "first_seen": 1773568669985
   }
 }
