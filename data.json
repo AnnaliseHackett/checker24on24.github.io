@@ -32,12 +32,12 @@
     "since": 1773467740971
   },
   "i711": {
-    "status": "offline",
-    "since": 1773568669985
+    "status": "online",
+    "since": 1773574992299
   },
   "i7118": {
-    "status": "online",
-    "since": 1773510415849
+    "status": "offline",
+    "since": 1773574992299
   },
   "i7pubg": {
     "status": "offline",
@@ -140,13 +140,13 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1773458917856,
+    "status": "offline",
+    "since": 1773574992299,
     "first_seen": 1771872177555
   },
   "hieu": {
-    "status": "online",
-    "since": 1773558949043,
+    "status": "offline",
+    "since": 1773574992299,
     "first_seen": 1771884332768
   },
   "i93224": {
@@ -190,8 +190,8 @@
     "first_seen": 1771894415726
   },
   "xeon2686": {
-    "status": "online",
-    "since": 1773545201239,
+    "status": "offline",
+    "since": 1773574992299,
     "first_seen": 1771894415726
   },
   "xeon72pm": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1773566699704,
+    "status": "offline",
+    "since": 1773574992299,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "online",
-    "since": 1773545201239,
+    "status": "offline",
+    "since": 1773574992299,
     "first_seen": 1772091016863
   },
   "light": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "offline",
-    "since": 1773506855889,
+    "status": "online",
+    "since": 1773574992299,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "online",
-    "since": 1773573189749,
+    "status": "offline",
+    "since": 1773574992299,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1773566699704,
+    "status": "offline",
+    "since": 1773574992299,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -925,8 +925,8 @@
     "first_seen": 1773493976888
   },
   "bl": {
-    "status": "offline",
-    "since": 1773573189749,
+    "status": "online",
+    "since": 1773574992299,
     "first_seen": 1773568669985
   },
   "i5CR3": {
