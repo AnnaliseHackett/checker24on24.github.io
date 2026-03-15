@@ -12,8 +12,8 @@
     "since": 1773596036201
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1773593528577
+    "status": "online",
+    "since": 1773611848285
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1773558949043
+    "status": "online",
+    "since": 1773611848285
   },
   "XEON8H": {
     "status": "offline",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1773606956889,
+    "status": "online",
+    "since": 1773611848285,
     "first_seen": 1771904259023
   },
   "dell8": {
