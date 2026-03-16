@@ -68,8 +68,8 @@
     "since": 1773580545754
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1773660944906
+    "status": "offline",
+    "since": 1773702202121
   },
   "tool1-2-2026": {
     "status": "online",
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1773682894216,
+    "status": "online",
+    "since": 1773702202121,
     "first_seen": 1771931250125
   },
   "pc": {
