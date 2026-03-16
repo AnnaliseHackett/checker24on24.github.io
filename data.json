@@ -16,8 +16,8 @@
     "since": 1773660944906
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1773678819081
+    "status": "offline",
+    "since": 1773690214078
   },
   "bluestack": {
     "status": "online",
@@ -52,8 +52,8 @@
     "since": 1773551956657
   },
   "i9pokemon": {
-    "status": "offline",
-    "since": 1773650484848
+    "status": "online",
+    "since": 1773690214078
   },
   "loginfailed": {
     "status": "offline",
@@ -132,8 +132,8 @@
     "since": 1773682894216
   },
   "i72028": {
-    "status": "online",
-    "since": 1773678819081
+    "status": "offline",
+    "since": 1773690214078
   },
   "xeonYEU": {
     "status": "offline",
@@ -155,8 +155,8 @@
     "first_seen": 1771887545391
   },
   "xeon80v1": {
-    "status": "online",
-    "since": 1773615714648,
+    "status": "offline",
+    "since": 1773690214078,
     "first_seen": 1771887545391
   },
   "nhungoc": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1773657815903,
+    "status": "offline",
+    "since": 1773690214078,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1773682894216,
+    "status": "offline",
+    "since": 1773690214078,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1773678819081,
+    "status": "offline",
+    "since": 1773690214078,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -800,8 +800,8 @@
     "first_seen": 1772811897961
   },
   "ResidentEvilRequiem72": {
-    "status": "online",
-    "since": 1773458917856,
+    "status": "offline",
+    "since": 1773690214078,
     "first_seen": 1772814154131
   },
   "z": {
@@ -945,8 +945,8 @@
     "first_seen": 1773589622881
   },
   "amd758": {
-    "status": "online",
-    "since": 1773674262764,
+    "status": "offline",
+    "since": 1773690214078,
     "first_seen": 1773674262764
   }
 }
