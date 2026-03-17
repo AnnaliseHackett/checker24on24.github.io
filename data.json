@@ -68,16 +68,16 @@
     "since": 1773580545754
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1773764190070
+    "status": "offline",
+    "since": 1773787140626
   },
   "tool1-2-2026": {
     "status": "online",
     "since": 1773478566919
   },
   "tool-8-2-2026": {
-    "status": "offline",
-    "since": 1773759752077
+    "status": "online",
+    "since": 1773787140626
   },
   "toolAL23-2-2026": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1773759752077
+    "status": "online",
+    "since": 1773787140626
   },
   "XEON8H": {
     "status": "offline",
@@ -145,8 +145,8 @@
     "first_seen": 1771872177555
   },
   "hieu": {
-    "status": "offline",
-    "since": 1773768714663,
+    "status": "online",
+    "since": 1773787140626,
     "first_seen": 1771884332768
   },
   "i93224": {
@@ -155,8 +155,8 @@
     "first_seen": 1771887545391
   },
   "xeon80v1": {
-    "status": "offline",
-    "since": 1773768714663,
+    "status": "online",
+    "since": 1773787140626,
     "first_seen": 1771887545391
   },
   "nhungoc": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1773781581609,
+    "status": "offline",
+    "since": 1773787140626,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1773772501203,
+    "status": "online",
+    "since": 1773787140626,
     "first_seen": 1773226388097
   },
   "amd78s": {
