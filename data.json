@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1773855214851,
+    "status": "online",
+    "since": 1773876890395,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -535,8 +535,8 @@
     "first_seen": 1772015605036
   },
   "09799": {
-    "status": "offline",
-    "since": 1773841893294,
+    "status": "online",
+    "since": 1773876890395,
     "first_seen": 1772026925768
   },
   "laptop": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1773874343090,
+    "status": "online",
+    "since": 1773876890395,
     "first_seen": 1772895624848
   },
   "proxy": {
