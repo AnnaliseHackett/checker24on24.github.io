@@ -68,8 +68,8 @@
     "since": 1773580545754
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1773870057882
+    "status": "offline",
+    "since": 1773874343090
   },
   "tool1-2-2026": {
     "status": "online",
@@ -155,8 +155,8 @@
     "first_seen": 1771887545391
   },
   "xeon80v1": {
-    "status": "offline",
-    "since": 1773867329908,
+    "status": "online",
+    "since": 1773874343090,
     "first_seen": 1771887545391
   },
   "nhungoc": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1773870057882,
+    "status": "offline",
+    "since": 1773874343090,
     "first_seen": 1772895624848
   },
   "proxy": {
