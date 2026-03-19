@@ -1,7 +1,7 @@
 {
   "15h": {
-    "status": "online",
-    "since": 1773931078096
+    "status": "offline",
+    "since": 1773945400864
   },
   "20CN": {
     "status": "online",
@@ -32,8 +32,8 @@
     "since": 1773938403450
   },
   "i711": {
-    "status": "online",
-    "since": 1773934624582
+    "status": "offline",
+    "since": 1773945400864
   },
   "i7118": {
     "status": "online",
@@ -155,8 +155,8 @@
     "first_seen": 1771887545391
   },
   "xeon80v1": {
-    "status": "online",
-    "since": 1773874343090,
+    "status": "offline",
+    "since": 1773945400864,
     "first_seen": 1771887545391
   },
   "nhungoc": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1773934624582,
+    "status": "offline",
+    "since": 1773945400864,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -400,8 +400,8 @@
     "first_seen": 1771927690320
   },
   "xeon3672": {
-    "status": "online",
-    "since": 1773914292115,
+    "status": "offline",
+    "since": 1773945400864,
     "first_seen": 1771927690320
   },
   "bacar": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1773927696432,
+    "status": "offline",
+    "since": 1773945400864,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1773942157749,
+    "status": "offline",
+    "since": 1773945400864,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1773942157749,
+    "status": "online",
+    "since": 1773945400864,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -830,8 +830,8 @@
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
-    "status": "online",
-    "since": 1773934624582,
+    "status": "offline",
+    "since": 1773945400864,
     "first_seen": 1772998826370
   },
   "UC": {
@@ -915,8 +915,8 @@
     "first_seen": 1773405428495
   },
   "zl16": {
-    "status": "online",
-    "since": 1773942157749,
+    "status": "offline",
+    "since": 1773945400864,
     "first_seen": 1773485176827
   },
   "i7gra": {
