@@ -132,8 +132,8 @@
     "since": 1773938403450
   },
   "i72028": {
-    "status": "online",
-    "since": 1773934624582
+    "status": "offline",
+    "since": 1773948873319
   },
   "xeonYEU": {
     "status": "offline",
@@ -145,8 +145,8 @@
     "first_seen": 1771872177555
   },
   "hieu": {
-    "status": "online",
-    "since": 1773890108632,
+    "status": "offline",
+    "since": 1773948873319,
     "first_seen": 1771884332768
   },
   "i93224": {
@@ -295,8 +295,8 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "online",
-    "since": 1773942157749,
+    "status": "offline",
+    "since": 1773948873319,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1773931078096,
+    "status": "offline",
+    "since": 1773948873319,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1773920393852,
+    "status": "offline",
+    "since": 1773948873319,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1773931078096,
+    "status": "offline",
+    "since": 1773948873319,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "online",
-    "since": 1773927696432,
+    "status": "offline",
+    "since": 1773948873319,
     "first_seen": 1772808930371
   },
   "i728brute": {
