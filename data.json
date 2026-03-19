@@ -12,8 +12,8 @@
     "since": 1773942157749
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1773942157749
+    "status": "online",
+    "since": 1773950765632
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -385,8 +385,8 @@
     "first_seen": 1771924014596
   },
   "manghinhL": {
-    "status": "online",
-    "since": 1773934624582,
+    "status": "offline",
+    "since": 1773950765632,
     "first_seen": 1771924014596
   },
   "ryzen5U": {
@@ -945,8 +945,8 @@
     "first_seen": 1773589622881
   },
   "amd758": {
-    "status": "online",
-    "since": 1773927696432,
+    "status": "offline",
+    "since": 1773950765632,
     "first_seen": 1773674262764
   },
   "i5T14": {
