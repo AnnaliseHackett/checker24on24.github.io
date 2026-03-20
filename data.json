@@ -120,8 +120,8 @@
     "since": 1773139999824
   },
   "xeonVPS": {
-    "status": "offline",
-    "since": 1774003454313
+    "status": "online",
+    "since": 1774005584718
   },
   "E3": {
     "status": "offline",
@@ -170,8 +170,8 @@
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "online",
-    "since": 1774003454313,
+    "status": "offline",
+    "since": 1774005584718,
     "first_seen": 1771894415726
   },
   "i5plugin": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1774003454313,
+    "status": "offline",
+    "since": 1774005584718,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "online",
-    "since": 1773990792650,
+    "status": "offline",
+    "since": 1774005584718,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -360,8 +360,8 @@
     "first_seen": 1771918204510
   },
   "w": {
-    "status": "online",
-    "since": 1773990792650,
+    "status": "offline",
+    "since": 1774005584718,
     "first_seen": 1771918204510
   },
   "xeonSHOPPE": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1773996889757,
+    "status": "online",
+    "since": 1774005584718,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1774003454313,
+    "status": "offline",
+    "since": 1774005584718,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -520,8 +520,8 @@
     "first_seen": 1771990967353
   },
   "xeonGPU": {
-    "status": "offline",
-    "since": 1774000233957,
+    "status": "online",
+    "since": 1774005584718,
     "first_seen": 1771990967353
   },
   "amd5": {
@@ -530,13 +530,13 @@
     "first_seen": 1772011924609
   },
   "xeon2696v2": {
-    "status": "online",
-    "since": 1773983257584,
+    "status": "offline",
+    "since": 1774005584718,
     "first_seen": 1772015605036
   },
   "09799": {
-    "status": "offline",
-    "since": 1773990792650,
+    "status": "online",
+    "since": 1774005584718,
     "first_seen": 1772026925768
   },
   "laptop": {
@@ -595,8 +595,8 @@
     "first_seen": 1772113352656
   },
   "i5v2": {
-    "status": "offline",
-    "since": 1773986801898,
+    "status": "online",
+    "since": 1774005584718,
     "first_seen": 1772113352656
   },
   "1212026": {
@@ -875,8 +875,8 @@
     "first_seen": 1773239470015
   },
   "tele": {
-    "status": "offline",
-    "since": 1773942157749,
+    "status": "online",
+    "since": 1774005584718,
     "first_seen": 1773283791154
   },
   "toolgmail": {
