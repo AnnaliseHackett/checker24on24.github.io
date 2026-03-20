@@ -24,8 +24,8 @@
     "since": 1773986801898
   },
   "i5125": {
-    "status": "online",
-    "since": 1774031224809
+    "status": "offline",
+    "since": 1774036621310
   },
   "i5kf20": {
     "status": "offline",
@@ -132,8 +132,8 @@
     "since": 1774025778306
   },
   "i72028": {
-    "status": "online",
-    "since": 1774022220386
+    "status": "offline",
+    "since": 1774036621310
   },
   "xeonYEU": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1774025778306,
+    "status": "offline",
+    "since": 1774036621310,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1774034514601,
+    "status": "offline",
+    "since": 1774036621310,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -250,8 +250,8 @@
     "first_seen": 1771904259023
   },
   "i7128": {
-    "status": "online",
-    "since": 1774018954100,
+    "status": "offline",
+    "since": 1774036621310,
     "first_seen": 1771904259023
   },
   "i720m": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1774012268389,
+    "status": "offline",
+    "since": 1774036621310,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1774034514601,
+    "status": "online",
+    "since": 1774036621310,
     "first_seen": 1772895624848
   },
   "proxy": {
