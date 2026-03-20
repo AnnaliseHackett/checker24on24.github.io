@@ -20,8 +20,8 @@
     "since": 1774041368592
   },
   "bluestack": {
-    "status": "online",
-    "since": 1773986801898
+    "status": "offline",
+    "since": 1774043315187
   },
   "i5125": {
     "status": "online",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1773993481531
+    "status": "online",
+    "since": 1774043315187
   },
   "XEON8H": {
     "status": "offline",
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1774036621310,
+    "status": "offline",
+    "since": 1774043315187,
     "first_seen": 1772895624848
   },
   "proxy": {
