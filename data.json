@@ -12,8 +12,8 @@
     "since": 1774125505915
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1774125505915
+    "status": "offline",
+    "since": 1774136057138
   },
   "AMZ9HX32": {
     "status": "online",
@@ -44,8 +44,8 @@
     "since": 1774089183281
   },
   "i929k": {
-    "status": "offline",
-    "since": 1774103528130
+    "status": "online",
+    "since": 1774136057138
   },
   "i9-32": {
     "status": "offline",
@@ -100,8 +100,8 @@
     "since": 1774089183281
   },
   "xeonE548": {
-    "status": "online",
-    "since": 1774133847193
+    "status": "offline",
+    "since": 1774136057138
   },
   "xeonLOA": {
     "status": "offline",
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1774089183281,
+    "status": "online",
+    "since": 1774136057138,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "offline",
-    "since": 1774107316078,
+    "status": "online",
+    "since": 1774136057138,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1774103528130,
+    "status": "offline",
+    "since": 1774136057138,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1774130091999,
+    "status": "offline",
+    "since": 1774136057138,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -680,8 +680,8 @@
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "online",
-    "since": 1774094047187,
+    "status": "offline",
+    "since": 1774136057138,
     "first_seen": 1772390452999
   },
   "umt7T": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1774133847193,
+    "status": "offline",
+    "since": 1774136057138,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -860,13 +860,13 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1774130091999,
+    "status": "offline",
+    "since": 1774136057138,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1774103528130,
+    "status": "online",
+    "since": 1774136057138,
     "first_seen": 1773226388097
   },
   "amd78s": {
