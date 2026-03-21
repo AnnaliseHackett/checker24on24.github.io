@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1774049671766
+    "status": "online",
+    "since": 1774084903139
   },
   "XEON8H": {
     "status": "online",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1774080085766,
+    "status": "online",
+    "since": 1774084903139,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "offline",
-    "since": 1774082963693,
+    "status": "online",
+    "since": 1774084903139,
     "first_seen": 1771918204510
   },
   "w": {
@@ -430,8 +430,8 @@
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "online",
-    "since": 1774082963693,
+    "status": "offline",
+    "since": 1774084903139,
     "first_seen": 1771931250125
   },
   "y": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1774079096139,
+    "status": "online",
+    "since": 1774084903139,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -580,8 +580,8 @@
     "first_seen": 1772091016863
   },
   "light": {
-    "status": "offline",
-    "since": 1773828589399,
+    "status": "online",
+    "since": 1774084903139,
     "first_seen": 1772101563109
   },
   "panel": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "offline",
-    "since": 1774022220386,
+    "status": "online",
+    "since": 1774084903139,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -630,8 +630,8 @@
     "first_seen": 1772201190921
   },
   "ooo": {
-    "status": "online",
-    "since": 1774082963693,
+    "status": "offline",
+    "since": 1774084903139,
     "first_seen": 1772204263223
   },
   "i5146": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1774066838056,
+    "status": "online",
+    "since": 1774084903139,
     "first_seen": 1772895624848
   },
   "proxy": {
