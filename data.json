@@ -16,8 +16,8 @@
     "since": 1774082963693
   },
   "AMZ9HX32": {
-    "status": "offline",
-    "since": 1774041368592
+    "status": "online",
+    "since": 1774094047187
   },
   "bluestack": {
     "status": "online",
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "online",
-    "since": 1774060949110,
+    "status": "offline",
+    "since": 1774094047187,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1774090680522,
+    "status": "online",
+    "since": 1774094047187,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "offline",
-    "since": 1774022220386,
+    "status": "online",
+    "since": 1774094047187,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -395,8 +395,8 @@
     "first_seen": 1771924014596
   },
   "0x8": {
-    "status": "offline",
-    "since": 1773996889757,
+    "status": "online",
+    "since": 1774094047187,
     "first_seen": 1771927690320
   },
   "xeon3672": {
@@ -585,13 +585,13 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1774076507551,
+    "status": "offline",
+    "since": 1774094047187,
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "offline",
-    "since": 1774022220386,
+    "status": "online",
+    "since": 1774094047187,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -675,13 +675,13 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "offline",
-    "since": 1774089183281,
+    "status": "online",
+    "since": 1774094047187,
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "offline",
-    "since": 1774086876708,
+    "status": "online",
+    "since": 1774094047187,
     "first_seen": 1772390452999
   },
   "umt7T": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1774090680522,
+    "status": "offline",
+    "since": 1774094047187,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
