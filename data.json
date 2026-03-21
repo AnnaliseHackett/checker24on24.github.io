@@ -40,8 +40,8 @@
     "since": 1774079096139
   },
   "i7pubg": {
-    "status": "online",
-    "since": 1774080085766
+    "status": "offline",
+    "since": 1774089183281
   },
   "i929k": {
     "status": "online",
@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "online",
-    "since": 1774060949110
+    "status": "offline",
+    "since": 1774089183281
   },
   "x": {
     "status": "online",
@@ -96,8 +96,8 @@
     "since": 1774084903139
   },
   "XEON8H": {
-    "status": "online",
-    "since": 1774060949110
+    "status": "offline",
+    "since": 1774089183281
   },
   "xeonE548": {
     "status": "offline",
@@ -120,8 +120,8 @@
     "since": 1773139999824
   },
   "xeonVPS": {
-    "status": "offline",
-    "since": 1774086876708
+    "status": "online",
+    "since": 1774089183281
   },
   "E3": {
     "status": "offline",
@@ -160,13 +160,13 @@
     "first_seen": 1771887545391
   },
   "nhungoc": {
-    "status": "online",
-    "since": 1774076507551,
+    "status": "offline",
+    "since": 1774089183281,
     "first_seen": 1771890094719
   },
   "cftmon": {
-    "status": "online",
-    "since": 1774070850104,
+    "status": "offline",
+    "since": 1774089183281,
     "first_seen": 1771894415726
   },
   "excel": {
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "online",
-    "since": 1774073016442,
+    "status": "offline",
+    "since": 1774089183281,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -240,8 +240,8 @@
     "first_seen": 1771904259023
   },
   "i7120": {
-    "status": "online",
-    "since": 1774080085766,
+    "status": "offline",
+    "since": 1774089183281,
     "first_seen": 1771904259023
   },
   "i7127k": {
@@ -295,8 +295,8 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "online",
-    "since": 1774079096139,
+    "status": "offline",
+    "since": 1774089183281,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1774060949110,
+    "status": "online",
+    "since": 1774089183281,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -545,8 +545,8 @@
     "first_seen": 1772026925768
   },
   "xeon20": {
-    "status": "offline",
-    "since": 1774073016442,
+    "status": "online",
+    "since": 1774089183281,
     "first_seen": 1772026925768
   },
   "xeon528": {
@@ -580,8 +580,8 @@
     "first_seen": 1772091016863
   },
   "light": {
-    "status": "online",
-    "since": 1774084903139,
+    "status": "offline",
+    "since": 1774089183281,
     "first_seen": 1772101563109
   },
   "panel": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "offline",
-    "since": 1774086876708,
+    "status": "online",
+    "since": 1774089183281,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "online",
-    "since": 1774079096139,
+    "status": "offline",
+    "since": 1774089183281,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -730,8 +730,8 @@
     "first_seen": 1772506376749
   },
   "umt10": {
-    "status": "online",
-    "since": 1774060949110,
+    "status": "offline",
+    "since": 1774089183281,
     "first_seen": 1772513424370
   },
   "umt22": {
@@ -740,8 +740,8 @@
     "first_seen": 1772513424370
   },
   "umt5": {
-    "status": "online",
-    "since": 1774060949110,
+    "status": "offline",
+    "since": 1774089183281,
     "first_seen": 1772513424370
   },
   "umt21": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "online",
-    "since": 1774082963693,
+    "status": "offline",
+    "since": 1774089183281,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1774086876708,
+    "status": "offline",
+    "since": 1774089183281,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
