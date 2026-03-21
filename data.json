@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1774060949110,
+    "status": "offline",
+    "since": 1774105067068,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1774103528130,
+    "status": "offline",
+    "since": 1774105067068,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "online",
-    "since": 1774094047187,
+    "status": "offline",
+    "since": 1774105067068,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1774089183281,
+    "status": "offline",
+    "since": 1774105067068,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1774084903139,
+    "status": "offline",
+    "since": 1774105067068,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "online",
-    "since": 1774094047187,
+    "status": "offline",
+    "since": 1774105067068,
     "first_seen": 1772113352656
   },
   "i5v2": {
