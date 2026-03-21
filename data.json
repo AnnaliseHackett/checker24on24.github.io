@@ -72,8 +72,8 @@
     "since": 1774049671766
   },
   "tool1-2-2026": {
-    "status": "offline",
-    "since": 1774076507551
+    "status": "online",
+    "since": 1774086876708
   },
   "tool-8-2-2026": {
     "status": "online",
@@ -120,8 +120,8 @@
     "since": 1773139999824
   },
   "xeonVPS": {
-    "status": "online",
-    "since": 1774018954100
+    "status": "offline",
+    "since": 1774086876708
   },
   "E3": {
     "status": "offline",
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "online",
-    "since": 1774076507551,
+    "status": "offline",
+    "since": 1774086876708,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1774084903139,
+    "status": "offline",
+    "since": 1774086876708,
     "first_seen": 1771918204510
   },
   "w": {
@@ -535,8 +535,8 @@
     "first_seen": 1772015605036
   },
   "09799": {
-    "status": "offline",
-    "since": 1774012268389,
+    "status": "online",
+    "since": 1774086876708,
     "first_seen": 1772026925768
   },
   "laptop": {
@@ -595,8 +595,8 @@
     "first_seen": 1772113352656
   },
   "i5v2": {
-    "status": "online",
-    "since": 1774079096139,
+    "status": "offline",
+    "since": 1774086876708,
     "first_seen": 1772113352656
   },
   "1212026": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1774084903139,
+    "status": "offline",
+    "since": 1774086876708,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -680,8 +680,8 @@
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "online",
-    "since": 1774082963693,
+    "status": "offline",
+    "since": 1774086876708,
     "first_seen": 1772390452999
   },
   "umt7T": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1774084903139,
+    "status": "offline",
+    "since": 1774086876708,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1774070850104,
+    "status": "online",
+    "since": 1774086876708,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
