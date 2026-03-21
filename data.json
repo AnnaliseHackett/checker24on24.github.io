@@ -24,8 +24,8 @@
     "since": 1774118951088
   },
   "i5125": {
-    "status": "online",
-    "since": 1774122068603
+    "status": "offline",
+    "since": 1774130091999
   },
   "i5kf20": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1774090680522
+    "status": "online",
+    "since": 1774130091999
   },
   "XEON8H": {
     "status": "offline",
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1774103528130,
+    "status": "online",
+    "since": 1774130091999,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1774128903182,
+    "status": "online",
+    "since": 1774130091999,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -945,8 +945,8 @@
     "first_seen": 1773589622881
   },
   "amd758": {
-    "status": "online",
-    "since": 1774076507551,
+    "status": "offline",
+    "since": 1774130091999,
     "first_seen": 1773674262764
   },
   "i5T14": {
