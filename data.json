@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1774205683068,
+    "status": "offline",
+    "since": 1774216580263,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1774209163992,
+    "status": "online",
+    "since": 1774216580263,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1774213093845,
+    "status": "offline",
+    "since": 1774216580263,
     "first_seen": 1774213093845
   }
 }
