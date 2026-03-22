@@ -1,7 +1,7 @@
 {
   "15h": {
-    "status": "online",
-    "since": 1774205683068
+    "status": "offline",
+    "since": 1774223993099
   },
   "20CN": {
     "status": "online",
@@ -290,8 +290,8 @@
     "first_seen": 1771904259023
   },
   "sll": {
-    "status": "offline",
-    "since": 1774076507551,
+    "status": "online",
+    "since": 1774223993099,
     "first_seen": 1771904259023
   },
   "tool16": {
@@ -350,8 +350,8 @@
     "first_seen": 1771913721773
   },
   "nguye": {
-    "status": "offline",
-    "since": 1774195017617,
+    "status": "online",
+    "since": 1774223993099,
     "first_seen": 1771918204510
   },
   "thinkbad": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1774190012102,
+    "status": "offline",
+    "since": 1774223993099,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1774220311684,
+    "status": "offline",
+    "since": 1774223993099,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1774222653181,
+    "status": "offline",
+    "since": 1774223993099,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -545,8 +545,8 @@
     "first_seen": 1772026925768
   },
   "xeon20": {
-    "status": "online",
-    "since": 1774222653181,
+    "status": "offline",
+    "since": 1774223993099,
     "first_seen": 1772026925768
   },
   "xeon528": {
@@ -695,8 +695,8 @@
     "first_seen": 1772425676985
   },
   "umt2": {
-    "status": "offline",
-    "since": 1774066838056,
+    "status": "online",
+    "since": 1774223993099,
     "first_seen": 1772425676985
   },
   "umt3": {
@@ -780,8 +780,8 @@
     "first_seen": 1772630475350
   },
   "umt1": {
-    "status": "offline",
-    "since": 1774066838056,
+    "status": "online",
+    "since": 1774223993099,
     "first_seen": 1772686138313
   },
   "xeonShip": {
