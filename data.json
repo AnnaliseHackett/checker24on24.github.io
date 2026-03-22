@@ -132,8 +132,8 @@
     "since": 1774193772333
   },
   "i72028": {
-    "status": "online",
-    "since": 1774197663683
+    "status": "offline",
+    "since": 1774209163992
   },
   "xeonYEU": {
     "status": "offline",
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1774205683068,
+    "status": "offline",
+    "since": 1774209163992,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -945,8 +945,8 @@
     "first_seen": 1773589622881
   },
   "amd758": {
-    "status": "online",
-    "since": 1774195017617,
+    "status": "offline",
+    "since": 1774209163992,
     "first_seen": 1773674262764
   },
   "i5T14": {
