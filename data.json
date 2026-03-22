@@ -24,8 +24,8 @@
     "since": 1774205683068
   },
   "i5125": {
-    "status": "offline",
-    "since": 1774211675039
+    "status": "online",
+    "since": 1774213093845
   },
   "i5kf20": {
     "status": "offline",
@@ -540,8 +540,8 @@
     "first_seen": 1772026925768
   },
   "laptop": {
-    "status": "offline",
-    "since": 1774211675039,
+    "status": "online",
+    "since": 1774213093845,
     "first_seen": 1772026925768
   },
   "xeon20": {
@@ -1003,5 +1003,10 @@
     "status": "offline",
     "since": 1774205683068,
     "first_seen": 1774193772333
+  },
+  "T300": {
+    "status": "online",
+    "since": 1774213093845,
+    "first_seen": 1774213093845
   }
 }
