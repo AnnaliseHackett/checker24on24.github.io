@@ -76,8 +76,8 @@
     "since": 1774086876708
   },
   "tool-8-2-2026": {
-    "status": "online",
-    "since": 1774191539682
+    "status": "offline",
+    "since": 1774193772333
   },
   "toolAL23-2-2026": {
     "status": "offline",
@@ -128,8 +128,8 @@
     "since": 1773268441624
   },
   "i516p": {
-    "status": "online",
-    "since": 1774191539682
+    "status": "offline",
+    "since": 1774193772333
   },
   "i72028": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1774125505915,
+    "status": "online",
+    "since": 1774193772333,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -255,8 +255,8 @@
     "first_seen": 1771904259023
   },
   "i720m": {
-    "status": "offline",
-    "since": 1774176051234,
+    "status": "online",
+    "since": 1774193772333,
     "first_seen": 1771904259023
   },
   "i77": {
@@ -380,8 +380,8 @@
     "first_seen": 1771924014596
   },
   "DMU": {
-    "status": "online",
-    "since": 1774185126688,
+    "status": "offline",
+    "since": 1774193772333,
     "first_seen": 1771924014596
   },
   "manghinhL": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "offline",
-    "since": 1774191539682,
+    "status": "online",
+    "since": 1774193772333,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -435,13 +435,13 @@
     "first_seen": 1771931250125
   },
   "y": {
-    "status": "online",
-    "since": 1774177897626,
+    "status": "offline",
+    "since": 1774193772333,
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1774167537207,
+    "status": "online",
+    "since": 1774193772333,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -455,8 +455,8 @@
     "first_seen": 1771934133329
   },
   "+1": {
-    "status": "online",
-    "since": 1774190012102,
+    "status": "offline",
+    "since": 1774193772333,
     "first_seen": 1771939283101
   },
   "camera": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "offline",
-    "since": 1773942157749,
+    "status": "online",
+    "since": 1774193772333,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "online",
-    "since": 1774167537207,
+    "status": "offline",
+    "since": 1774193772333,
     "first_seen": 1774108506221
   },
   "i5L": {
@@ -998,5 +998,10 @@
     "status": "online",
     "since": 1774187712329,
     "first_seen": 1774187712329
+  },
+  "card": {
+    "status": "online",
+    "since": 1774193772333,
+    "first_seen": 1774193772333
   }
 }
