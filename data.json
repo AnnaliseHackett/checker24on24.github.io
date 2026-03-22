@@ -1,7 +1,7 @@
 {
   "15h": {
-    "status": "offline",
-    "since": 1774202505870
+    "status": "online",
+    "since": 1774205683068
   },
   "20CN": {
     "status": "online",
@@ -20,8 +20,8 @@
     "since": 1774190012102
   },
   "bluestack": {
-    "status": "online",
-    "since": 1774147856083
+    "status": "offline",
+    "since": 1774205683068
   },
   "i5125": {
     "status": "online",
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "online",
-    "since": 1774201526310,
+    "status": "offline",
+    "since": 1774205683068,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1773801700330,
+    "status": "offline",
+    "since": 1774205683068,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -415,8 +415,8 @@
     "first_seen": 1771931250125
   },
   "i7136": {
-    "status": "online",
-    "since": 1774180788998,
+    "status": "offline",
+    "since": 1774205683068,
     "first_seen": 1771931250125
   },
   "i7T": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "offline",
-    "since": 1774201526310,
+    "status": "online",
+    "since": 1774205683068,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1774165710040,
+    "status": "online",
+    "since": 1774205683068,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1774147856083,
+    "status": "online",
+    "since": 1774205683068,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -915,8 +915,8 @@
     "first_seen": 1773405428495
   },
   "zl16": {
-    "status": "offline",
-    "since": 1774202505870,
+    "status": "online",
+    "since": 1774205683068,
     "first_seen": 1773485176827
   },
   "i7gra": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "online",
-    "since": 1774165710040,
+    "status": "offline",
+    "since": 1774205683068,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -1000,8 +1000,8 @@
     "first_seen": 1774187712329
   },
   "card": {
-    "status": "online",
-    "since": 1774193772333,
+    "status": "offline",
+    "since": 1774205683068,
     "first_seen": 1774193772333
   }
 }
