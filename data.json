@@ -1,7 +1,7 @@
 {
   "15h": {
-    "status": "offline",
-    "since": 1774199573254
+    "status": "online",
+    "since": 1774201526310
   },
   "20CN": {
     "status": "online",
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "offline",
-    "since": 1774197663683,
+    "status": "online",
+    "since": 1774201526310,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1774199573254,
+    "status": "offline",
+    "since": 1774201526310,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -370,8 +370,8 @@
     "first_seen": 1771918204510
   },
   "L": {
-    "status": "online",
-    "since": 1774190012102,
+    "status": "offline",
+    "since": 1774201526310,
     "first_seen": 1771920460571
   },
   "amthanh": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1774193772333,
+    "status": "offline",
+    "since": 1774201526310,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -475,13 +475,13 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1774199573254,
+    "status": "offline",
+    "since": 1774201526310,
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1774176051234,
+    "status": "offline",
+    "since": 1774201526310,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -490,8 +490,8 @@
     "first_seen": 1771943661252
   },
   "xeonSL": {
-    "status": "online",
-    "since": 1774199573254,
+    "status": "offline",
+    "since": 1774201526310,
     "first_seen": 1771943661252
   },
   "mua5": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1774185126688,
+    "status": "offline",
+    "since": 1774201526310,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "offline",
-    "since": 1774199573254,
+    "status": "online",
+    "since": 1774201526310,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -680,8 +680,8 @@
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "offline",
-    "since": 1774185126688,
+    "status": "online",
+    "since": 1774201526310,
     "first_seen": 1772390452999
   },
   "umt7T": {
@@ -995,8 +995,8 @@
     "first_seen": 1774176051234
   },
   "tiktoknew": {
-    "status": "online",
-    "since": 1774187712329,
+    "status": "offline",
+    "since": 1774201526310,
     "first_seen": 1774187712329
   },
   "card": {
