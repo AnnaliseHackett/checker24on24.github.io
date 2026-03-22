@@ -12,12 +12,12 @@
     "since": 1774147856083
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1774162953372
+    "status": "offline",
+    "since": 1774167537207
   },
   "AMZ9HX32": {
-    "status": "offline",
-    "since": 1774137344013
+    "status": "online",
+    "since": 1774167537207
   },
   "bluestack": {
     "status": "online",
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1774162953372,
+    "status": "offline",
+    "since": 1774167537207,
     "first_seen": 1771918204510
   },
   "w": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1774155405225,
+    "status": "offline",
+    "since": 1774167537207,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "online",
-    "since": 1774162953372,
+    "status": "offline",
+    "since": 1774167537207,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "offline",
-    "since": 1774114571568,
+    "status": "online",
+    "since": 1774167537207,
     "first_seen": 1774108506221
   }
 }
