@@ -8,8 +8,8 @@
     "since": 1772982071167
   },
   "3672xeon": {
-    "status": "online",
-    "since": 1774215317824
+    "status": "offline",
+    "since": 1774302577905
   },
   "amz7profile": {
     "status": "offline",
@@ -68,8 +68,8 @@
     "since": 1774299851777
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1774256635320
+    "status": "offline",
+    "since": 1774302577905
   },
   "tool1-2-2026": {
     "status": "online",
@@ -350,8 +350,8 @@
     "first_seen": 1771913721773
   },
   "nguye": {
-    "status": "offline",
-    "since": 1774280734152,
+    "status": "online",
+    "since": 1774302577905,
     "first_seen": 1771918204510
   },
   "thinkbad": {
