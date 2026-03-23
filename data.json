@@ -12,8 +12,8 @@
     "since": 1774302577905
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1774299851777
+    "status": "online",
+    "since": 1774309578916
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -132,8 +132,8 @@
     "since": 1774273269248
   },
   "i72028": {
-    "status": "online",
-    "since": 1774304491688
+    "status": "offline",
+    "since": 1774309578916
   },
   "xeonYEU": {
     "status": "offline",
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1774248212124,
+    "status": "online",
+    "since": 1774309578916,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1774264285123,
+    "status": "offline",
+    "since": 1774309578916,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "offline",
-    "since": 1774223993099,
+    "status": "online",
+    "since": 1774309578916,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -545,8 +545,8 @@
     "first_seen": 1772026925768
   },
   "xeon20": {
-    "status": "offline",
-    "since": 1774273269248,
+    "status": "online",
+    "since": 1774309578916,
     "first_seen": 1772026925768
   },
   "xeon528": {
@@ -680,8 +680,8 @@
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "online",
-    "since": 1774273269248,
+    "status": "offline",
+    "since": 1774309578916,
     "first_seen": 1772390452999
   },
   "umt7T": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1774218895666,
+    "status": "offline",
+    "since": 1774309578916,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1774273269248,
+    "status": "online",
+    "since": 1774309578916,
     "first_seen": 1773226388097
   },
   "amd78s": {
