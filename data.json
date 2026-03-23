@@ -1,7 +1,7 @@
 {
   "15h": {
-    "status": "online",
-    "since": 1774243092616
+    "status": "offline",
+    "since": 1774290769902
   },
   "20CN": {
     "status": "online",
@@ -12,12 +12,12 @@
     "since": 1774215317824
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1774287485402
+    "status": "offline",
+    "since": 1774290769902
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1774252254019
+    "status": "offline",
+    "since": 1774290769902
   },
   "bluestack": {
     "status": "offline",
@@ -28,8 +28,8 @@
     "since": 1774213093845
   },
   "i5kf20": {
-    "status": "online",
-    "since": 1774248212124
+    "status": "offline",
+    "since": 1774290769902
   },
   "i711": {
     "status": "offline",
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1774277097409,
+    "status": "offline",
+    "since": 1774290769902,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "online",
-    "since": 1774277097409,
+    "status": "offline",
+    "since": 1774290769902,
     "first_seen": 1772808930371
   },
   "i728brute": {
@@ -880,8 +880,8 @@
     "first_seen": 1773283791154
   },
   "toolgmail": {
-    "status": "online",
-    "since": 1774264285123,
+    "status": "offline",
+    "since": 1774290769902,
     "first_seen": 1773283791154
   },
   "xeon24": {
@@ -905,8 +905,8 @@
     "first_seen": 1773333622678
   },
   "xeonVM": {
-    "status": "online",
-    "since": 1773910806948,
+    "status": "offline",
+    "since": 1774290769902,
     "first_seen": 1773389143975
   },
   "amz7sw": {
@@ -915,8 +915,8 @@
     "first_seen": 1773405428495
   },
   "zl16": {
-    "status": "online",
-    "since": 1774287485402,
+    "status": "offline",
+    "since": 1774290769902,
     "first_seen": 1773485176827
   },
   "i7gra": {
@@ -995,13 +995,13 @@
     "first_seen": 1774176051234
   },
   "tiktoknew": {
-    "status": "online",
-    "since": 1774287485402,
+    "status": "offline",
+    "since": 1774290769902,
     "first_seen": 1774187712329
   },
   "card": {
-    "status": "online",
-    "since": 1774273269248,
+    "status": "offline",
+    "since": 1774290769902,
     "first_seen": 1774193772333
   },
   "T300": {
