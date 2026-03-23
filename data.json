@@ -84,16 +84,16 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "online",
-    "since": 1774294445657
+    "status": "offline",
+    "since": 1774306830605
   },
   "x": {
     "status": "online",
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "online",
-    "since": 1774299851777
+    "status": "offline",
+    "since": 1774306830605
   },
   "XEON8H": {
     "status": "offline",
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1774287485402,
+    "status": "online",
+    "since": 1774306830605,
     "first_seen": 1771931250125
   },
   "pc": {
