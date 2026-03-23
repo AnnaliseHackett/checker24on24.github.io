@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "offline",
-    "since": 1774185126688
+    "status": "online",
+    "since": 1774266998220
   },
   "spacemarine": {
     "status": "online",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1774252254019
+    "status": "online",
+    "since": 1774266998220
   },
   "XEON8H": {
     "status": "offline",
@@ -170,8 +170,8 @@
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "offline",
-    "since": 1774260795760,
+    "status": "online",
+    "since": 1774266998220,
     "first_seen": 1771894415726
   },
   "i5plugin": {
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "online",
-    "since": 1774235986638,
+    "status": "offline",
+    "since": 1774266998220,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "offline",
-    "since": 1774264285123,
+    "status": "online",
+    "since": 1774266998220,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -380,8 +380,8 @@
     "first_seen": 1771924014596
   },
   "DMU": {
-    "status": "online",
-    "since": 1774260795760,
+    "status": "offline",
+    "since": 1774266998220,
     "first_seen": 1771924014596
   },
   "manghinhL": {
@@ -595,8 +595,8 @@
     "first_seen": 1772113352656
   },
   "i5v2": {
-    "status": "offline",
-    "since": 1774197663683,
+    "status": "online",
+    "since": 1774266998220,
     "first_seen": 1772113352656
   },
   "1212026": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "offline",
-    "since": 1774197663683,
+    "status": "online",
+    "since": 1774266998220,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -645,8 +645,8 @@
     "first_seen": 1772229650681
   },
   "i9fan": {
-    "status": "online",
-    "since": 1774235986638,
+    "status": "offline",
+    "since": 1774266998220,
     "first_seen": 1772269114612
   },
   "RX6600": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "offline",
-    "since": 1774248212124,
+    "status": "online",
+    "since": 1774266998220,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -970,8 +970,8 @@
     "first_seen": 1773968437686
   },
   "xeon26700": {
-    "status": "online",
-    "since": 1774264285123,
+    "status": "offline",
+    "since": 1774266998220,
     "first_seen": 1773983257584
   },
   "amz939": {
