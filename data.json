@@ -12,8 +12,8 @@
     "since": 1774215317824
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1774290769902
+    "status": "online",
+    "since": 1774297326738
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -120,8 +120,8 @@
     "since": 1773139999824
   },
   "xeonVPS": {
-    "status": "online",
-    "since": 1774284001014
+    "status": "offline",
+    "since": 1774297326738
   },
   "E3": {
     "status": "offline",
@@ -132,8 +132,8 @@
     "since": 1774273269248
   },
   "i72028": {
-    "status": "online",
-    "since": 1774280734152
+    "status": "offline",
+    "since": 1774297326738
   },
   "xeonYEU": {
     "status": "offline",
@@ -945,8 +945,8 @@
     "first_seen": 1773589622881
   },
   "amd758": {
-    "status": "online",
-    "since": 1774280734152,
+    "status": "offline",
+    "since": 1774297326738,
     "first_seen": 1773674262764
   },
   "i5T14": {
