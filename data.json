@@ -12,12 +12,12 @@
     "since": 1774329219904
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1774381127561
+    "status": "offline",
+    "since": 1774383835127
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1774368992366
+    "status": "offline",
+    "since": 1774383835127
   },
   "bluestack": {
     "status": "online",
@@ -32,8 +32,8 @@
     "since": 1774373269747
   },
   "i711": {
-    "status": "online",
-    "since": 1774377192421
+    "status": "offline",
+    "since": 1774383835127
   },
   "i7118": {
     "status": "online",
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1774340923894,
+    "status": "offline",
+    "since": 1774383835127,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -915,8 +915,8 @@
     "first_seen": 1773405428495
   },
   "zl16": {
-    "status": "online",
-    "since": 1774381127561,
+    "status": "offline",
+    "since": 1774383835127,
     "first_seen": 1773485176827
   },
   "i7gra": {
