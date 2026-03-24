@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1774373269747,
+    "status": "online",
+    "since": 1774393392103,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1774391850047,
+    "status": "online",
+    "since": 1774393392103,
     "first_seen": 1773226388097
   },
   "amd78s": {
