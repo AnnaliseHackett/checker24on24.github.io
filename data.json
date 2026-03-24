@@ -76,8 +76,8 @@
     "since": 1774344722060
   },
   "tool-8-2-2026": {
-    "status": "offline",
-    "since": 1774373269747
+    "status": "online",
+    "since": 1774391850047
   },
   "toolAL23-2-2026": {
     "status": "offline",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1774364635934,
+    "status": "offline",
+    "since": 1774391850047,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1774309578916,
+    "status": "offline",
+    "since": 1774391850047,
     "first_seen": 1773226388097
   },
   "amd78s": {
