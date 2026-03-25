@@ -12,8 +12,8 @@
     "since": 1774329219904
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1774386365700
+    "status": "offline",
+    "since": 1774427334426
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -32,8 +32,8 @@
     "since": 1774415749920
   },
   "i711": {
-    "status": "online",
-    "since": 1774423977738
+    "status": "offline",
+    "since": 1774427334426
   },
   "i7118": {
     "status": "online",
@@ -132,16 +132,16 @@
     "since": 1774344722060
   },
   "i72028": {
-    "status": "online",
-    "since": 1774419397086
+    "status": "offline",
+    "since": 1774427334426
   },
   "xeonYEU": {
     "status": "offline",
     "since": 1772116732672
   },
   "word": {
-    "status": "offline",
-    "since": 1774415749920,
+    "status": "online",
+    "since": 1774427334426,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -240,8 +240,8 @@
     "first_seen": 1771904259023
   },
   "i7120": {
-    "status": "offline",
-    "since": 1774348330933,
+    "status": "online",
+    "since": 1774427334426,
     "first_seen": 1771904259023
   },
   "i7127k": {
@@ -275,13 +275,13 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "offline",
-    "since": 1774415749920,
+    "status": "online",
+    "since": 1774427334426,
     "first_seen": 1771904259023
   },
   "print1": {
-    "status": "online",
-    "since": 1774423977738,
+    "status": "offline",
+    "since": 1774427334426,
     "first_seen": 1771904259023
   },
   "ryzen784u": {
@@ -295,13 +295,13 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "online",
-    "since": 1774423977738,
+    "status": "offline",
+    "since": 1774427334426,
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "offline",
-    "since": 1774415749920,
+    "status": "online",
+    "since": 1774427334426,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1774423977738,
+    "status": "offline",
+    "since": 1774427334426,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -1000,8 +1000,8 @@
     "first_seen": 1774187712329
   },
   "card": {
-    "status": "offline",
-    "since": 1774410161567,
+    "status": "online",
+    "since": 1774427334426,
     "first_seen": 1774193772333
   },
   "T300": {
@@ -1020,8 +1020,8 @@
     "first_seen": 1774248212124
   },
   "amz7435": {
-    "status": "offline",
-    "since": 1774423977738,
+    "status": "online",
+    "since": 1774427334426,
     "first_seen": 1774323394496
   }
 }
