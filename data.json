@@ -175,13 +175,13 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1774419397086,
+    "status": "online",
+    "since": 1774482582251,
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1774479824824,
+    "status": "offline",
+    "since": 1774482582251,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "offline",
-    "since": 1774463586280,
+    "status": "online",
+    "since": 1774482582251,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1774479824824,
+    "status": "offline",
+    "since": 1774482582251,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1774479824824,
+    "status": "offline",
+    "since": 1774482582251,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -915,8 +915,8 @@
     "first_seen": 1773405428495
   },
   "zl16": {
-    "status": "online",
-    "since": 1774459830227,
+    "status": "offline",
+    "since": 1774482582251,
     "first_seen": 1773485176827
   },
   "i7gra": {
