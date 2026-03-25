@@ -12,8 +12,8 @@
     "since": 1774329219904
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1774459830227
+    "status": "online",
+    "since": 1774469174183
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -68,8 +68,8 @@
     "since": 1774446507062
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1774438002441
+    "status": "offline",
+    "since": 1774469174183
   },
   "tool1-2-2026": {
     "status": "online",
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1774431102791,
+    "status": "offline",
+    "since": 1774469174183,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1774463586280,
+    "status": "offline",
+    "since": 1774469174183,
     "first_seen": 1771934133329
   },
   "meo": {
