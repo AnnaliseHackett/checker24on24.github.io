@@ -68,8 +68,8 @@
     "since": 1774446507062
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1774554360761
+    "status": "offline",
+    "since": 1774561489073
   },
   "tool1-2-2026": {
     "status": "online",
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1774558905016,
+    "status": "online",
+    "since": 1774561489073,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
