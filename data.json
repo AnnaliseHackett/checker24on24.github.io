@@ -12,8 +12,8 @@
     "since": 1774329219904
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1774558905016
+    "status": "offline",
+    "since": 1774565380951
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -76,8 +76,8 @@
     "since": 1774344722060
   },
   "tool-8-2-2026": {
-    "status": "offline",
-    "since": 1774520095042
+    "status": "online",
+    "since": 1774565380951
   },
   "toolAL23-2-2026": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "online",
-    "since": 1774477309896
+    "status": "offline",
+    "since": 1774565380951
   },
   "XEON8H": {
     "status": "offline",
@@ -145,8 +145,8 @@
     "first_seen": 1771872177555
   },
   "hieu": {
-    "status": "offline",
-    "since": 1774546918097,
+    "status": "online",
+    "since": 1774565380951,
     "first_seen": 1771884332768
   },
   "i93224": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1774543037371,
+    "status": "online",
+    "since": 1774565380951,
     "first_seen": 1773226388097
   },
   "amd78s": {
