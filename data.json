@@ -530,8 +530,8 @@
     "first_seen": 1772011924609
   },
   "xeon2696v2": {
-    "status": "online",
-    "since": 1774550600618,
+    "status": "offline",
+    "since": 1774556564693,
     "first_seen": 1772015605036
   },
   "09799": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1774554360761,
+    "status": "online",
+    "since": 1774556564693,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -915,8 +915,8 @@
     "first_seen": 1773405428495
   },
   "zl16": {
-    "status": "offline",
-    "since": 1774546918097,
+    "status": "online",
+    "since": 1774556564693,
     "first_seen": 1773485176827
   },
   "i7gra": {
