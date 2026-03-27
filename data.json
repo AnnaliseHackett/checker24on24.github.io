@@ -720,8 +720,8 @@
     "first_seen": 1772437053482
   },
   "tmp": {
-    "status": "online",
-    "since": 1774395920965,
+    "status": "offline",
+    "since": 1774639695940,
     "first_seen": 1772461962322
   },
   "UMT33": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1774636448118,
+    "status": "online",
+    "since": 1774639695940,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -915,8 +915,8 @@
     "first_seen": 1773405428495
   },
   "zl16": {
-    "status": "online",
-    "since": 1774618922616,
+    "status": "offline",
+    "since": 1774639695940,
     "first_seen": 1773485176827
   },
   "i7gra": {
