@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1774644863069,
+    "status": "online",
+    "since": 1774649761805,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -295,8 +295,8 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "offline",
-    "since": 1774644863069,
+    "status": "online",
+    "since": 1774649761805,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -530,8 +530,8 @@
     "first_seen": 1772011924609
   },
   "xeon2696v2": {
-    "status": "offline",
-    "since": 1774641701361,
+    "status": "online",
+    "since": 1774649761805,
     "first_seen": 1772015605036
   },
   "09799": {
