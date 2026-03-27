@@ -128,8 +128,8 @@
     "since": 1773268441624
   },
   "i516p": {
-    "status": "online",
-    "since": 1774477309896
+    "status": "offline",
+    "since": 1774654749028
   },
   "i72028": {
     "status": "offline",
@@ -145,8 +145,8 @@
     "first_seen": 1771872177555
   },
   "hieu": {
-    "status": "offline",
-    "since": 1774629329468,
+    "status": "online",
+    "since": 1774654749028,
     "first_seen": 1771884332768
   },
   "i93224": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1774647654739,
+    "status": "online",
+    "since": 1774654749028,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1774622431792,
+    "status": "online",
+    "since": 1774654749028,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -915,8 +915,8 @@
     "first_seen": 1773405428495
   },
   "zl16": {
-    "status": "online",
-    "since": 1774644863069,
+    "status": "offline",
+    "since": 1774654749028,
     "first_seen": 1773485176827
   },
   "i7gra": {
