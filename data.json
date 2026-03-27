@@ -12,8 +12,8 @@
     "since": 1774618922616
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1774644863069
+    "status": "online",
+    "since": 1774647654739
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1774644863069
+    "status": "offline",
+    "since": 1774647654739
   },
   "spacemarine": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1774607478181
+    "status": "online",
+    "since": 1774647654739
   },
   "XEON8H": {
     "status": "online",
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1774644863069,
+    "status": "offline",
+    "since": 1774647654739,
     "first_seen": 1772895624848
   },
   "proxy": {
