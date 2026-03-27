@@ -12,8 +12,8 @@
     "since": 1774618922616
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1774618922616
+    "status": "online",
+    "since": 1774641701361
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1774622431792,
+    "status": "offline",
+    "since": 1774641701361,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -530,8 +530,8 @@
     "first_seen": 1772011924609
   },
   "xeon2696v2": {
-    "status": "online",
-    "since": 1774632823548,
+    "status": "offline",
+    "since": 1774641701361,
     "first_seen": 1772015605036
   },
   "09799": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1774639695940,
+    "status": "offline",
+    "since": 1774641701361,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -905,8 +905,8 @@
     "first_seen": 1773333622678
   },
   "xeonVM": {
-    "status": "online",
-    "since": 1774636448118,
+    "status": "offline",
+    "since": 1774641701361,
     "first_seen": 1773389143975
   },
   "amz7sw": {
