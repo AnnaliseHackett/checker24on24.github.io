@@ -132,8 +132,8 @@
     "since": 1774712996386
   },
   "i72028": {
-    "status": "offline",
-    "since": 1774682220104
+    "status": "online",
+    "since": 1774717302704
   },
   "xeonYEU": {
     "status": "offline",
@@ -295,8 +295,8 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "offline",
-    "since": 1774714942798,
+    "status": "online",
+    "since": 1774717302704,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1774710998669,
+    "status": "offline",
+    "since": 1774717302704,
     "first_seen": 1771918204510
   },
   "w": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "offline",
-    "since": 1774287485402,
+    "status": "online",
+    "since": 1774717302704,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -445,8 +445,8 @@
     "first_seen": 1771934133329
   },
   "meo": {
-    "status": "online",
-    "since": 1774667680573,
+    "status": "offline",
+    "since": 1774717302704,
     "first_seen": 1771934133329
   },
   "xeonutra": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1774714942798,
+    "status": "offline",
+    "since": 1774717302704,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -595,8 +595,8 @@
     "first_seen": 1772113352656
   },
   "i5v2": {
-    "status": "online",
-    "since": 1774709131903,
+    "status": "offline",
+    "since": 1774717302704,
     "first_seen": 1772113352656
   },
   "1212026": {
@@ -610,8 +610,8 @@
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "offline",
-    "since": 1774455264667,
+    "status": "online",
+    "since": 1774717302704,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
@@ -905,8 +905,8 @@
     "first_seen": 1773333622678
   },
   "xeonVM": {
-    "status": "online",
-    "since": 1774667680573,
+    "status": "offline",
+    "since": 1774717302704,
     "first_seen": 1773389143975
   },
   "amz7sw": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "offline",
-    "since": 1774712996386,
+    "status": "online",
+    "since": 1774717302704,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1020,8 +1020,8 @@
     "first_seen": 1774248212124
   },
   "amz7435": {
-    "status": "online",
-    "since": 1774703623610,
+    "status": "offline",
+    "since": 1774717302704,
     "first_seen": 1774323394496
   },
   "i5p": {
@@ -1030,8 +1030,8 @@
     "first_seen": 1774431102791
   },
   "toolMB": {
-    "status": "online",
-    "since": 1774703623610,
+    "status": "offline",
+    "since": 1774717302704,
     "first_seen": 1774446507062
   },
   "dual99": {
