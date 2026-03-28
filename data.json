@@ -128,8 +128,8 @@
     "since": 1773268441624
   },
   "i516p": {
-    "status": "offline",
-    "since": 1774654749028
+    "status": "online",
+    "since": 1774697569513
   },
   "i72028": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1774667680573,
+    "status": "offline",
+    "since": 1774697569513,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "offline",
-    "since": 1774690946025,
+    "status": "online",
+    "since": 1774697569513,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -420,13 +420,13 @@
     "first_seen": 1771931250125
   },
   "i7T": {
-    "status": "online",
-    "since": 1774695259892,
+    "status": "offline",
+    "since": 1774697569513,
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1774656012636,
+    "status": "online",
+    "since": 1774697569513,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -455,8 +455,8 @@
     "first_seen": 1771934133329
   },
   "+1": {
-    "status": "online",
-    "since": 1774682220104,
+    "status": "offline",
+    "since": 1774697569513,
     "first_seen": 1771939283101
   },
   "camera": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1774693042560,
+    "status": "offline",
+    "since": 1774697569513,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "offline",
-    "since": 1774693042560,
+    "status": "online",
+    "since": 1774697569513,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1774695259892,
+    "status": "online",
+    "since": 1774697569513,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -915,8 +915,8 @@
     "first_seen": 1773405428495
   },
   "zl16": {
-    "status": "online",
-    "since": 1774690946025,
+    "status": "offline",
+    "since": 1774697569513,
     "first_seen": 1773485176827
   },
   "i7gra": {
