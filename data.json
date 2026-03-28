@@ -12,8 +12,8 @@
     "since": 1774667680573
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1774674386320
+    "status": "offline",
+    "since": 1774687983470
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -170,8 +170,8 @@
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "offline",
-    "since": 1774684629276,
+    "status": "online",
+    "since": 1774687983470,
     "first_seen": 1771894415726
   },
   "i5plugin": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1774682220104,
+    "status": "offline",
+    "since": 1774687983470,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "offline",
-    "since": 1774684629276,
+    "status": "online",
+    "since": 1774687983470,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "offline",
-    "since": 1774674386320,
+    "status": "online",
+    "since": 1774687983470,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1774674386320,
+    "status": "offline",
+    "since": 1774687983470,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1774667680573,
+    "status": "offline",
+    "since": 1774687983470,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1774674386320,
+    "status": "offline",
+    "since": 1774687983470,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -720,8 +720,8 @@
     "first_seen": 1772437053482
   },
   "tmp": {
-    "status": "online",
-    "since": 1774678210079,
+    "status": "offline",
+    "since": 1774687983470,
     "first_seen": 1772461962322
   },
   "UMT33": {
@@ -910,13 +910,13 @@
     "first_seen": 1773389143975
   },
   "amz7sw": {
-    "status": "offline",
-    "since": 1774674386320,
+    "status": "online",
+    "since": 1774687983470,
     "first_seen": 1773405428495
   },
   "zl16": {
-    "status": "online",
-    "since": 1774682220104,
+    "status": "offline",
+    "since": 1774687983470,
     "first_seen": 1773485176827
   },
   "i7gra": {
