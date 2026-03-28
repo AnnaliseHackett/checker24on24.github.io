@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1774709131903,
+    "status": "offline",
+    "since": 1774726972673,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -905,8 +905,8 @@
     "first_seen": 1773333622678
   },
   "xeonVM": {
-    "status": "online",
-    "since": 1774719923769,
+    "status": "offline",
+    "since": 1774726972673,
     "first_seen": 1773389143975
   },
   "amz7sw": {
