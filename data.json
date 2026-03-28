@@ -1,7 +1,7 @@
 {
   "15h": {
-    "status": "online",
-    "since": 1774682220104
+    "status": "offline",
+    "since": 1774684629276
   },
   "20CN": {
     "status": "online",
@@ -170,8 +170,8 @@
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "online",
-    "since": 1774678210079,
+    "status": "offline",
+    "since": 1774684629276,
     "first_seen": 1771894415726
   },
   "i5plugin": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1774682220104,
+    "status": "offline",
+    "since": 1774684629276,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1774667680573,
+    "status": "offline",
+    "since": 1774684629276,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "online",
-    "since": 1774682220104,
+    "status": "offline",
+    "since": 1774684629276,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -350,8 +350,8 @@
     "first_seen": 1771913721773
   },
   "nguye": {
-    "status": "online",
-    "since": 1774656012636,
+    "status": "offline",
+    "since": 1774684629276,
     "first_seen": 1771918204510
   },
   "thinkbad": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1774674386320,
+    "status": "online",
+    "since": 1774684629276,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -545,8 +545,8 @@
     "first_seen": 1772026925768
   },
   "xeon20": {
-    "status": "offline",
-    "since": 1774674386320,
+    "status": "online",
+    "since": 1774684629276,
     "first_seen": 1772026925768
   },
   "xeon528": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1774682220104,
+    "status": "offline",
+    "since": 1774684629276,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
