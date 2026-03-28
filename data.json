@@ -128,8 +128,8 @@
     "since": 1773268441624
   },
   "i516p": {
-    "status": "online",
-    "since": 1774697569513
+    "status": "offline",
+    "since": 1774698979937
   },
   "i72028": {
     "status": "offline",
@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "offline",
-    "since": 1774695259892,
+    "status": "online",
+    "since": 1774698979937,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -505,8 +505,8 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "offline",
-    "since": 1774682220104,
+    "status": "online",
+    "since": 1774698979937,
     "first_seen": 1771951499378
   },
   "2112026t4": {
@@ -585,13 +585,13 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1774678210079,
+    "status": "offline",
+    "since": 1774698979937,
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "offline",
-    "since": 1774613156473,
+    "status": "online",
+    "since": 1774698979937,
     "first_seen": 1772113352656
   },
   "i5v2": {
