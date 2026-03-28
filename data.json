@@ -68,8 +68,8 @@
     "since": 1774712996386
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1774709131903
+    "status": "offline",
+    "since": 1774728852836
   },
   "tool1-2-2026": {
     "status": "online",
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1774712996386,
+    "status": "offline",
+    "since": 1774728852836,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1774717302704,
+    "status": "offline",
+    "since": 1774728852836,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -580,8 +580,8 @@
     "first_seen": 1772091016863
   },
   "light": {
-    "status": "online",
-    "since": 1774714942798,
+    "status": "offline",
+    "since": 1774728852836,
     "first_seen": 1772101563109
   },
   "panel": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1774703623610,
+    "status": "offline",
+    "since": 1774728852836,
     "first_seen": 1772218383298
   },
   "xeon2670": {
