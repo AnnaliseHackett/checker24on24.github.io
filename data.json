@@ -68,8 +68,8 @@
     "since": 1774647654739
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1774618922616
+    "status": "online",
+    "since": 1774695259892
   },
   "tool1-2-2026": {
     "status": "online",
@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1774632823548,
+    "status": "offline",
+    "since": 1774695259892,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -165,13 +165,13 @@
     "first_seen": 1771890094719
   },
   "cftmon": {
-    "status": "online",
-    "since": 1774678210079,
+    "status": "offline",
+    "since": 1774695259892,
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "online",
-    "since": 1774687983470,
+    "status": "offline",
+    "since": 1774695259892,
     "first_seen": 1771894415726
   },
   "i5plugin": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1774690946025,
+    "status": "offline",
+    "since": 1774695259892,
     "first_seen": 1771918204510
   },
   "w": {
@@ -420,8 +420,8 @@
     "first_seen": 1771931250125
   },
   "i7T": {
-    "status": "offline",
-    "since": 1774610852353,
+    "status": "online",
+    "since": 1774695259892,
     "first_seen": 1771931250125
   },
   "msitool": {
@@ -435,8 +435,8 @@
     "first_seen": 1771931250125
   },
   "y": {
-    "status": "offline",
-    "since": 1774632823548,
+    "status": "online",
+    "since": 1774695259892,
     "first_seen": 1771931250125
   },
   "i5Te": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "offline",
-    "since": 1774636448118,
+    "status": "online",
+    "since": 1774695259892,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -535,8 +535,8 @@
     "first_seen": 1772015605036
   },
   "09799": {
-    "status": "offline",
-    "since": 1774678210079,
+    "status": "online",
+    "since": 1774695259892,
     "first_seen": 1772026925768
   },
   "laptop": {
@@ -680,8 +680,8 @@
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "online",
-    "since": 1774690946025,
+    "status": "offline",
+    "since": 1774695259892,
     "first_seen": 1772390452999
   },
   "umt7T": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1774690946025,
+    "status": "offline",
+    "since": 1774695259892,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
