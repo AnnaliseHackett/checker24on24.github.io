@@ -16,16 +16,16 @@
     "since": 1774805793590
   },
   "AMZ9HX32": {
-    "status": "offline",
-    "since": 1774768285865
+    "status": "online",
+    "since": 1774824579022
   },
   "bluestack": {
     "status": "offline",
     "since": 1774800090284
   },
   "i5125": {
-    "status": "offline",
-    "since": 1774821626151
+    "status": "online",
+    "since": 1774824579022
   },
   "i5kf20": {
     "status": "offline",
@@ -68,12 +68,12 @@
     "since": 1774785539209
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1774820249740
+    "status": "offline",
+    "since": 1774824579022
   },
   "tool1-2-2026": {
-    "status": "online",
-    "since": 1774763516272
+    "status": "offline",
+    "since": 1774824579022
   },
   "tool-8-2-2026": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1774768285865
+    "status": "online",
+    "since": 1774824579022
   },
   "XEON8H": {
     "status": "offline",
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1774795903114,
+    "status": "online",
+    "since": 1774824579022,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1774798644565,
+    "status": "online",
+    "since": 1774824579022,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1774717302704,
+    "status": "offline",
+    "since": 1774824579022,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
