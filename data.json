@@ -84,16 +84,16 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "offline",
-    "since": 1774805793590
+    "status": "online",
+    "since": 1774826552225
   },
   "x": {
     "status": "online",
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "online",
-    "since": 1774824579022
+    "status": "offline",
+    "since": 1774826552225
   },
   "XEON8H": {
     "status": "offline",
@@ -145,8 +145,8 @@
     "first_seen": 1771872177555
   },
   "hieu": {
-    "status": "offline",
-    "since": 1774805793590,
+    "status": "online",
+    "since": 1774826552225,
     "first_seen": 1771884332768
   },
   "i93224": {
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "offline",
-    "since": 1774795903114,
+    "status": "online",
+    "since": 1774826552225,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1774824579022,
+    "status": "offline",
+    "since": 1774826552225,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -610,8 +610,8 @@
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "offline",
-    "since": 1774807288783,
+    "status": "online",
+    "since": 1774826552225,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1774800090284,
+    "status": "offline",
+    "since": 1774826552225,
     "first_seen": 1772895624848
   },
   "proxy": {
