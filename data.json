@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1774741513414,
+    "status": "offline",
+    "since": 1774815336663,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -905,8 +905,8 @@
     "first_seen": 1773333622678
   },
   "xeonVM": {
-    "status": "online",
-    "since": 1774810876490,
+    "status": "offline",
+    "since": 1774815336663,
     "first_seen": 1773389143975
   },
   "amz7sw": {
