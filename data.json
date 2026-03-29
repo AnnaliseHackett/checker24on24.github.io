@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "online",
-    "since": 1774746300336
+    "status": "offline",
+    "since": 1774779528443
   },
   "x": {
     "status": "online",
@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1774698979937,
+    "status": "offline",
+    "since": 1774779528443,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -235,8 +235,8 @@
     "first_seen": 1771904259023
   },
   "i5D": {
-    "status": "online",
-    "since": 1774757402240,
+    "status": "offline",
+    "since": 1774779528443,
     "first_seen": 1771904259023
   },
   "i7120": {
@@ -270,13 +270,13 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "offline",
-    "since": 1774777397226,
+    "status": "online",
+    "since": 1774779528443,
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "online",
-    "since": 1774777397226,
+    "status": "offline",
+    "since": 1774779528443,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "online",
-    "since": 1774768285865,
+    "status": "offline",
+    "since": 1774779528443,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -375,13 +375,13 @@
     "first_seen": 1771920460571
   },
   "amthanh": {
-    "status": "offline",
-    "since": 1774768285865,
+    "status": "online",
+    "since": 1774779528443,
     "first_seen": 1771924014596
   },
   "DMU": {
-    "status": "online",
-    "since": 1774774470146,
+    "status": "offline",
+    "since": 1774779528443,
     "first_seen": 1771924014596
   },
   "manghinhL": {
@@ -565,8 +565,8 @@
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "online",
-    "since": 1774757402240,
+    "status": "offline",
+    "since": 1774779528443,
     "first_seen": 1772076874941
   },
   "i728p": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "online",
-    "since": 1774777397226,
+    "status": "offline",
+    "since": 1774779528443,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -1030,8 +1030,8 @@
     "first_seen": 1774431102791
   },
   "toolMB": {
-    "status": "online",
-    "since": 1774757402240,
+    "status": "offline",
+    "since": 1774779528443,
     "first_seen": 1774446507062
   },
   "dual99": {
