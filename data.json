@@ -36,8 +36,8 @@
     "since": 1774795903114
   },
   "i7118": {
-    "status": "offline",
-    "since": 1774792933502
+    "status": "online",
+    "since": 1774807288783
   },
   "i7pubg": {
     "status": "offline",
@@ -56,8 +56,8 @@
     "since": 1774737597867
   },
   "loginfailed": {
-    "status": "online",
-    "since": 1774805793590
+    "status": "offline",
+    "since": 1774807288783
   },
   "note": {
     "status": "online",
@@ -100,8 +100,8 @@
     "since": 1774667680573
   },
   "xeonE548": {
-    "status": "online",
-    "since": 1774438002441
+    "status": "offline",
+    "since": 1774807288783
   },
   "xeonLOA": {
     "status": "online",
@@ -165,8 +165,8 @@
     "first_seen": 1771890094719
   },
   "cftmon": {
-    "status": "online",
-    "since": 1774798644565,
+    "status": "offline",
+    "since": 1774807288783,
     "first_seen": 1771894415726
   },
   "excel": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1774805793590,
+    "status": "offline",
+    "since": 1774807288783,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -610,8 +610,8 @@
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "online",
-    "since": 1774784233709,
+    "status": "offline",
+    "since": 1774807288783,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "online",
-    "since": 1774763516272,
+    "status": "offline",
+    "since": 1774807288783,
     "first_seen": 1772808930371
   },
   "i728brute": {
