@@ -92,16 +92,16 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "online",
-    "since": 1774908273961
+    "status": "offline",
+    "since": 1774914048048
   },
   "XEON8H": {
     "status": "offline",
     "since": 1774667680573
   },
   "xeonE548": {
-    "status": "online",
-    "since": 1774888954500
+    "status": "offline",
+    "since": 1774914048048
   },
   "xeonLOA": {
     "status": "online",
@@ -295,8 +295,8 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "offline",
-    "since": 1774911282073,
+    "status": "online",
+    "since": 1774914048048,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -610,8 +610,8 @@
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "offline",
-    "since": 1774888954500,
+    "status": "online",
+    "since": 1774914048048,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1774905911300,
+    "status": "online",
+    "since": 1774914048048,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1774880174175,
+    "status": "online",
+    "since": 1774914048048,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1010,13 +1010,13 @@
     "first_seen": 1774213093845
   },
   "ToolHM2": {
-    "status": "offline",
-    "since": 1774880174175,
+    "status": "online",
+    "since": 1774914048048,
     "first_seen": 1774248212124
   },
   "ToolHM3": {
-    "status": "offline",
-    "since": 1774880174175,
+    "status": "online",
+    "since": 1774914048048,
     "first_seen": 1774248212124
   },
   "amz7435": {
