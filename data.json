@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "online",
-    "since": 1774892434804
+    "status": "offline",
+    "since": 1774902658137
   },
   "x": {
     "status": "online",
@@ -132,8 +132,8 @@
     "since": 1774892434804
   },
   "i72028": {
-    "status": "online",
-    "since": 1774888954500
+    "status": "offline",
+    "since": 1774902658137
   },
   "xeonYEU": {
     "status": "offline",
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1774849878061,
+    "status": "offline",
+    "since": 1774902658137,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1774888954500,
+    "status": "online",
+    "since": 1774902658137,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1774892434804,
+    "status": "online",
+    "since": 1774902658137,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1774896048327,
+    "status": "online",
+    "since": 1774902658137,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
