@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "offline",
-    "since": 1774971643111,
+    "status": "online",
+    "since": 1774999163995,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1774975329240,
+    "status": "online",
+    "since": 1774999163995,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1774971643111,
+    "status": "online",
+    "since": 1774999163995,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1010,13 +1010,13 @@
     "first_seen": 1774213093845
   },
   "ToolHM2": {
-    "status": "offline",
-    "since": 1774982457322,
+    "status": "online",
+    "since": 1774999163995,
     "first_seen": 1774248212124
   },
   "ToolHM3": {
-    "status": "offline",
-    "since": 1774960794527,
+    "status": "online",
+    "since": 1774999163995,
     "first_seen": 1774248212124
   },
   "amz7435": {
