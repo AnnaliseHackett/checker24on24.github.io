@@ -28,8 +28,8 @@
     "since": 1774971643111
   },
   "i5kf20": {
-    "status": "online",
-    "since": 1774930001029
+    "status": "offline",
+    "since": 1774975329240
   },
   "i711": {
     "status": "online",
@@ -56,8 +56,8 @@
     "since": 1774849878061
   },
   "loginfailed": {
-    "status": "online",
-    "since": 1774971643111
+    "status": "offline",
+    "since": 1774975329240
   },
   "note": {
     "status": "online",
@@ -76,8 +76,8 @@
     "since": 1774874585112
   },
   "tool-8-2-2026": {
-    "status": "online",
-    "since": 1774966632160
+    "status": "offline",
+    "since": 1774975329240
   },
   "toolAL23-2-2026": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1774971643111,
+    "status": "online",
+    "since": 1774975329240,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -165,8 +165,8 @@
     "first_seen": 1771890094719
   },
   "cftmon": {
-    "status": "offline",
-    "since": 1774960794527,
+    "status": "online",
+    "since": 1774975329240,
     "first_seen": 1771894415726
   },
   "excel": {
@@ -250,13 +250,13 @@
     "first_seen": 1771904259023
   },
   "i7128": {
-    "status": "offline",
-    "since": 1774892434804,
+    "status": "online",
+    "since": 1774975329240,
     "first_seen": 1771904259023
   },
   "i720m": {
-    "status": "online",
-    "since": 1774960794527,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1771904259023
   },
   "i77": {
@@ -305,8 +305,8 @@
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "offline",
-    "since": 1774936395726,
+    "status": "online",
+    "since": 1774975329240,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1774930001029,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -370,8 +370,8 @@
     "first_seen": 1771918204510
   },
   "L": {
-    "status": "online",
-    "since": 1774966632160,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1771920460571
   },
   "amthanh": {
@@ -380,8 +380,8 @@
     "first_seen": 1771924014596
   },
   "DMU": {
-    "status": "online",
-    "since": 1774971643111,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1771924014596
   },
   "manghinhL": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1774966632160,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1774971643111,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -505,8 +505,8 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "online",
-    "since": 1774966632160,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1771951499378
   },
   "2112026t4": {
@@ -530,8 +530,8 @@
     "first_seen": 1772011924609
   },
   "xeon2696v2": {
-    "status": "online",
-    "since": 1774930001029,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1772015605036
   },
   "09799": {
@@ -580,13 +580,13 @@
     "first_seen": 1772091016863
   },
   "light": {
-    "status": "online",
-    "since": 1774971643111,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1774936395726,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -595,8 +595,8 @@
     "first_seen": 1772113352656
   },
   "i5v2": {
-    "status": "online",
-    "since": 1774960794527,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1772113352656
   },
   "1212026": {
@@ -605,8 +605,8 @@
     "first_seen": 1772116732672
   },
   "i5ssd": {
-    "status": "online",
-    "since": 1774960794527,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1772116732672
   },
   "YEU": {
@@ -640,8 +640,8 @@
     "first_seen": 1772218383298
   },
   "xeon2670": {
-    "status": "online",
-    "since": 1774966632160,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1772229650681
   },
   "i9fan": {
@@ -650,8 +650,8 @@
     "first_seen": 1772269114612
   },
   "RX6600": {
-    "status": "online",
-    "since": 1774966632160,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1772274533780
   },
   "i71818": {
@@ -715,13 +715,13 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "online",
-    "since": 1774966632160,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1772437053482
   },
   "tmp": {
-    "status": "online",
-    "since": 1774690946025,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1772461962322
   },
   "UMT33": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "online",
-    "since": 1774960794527,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1774950306762,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -985,8 +985,8 @@
     "first_seen": 1774172329547
   },
   "tiktok": {
-    "status": "online",
-    "since": 1774971643111,
+    "status": "offline",
+    "since": 1774975329240,
     "first_seen": 1774172329547
   },
   "amz74800": {
@@ -1043,5 +1043,15 @@
     "status": "offline",
     "since": 1774971643111,
     "first_seen": 1774957026104
+  },
+  "link": {
+    "status": "online",
+    "since": 1774975329240,
+    "first_seen": 1774975329240
+  },
+  "td": {
+    "status": "online",
+    "since": 1774975329240,
+    "first_seen": 1774975329240
   }
 }
