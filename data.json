@@ -68,8 +68,8 @@
     "since": 1774936395726
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1774986230614
+    "status": "offline",
+    "since": 1774994146097
   },
   "tool1-2-2026": {
     "status": "online",
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1774991386989,
+    "status": "online",
+    "since": 1774994146097,
     "first_seen": 1772895624848
   },
   "proxy": {
