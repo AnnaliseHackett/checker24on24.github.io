@@ -16,8 +16,8 @@
     "since": 1775073957314
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1775053259702
+    "status": "offline",
+    "since": 1775080557890
   },
   "bluestack": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1775053259702
+    "status": "online",
+    "since": 1775080557890
   },
   "XEON8H": {
     "status": "offline",
@@ -295,8 +295,8 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "online",
-    "since": 1775073957314,
+    "status": "offline",
+    "since": 1775080557890,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -385,8 +385,8 @@
     "first_seen": 1771924014596
   },
   "manghinhL": {
-    "status": "online",
-    "since": 1775062899561,
+    "status": "offline",
+    "since": 1775080557890,
     "first_seen": 1771924014596
   },
   "ryzen5U": {
@@ -445,8 +445,8 @@
     "first_seen": 1771934133329
   },
   "meo": {
-    "status": "online",
-    "since": 1775062899561,
+    "status": "offline",
+    "since": 1775080557890,
     "first_seen": 1771934133329
   },
   "xeonutra": {
@@ -535,8 +535,8 @@
     "first_seen": 1772015605036
   },
   "09799": {
-    "status": "online",
-    "since": 1775077218504,
+    "status": "offline",
+    "since": 1775080557890,
     "first_seen": 1772026925768
   },
   "laptop": {
