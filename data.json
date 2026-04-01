@@ -12,16 +12,16 @@
     "since": 1775058800783
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1775071198217
+    "status": "offline",
+    "since": 1775073957314
   },
   "AMZ9HX32": {
     "status": "online",
     "since": 1775053259702
   },
   "bluestack": {
-    "status": "online",
-    "since": 1775043585350
+    "status": "offline",
+    "since": 1775073957314
   },
   "i5125": {
     "status": "online",
@@ -132,8 +132,8 @@
     "since": 1775058800783
   },
   "i72028": {
-    "status": "online",
-    "since": 1775058800783
+    "status": "offline",
+    "since": 1775073957314
   },
   "xeonYEU": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1775058800783,
+    "status": "offline",
+    "since": 1775073957314,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -295,8 +295,8 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "offline",
-    "since": 1775066460174,
+    "status": "online",
+    "since": 1775073957314,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -555,8 +555,8 @@
     "first_seen": 1772026925768
   },
   "12thsql": {
-    "status": "online",
-    "since": 1775066460174,
+    "status": "offline",
+    "since": 1775073957314,
     "first_seen": 1772030425253
   },
   "baroi": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1775062899561,
+    "status": "offline",
+    "since": 1775073957314,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -905,8 +905,8 @@
     "first_seen": 1773333622678
   },
   "xeonVM": {
-    "status": "online",
-    "since": 1774930001029,
+    "status": "offline",
+    "since": 1775073957314,
     "first_seen": 1773389143975
   },
   "amz7sw": {
