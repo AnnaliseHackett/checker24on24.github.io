@@ -535,8 +535,8 @@
     "first_seen": 1772015605036
   },
   "09799": {
-    "status": "offline",
-    "since": 1775058800783,
+    "status": "online",
+    "since": 1775077218504,
     "first_seen": 1772026925768
   },
   "laptop": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1775071198217,
+    "status": "offline",
+    "since": 1775077218504,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -800,8 +800,8 @@
     "first_seen": 1772811897961
   },
   "ResidentEvilRequiem72": {
-    "status": "online",
-    "since": 1775036827493,
+    "status": "offline",
+    "since": 1775077218504,
     "first_seen": 1772814154131
   },
   "z": {
