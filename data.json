@@ -76,16 +76,16 @@
     "since": 1775036827493
   },
   "tool-8-2-2026": {
-    "status": "online",
-    "since": 1775083727954
+    "status": "offline",
+    "since": 1775088127050
   },
   "toolAL23-2-2026": {
     "status": "offline",
     "since": 1773144042180
   },
   "utral9": {
-    "status": "offline",
-    "since": 1775062899561
+    "status": "online",
+    "since": 1775088127050
   },
   "x": {
     "status": "online",
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "offline",
-    "since": 1775013579910,
+    "status": "online",
+    "since": 1775088127050,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -290,8 +290,8 @@
     "first_seen": 1771904259023
   },
   "sll": {
-    "status": "offline",
-    "since": 1775071198217,
+    "status": "online",
+    "since": 1775088127050,
     "first_seen": 1771904259023
   },
   "tool16": {
@@ -305,8 +305,8 @@
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "offline",
-    "since": 1775053259702,
+    "status": "online",
+    "since": 1775088127050,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1775085977963,
+    "status": "offline",
+    "since": 1775088127050,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -610,8 +610,8 @@
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "online",
-    "since": 1775085977963,
+    "status": "offline",
+    "since": 1775088127050,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
@@ -745,8 +745,8 @@
     "first_seen": 1772513424370
   },
   "umt21": {
-    "status": "offline",
-    "since": 1775036827493,
+    "status": "online",
+    "since": 1775088127050,
     "first_seen": 1772605623801
   },
   "umt8": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1775085977963,
+    "status": "offline",
+    "since": 1775088127050,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "offline",
-    "since": 1775071198217,
+    "status": "online",
+    "since": 1775088127050,
     "first_seen": 1774667680573
   },
   "x56xu": {
