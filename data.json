@@ -24,8 +24,8 @@
     "since": 1775124632486
   },
   "i5125": {
-    "status": "online",
-    "since": 1775166206367
+    "status": "offline",
+    "since": 1775168339610
   },
   "i5kf20": {
     "status": "offline",
@@ -350,8 +350,8 @@
     "first_seen": 1771913721773
   },
   "nguye": {
-    "status": "online",
-    "since": 1775131301049,
+    "status": "offline",
+    "since": 1775168339610,
     "first_seen": 1771918204510
   },
   "thinkbad": {
@@ -800,13 +800,13 @@
     "first_seen": 1772811897961
   },
   "ResidentEvilRequiem72": {
-    "status": "online",
-    "since": 1775107200840,
+    "status": "offline",
+    "since": 1775168339610,
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1775120674668,
+    "status": "online",
+    "since": 1775168339610,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1775163130907,
+    "status": "online",
+    "since": 1775168339610,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
