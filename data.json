@@ -100,8 +100,8 @@
     "since": 1775124632486
   },
   "xeonE548": {
-    "status": "online",
-    "since": 1775047375504
+    "status": "offline",
+    "since": 1775173280071
   },
   "xeonLOA": {
     "status": "online",
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1775112322737,
+    "status": "online",
+    "since": 1775173280071,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "offline",
-    "since": 1775142091239,
+    "status": "online",
+    "since": 1775173280071,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "offline",
-    "since": 1775157226484,
+    "status": "online",
+    "since": 1775173280071,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1045,8 +1045,8 @@
     "first_seen": 1774957026104
   },
   "link": {
-    "status": "offline",
-    "since": 1775149797805,
+    "status": "online",
+    "since": 1775173280071,
     "first_seen": 1774975329240
   },
   "td": {
