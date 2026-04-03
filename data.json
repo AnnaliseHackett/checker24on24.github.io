@@ -32,8 +32,8 @@
     "since": 1775237086610
   },
   "i711": {
-    "status": "online",
-    "since": 1775231558460
+    "status": "offline",
+    "since": 1775245896686
   },
   "i7118": {
     "status": "online",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1775239339973,
+    "status": "offline",
+    "since": 1775245896686,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "online",
-    "since": 1775214109807,
+    "status": "offline",
+    "since": 1775245896686,
     "first_seen": 1772808930371
   },
   "i728brute": {
@@ -905,8 +905,8 @@
     "first_seen": 1773333622678
   },
   "xeonVM": {
-    "status": "offline",
-    "since": 1775243045514,
+    "status": "online",
+    "since": 1775245896686,
     "first_seen": 1773389143975
   },
   "amz7sw": {
@@ -995,8 +995,8 @@
     "first_seen": 1774176051234
   },
   "tiktoknew": {
-    "status": "offline",
-    "since": 1775234954678,
+    "status": "online",
+    "since": 1775245896686,
     "first_seen": 1774187712329
   },
   "card": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1775239339973,
+    "status": "offline",
+    "since": 1775245896686,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "online",
-    "since": 1775243045514,
+    "status": "offline",
+    "since": 1775245896686,
     "first_seen": 1774975329240
   }
 }
