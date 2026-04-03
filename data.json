@@ -170,13 +170,13 @@
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "online",
-    "since": 1775195299646,
+    "status": "offline",
+    "since": 1775210609982,
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "online",
-    "since": 1775199191035,
+    "status": "offline",
+    "since": 1775210609982,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1775188880512,
+    "status": "offline",
+    "since": 1775210609982,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -265,8 +265,8 @@
     "first_seen": 1771904259023
   },
   "i7sql": {
-    "status": "online",
-    "since": 1775199191035,
+    "status": "offline",
+    "since": 1775210609982,
     "first_seen": 1771904259023
   },
   "key": {
@@ -275,13 +275,13 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "offline",
-    "since": 1775207301037,
+    "status": "online",
+    "since": 1775210609982,
     "first_seen": 1771904259023
   },
   "print1": {
-    "status": "online",
-    "since": 1775199191035,
+    "status": "offline",
+    "since": 1775210609982,
     "first_seen": 1771904259023
   },
   "ryzen784u": {
@@ -295,8 +295,8 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "online",
-    "since": 1775207301037,
+    "status": "offline",
+    "since": 1775210609982,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -325,8 +325,8 @@
     "first_seen": 1771904259023
   },
   "i7130h": {
-    "status": "online",
-    "since": 1775207301037,
+    "status": "offline",
+    "since": 1775210609982,
     "first_seen": 1771909942902
   },
   "i7update": {
@@ -355,13 +355,13 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1775207301037,
+    "status": "offline",
+    "since": 1775210609982,
     "first_seen": 1771918204510
   },
   "w": {
-    "status": "online",
-    "since": 1775199191035,
+    "status": "offline",
+    "since": 1775210609982,
     "first_seen": 1771918204510
   },
   "xeonSHOPPE": {
@@ -535,8 +535,8 @@
     "first_seen": 1772015605036
   },
   "09799": {
-    "status": "online",
-    "since": 1775199191035,
+    "status": "offline",
+    "since": 1775210609982,
     "first_seen": 1772026925768
   },
   "laptop": {
@@ -560,13 +560,13 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1775203442155,
+    "status": "offline",
+    "since": 1775210609982,
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "online",
-    "since": 1775188880512,
+    "status": "offline",
+    "since": 1775210609982,
     "first_seen": 1772076874941
   },
   "i728p": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1775168339610,
+    "status": "offline",
+    "since": 1775210609982,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1025,8 +1025,8 @@
     "first_seen": 1774323394496
   },
   "i5p": {
-    "status": "online",
-    "since": 1775203442155,
+    "status": "offline",
+    "since": 1775210609982,
     "first_seen": 1774431102791
   },
   "toolMB": {
