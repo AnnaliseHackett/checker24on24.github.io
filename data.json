@@ -16,8 +16,8 @@
     "since": 1775160012816
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1775222073069
+    "status": "offline",
+    "since": 1775255950058
   },
   "bluestack": {
     "status": "offline",
@@ -350,8 +350,8 @@
     "first_seen": 1771913721773
   },
   "nguye": {
-    "status": "online",
-    "since": 1775248947896,
+    "status": "offline",
+    "since": 1775255950058,
     "first_seen": 1771918204510
   },
   "thinkbad": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "offline",
-    "since": 1775222073069,
+    "status": "online",
+    "since": 1775255950058,
     "first_seen": 1771990967353
   },
   "i512adobe": {
