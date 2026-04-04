@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "offline",
-    "since": 1775217080162
+    "status": "online",
+    "since": 1775299148375
   },
   "spacemarine": {
     "status": "offline",
@@ -170,8 +170,8 @@
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "online",
-    "since": 1775284934715,
+    "status": "offline",
+    "since": 1775299148375,
     "first_seen": 1771894415726
   },
   "i5plugin": {
@@ -330,8 +330,8 @@
     "first_seen": 1771909942902
   },
   "i7update": {
-    "status": "offline",
-    "since": 1775284934715,
+    "status": "online",
+    "since": 1775299148375,
     "first_seen": 1771909942902
   },
   "xeon24louis": {
@@ -425,13 +425,13 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1775270297731,
+    "status": "online",
+    "since": 1775299148375,
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "offline",
-    "since": 1775284934715,
+    "status": "online",
+    "since": 1775299148375,
     "first_seen": 1771931250125
   },
   "y": {
@@ -460,8 +460,8 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "offline",
-    "since": 1775293701559,
+    "status": "online",
+    "since": 1775299148375,
     "first_seen": 1771939283101
   },
   "i5kkey": {
@@ -475,13 +475,13 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1775237086610,
+    "status": "online",
+    "since": 1775299148375,
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "offline",
-    "since": 1775243045514,
+    "status": "online",
+    "since": 1775299148375,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -605,13 +605,13 @@
     "first_seen": 1772116732672
   },
   "i5ssd": {
-    "status": "online",
-    "since": 1775293701559,
+    "status": "offline",
+    "since": 1775299148375,
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "online",
-    "since": 1775270297731,
+    "status": "offline",
+    "since": 1775299148375,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1775296496583,
+    "status": "offline",
+    "since": 1775299148375,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1040,8 +1040,8 @@
     "first_seen": 1774667680573
   },
   "x56xu": {
-    "status": "online",
-    "since": 1775270297731,
+    "status": "offline",
+    "since": 1775299148375,
     "first_seen": 1774957026104
   },
   "link": {
