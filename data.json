@@ -32,8 +32,8 @@
     "since": 1775321491623
   },
   "i711": {
-    "status": "online",
-    "since": 1775324174514
+    "status": "offline",
+    "since": 1775331801918
   },
   "i7118": {
     "status": "online",
@@ -132,16 +132,16 @@
     "since": 1775324174514
   },
   "i72028": {
-    "status": "online",
-    "since": 1775321491623
+    "status": "offline",
+    "since": 1775331801918
   },
   "xeonYEU": {
     "status": "offline",
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1775314543795,
+    "status": "offline",
+    "since": 1775331801918,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1775305401180,
+    "status": "offline",
+    "since": 1775331801918,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1775318524995,
+    "status": "offline",
+    "since": 1775331801918,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1775299148375,
+    "status": "offline",
+    "since": 1775331801918,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1775299148375,
+    "status": "offline",
+    "since": 1775331801918,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1775329249666,
+    "status": "online",
+    "since": 1775331801918,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "online",
-    "since": 1775329249666,
+    "status": "offline",
+    "since": 1775331801918,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
