@@ -68,8 +68,8 @@
     "since": 1775299148375
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1775253278484
+    "status": "online",
+    "since": 1775300706307
   },
   "tool1-2-2026": {
     "status": "online",
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "online",
-    "since": 1775296496583,
+    "status": "offline",
+    "since": 1775300706307,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -395,8 +395,8 @@
     "first_seen": 1771924014596
   },
   "0x8": {
-    "status": "online",
-    "since": 1775296496583,
+    "status": "offline",
+    "since": 1775300706307,
     "first_seen": 1771927690320
   },
   "xeon3672": {
@@ -420,8 +420,8 @@
     "first_seen": 1771931250125
   },
   "i7T": {
-    "status": "online",
-    "since": 1775293701559,
+    "status": "offline",
+    "since": 1775300706307,
     "first_seen": 1771931250125
   },
   "msitool": {
@@ -460,13 +460,13 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "online",
-    "since": 1775299148375,
+    "status": "offline",
+    "since": 1775300706307,
     "first_seen": 1771939283101
   },
   "i5kkey": {
-    "status": "offline",
-    "since": 1775281415329,
+    "status": "online",
+    "since": 1775300706307,
     "first_seen": 1771939283101
   },
   "kataa": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "online",
-    "since": 1775270297731,
+    "status": "offline",
+    "since": 1775300706307,
     "first_seen": 1772091016863
   },
   "light": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1775291014552,
+    "status": "offline",
+    "since": 1775300706307,
     "first_seen": 1772895624848
   },
   "proxy": {
