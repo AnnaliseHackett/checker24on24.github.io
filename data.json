@@ -16,8 +16,8 @@
     "since": 1775312305262
   },
   "AMZ9HX32": {
-    "status": "offline",
-    "since": 1775314543795
+    "status": "online",
+    "since": 1775318524995
   },
   "bluestack": {
     "status": "online",
@@ -230,8 +230,8 @@
     "first_seen": 1771904259023
   },
   "f15wifi": {
-    "status": "online",
-    "since": 1775312305262,
+    "status": "offline",
+    "since": 1775318524995,
     "first_seen": 1771904259023
   },
   "i5D": {
@@ -295,8 +295,8 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "offline",
-    "since": 1775312305262,
+    "status": "online",
+    "since": 1775318524995,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -330,8 +330,8 @@
     "first_seen": 1771909942902
   },
   "i7update": {
-    "status": "online",
-    "since": 1775309683127,
+    "status": "offline",
+    "since": 1775318524995,
     "first_seen": 1771909942902
   },
   "xeon24louis": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1775314543795,
+    "status": "online",
+    "since": 1775318524995,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -455,8 +455,8 @@
     "first_seen": 1771934133329
   },
   "+1": {
-    "status": "online",
-    "since": 1775309683127,
+    "status": "offline",
+    "since": 1775318524995,
     "first_seen": 1771939283101
   },
   "camera": {
@@ -465,8 +465,8 @@
     "first_seen": 1771939283101
   },
   "i5kkey": {
-    "status": "online",
-    "since": 1775300706307,
+    "status": "offline",
+    "since": 1775318524995,
     "first_seen": 1771939283101
   },
   "kataa": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1775317119595,
+    "status": "offline",
+    "since": 1775318524995,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1775317119595,
+    "status": "offline",
+    "since": 1775318524995,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1775309683127,
+    "status": "offline",
+    "since": 1775318524995,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "online",
-    "since": 1775309683127,
+    "status": "offline",
+    "since": 1775318524995,
     "first_seen": 1774108506221
   },
   "i5L": {
