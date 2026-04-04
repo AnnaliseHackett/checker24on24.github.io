@@ -12,8 +12,8 @@
     "since": 1775207301037
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1775324174514
+    "status": "online",
+    "since": 1775344599846
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -76,8 +76,8 @@
     "since": 1775036827493
   },
   "tool-8-2-2026": {
-    "status": "offline",
-    "since": 1775321491623
+    "status": "online",
+    "since": 1775344599846
   },
   "toolAL23-2-2026": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "online",
-    "since": 1775338604634
+    "status": "offline",
+    "since": 1775344599846
   },
   "XEON8H": {
     "status": "offline",
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1775270297731,
+    "status": "offline",
+    "since": 1775344599846,
     "first_seen": 1774667680573
   },
   "x56xu": {
