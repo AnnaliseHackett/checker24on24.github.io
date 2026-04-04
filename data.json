@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1775296496583,
+    "status": "offline",
+    "since": 1775335936248,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1775331801918,
+    "status": "offline",
+    "since": 1775335936248,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "offline",
-    "since": 1775318524995,
+    "status": "online",
+    "since": 1775335936248,
     "first_seen": 1774108506221
   },
   "i5L": {
