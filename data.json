@@ -28,8 +28,8 @@
     "since": 1775392167627
   },
   "i5kf20": {
-    "status": "online",
-    "since": 1775373611860
+    "status": "offline",
+    "since": 1775416239698
   },
   "i711": {
     "status": "offline",
@@ -56,8 +56,8 @@
     "since": 1775302865644
   },
   "loginfailed": {
-    "status": "online",
-    "since": 1775406015058
+    "status": "offline",
+    "since": 1775416239698
   },
   "note": {
     "status": "online",
@@ -505,8 +505,8 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "offline",
-    "since": 1775401337380,
+    "status": "online",
+    "since": 1775416239698,
     "first_seen": 1771951499378
   },
   "2112026t4": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1775413387789,
+    "status": "offline",
+    "since": 1775416239698,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
