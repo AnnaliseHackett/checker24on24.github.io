@@ -24,8 +24,8 @@
     "since": 1775404018513
   },
   "i5125": {
-    "status": "online",
-    "since": 1775392167627
+    "status": "offline",
+    "since": 1775418672479
   },
   "i5kf20": {
     "status": "offline",
@@ -56,8 +56,8 @@
     "since": 1775302865644
   },
   "loginfailed": {
-    "status": "offline",
-    "since": 1775416239698
+    "status": "online",
+    "since": 1775418672479
   },
   "note": {
     "status": "online",
@@ -68,8 +68,8 @@
     "since": 1775401337380
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1775392167627
+    "status": "online",
+    "since": 1775418672479
   },
   "tool1-2-2026": {
     "status": "online",
@@ -345,13 +345,13 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1775396314984,
+    "status": "offline",
+    "since": 1775418672479,
     "first_seen": 1771913721773
   },
   "nguye": {
-    "status": "online",
-    "since": 1775413387789,
+    "status": "offline",
+    "since": 1775418672479,
     "first_seen": 1771918204510
   },
   "thinkbad": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "offline",
-    "since": 1775413387789,
+    "status": "online",
+    "since": 1775418672479,
     "first_seen": 1772105043530
   },
   "driver2": {
