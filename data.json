@@ -170,8 +170,8 @@
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "online",
-    "since": 1775446694433,
+    "status": "offline",
+    "since": 1775471627347,
     "first_seen": 1771894415726
   },
   "i5plugin": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1775432335975,
+    "status": "online",
+    "since": 1775471627347,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1775446694433,
+    "status": "offline",
+    "since": 1775471627347,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -275,13 +275,13 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "offline",
-    "since": 1775466913564,
+    "status": "online",
+    "since": 1775471627347,
     "first_seen": 1771904259023
   },
   "print1": {
-    "status": "online",
-    "since": 1775461947181,
+    "status": "offline",
+    "since": 1775471627347,
     "first_seen": 1771904259023
   },
   "ryzen784u": {
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "online",
-    "since": 1775466913564,
+    "status": "offline",
+    "since": 1775471627347,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -325,8 +325,8 @@
     "first_seen": 1771904259023
   },
   "i7130h": {
-    "status": "offline",
-    "since": 1775210609982,
+    "status": "online",
+    "since": 1775471627347,
     "first_seen": 1771909942902
   },
   "i7update": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1775466913564,
+    "status": "offline",
+    "since": 1775471627347,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -355,13 +355,13 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1775454656020,
+    "status": "offline",
+    "since": 1775471627347,
     "first_seen": 1771918204510
   },
   "w": {
-    "status": "online",
-    "since": 1775446694433,
+    "status": "offline",
+    "since": 1775471627347,
     "first_seen": 1771918204510
   },
   "xeonSHOPPE": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1775461947181,
+    "status": "offline",
+    "since": 1775471627347,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1775461947181,
+    "status": "online",
+    "since": 1775471627347,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -605,8 +605,8 @@
     "first_seen": 1772116732672
   },
   "i5ssd": {
-    "status": "offline",
-    "since": 1775299148375,
+    "status": "online",
+    "since": 1775471627347,
     "first_seen": 1772116732672
   },
   "YEU": {
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "offline",
-    "since": 1775408601925,
+    "status": "online",
+    "since": 1775471627347,
     "first_seen": 1772808930371
   },
   "i728brute": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1775411290690,
+    "status": "offline",
+    "since": 1775471627347,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1775454656020,
+    "status": "offline",
+    "since": 1775471627347,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "offline",
-    "since": 1775461947181,
+    "status": "online",
+    "since": 1775471627347,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -1040,8 +1040,8 @@
     "first_seen": 1774667680573
   },
   "x56xu": {
-    "status": "offline",
-    "since": 1775454656020,
+    "status": "online",
+    "since": 1775471627347,
     "first_seen": 1774957026104
   },
   "link": {
