@@ -290,8 +290,8 @@
     "first_seen": 1771904259023
   },
   "sll": {
-    "status": "offline",
-    "since": 1775408601925,
+    "status": "online",
+    "since": 1775433817282,
     "first_seen": 1771904259023
   },
   "tool16": {
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "offline",
-    "since": 1775389728275,
+    "status": "online",
+    "since": 1775433817282,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1775404018513,
+    "status": "offline",
+    "since": 1775433817282,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1775429663355,
+    "status": "offline",
+    "since": 1775433817282,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -610,8 +610,8 @@
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "online",
-    "since": 1775432335975,
+    "status": "offline",
+    "since": 1775433817282,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1775427327401,
+    "status": "online",
+    "since": 1775433817282,
     "first_seen": 1773226388097
   },
   "amd78s": {
