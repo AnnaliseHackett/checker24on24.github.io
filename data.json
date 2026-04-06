@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1775494779702,
+    "status": "offline",
+    "since": 1775505645409,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1775494779702,
+    "status": "offline",
+    "since": 1775505645409,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -610,8 +610,8 @@
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "online",
-    "since": 1775478900891,
+    "status": "offline",
+    "since": 1775505645409,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1775461947181,
+    "status": "offline",
+    "since": 1775505645409,
     "first_seen": 1774667680573
   },
   "x56xu": {
