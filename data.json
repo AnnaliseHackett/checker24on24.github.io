@@ -16,12 +16,12 @@
     "since": 1775491052227
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1775483809037
+    "status": "offline",
+    "since": 1775502804450
   },
   "bluestack": {
-    "status": "online",
-    "since": 1775466913564
+    "status": "offline",
+    "since": 1775502804450
   },
   "i5125": {
     "status": "online",
@@ -32,8 +32,8 @@
     "since": 1775498240571
   },
   "i711": {
-    "status": "online",
-    "since": 1775498240571
+    "status": "offline",
+    "since": 1775502804450
   },
   "i7118": {
     "status": "online",
@@ -56,8 +56,8 @@
     "since": 1775302865644
   },
   "loginfailed": {
-    "status": "online",
-    "since": 1775498240571
+    "status": "offline",
+    "since": 1775502804450
   },
   "note": {
     "status": "online",
@@ -132,16 +132,16 @@
     "since": 1775494779702
   },
   "i72028": {
-    "status": "online",
-    "since": 1775494779702
+    "status": "offline",
+    "since": 1775502804450
   },
   "xeonYEU": {
     "status": "offline",
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1775483809037,
+    "status": "offline",
+    "since": 1775502804450,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -295,8 +295,8 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "offline",
-    "since": 1775491052227,
+    "status": "online",
+    "since": 1775502804450,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1775483809037,
+    "status": "offline",
+    "since": 1775502804450,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1775487528054,
+    "status": "offline",
+    "since": 1775502804450,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "online",
-    "since": 1775498240571,
+    "status": "offline",
+    "since": 1775502804450,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "online",
-    "since": 1775466913564,
+    "status": "offline",
+    "since": 1775502804450,
     "first_seen": 1774108506221
   },
   "i5L": {
@@ -1045,8 +1045,8 @@
     "first_seen": 1774957026104
   },
   "link": {
-    "status": "online",
-    "since": 1775475148967,
+    "status": "offline",
+    "since": 1775502804450,
     "first_seen": 1774975329240
   },
   "td": {
