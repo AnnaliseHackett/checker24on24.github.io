@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1775579660917,
+    "status": "offline",
+    "since": 1775597333086,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -295,8 +295,8 @@
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "online",
-    "since": 1775590991314,
+    "status": "offline",
+    "since": 1775597333086,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1775508836746,
+    "status": "offline",
+    "since": 1775597333086,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1775541480680,
+    "status": "offline",
+    "since": 1775597333086,
     "first_seen": 1773968437686
   },
   "xeon26700": {
