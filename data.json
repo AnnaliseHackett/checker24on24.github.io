@@ -32,8 +32,8 @@
     "since": 1775559724695
   },
   "i711": {
-    "status": "online",
-    "since": 1775587083036
+    "status": "offline",
+    "since": 1775593877649
   },
   "i7118": {
     "status": "online",
@@ -68,8 +68,8 @@
     "since": 1775401337380
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1775590991314
+    "status": "offline",
+    "since": 1775593877649
   },
   "tool1-2-2026": {
     "status": "online",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1775579660917,
+    "status": "offline",
+    "since": 1775593877649,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1775575312159,
+    "status": "offline",
+    "since": 1775593877649,
     "first_seen": 1771924014596
   },
   "0x8": {
