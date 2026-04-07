@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1775575312159
+    "status": "online",
+    "since": 1775599679938
   },
   "XEON8H": {
     "status": "offline",
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1775597333086,
+    "status": "online",
+    "since": 1775599679938,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "offline",
-    "since": 1775597333086,
+    "status": "online",
+    "since": 1775599679938,
     "first_seen": 1773968437686
   },
   "xeon26700": {
