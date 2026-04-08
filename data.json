@@ -24,8 +24,8 @@
     "since": 1775678886675
   },
   "i5125": {
-    "status": "offline",
-    "since": 1775688845021
+    "status": "online",
+    "since": 1775691733223
   },
   "i5kf20": {
     "status": "offline",
@@ -92,12 +92,12 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "online",
-    "since": 1775688845021
+    "status": "offline",
+    "since": 1775691733223
   },
   "XEON8H": {
-    "status": "online",
-    "since": 1775656953224
+    "status": "offline",
+    "since": 1775691733223
   },
   "xeonE548": {
     "status": "offline",
@@ -160,8 +160,8 @@
     "first_seen": 1771887545391
   },
   "nhungoc": {
-    "status": "offline",
-    "since": 1775622027508,
+    "status": "online",
+    "since": 1775691733223,
     "first_seen": 1771890094719
   },
   "cftmon": {
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1775647643448,
+    "status": "online",
+    "since": 1775691733223,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "offline",
-    "since": 1775639327271,
+    "status": "online",
+    "since": 1775691733223,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1775682104928,
+    "status": "offline",
+    "since": 1775691733223,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -450,8 +450,8 @@
     "first_seen": 1771934133329
   },
   "xeonutra": {
-    "status": "online",
-    "since": 1773801700330,
+    "status": "offline",
+    "since": 1775691733223,
     "first_seen": 1771934133329
   },
   "+1": {
