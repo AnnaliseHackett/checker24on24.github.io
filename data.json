@@ -20,8 +20,8 @@
     "since": 1775763726840
   },
   "bluestack": {
-    "status": "online",
-    "since": 1775724367512
+    "status": "offline",
+    "since": 1775766961066
   },
   "i5125": {
     "status": "online",
@@ -76,8 +76,8 @@
     "since": 1775478900891
   },
   "tool-8-2-2026": {
-    "status": "online",
-    "since": 1775743999731
+    "status": "offline",
+    "since": 1775766961066
   },
   "toolAL23-2-2026": {
     "status": "offline",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1775755027530,
+    "status": "offline",
+    "since": 1775766961066,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1775750230120,
+    "status": "offline",
+    "since": 1775766961066,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1775750230120,
+    "status": "offline",
+    "since": 1775766961066,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -1060,8 +1060,8 @@
     "first_seen": 1775551612130
   },
   "xeon88cp": {
-    "status": "online",
-    "since": 1775605801181,
+    "status": "offline",
+    "since": 1775766961066,
     "first_seen": 1775605801181
   },
   "retrive": {
