@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1775718348437
+    "status": "online",
+    "since": 1775773434095
   },
   "XEON8H": {
     "status": "offline",
@@ -350,8 +350,8 @@
     "first_seen": 1771913721773
   },
   "nguye": {
-    "status": "offline",
-    "since": 1775755027530,
+    "status": "online",
+    "since": 1775773434095,
     "first_seen": 1771918204510
   },
   "thinkbad": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1775733137278,
+    "status": "online",
+    "since": 1775773434095,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1775763726840,
+    "status": "offline",
+    "since": 1775773434095,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -860,13 +860,13 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1775770225864,
+    "status": "offline",
+    "since": 1775773434095,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1775743999731,
+    "status": "online",
+    "since": 1775773434095,
     "first_seen": 1773226388097
   },
   "amd78s": {
