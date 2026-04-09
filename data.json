@@ -12,8 +12,8 @@
     "since": 1775755027530
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1775688845021
+    "status": "online",
+    "since": 1775770225864
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -68,8 +68,8 @@
     "since": 1775763726840
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1775763726840
+    "status": "offline",
+    "since": 1775770225864
   },
   "tool1-2-2026": {
     "status": "online",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1775755027530,
+    "status": "offline",
+    "since": 1775770225864,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1775766961066,
+    "status": "online",
+    "since": 1775770225864,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1775728750597,
+    "status": "online",
+    "since": 1775770225864,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
