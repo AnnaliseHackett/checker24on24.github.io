@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1775845948480
+    "status": "offline",
+    "since": 1775851625409
   },
   "spacemarine": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1775838815348,
+    "status": "offline",
+    "since": 1775851625409,
     "first_seen": 1771894415726
   },
   "ps4": {
