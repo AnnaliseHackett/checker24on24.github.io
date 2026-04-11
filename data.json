@@ -68,8 +68,8 @@
     "since": 1775936891575
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1775936891575
+    "status": "offline",
+    "since": 1775943497652
   },
   "tool1-2-2026": {
     "status": "online",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1775893219226
+    "status": "online",
+    "since": 1775943497652
   },
   "XEON8H": {
     "status": "offline",
@@ -800,8 +800,8 @@
     "first_seen": 1772811897961
   },
   "ResidentEvilRequiem72": {
-    "status": "online",
-    "since": 1775718348437,
+    "status": "offline",
+    "since": 1775943497652,
     "first_seen": 1772814154131
   },
   "z": {
