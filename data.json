@@ -1,7 +1,7 @@
 {
   "15h": {
-    "status": "online",
-    "since": 1775893219226
+    "status": "offline",
+    "since": 1775907346761
   },
   "20CN": {
     "status": "online",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1775901560198,
+    "status": "online",
+    "since": 1775907346761,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -170,8 +170,8 @@
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "offline",
-    "since": 1775896008892,
+    "status": "online",
+    "since": 1775907346761,
     "first_seen": 1771894415726
   },
   "i5plugin": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1775896008892,
+    "status": "offline",
+    "since": 1775907346761,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -235,8 +235,8 @@
     "first_seen": 1771904259023
   },
   "i5D": {
-    "status": "offline",
-    "since": 1775736403425,
+    "status": "online",
+    "since": 1775907346761,
     "first_seen": 1771904259023
   },
   "i7120": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1775901560198,
+    "status": "offline",
+    "since": 1775907346761,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -425,13 +425,13 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1775875357627,
+    "status": "online",
+    "since": 1775907346761,
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "online",
-    "since": 1775896008892,
+    "status": "offline",
+    "since": 1775907346761,
     "first_seen": 1771931250125
   },
   "y": {
@@ -970,8 +970,8 @@
     "first_seen": 1773968437686
   },
   "xeon26700": {
-    "status": "offline",
-    "since": 1775882774516,
+    "status": "online",
+    "since": 1775907346761,
     "first_seen": 1773983257584
   },
   "amz939": {
@@ -985,8 +985,8 @@
     "first_seen": 1774172329547
   },
   "tiktok": {
-    "status": "offline",
-    "since": 1775822300795,
+    "status": "online",
+    "since": 1775907346761,
     "first_seen": 1774172329547
   },
   "amz74800": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "offline",
-    "since": 1775886565667,
+    "status": "online",
+    "since": 1775907346761,
     "first_seen": 1775842385767
   },
   "AFF": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1775904626722,
+    "status": "offline",
+    "since": 1775907346761,
     "first_seen": 1775904626722
   }
 }
