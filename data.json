@@ -36,8 +36,8 @@
     "since": 1775849445729
   },
   "i7118": {
-    "status": "online",
-    "since": 1775743999731
+    "status": "offline",
+    "since": 1775896008892
   },
   "i7pubg": {
     "status": "offline",
@@ -76,8 +76,8 @@
     "since": 1775478900891
   },
   "tool-8-2-2026": {
-    "status": "online",
-    "since": 1775893219226
+    "status": "offline",
+    "since": 1775896008892
   },
   "toolAL23-2-2026": {
     "status": "offline",
@@ -165,13 +165,13 @@
     "first_seen": 1771890094719
   },
   "cftmon": {
-    "status": "online",
-    "since": 1775882774516,
+    "status": "offline",
+    "since": 1775896008892,
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "online",
-    "since": 1775890101379,
+    "status": "offline",
+    "since": 1775896008892,
     "first_seen": 1771894415726
   },
   "i5plugin": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1775893219226,
+    "status": "online",
+    "since": 1775896008892,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -430,8 +430,8 @@
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "offline",
-    "since": 1775831966707,
+    "status": "online",
+    "since": 1775896008892,
     "first_seen": 1771931250125
   },
   "y": {
@@ -445,8 +445,8 @@
     "first_seen": 1771934133329
   },
   "meo": {
-    "status": "offline",
-    "since": 1775875357627,
+    "status": "online",
+    "since": 1775896008892,
     "first_seen": 1771934133329
   },
   "xeonutra": {
@@ -550,8 +550,8 @@
     "first_seen": 1772026925768
   },
   "xeon528": {
-    "status": "online",
-    "since": 1775890101379,
+    "status": "offline",
+    "since": 1775896008892,
     "first_seen": 1772026925768
   },
   "12thsql": {
@@ -560,13 +560,13 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "offline",
-    "since": 1775882774516,
+    "status": "online",
+    "since": 1775896008892,
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "offline",
-    "since": 1775819061139,
+    "status": "online",
+    "since": 1775896008892,
     "first_seen": 1772076874941
   },
   "i728p": {
@@ -1020,8 +1020,8 @@
     "first_seen": 1774248212124
   },
   "amz7435": {
-    "status": "online",
-    "since": 1775890101379,
+    "status": "offline",
+    "since": 1775896008892,
     "first_seen": 1774323394496
   },
   "i5p": {
@@ -1083,5 +1083,10 @@
     "status": "offline",
     "since": 1775886565667,
     "first_seen": 1775842385767
+  },
+  "AFF": {
+    "status": "online",
+    "since": 1775896008892,
+    "first_seen": 1775896008892
   }
 }
