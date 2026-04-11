@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1775930530912,
+    "status": "online",
+    "since": 1775950803197,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1775928998181,
+    "status": "online",
+    "since": 1775950803197,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -540,8 +540,8 @@
     "first_seen": 1772026925768
   },
   "laptop": {
-    "status": "offline",
-    "since": 1775936891575,
+    "status": "online",
+    "since": 1775950803197,
     "first_seen": 1772026925768
   },
   "xeon20": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1775921920980,
+    "status": "online",
+    "since": 1775950803197,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "online",
-    "since": 1775947829908,
+    "status": "offline",
+    "since": 1775950803197,
     "first_seen": 1774108506221
   },
   "i5L": {
