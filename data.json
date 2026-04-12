@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1776035945390,
+    "status": "offline",
+    "since": 1776038217079,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -290,8 +290,8 @@
     "first_seen": 1771904259023
   },
   "sll": {
-    "status": "offline",
-    "since": 1775995383996,
+    "status": "online",
+    "since": 1776038217079,
     "first_seen": 1771904259023
   },
   "tool16": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1776000798254,
+    "status": "offline",
+    "since": 1776038217079,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -505,13 +505,13 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "offline",
-    "since": 1776023481216,
+    "status": "online",
+    "since": 1776038217079,
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "offline",
-    "since": 1775755027530,
+    "status": "online",
+    "since": 1776038217079,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1776009051585,
+    "status": "online",
+    "since": 1776038217079,
     "first_seen": 1772895624848
   },
   "proxy": {
