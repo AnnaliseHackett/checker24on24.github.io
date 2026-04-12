@@ -28,8 +28,8 @@
     "since": 1775987898565
   },
   "i5kf20": {
-    "status": "online",
-    "since": 1775972863673
+    "status": "offline",
+    "since": 1775993859820
   },
   "i711": {
     "status": "offline",
@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "offline",
-    "since": 1775977170167
+    "status": "online",
+    "since": 1775993859820
   },
   "spacemarine": {
     "status": "online",
@@ -96,8 +96,8 @@
     "since": 1775984665838
   },
   "XEON8H": {
-    "status": "offline",
-    "since": 1775921920980
+    "status": "online",
+    "since": 1775993859820
   },
   "xeonE548": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1775991165718,
+    "status": "offline",
+    "since": 1775993859820,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -270,8 +270,8 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "offline",
-    "since": 1775977170167,
+    "status": "online",
+    "since": 1775993859820,
     "first_seen": 1771904259023
   },
   "MD5": {
@@ -290,13 +290,13 @@
     "first_seen": 1771904259023
   },
   "sll": {
-    "status": "offline",
-    "since": 1775750230120,
+    "status": "online",
+    "since": 1775993859820,
     "first_seen": 1771904259023
   },
   "tool16": {
-    "status": "offline",
-    "since": 1775987898565,
+    "status": "online",
+    "since": 1775993859820,
     "first_seen": 1771904259023
   },
   "toolLONG": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1775984665838,
+    "status": "offline",
+    "since": 1775993859820,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -345,13 +345,13 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "offline",
-    "since": 1775981234987,
+    "status": "online",
+    "since": 1775993859820,
     "first_seen": 1771913721773
   },
   "nguye": {
-    "status": "offline",
-    "since": 1775862301092,
+    "status": "online",
+    "since": 1775993859820,
     "first_seen": 1771918204510
   },
   "thinkbad": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1775977170167,
+    "status": "offline",
+    "since": 1775993859820,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -435,8 +435,8 @@
     "first_seen": 1771931250125
   },
   "y": {
-    "status": "offline",
-    "since": 1775928998181,
+    "status": "online",
+    "since": 1775993859820,
     "first_seen": 1771931250125
   },
   "i5Te": {
@@ -455,8 +455,8 @@
     "first_seen": 1771934133329
   },
   "+1": {
-    "status": "online",
-    "since": 1775987898565,
+    "status": "offline",
+    "since": 1775993859820,
     "first_seen": 1771939283101
   },
   "camera": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1775987898565,
+    "status": "offline",
+    "since": 1775993859820,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1775991165718,
+    "status": "offline",
+    "since": 1775993859820,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -635,13 +635,13 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1775991165718,
+    "status": "offline",
+    "since": 1775993859820,
     "first_seen": 1772218383298
   },
   "xeon2670": {
-    "status": "online",
-    "since": 1775977170167,
+    "status": "offline",
+    "since": 1775993859820,
     "first_seen": 1772229650681
   },
   "i9fan": {
@@ -1090,13 +1090,13 @@
     "first_seen": 1775896008892
   },
   "i5cpp": {
-    "status": "online",
-    "since": 1775926434939,
+    "status": "offline",
+    "since": 1775993859820,
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1775977170167,
+    "status": "offline",
+    "since": 1775993859820,
     "first_seen": 1775904626722
   },
   "HMck": {
