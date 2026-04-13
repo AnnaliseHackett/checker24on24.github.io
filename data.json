@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1776068508511
+    "status": "online",
+    "since": 1776121276230
   },
   "XEON8H": {
     "status": "online",
@@ -350,8 +350,8 @@
     "first_seen": 1771913721773
   },
   "nguye": {
-    "status": "offline",
-    "since": 1776101691611,
+    "status": "online",
+    "since": 1776121276230,
     "first_seen": 1771918204510
   },
   "thinkbad": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1776091961057,
+    "status": "online",
+    "since": 1776121276230,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1775965477361,
+    "status": "offline",
+    "since": 1776121276230,
     "first_seen": 1773968437686
   },
   "xeon26700": {
