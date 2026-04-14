@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1776186968432,
+    "status": "offline",
+    "since": 1776204192674,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1776196327933,
+    "status": "offline",
+    "since": 1776204192674,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1776196327933,
+    "status": "offline",
+    "since": 1776204192674,
     "first_seen": 1772895624848
   },
   "proxy": {
