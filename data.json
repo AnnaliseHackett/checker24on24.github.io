@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "online",
-    "since": 1776207733424
+    "status": "offline",
+    "since": 1776211033737
   },
   "XEON8H": {
     "status": "offline",
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1776157023451,
+    "status": "online",
+    "since": 1776211033737,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1776181966770,
+    "status": "offline",
+    "since": 1776211033737,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -1075,8 +1075,8 @@
     "first_seen": 1775713494253
   },
   "ChangeD": {
-    "status": "offline",
-    "since": 1775882774516,
+    "status": "online",
+    "since": 1776211033737,
     "first_seen": 1775828580753
   },
   "gt": {
@@ -1110,8 +1110,8 @@
     "first_seen": 1776009051585
   },
   "python": {
-    "status": "offline",
-    "since": 1776181966770,
+    "status": "online",
+    "since": 1776211033737,
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
