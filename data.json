@@ -96,8 +96,8 @@
     "since": 1776237421351
   },
   "XEON8H": {
-    "status": "online",
-    "since": 1776243463719
+    "status": "offline",
+    "since": 1776248631486
   },
   "xeonE548": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1776237421351,
+    "status": "online",
+    "since": 1776248631486,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -170,8 +170,8 @@
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "offline",
-    "since": 1776243463719,
+    "status": "online",
+    "since": 1776248631486,
     "first_seen": 1771894415726
   },
   "i5plugin": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1776204192674,
+    "status": "online",
+    "since": 1776248631486,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "offline",
-    "since": 1776097074629,
+    "status": "online",
+    "since": 1776248631486,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "online",
-    "since": 1776243463719,
+    "status": "offline",
+    "since": 1776248631486,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -325,8 +325,8 @@
     "first_seen": 1771904259023
   },
   "i7130h": {
-    "status": "online",
-    "since": 1776243463719,
+    "status": "offline",
+    "since": 1776248631486,
     "first_seen": 1771909942902
   },
   "i7update": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "offline",
-    "since": 1776204192674,
+    "status": "online",
+    "since": 1776248631486,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1776237421351,
+    "status": "offline",
+    "since": 1776248631486,
     "first_seen": 1771918204510
   },
   "w": {
@@ -395,8 +395,8 @@
     "first_seen": 1771924014596
   },
   "0x8": {
-    "status": "offline",
-    "since": 1776181966770,
+    "status": "online",
+    "since": 1776248631486,
     "first_seen": 1771927690320
   },
   "xeon3672": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1776243463719,
+    "status": "online",
+    "since": 1776248631486,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -455,8 +455,8 @@
     "first_seen": 1771934133329
   },
   "+1": {
-    "status": "offline",
-    "since": 1776186968432,
+    "status": "online",
+    "since": 1776248631486,
     "first_seen": 1771939283101
   },
   "camera": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1776232165281,
+    "status": "online",
+    "since": 1776248631486,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "online",
-    "since": 1776223984129,
+    "status": "offline",
+    "since": 1776248631486,
     "first_seen": 1772091016863
   },
   "light": {
@@ -715,13 +715,13 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "online",
-    "since": 1776243463719,
+    "status": "offline",
+    "since": 1776248631486,
     "first_seen": 1772437053482
   },
   "tmp": {
-    "status": "online",
-    "since": 1776237421351,
+    "status": "offline",
+    "since": 1776248631486,
     "first_seen": 1772461962322
   },
   "UMT33": {
@@ -910,8 +910,8 @@
     "first_seen": 1773389143975
   },
   "amz7sw": {
-    "status": "online",
-    "since": 1776243463719,
+    "status": "offline",
+    "since": 1776248631486,
     "first_seen": 1773405428495
   },
   "zl16": {
@@ -1105,8 +1105,8 @@
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
-    "status": "offline",
-    "since": 1776243463719,
+    "status": "online",
+    "since": 1776248631486,
     "first_seen": 1776009051585
   },
   "python": {
@@ -1120,8 +1120,8 @@
     "first_seen": 1776068508511
   },
   "FP": {
-    "status": "online",
-    "since": 1776237421351,
+    "status": "offline",
+    "since": 1776248631486,
     "first_seen": 1776137638618
   },
   "13thgen": {
