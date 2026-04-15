@@ -28,8 +28,8 @@
     "since": 1776200445932
   },
   "i5kf20": {
-    "status": "online",
-    "since": 1776232165281
+    "status": "offline",
+    "since": 1776243463719
   },
   "i711": {
     "status": "offline",
@@ -64,12 +64,12 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1776232165281
+    "status": "offline",
+    "since": 1776243463719
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1776170730129
+    "status": "online",
+    "since": 1776243463719
   },
   "tool1-2-2026": {
     "status": "online",
@@ -96,8 +96,8 @@
     "since": 1776237421351
   },
   "XEON8H": {
-    "status": "offline",
-    "since": 1776181966770
+    "status": "online",
+    "since": 1776243463719
   },
   "xeonE548": {
     "status": "offline",
@@ -170,13 +170,13 @@
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "online",
-    "since": 1776237421351,
+    "status": "offline",
+    "since": 1776243463719,
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "online",
-    "since": 1776211033737,
+    "status": "offline",
+    "since": 1776243463719,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -240,13 +240,13 @@
     "first_seen": 1771904259023
   },
   "i7120": {
-    "status": "offline",
-    "since": 1776170730129,
+    "status": "online",
+    "since": 1776243463719,
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1776223984129,
+    "status": "offline",
+    "since": 1776243463719,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -290,8 +290,8 @@
     "first_seen": 1771904259023
   },
   "sll": {
-    "status": "offline",
-    "since": 1776237421351,
+    "status": "online",
+    "since": 1776243463719,
     "first_seen": 1771904259023
   },
   "tool16": {
@@ -300,13 +300,13 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "offline",
-    "since": 1776232165281,
+    "status": "online",
+    "since": 1776243463719,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "offline",
-    "since": 1776181966770,
+    "status": "online",
+    "since": 1776243463719,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -325,8 +325,8 @@
     "first_seen": 1771904259023
   },
   "i7130h": {
-    "status": "offline",
-    "since": 1776080737939,
+    "status": "online",
+    "since": 1776243463719,
     "first_seen": 1771909942902
   },
   "i7update": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1776237421351,
+    "status": "online",
+    "since": 1776243463719,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -435,13 +435,13 @@
     "first_seen": 1771931250125
   },
   "y": {
-    "status": "offline",
-    "since": 1776176929025,
+    "status": "online",
+    "since": 1776243463719,
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1776232165281,
+    "status": "offline",
+    "since": 1776243463719,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -605,8 +605,8 @@
     "first_seen": 1772116732672
   },
   "i5ssd": {
-    "status": "online",
-    "since": 1776237421351,
+    "status": "offline",
+    "since": 1776243463719,
     "first_seen": 1772116732672
   },
   "YEU": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "offline",
-    "since": 1776162171396,
+    "status": "online",
+    "since": 1776243463719,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -910,8 +910,8 @@
     "first_seen": 1773389143975
   },
   "amz7sw": {
-    "status": "offline",
-    "since": 1776170730129,
+    "status": "online",
+    "since": 1776243463719,
     "first_seen": 1773405428495
   },
   "zl16": {
@@ -1025,8 +1025,8 @@
     "first_seen": 1774323394496
   },
   "i5p": {
-    "status": "offline",
-    "since": 1776084659345,
+    "status": "online",
+    "since": 1776243463719,
     "first_seen": 1774431102791
   },
   "toolMB": {
@@ -1105,8 +1105,8 @@
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
-    "status": "online",
-    "since": 1776223984129,
+    "status": "offline",
+    "since": 1776243463719,
     "first_seen": 1776009051585
   },
   "python": {
