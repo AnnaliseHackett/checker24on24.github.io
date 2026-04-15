@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1776288691380
+    "status": "offline",
+    "since": 1776291964189
   },
   "spacemarine": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1776237421351
+    "status": "online",
+    "since": 1776291964189
   },
   "XEON8H": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1776271745802,
+    "status": "offline",
+    "since": 1776291964189,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -350,8 +350,8 @@
     "first_seen": 1771913721773
   },
   "nguye": {
-    "status": "offline",
-    "since": 1776271745802,
+    "status": "online",
+    "since": 1776291964189,
     "first_seen": 1771918204510
   },
   "thinkbad": {
@@ -720,8 +720,8 @@
     "first_seen": 1772437053482
   },
   "tmp": {
-    "status": "online",
-    "since": 1776252884168,
+    "status": "offline",
+    "since": 1776291964189,
     "first_seen": 1772461962322
   },
   "UMT33": {
@@ -800,8 +800,8 @@
     "first_seen": 1772811897961
   },
   "ResidentEvilRequiem72": {
-    "status": "online",
-    "since": 1776237421351,
+    "status": "offline",
+    "since": 1776291964189,
     "first_seen": 1772814154131
   },
   "z": {
