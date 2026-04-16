@@ -68,8 +68,8 @@
     "since": 1776339920357
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1776368098315
+    "status": "offline",
+    "since": 1776380551335
   },
   "tool1-2-2026": {
     "status": "online",
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "offline",
-    "since": 1776368098315,
+    "status": "online",
+    "since": 1776380551335,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1776362348536,
+    "status": "online",
+    "since": 1776380551335,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -720,8 +720,8 @@
     "first_seen": 1772437053482
   },
   "tmp": {
-    "status": "online",
-    "since": 1776326144324,
+    "status": "offline",
+    "since": 1776380551335,
     "first_seen": 1772461962322
   },
   "UMT33": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1776326144324,
+    "status": "online",
+    "since": 1776380551335,
     "first_seen": 1772895624848
   },
   "proxy": {
