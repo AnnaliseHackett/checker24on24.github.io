@@ -8,8 +8,8 @@
     "since": 1775972863673
   },
   "3672xeon": {
-    "status": "online",
-    "since": 1776331552718
+    "status": "offline",
+    "since": 1776368098315
   },
   "amz7profile": {
     "status": "offline",
@@ -68,8 +68,8 @@
     "since": 1776339920357
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1776344101433
+    "status": "online",
+    "since": 1776368098315
   },
   "tool1-2-2026": {
     "status": "online",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1776362348536,
+    "status": "offline",
+    "since": 1776368098315,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1776351552187,
+    "status": "offline",
+    "since": 1776368098315,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1776362348536,
+    "status": "offline",
+    "since": 1776368098315,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1776362348536,
+    "status": "offline",
+    "since": 1776368098315,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1776318784158,
+    "status": "offline",
+    "since": 1776368098315,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1776351552187,
+    "status": "offline",
+    "since": 1776368098315,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -505,8 +505,8 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "offline",
-    "since": 1776311162416,
+    "status": "online",
+    "since": 1776368098315,
     "first_seen": 1771951499378
   },
   "2112026t4": {
@@ -550,8 +550,8 @@
     "first_seen": 1772026925768
   },
   "xeon528": {
-    "status": "online",
-    "since": 1776311162416,
+    "status": "offline",
+    "since": 1776368098315,
     "first_seen": 1772026925768
   },
   "12thsql": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1776331552718,
+    "status": "offline",
+    "since": 1776368098315,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -630,13 +630,13 @@
     "first_seen": 1772201190921
   },
   "ooo": {
-    "status": "online",
-    "since": 1776351552187,
+    "status": "offline",
+    "since": 1776368098315,
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1776357905042,
+    "status": "offline",
+    "since": 1776368098315,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1776351552187,
+    "status": "offline",
+    "since": 1776368098315,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1045,8 +1045,8 @@
     "first_seen": 1774957026104
   },
   "link": {
-    "status": "online",
-    "since": 1776351552187,
+    "status": "offline",
+    "since": 1776368098315,
     "first_seen": 1774975329240
   },
   "td": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1776351552187,
+    "status": "offline",
+    "since": 1776368098315,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1105,13 +1105,13 @@
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
-    "status": "online",
-    "since": 1776344101433,
+    "status": "offline",
+    "since": 1776368098315,
     "first_seen": 1776009051585
   },
   "python": {
-    "status": "online",
-    "since": 1776232165281,
+    "status": "offline",
+    "since": 1776368098315,
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
