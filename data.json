@@ -12,8 +12,8 @@
     "since": 1776418894337
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1776439907697
+    "status": "online",
+    "since": 1776457846043
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1776447057994,
+    "status": "online",
+    "since": 1776457846043,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -800,8 +800,8 @@
     "first_seen": 1772811897961
   },
   "ResidentEvilRequiem72": {
-    "status": "online",
-    "since": 1776326144324,
+    "status": "offline",
+    "since": 1776457846043,
     "first_seen": 1772814154131
   },
   "z": {
@@ -1130,8 +1130,8 @@
     "first_seen": 1776176929025
   },
   "2026": {
-    "status": "online",
-    "since": 1776425956885,
+    "status": "offline",
+    "since": 1776457846043,
     "first_seen": 1776331552718
   },
   "ryzenZ1": {
