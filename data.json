@@ -12,8 +12,8 @@
     "since": 1776418894337
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1776540308495
+    "status": "offline",
+    "since": 1776548452943
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1776545495686,
+    "status": "offline",
+    "since": 1776548452943,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1776525748936,
+    "status": "offline",
+    "since": 1776548452943,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1776520107426,
+    "status": "offline",
+    "since": 1776548452943,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -1130,8 +1130,8 @@
     "first_seen": 1776176929025
   },
   "2026": {
-    "status": "offline",
-    "since": 1776545495686,
+    "status": "online",
+    "since": 1776548452943,
     "first_seen": 1776331552718
   },
   "ryzenZ1": {
