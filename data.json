@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "offline",
-    "since": 1776520107426,
+    "status": "online",
+    "since": 1776550675805,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "online",
-    "since": 1776540308495,
+    "status": "offline",
+    "since": 1776550675805,
     "first_seen": 1772808930371
   },
   "i728brute": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1776536833137,
+    "status": "offline",
+    "since": 1776550675805,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1776542455673,
+    "status": "offline",
+    "since": 1776550675805,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
