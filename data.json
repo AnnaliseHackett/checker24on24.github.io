@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "offline",
-    "since": 1776542455673,
+    "status": "online",
+    "since": 1776545495686,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1776542455673,
+    "status": "online",
+    "since": 1776545495686,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "online",
-    "since": 1776534426190,
+    "status": "offline",
+    "since": 1776545495686,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -1130,8 +1130,8 @@
     "first_seen": 1776176929025
   },
   "2026": {
-    "status": "online",
-    "since": 1776534426190,
+    "status": "offline",
+    "since": 1776545495686,
     "first_seen": 1776331552718
   },
   "ryzenZ1": {
