@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1776553144029,
+    "status": "offline",
+    "since": 1776556072740,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "offline",
-    "since": 1776528184624,
+    "status": "online",
+    "since": 1776556072740,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1776540308495,
+    "status": "online",
+    "since": 1776556072740,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1115,8 +1115,8 @@
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
-    "status": "online",
-    "since": 1776489094071,
+    "status": "offline",
+    "since": 1776556072740,
     "first_seen": 1776068508511
   },
   "FP": {
