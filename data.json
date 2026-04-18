@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1776525748936,
+    "status": "offline",
+    "since": 1776542455673,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1776528184624,
+    "status": "offline",
+    "since": 1776542455673,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1776522674791,
+    "status": "offline",
+    "since": 1776542455673,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -380,8 +380,8 @@
     "first_seen": 1771924014596
   },
   "DMU": {
-    "status": "online",
-    "since": 1776531431465,
+    "status": "offline",
+    "since": 1776542455673,
     "first_seen": 1771924014596
   },
   "manghinhL": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "offline",
-    "since": 1776536833137,
+    "status": "online",
+    "since": 1776542455673,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
