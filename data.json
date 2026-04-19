@@ -230,8 +230,8 @@
     "first_seen": 1771904259023
   },
   "f15wifi": {
-    "status": "online",
-    "since": 1776579322239,
+    "status": "offline",
+    "since": 1776588097050,
     "first_seen": 1771904259023
   },
   "i5D": {
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "online",
-    "since": 1776584973099,
+    "status": "offline",
+    "since": 1776588097050,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "offline",
-    "since": 1776528184624,
+    "status": "online",
+    "since": 1776588097050,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -520,8 +520,8 @@
     "first_seen": 1771990967353
   },
   "xeonGPU": {
-    "status": "online",
-    "since": 1776584973099,
+    "status": "offline",
+    "since": 1776588097050,
     "first_seen": 1771990967353
   },
   "amd5": {
@@ -565,8 +565,8 @@
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "offline",
-    "since": 1776584973099,
+    "status": "online",
+    "since": 1776588097050,
     "first_seen": 1772076874941
   },
   "i728p": {
@@ -880,8 +880,8 @@
     "first_seen": 1773283791154
   },
   "toolgmail": {
-    "status": "offline",
-    "since": 1776435110158,
+    "status": "online",
+    "since": 1776588097050,
     "first_seen": 1773283791154
   },
   "xeon24": {
