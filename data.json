@@ -1,7 +1,7 @@
 {
   "15h": {
-    "status": "online",
-    "since": 1776604350721
+    "status": "offline",
+    "since": 1776618421468
   },
   "20CN": {
     "status": "online",
@@ -12,8 +12,8 @@
     "since": 1776599420323
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1776596913141
+    "status": "offline",
+    "since": 1776618421468
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1776615878223,
+    "status": "offline",
+    "since": 1776618421468,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -350,8 +350,8 @@
     "first_seen": 1771913721773
   },
   "nguye": {
-    "status": "online",
-    "since": 1776561191796,
+    "status": "offline",
+    "since": 1776618421468,
     "first_seen": 1771918204510
   },
   "thinkbad": {
@@ -490,8 +490,8 @@
     "first_seen": 1771943661252
   },
   "xeonSL": {
-    "status": "online",
-    "since": 1776596913141,
+    "status": "offline",
+    "since": 1776618421468,
     "first_seen": 1771943661252
   },
   "mua5": {
@@ -505,8 +505,8 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "online",
-    "since": 1776613717503,
+    "status": "offline",
+    "since": 1776618421468,
     "first_seen": 1771951499378
   },
   "2112026t4": {
@@ -540,8 +540,8 @@
     "first_seen": 1772026925768
   },
   "laptop": {
-    "status": "online",
-    "since": 1776615878223,
+    "status": "offline",
+    "since": 1776618421468,
     "first_seen": 1772026925768
   },
   "xeon20": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1776610633892,
+    "status": "offline",
+    "since": 1776618421468,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "online",
-    "since": 1776604350721,
+    "status": "offline",
+    "since": 1776618421468,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -845,8 +845,8 @@
     "first_seen": 1773044906943
   },
   "mic": {
-    "status": "offline",
-    "since": 1776447057994,
+    "status": "online",
+    "since": 1776618421468,
     "first_seen": 1773079423092
   },
   "toolSEARCH": {
@@ -895,8 +895,8 @@
     "first_seen": 1773325655043
   },
   "iT": {
-    "status": "online",
-    "since": 1776615878223,
+    "status": "offline",
+    "since": 1776618421468,
     "first_seen": 1773329602916
   },
   "truomsi": {
