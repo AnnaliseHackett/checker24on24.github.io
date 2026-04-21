@@ -84,16 +84,16 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "offline",
-    "since": 1776665323787
+    "status": "online",
+    "since": 1776730035315
   },
   "x": {
     "status": "online",
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "online",
-    "since": 1776724021895
+    "status": "offline",
+    "since": 1776730035315
   },
   "XEON8H": {
     "status": "offline",
@@ -160,8 +160,8 @@
     "first_seen": 1771887545391
   },
   "nhungoc": {
-    "status": "online",
-    "since": 1776727418871,
+    "status": "offline",
+    "since": 1776730035315,
     "first_seen": 1771890094719
   },
   "cftmon": {
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1776665323787,
+    "status": "online",
+    "since": 1776730035315,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1776696901755,
+    "status": "online",
+    "since": 1776730035315,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1776724021895,
+    "status": "online",
+    "since": 1776730035315,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1776689762069,
+    "status": "online",
+    "since": 1776730035315,
     "first_seen": 1773226388097
   },
   "amd78s": {
