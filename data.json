@@ -24,8 +24,8 @@
     "since": 1776797375511
   },
   "i5125": {
-    "status": "offline",
-    "since": 1776797375511
+    "status": "online",
+    "since": 1776801513050
   },
   "i5kf20": {
     "status": "offline",
@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1776797375511
+    "status": "offline",
+    "since": 1776801513050
   },
   "spacemarine": {
     "status": "online",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1776773172260,
+    "status": "offline",
+    "since": 1776801513050,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1776769141950,
+    "status": "offline",
+    "since": 1776801513050,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -550,8 +550,8 @@
     "first_seen": 1772026925768
   },
   "xeon528": {
-    "status": "online",
-    "since": 1776789835767,
+    "status": "offline",
+    "since": 1776801513050,
     "first_seen": 1772026925768
   },
   "12thsql": {
@@ -570,8 +570,8 @@
     "first_seen": 1772076874941
   },
   "i728p": {
-    "status": "online",
-    "since": 1776789835767,
+    "status": "offline",
+    "since": 1776801513050,
     "first_seen": 1772082654222
   },
   "reg16": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1776750879864,
+    "status": "offline",
+    "since": 1776801513050,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1776789835767,
+    "status": "offline",
+    "since": 1776801513050,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1115,8 +1115,8 @@
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
-    "status": "online",
-    "since": 1776758456512,
+    "status": "offline",
+    "since": 1776801513050,
     "first_seen": 1776068508511
   },
   "FP": {
