@@ -68,16 +68,16 @@
     "since": 1776801513050
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1776797375511
+    "status": "offline",
+    "since": 1776808631043
   },
   "tool1-2-2026": {
     "status": "online",
     "since": 1776429851127
   },
   "tool-8-2-2026": {
-    "status": "online",
-    "since": 1776743130184
+    "status": "offline",
+    "since": 1776808631043
   },
   "toolAL23-2-2026": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1776758456512
+    "status": "online",
+    "since": 1776808631043
   },
   "XEON8H": {
     "status": "offline",
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "online",
-    "since": 1776805291581,
+    "status": "offline",
+    "since": 1776808631043,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1776786128240,
+    "status": "offline",
+    "since": 1776808631043,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
