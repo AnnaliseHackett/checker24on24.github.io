@@ -12,8 +12,8 @@
     "since": 1776838484940
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1776888461882
+    "status": "offline",
+    "since": 1776895506399
   },
   "AMZ9HX32": {
     "status": "online",
@@ -24,8 +24,8 @@
     "since": 1776851721512
   },
   "i5125": {
-    "status": "online",
-    "since": 1776888461882
+    "status": "offline",
+    "since": 1776895506399
   },
   "i5kf20": {
     "status": "offline",
@@ -64,12 +64,12 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1776892125347
+    "status": "offline",
+    "since": 1776895506399
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1776888461882
+    "status": "offline",
+    "since": 1776895506399
   },
   "tool1-2-2026": {
     "status": "online",
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1776876285163,
+    "status": "offline",
+    "since": 1776895506399,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1776888461882,
+    "status": "offline",
+    "since": 1776895506399,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1776876285163,
+    "status": "offline",
+    "since": 1776895506399,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1776838484940,
+    "status": "offline",
+    "since": 1776895506399,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
