@@ -36,8 +36,8 @@
     "since": 1776769141950
   },
   "i7118": {
-    "status": "online",
-    "since": 1776016949768
+    "status": "offline",
+    "since": 1776819978323
   },
   "i7pubg": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "online",
-    "since": 1776808631043
+    "status": "offline",
+    "since": 1776819978323
   },
   "XEON8H": {
     "status": "offline",
@@ -160,8 +160,8 @@
     "first_seen": 1771887545391
   },
   "nhungoc": {
-    "status": "online",
-    "since": 1776814785700,
+    "status": "offline",
+    "since": 1776819978323,
     "first_seen": 1771890094719
   },
   "cftmon": {
@@ -170,8 +170,8 @@
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "offline",
-    "since": 1776765004724,
+    "status": "online",
+    "since": 1776819978323,
     "first_seen": 1771894415726
   },
   "i5plugin": {
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1776786128240,
+    "status": "online",
+    "since": 1776819978323,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1776789835767,
+    "status": "online",
+    "since": 1776819978323,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -240,8 +240,8 @@
     "first_seen": 1771904259023
   },
   "i7120": {
-    "status": "offline",
-    "since": 1776780427587,
+    "status": "online",
+    "since": 1776819978323,
     "first_seen": 1771904259023
   },
   "i7127k": {
@@ -265,8 +265,8 @@
     "first_seen": 1771904259023
   },
   "i7sql": {
-    "status": "offline",
-    "since": 1776769141950,
+    "status": "online",
+    "since": 1776819978323,
     "first_seen": 1771904259023
   },
   "key": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1776673615016,
+    "status": "offline",
+    "since": 1776819978323,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1776814785700,
+    "status": "offline",
+    "since": 1776819978323,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -445,8 +445,8 @@
     "first_seen": 1771934133329
   },
   "meo": {
-    "status": "online",
-    "since": 1776724021895,
+    "status": "offline",
+    "since": 1776819978323,
     "first_seen": 1771934133329
   },
   "xeonutra": {
@@ -540,8 +540,8 @@
     "first_seen": 1772026925768
   },
   "laptop": {
-    "status": "offline",
-    "since": 1776786128240,
+    "status": "online",
+    "since": 1776819978323,
     "first_seen": 1772026925768
   },
   "xeon20": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "offline",
-    "since": 1776789835767,
+    "status": "online",
+    "since": 1776819978323,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -630,8 +630,8 @@
     "first_seen": 1772201190921
   },
   "ooo": {
-    "status": "offline",
-    "since": 1776758456512,
+    "status": "online",
+    "since": 1776819978323,
     "first_seen": 1772204263223
   },
   "i5146": {
@@ -720,8 +720,8 @@
     "first_seen": 1772437053482
   },
   "tmp": {
-    "status": "online",
-    "since": 1776418894337,
+    "status": "offline",
+    "since": 1776819978323,
     "first_seen": 1772461962322
   },
   "UMT33": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1776758456512,
+    "status": "offline",
+    "since": 1776819978323,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1010,13 +1010,13 @@
     "first_seen": 1774213093845
   },
   "ToolHM2": {
-    "status": "offline",
-    "since": 1776789835767,
+    "status": "online",
+    "since": 1776819978323,
     "first_seen": 1774248212124
   },
   "ToolHM3": {
-    "status": "offline",
-    "since": 1776789835767,
+    "status": "online",
+    "since": 1776819978323,
     "first_seen": 1774248212124
   },
   "amz7435": {
