@@ -12,8 +12,8 @@
     "since": 1776966615218
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1776953730420
+    "status": "offline",
+    "since": 1776985676820
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -160,8 +160,8 @@
     "first_seen": 1771887545391
   },
   "nhungoc": {
-    "status": "offline",
-    "since": 1776902325945,
+    "status": "online",
+    "since": 1776985676820,
     "first_seen": 1771890094719
   },
   "cftmon": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1776966615218,
+    "status": "online",
+    "since": 1776985676820,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1776960756738,
+    "status": "offline",
+    "since": 1776985676820,
     "first_seen": 1771947443714
   },
   "ryzen9": {
