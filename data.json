@@ -64,12 +64,12 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1776971950494
+    "status": "offline",
+    "since": 1776979546591
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1776971950494
+    "status": "offline",
+    "since": 1776979546591
   },
   "tool1-2-2026": {
     "status": "online",
@@ -800,8 +800,8 @@
     "first_seen": 1772811897961
   },
   "ResidentEvilRequiem72": {
-    "status": "online",
-    "since": 1776953730420,
+    "status": "offline",
+    "since": 1776979546591,
     "first_seen": 1772814154131
   },
   "z": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1776915567146,
+    "status": "online",
+    "since": 1776979546591,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -960,8 +960,8 @@
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
-    "status": "offline",
-    "since": 1776966615218,
+    "status": "online",
+    "since": 1776979546591,
     "first_seen": 1773917700355
   },
   "xmr": {
@@ -1115,8 +1115,8 @@
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
-    "status": "online",
-    "since": 1776931393170,
+    "status": "offline",
+    "since": 1776979546591,
     "first_seen": 1776068508511
   },
   "FP": {
