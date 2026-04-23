@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1776931393170
+    "status": "online",
+    "since": 1776982178162
   },
   "XEON8H": {
     "status": "offline",
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "online",
-    "since": 1776976176063,
+    "status": "offline",
+    "since": 1776982178162,
     "first_seen": 1771904259023
   },
   "i7sql": {
