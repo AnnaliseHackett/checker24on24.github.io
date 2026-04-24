@@ -16,8 +16,8 @@
     "since": 1777069378237
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1777040337314
+    "status": "offline",
+    "since": 1777072117945
   },
   "bluestack": {
     "status": "offline",
@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1777066076787
+    "status": "offline",
+    "since": 1777072117945
   },
   "spacemarine": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1777025191051
+    "status": "online",
+    "since": 1777072117945
   },
   "XEON8H": {
     "status": "online",
@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1777055436811,
+    "status": "offline",
+    "since": 1777072117945,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1777045363478,
+    "status": "online",
+    "since": 1777072117945,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -305,8 +305,8 @@
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "offline",
-    "since": 1777040337314,
+    "status": "online",
+    "since": 1777072117945,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1777066076787,
+    "status": "online",
+    "since": 1777072117945,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -450,8 +450,8 @@
     "first_seen": 1771934133329
   },
   "xeonutra": {
-    "status": "online",
-    "since": 1777034349271,
+    "status": "offline",
+    "since": 1777072117945,
     "first_seen": 1771934133329
   },
   "+1": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1777048876617,
+    "status": "online",
+    "since": 1777072117945,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1040,8 +1040,8 @@
     "first_seen": 1774667680573
   },
   "x56xu": {
-    "status": "offline",
-    "since": 1777045363478,
+    "status": "online",
+    "since": 1777072117945,
     "first_seen": 1774957026104
   },
   "link": {
