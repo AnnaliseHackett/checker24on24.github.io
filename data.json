@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "offline",
-    "since": 1777034349271
+    "status": "online",
+    "since": 1777066076787
   },
   "spacemarine": {
     "status": "offline",
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "online",
-    "since": 1777052377555,
+    "status": "offline",
+    "since": 1777066076787,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1777052377555,
+    "status": "offline",
+    "since": 1777066076787,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -495,13 +495,13 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1777045363478,
+    "status": "offline",
+    "since": 1777066076787,
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1777034349271,
+    "status": "offline",
+    "since": 1777066076787,
     "first_seen": 1771947443714
   },
   "i512500": {
