@@ -28,12 +28,12 @@
     "since": 1776931393170
   },
   "i5kf20": {
-    "status": "online",
-    "since": 1777010408413
+    "status": "offline",
+    "since": 1777055436811
   },
   "i711": {
-    "status": "online",
-    "since": 1777048876617
+    "status": "offline",
+    "since": 1777055436811
   },
   "i7118": {
     "status": "online",
@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "offline",
-    "since": 1776960756738,
+    "status": "online",
+    "since": 1777055436811,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -290,8 +290,8 @@
     "first_seen": 1771904259023
   },
   "sll": {
-    "status": "online",
-    "since": 1777040337314,
+    "status": "offline",
+    "since": 1777055436811,
     "first_seen": 1771904259023
   },
   "tool16": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1777025191051,
+    "status": "offline",
+    "since": 1777055436811,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -550,8 +550,8 @@
     "first_seen": 1772026925768
   },
   "xeon528": {
-    "status": "online",
-    "since": 1777045363478,
+    "status": "offline",
+    "since": 1777055436811,
     "first_seen": 1772026925768
   },
   "12thsql": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1777045363478,
+    "status": "offline",
+    "since": 1777055436811,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -680,8 +680,8 @@
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "online",
-    "since": 1777048876617,
+    "status": "offline",
+    "since": 1777055436811,
     "first_seen": 1772390452999
   },
   "umt7T": {
@@ -785,8 +785,8 @@
     "first_seen": 1772686138313
   },
   "xeonShip": {
-    "status": "online",
-    "since": 1777052377555,
+    "status": "offline",
+    "since": 1777055436811,
     "first_seen": 1772692330320
   },
   "xeon64": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "online",
-    "since": 1777034349271,
+    "status": "offline",
+    "since": 1777055436811,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -895,8 +895,8 @@
     "first_seen": 1773325655043
   },
   "iT": {
-    "status": "online",
-    "since": 1777048876617,
+    "status": "offline",
+    "since": 1777055436811,
     "first_seen": 1773329602916
   },
   "truomsi": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1777052377555,
+    "status": "offline",
+    "since": 1777055436811,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1777040337314,
+    "status": "offline",
+    "since": 1777055436811,
     "first_seen": 1775904626722
   },
   "HMck": {
