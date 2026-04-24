@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1777045363478,
+    "status": "offline",
+    "since": 1777059418837,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -505,8 +505,8 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "offline",
-    "since": 1777045363478,
+    "status": "online",
+    "since": 1777059418837,
     "first_seen": 1771951499378
   },
   "2112026t4": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1777048876617,
+    "status": "offline",
+    "since": 1777059418837,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -940,8 +940,8 @@
     "first_seen": 1773580545754
   },
   "toolBOXP": {
-    "status": "online",
-    "since": 1777002463899,
+    "status": "offline",
+    "since": 1777059418837,
     "first_seen": 1773589622881
   },
   "amd758": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1777010408413,
+    "status": "offline",
+    "since": 1777059418837,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1045,8 +1045,8 @@
     "first_seen": 1774957026104
   },
   "link": {
-    "status": "online",
-    "since": 1777002463899,
+    "status": "offline",
+    "since": 1777059418837,
     "first_seen": 1774975329240
   },
   "td": {
@@ -1110,13 +1110,13 @@
     "first_seen": 1776009051585
   },
   "python": {
-    "status": "online",
-    "since": 1776902325945,
+    "status": "offline",
+    "since": 1777059418837,
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
-    "status": "online",
-    "since": 1777018825745,
+    "status": "offline",
+    "since": 1777059418837,
     "first_seen": 1776068508511
   },
   "FP": {
