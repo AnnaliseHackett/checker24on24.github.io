@@ -28,8 +28,8 @@
     "since": 1777129297924
   },
   "i5kf20": {
-    "status": "online",
-    "since": 1777122944031
+    "status": "offline",
+    "since": 1777135862029
   },
   "i711": {
     "status": "offline",
@@ -240,8 +240,8 @@
     "first_seen": 1771904259023
   },
   "i7120": {
-    "status": "online",
-    "since": 1777129297924,
+    "status": "offline",
+    "since": 1777135862029,
     "first_seen": 1771904259023
   },
   "i7127k": {
@@ -255,8 +255,8 @@
     "first_seen": 1771904259023
   },
   "i720m": {
-    "status": "online",
-    "since": 1777132451353,
+    "status": "offline",
+    "since": 1777135862029,
     "first_seen": 1771904259023
   },
   "i77": {
@@ -395,8 +395,8 @@
     "first_seen": 1771924014596
   },
   "0x8": {
-    "status": "offline",
-    "since": 1777132451353,
+    "status": "online",
+    "since": 1777135862029,
     "first_seen": 1771927690320
   },
   "xeon3672": {
@@ -520,8 +520,8 @@
     "first_seen": 1771990967353
   },
   "xeonGPU": {
-    "status": "online",
-    "since": 1777132451353,
+    "status": "offline",
+    "since": 1777135862029,
     "first_seen": 1771990967353
   },
   "amd5": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1777099876287,
+    "status": "online",
+    "since": 1777135862029,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -895,8 +895,8 @@
     "first_seen": 1773325655043
   },
   "iT": {
-    "status": "online",
-    "since": 1777129297924,
+    "status": "offline",
+    "since": 1777135862029,
     "first_seen": 1773329602916
   },
   "truomsi": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "online",
-    "since": 1777085802014,
+    "status": "offline",
+    "since": 1777135862029,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "online",
-    "since": 1777122944031,
+    "status": "offline",
+    "since": 1777135862029,
     "first_seen": 1774108506221
   },
   "i5L": {
@@ -1145,8 +1145,8 @@
     "first_seen": 1776515842530
   },
   "AMD360": {
-    "status": "offline",
-    "since": 1777132451353,
+    "status": "online",
+    "since": 1777135862029,
     "first_seen": 1777117912289
   }
 }
