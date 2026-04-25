@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1777099876287,
+    "status": "offline",
+    "since": 1777138929764,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1777132451353,
+    "status": "offline",
+    "since": 1777138929764,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -270,8 +270,8 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "online",
-    "since": 1777085802014,
+    "status": "offline",
+    "since": 1777138929764,
     "first_seen": 1771904259023
   },
   "MD5": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1777132451353,
+    "status": "offline",
+    "since": 1777138929764,
     "first_seen": 1771918204510
   },
   "w": {
@@ -375,8 +375,8 @@
     "first_seen": 1771920460571
   },
   "amthanh": {
-    "status": "online",
-    "since": 1777117912289,
+    "status": "offline",
+    "since": 1777138929764,
     "first_seen": 1771924014596
   },
   "DMU": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1777111555823,
+    "status": "offline",
+    "since": 1777138929764,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -550,8 +550,8 @@
     "first_seen": 1772026925768
   },
   "xeon528": {
-    "status": "online",
-    "since": 1777132451353,
+    "status": "offline",
+    "since": 1777138929764,
     "first_seen": 1772026925768
   },
   "12thsql": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1777117912289,
+    "status": "offline",
+    "since": 1777138929764,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1777122944031,
+    "status": "offline",
+    "since": 1777138929764,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1777132451353,
+    "status": "offline",
+    "since": 1777138929764,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1777135862029,
+    "status": "offline",
+    "since": 1777138929764,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -1045,8 +1045,8 @@
     "first_seen": 1774957026104
   },
   "link": {
-    "status": "online",
-    "since": 1777111555823,
+    "status": "offline",
+    "since": 1777138929764,
     "first_seen": 1774975329240
   },
   "td": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1777132451353,
+    "status": "offline",
+    "since": 1777138929764,
     "first_seen": 1775842385767
   },
   "AFF": {
