@@ -68,8 +68,8 @@
     "since": 1777232003032
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1777228245016
+    "status": "offline",
+    "since": 1777234826014
   },
   "tool1-2-2026": {
     "status": "online",
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1777228245016,
+    "status": "offline",
+    "since": 1777234826014,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1777232003032,
+    "status": "offline",
+    "since": 1777234826014,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1777212674551,
+    "status": "offline",
+    "since": 1777234826014,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1115,8 +1115,8 @@
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
-    "status": "online",
-    "since": 1777212674551,
+    "status": "offline",
+    "since": 1777234826014,
     "first_seen": 1776068508511
   },
   "FP": {
