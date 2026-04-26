@@ -12,8 +12,8 @@
     "since": 1777201303947
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1777222380970
+    "status": "offline",
+    "since": 1777228245016
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -32,8 +32,8 @@
     "since": 1777218931109
   },
   "i711": {
-    "status": "online",
-    "since": 1777225443310
+    "status": "offline",
+    "since": 1777228245016
   },
   "i7118": {
     "status": "online",
@@ -64,12 +64,12 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "offline",
-    "since": 1777215892219
+    "status": "online",
+    "since": 1777228245016
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1777209428299
+    "status": "online",
+    "since": 1777228245016
   },
   "tool1-2-2026": {
     "status": "online",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1777225443310,
+    "status": "offline",
+    "since": 1777228245016,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1777215892219,
+    "status": "offline",
+    "since": 1777228245016,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1777225443310,
+    "status": "online",
+    "since": 1777228245016,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -680,8 +680,8 @@
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "online",
-    "since": 1777222380970,
+    "status": "offline",
+    "since": 1777228245016,
     "first_seen": 1772390452999
   },
   "umt7T": {
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "online",
-    "since": 1777182997752,
+    "status": "offline",
+    "since": 1777228245016,
     "first_seen": 1772808930371
   },
   "i728brute": {
@@ -845,8 +845,8 @@
     "first_seen": 1773044906943
   },
   "mic": {
-    "status": "online",
-    "since": 1777225443310,
+    "status": "offline",
+    "since": 1777228245016,
     "first_seen": 1773079423092
   },
   "toolSEARCH": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1777215892219,
+    "status": "offline",
+    "since": 1777228245016,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1110,8 +1110,8 @@
     "first_seen": 1776009051585
   },
   "python": {
-    "status": "online",
-    "since": 1777085802014,
+    "status": "offline",
+    "since": 1777228245016,
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
