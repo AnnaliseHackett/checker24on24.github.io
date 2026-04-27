@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1777243506488
+    "status": "offline",
+    "since": 1777248369841
   },
   "spacemarine": {
     "status": "offline",
@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "online",
-    "since": 1777245914213
+    "status": "offline",
+    "since": 1777248369841
   },
   "x": {
     "status": "online",
@@ -160,8 +160,8 @@
     "first_seen": 1771887545391
   },
   "nhungoc": {
-    "status": "online",
-    "since": 1777245914213,
+    "status": "offline",
+    "since": 1777248369841,
     "first_seen": 1771890094719
   },
   "cftmon": {
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1777215892219,
+    "status": "online",
+    "since": 1777248369841,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -240,8 +240,8 @@
     "first_seen": 1771904259023
   },
   "i7120": {
-    "status": "offline",
-    "since": 1777212674551,
+    "status": "online",
+    "since": 1777248369841,
     "first_seen": 1771904259023
   },
   "i7127k": {
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "offline",
-    "since": 1777222380970,
+    "status": "online",
+    "since": 1777248369841,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "offline",
-    "since": 1777209428299,
+    "status": "online",
+    "since": 1777248369841,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -815,13 +815,13 @@
     "first_seen": 1772927358632
   },
   "SM": {
-    "status": "offline",
-    "since": 1777132451353,
+    "status": "online",
+    "since": 1777248369841,
     "first_seen": 1772964700336
   },
   "xeon67": {
-    "status": "online",
-    "since": 1777209428299,
+    "status": "offline",
+    "since": 1777248369841,
     "first_seen": 1772964700336
   },
   "maxcare": {
@@ -1110,8 +1110,8 @@
     "first_seen": 1776009051585
   },
   "python": {
-    "status": "offline",
-    "since": 1777228245016,
+    "status": "online",
+    "since": 1777248369841,
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
