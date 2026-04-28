@@ -68,8 +68,8 @@
     "since": 1777381455501
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1777407805608
+    "status": "offline",
+    "since": 1777415865272
   },
   "tool1-2-2026": {
     "status": "online",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1777412219109,
+    "status": "offline",
+    "since": 1777415865272,
     "first_seen": 1771904259023
   },
   "dell8": {
