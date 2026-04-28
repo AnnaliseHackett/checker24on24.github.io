@@ -96,8 +96,8 @@
     "since": 1777327557043
   },
   "XEON8H": {
-    "status": "offline",
-    "since": 1777129297924
+    "status": "online",
+    "since": 1777334783626
   },
   "xeonE548": {
     "status": "offline",
@@ -160,8 +160,8 @@
     "first_seen": 1771887545391
   },
   "nhungoc": {
-    "status": "online",
-    "since": 1777331316900,
+    "status": "offline",
+    "since": 1777334783626,
     "first_seen": 1771890094719
   },
   "cftmon": {
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1777280908706,
+    "status": "online",
+    "since": 1777334783626,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -240,8 +240,8 @@
     "first_seen": 1771904259023
   },
   "i7120": {
-    "status": "offline",
-    "since": 1777262325749,
+    "status": "online",
+    "since": 1777334783626,
     "first_seen": 1771904259023
   },
   "i7127k": {
@@ -305,8 +305,8 @@
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "offline",
-    "since": 1777302655232,
+    "status": "online",
+    "since": 1777334783626,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1777331316900,
+    "status": "offline",
+    "since": 1777334783626,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1777313627986,
+    "status": "online",
+    "since": 1777334783626,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -555,8 +555,8 @@
     "first_seen": 1772026925768
   },
   "12thsql": {
-    "status": "offline",
-    "since": 1776923668379,
+    "status": "online",
+    "since": 1777334783626,
     "first_seen": 1772030425253
   },
   "baroi": {
@@ -815,8 +815,8 @@
     "first_seen": 1772927358632
   },
   "SM": {
-    "status": "online",
-    "since": 1777331316900,
+    "status": "offline",
+    "since": 1777334783626,
     "first_seen": 1772964700336
   },
   "xeon67": {
