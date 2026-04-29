@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "offline",
-    "since": 1777425804032
+    "status": "online",
+    "since": 1777493028147
   },
   "spacemarine": {
     "status": "online",
@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1777349039403,
+    "status": "offline",
+    "since": 1777493028147,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1777438534945,
+    "status": "offline",
+    "since": 1777493028147,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1777488304533,
+    "status": "offline",
+    "since": 1777493028147,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -230,8 +230,8 @@
     "first_seen": 1771904259023
   },
   "f15wifi": {
-    "status": "online",
-    "since": 1777476224586,
+    "status": "offline",
+    "since": 1777493028147,
     "first_seen": 1771904259023
   },
   "i5D": {
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "offline",
-    "since": 1777488304533,
+    "status": "online",
+    "since": 1777493028147,
     "first_seen": 1772808930371
   },
   "i728brute": {
@@ -940,8 +940,8 @@
     "first_seen": 1773580545754
   },
   "toolBOXP": {
-    "status": "online",
-    "since": 1777425804032,
+    "status": "offline",
+    "since": 1777493028147,
     "first_seen": 1773589622881
   },
   "amd758": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1777309083931,
+    "status": "offline",
+    "since": 1777493028147,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1777488304533,
+    "status": "offline",
+    "since": 1777493028147,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1115,8 +1115,8 @@
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
-    "status": "online",
-    "since": 1777438534945,
+    "status": "offline",
+    "since": 1777493028147,
     "first_seen": 1776068508511
   },
   "FP": {
