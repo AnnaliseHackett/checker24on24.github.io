@@ -68,8 +68,8 @@
     "since": 1777497423411
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1777488304533
+    "status": "offline",
+    "since": 1777500870312
   },
   "tool1-2-2026": {
     "status": "online",
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1777476224586,
+    "status": "offline",
+    "since": 1777500870312,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
