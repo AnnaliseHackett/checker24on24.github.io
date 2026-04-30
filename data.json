@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1777522061497,
+    "status": "offline",
+    "since": 1777590546456,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1777547061388,
+    "status": "online",
+    "since": 1777590546456,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "offline",
-    "since": 1777562013620,
+    "status": "online",
+    "since": 1777590546456,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1777583157357,
+    "status": "offline",
+    "since": 1777590546456,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -720,8 +720,8 @@
     "first_seen": 1772437053482
   },
   "tmp": {
-    "status": "offline",
-    "since": 1777562013620,
+    "status": "online",
+    "since": 1777590546456,
     "first_seen": 1772461962322
   },
   "UMT33": {
