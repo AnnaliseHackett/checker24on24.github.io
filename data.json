@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1777665304658
+    "status": "offline",
+    "since": 1777676356652
   },
   "spacemarine": {
     "status": "online",
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1777648594953,
+    "status": "online",
+    "since": 1777676356652,
     "first_seen": 1773226388097
   },
   "amd78s": {
