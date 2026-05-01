@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1777648594953
+    "status": "online",
+    "since": 1777672721178
   },
   "XEON8H": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1777644589015,
+    "status": "offline",
+    "since": 1777672721178,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1777669072475,
+    "status": "offline",
+    "since": 1777672721178,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "online",
-    "since": 1777583157357,
+    "status": "offline",
+    "since": 1777672721178,
     "first_seen": 1772808930371
   },
   "i728brute": {
