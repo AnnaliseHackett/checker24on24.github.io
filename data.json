@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1777756169304,
+    "status": "online",
+    "since": 1777762580108,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1777735915196,
+    "status": "online",
+    "since": 1777762580108,
     "first_seen": 1773226388097
   },
   "amd78s": {
