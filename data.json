@@ -76,16 +76,16 @@
     "since": 1777407805608
   },
   "tool-8-2-2026": {
-    "status": "offline",
-    "since": 1777708525723
+    "status": "online",
+    "since": 1777723329148
   },
   "toolAL23-2-2026": {
     "status": "offline",
     "since": 1773144042180
   },
   "utral9": {
-    "status": "offline",
-    "since": 1777720222700
+    "status": "online",
+    "since": 1777723329148
   },
   "x": {
     "status": "online",
@@ -120,8 +120,8 @@
     "since": 1776765004724
   },
   "xeonVPS": {
-    "status": "online",
-    "since": 1777713178085
+    "status": "offline",
+    "since": 1777723329148
   },
   "E3": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1777720222700,
+    "status": "online",
+    "since": 1777723329148,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -305,8 +305,8 @@
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "online",
-    "since": 1777708525723,
+    "status": "offline",
+    "since": 1777723329148,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1777713178085,
+    "status": "online",
+    "since": 1777723329148,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -520,13 +520,13 @@
     "first_seen": 1771990967353
   },
   "xeonGPU": {
-    "status": "offline",
-    "since": 1777652084298,
+    "status": "online",
+    "since": 1777723329148,
     "first_seen": 1771990967353
   },
   "amd5": {
-    "status": "offline",
-    "since": 1777045363478,
+    "status": "online",
+    "since": 1777723329148,
     "first_seen": 1772011924609
   },
   "xeon2696v2": {
@@ -550,8 +550,8 @@
     "first_seen": 1772026925768
   },
   "xeon528": {
-    "status": "online",
-    "since": 1777720222700,
+    "status": "offline",
+    "since": 1777723329148,
     "first_seen": 1772026925768
   },
   "12thsql": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "online",
-    "since": 1777693412089,
+    "status": "offline",
+    "since": 1777723329148,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "offline",
-    "since": 1777716761976,
+    "status": "online",
+    "since": 1777723329148,
     "first_seen": 1774667680573
   },
   "x56xu": {
