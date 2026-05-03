@@ -12,8 +12,8 @@
     "since": 1777810096584
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1777842660756
+    "status": "online",
+    "since": 1777845820209
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "offline",
-    "since": 1777829309844
+    "status": "online",
+    "since": 1777845820209
   },
   "spacemarine": {
     "status": "online",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1777833133576,
+    "status": "offline",
+    "since": 1777845820209,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "online",
-    "since": 1777837188953,
+    "status": "offline",
+    "since": 1777845820209,
     "first_seen": 1772808930371
   },
   "i728brute": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1777819193348,
+    "status": "offline",
+    "since": 1777845820209,
     "first_seen": 1772895624848
   },
   "proxy": {
