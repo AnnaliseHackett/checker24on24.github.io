@@ -12,8 +12,8 @@
     "since": 1777900154569
   },
   "amz7profile": {
-    "status": "offline",
-    "since": 1777921121959
+    "status": "online",
+    "since": 1777926213339
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1777849303550,
+    "status": "online",
+    "since": 1777926213339,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -435,13 +435,13 @@
     "first_seen": 1771931250125
   },
   "y": {
-    "status": "online",
-    "since": 1777887445068,
+    "status": "offline",
+    "since": 1777926213339,
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1777893934039,
+    "status": "offline",
+    "since": 1777926213339,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -555,8 +555,8 @@
     "first_seen": 1772026925768
   },
   "12thsql": {
-    "status": "offline",
-    "since": 1777367487657,
+    "status": "online",
+    "since": 1777926213339,
     "first_seen": 1772030425253
   },
   "baroi": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1777914715878,
+    "status": "offline",
+    "since": 1777926213339,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "online",
-    "since": 1777867597479,
+    "status": "offline",
+    "since": 1777926213339,
     "first_seen": 1772808930371
   },
   "i728brute": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1777921121959,
+    "status": "offline",
+    "since": 1777926213339,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1777908127534,
+    "status": "offline",
+    "since": 1777926213339,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1115,8 +1115,8 @@
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
-    "status": "online",
-    "since": 1777879343781,
+    "status": "offline",
+    "since": 1777926213339,
     "first_seen": 1776068508511
   },
   "FP": {
