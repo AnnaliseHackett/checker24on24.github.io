@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1777914715878,
+    "status": "offline",
+    "since": 1777934361312,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -555,8 +555,8 @@
     "first_seen": 1772026925768
   },
   "12thsql": {
-    "status": "online",
-    "since": 1777926213339,
+    "status": "offline",
+    "since": 1777934361312,
     "first_seen": 1772030425253
   },
   "baroi": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1777900154569,
+    "status": "online",
+    "since": 1777934361312,
     "first_seen": 1773226388097
   },
   "amd78s": {
