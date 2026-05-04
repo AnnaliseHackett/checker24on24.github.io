@@ -170,13 +170,13 @@
     "first_seen": 1771894415726
   },
   "excel": {
-    "status": "offline",
-    "since": 1777732673445,
+    "status": "online",
+    "since": 1777852867953,
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1777789072572,
+    "status": "online",
+    "since": 1777852867953,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1777732673445,
+    "status": "online",
+    "since": 1777852867953,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -250,8 +250,8 @@
     "first_seen": 1771904259023
   },
   "i7128": {
-    "status": "offline",
-    "since": 1777833133576,
+    "status": "online",
+    "since": 1777852867953,
     "first_seen": 1771904259023
   },
   "i720m": {
@@ -305,8 +305,8 @@
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "offline",
-    "since": 1777822344266,
+    "status": "online",
+    "since": 1777852867953,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -450,8 +450,8 @@
     "first_seen": 1771934133329
   },
   "xeonutra": {
-    "status": "online",
-    "since": 1777849303550,
+    "status": "offline",
+    "since": 1777852867953,
     "first_seen": 1771934133329
   },
   "+1": {
@@ -1110,8 +1110,8 @@
     "first_seen": 1776009051585
   },
   "python": {
-    "status": "offline",
-    "since": 1777819193348,
+    "status": "online",
+    "since": 1777852867953,
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
