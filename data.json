@@ -16,8 +16,8 @@
     "since": 1777998128630
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1777998128630
+    "status": "offline",
+    "since": 1778010056305
   },
   "bluestack": {
     "status": "offline",
@@ -132,8 +132,8 @@
     "since": 1778003705173
   },
   "i72028": {
-    "status": "online",
-    "since": 1778003705173
+    "status": "offline",
+    "since": 1778010056305
   },
   "xeonYEU": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1777998128630,
+    "status": "offline",
+    "since": 1778010056305,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1778003705173,
+    "status": "online",
+    "since": 1778010056305,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -270,8 +270,8 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "online",
-    "since": 1777998128630,
+    "status": "offline",
+    "since": 1778010056305,
     "first_seen": 1771904259023
   },
   "MD5": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1777991015222,
+    "status": "offline",
+    "since": 1778010056305,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1777982884647,
+    "status": "offline",
+    "since": 1778010056305,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "offline",
-    "since": 1778003705173,
+    "status": "online",
+    "since": 1778010056305,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1777991015222,
+    "status": "offline",
+    "since": 1778010056305,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "online",
-    "since": 1777982884647,
+    "status": "offline",
+    "since": 1778010056305,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1777998128630,
+    "status": "offline",
+    "since": 1778010056305,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1015,8 +1015,8 @@
     "first_seen": 1774248212124
   },
   "ToolHM3": {
-    "status": "online",
-    "since": 1778003705173,
+    "status": "offline",
+    "since": 1778010056305,
     "first_seen": 1774248212124
   },
   "amz7435": {
@@ -1095,13 +1095,13 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1777991015222,
+    "status": "offline",
+    "since": 1778010056305,
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1777908127534,
+    "status": "offline",
+    "since": 1778010056305,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
