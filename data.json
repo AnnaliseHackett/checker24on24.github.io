@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1778013962021
+    "status": "offline",
+    "since": 1778020849529
   },
   "spacemarine": {
     "status": "offline",
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1777998128630,
+    "status": "online",
+    "since": 1778020849529,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -1040,8 +1040,8 @@
     "first_seen": 1774667680573
   },
   "x56xu": {
-    "status": "offline",
-    "since": 1777998128630,
+    "status": "online",
+    "since": 1778020849529,
     "first_seen": 1774957026104
   },
   "link": {
