@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1778030115482,
+    "status": "online",
+    "since": 1778108956759,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -280,8 +280,8 @@
     "first_seen": 1771904259023
   },
   "print1": {
-    "status": "offline",
-    "since": 1777955433802,
+    "status": "online",
+    "since": 1778108956759,
     "first_seen": 1771904259023
   },
   "ryzen784u": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1778068691542,
+    "status": "online",
+    "since": 1778108956759,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1778105416707,
+    "status": "offline",
+    "since": 1778108956759,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "offline",
-    "since": 1778078291941,
+    "status": "online",
+    "since": 1778108956759,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "offline",
-    "since": 1778097304904,
+    "status": "online",
+    "since": 1778108956759,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "online",
-    "since": 1778024117139,
+    "status": "offline",
+    "since": 1778108956759,
     "first_seen": 1772808930371
   },
   "i728brute": {
