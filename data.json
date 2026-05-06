@@ -12,8 +12,8 @@
     "since": 1778078291941
   },
   "amz7profile": {
-    "status": "online",
-    "since": 1778097304904
+    "status": "offline",
+    "since": 1778102063599
   },
   "AMZ9HX32": {
     "status": "offline",
@@ -36,8 +36,8 @@
     "since": 1777921121959
   },
   "i7118": {
-    "status": "online",
-    "since": 1778078291941
+    "status": "offline",
+    "since": 1778102063599
   },
   "i7pubg": {
     "status": "offline",
@@ -64,12 +64,12 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1778078291941
+    "status": "offline",
+    "since": 1778102063599
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1778078291941
+    "status": "online",
+    "since": 1778102063599
   },
   "tool1-2-2026": {
     "status": "online",
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1778084291324,
+    "status": "offline",
+    "since": 1778102063599,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1778078291941,
+    "status": "offline",
+    "since": 1778102063599,
     "first_seen": 1775904626722
   },
   "HMck": {
