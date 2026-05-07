@@ -16,8 +16,8 @@
     "since": 1778174729022
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1778168389057
+    "status": "offline",
+    "since": 1778186516842
   },
   "bluestack": {
     "status": "online",
@@ -68,8 +68,8 @@
     "since": 1778153314454
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1778159860523
+    "status": "online",
+    "since": 1778186516842
   },
   "tool1-2-2026": {
     "status": "online",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1778181337517,
+    "status": "online",
+    "since": 1778186516842,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -325,8 +325,8 @@
     "first_seen": 1771904259023
   },
   "i7130h": {
-    "status": "online",
-    "since": 1778159860523,
+    "status": "offline",
+    "since": 1778186516842,
     "first_seen": 1771909942902
   },
   "i7update": {
@@ -545,8 +545,8 @@
     "first_seen": 1772026925768
   },
   "xeon20": {
-    "status": "online",
-    "since": 1777461442058,
+    "status": "offline",
+    "since": 1778186516842,
     "first_seen": 1772026925768
   },
   "xeon528": {
@@ -1115,8 +1115,8 @@
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
-    "status": "online",
-    "since": 1778136628016,
+    "status": "offline",
+    "since": 1778186516842,
     "first_seen": 1776068508511
   },
   "FP": {
