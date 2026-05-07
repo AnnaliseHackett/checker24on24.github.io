@@ -68,8 +68,8 @@
     "since": 1778153314454
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1778186516842
+    "status": "offline",
+    "since": 1778190083880
   },
   "tool1-2-2026": {
     "status": "online",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1778186516842,
+    "status": "offline",
+    "since": 1778190083880,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1778126534339,
+    "status": "offline",
+    "since": 1778190083880,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
