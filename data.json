@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1778266739545
+    "status": "offline",
+    "since": 1778271212815
   },
   "spacemarine": {
     "status": "online",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1778252089056,
+    "status": "offline",
+    "since": 1778271212815,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1778252089056,
+    "status": "offline",
+    "since": 1778271212815,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1778262491487,
+    "status": "offline",
+    "since": 1778271212815,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1778252089056,
+    "status": "offline",
+    "since": 1778271212815,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "online",
-    "since": 1778257078510,
+    "status": "offline",
+    "since": 1778271212815,
     "first_seen": 1774108506221
   },
   "i5L": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1778252089056,
+    "status": "offline",
+    "since": 1778271212815,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
