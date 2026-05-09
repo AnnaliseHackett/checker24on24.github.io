@@ -185,8 +185,8 @@
     "first_seen": 1771894415726
   },
   "ps4": {
-    "status": "offline",
-    "since": 1778257078510,
+    "status": "online",
+    "since": 1778338576233,
     "first_seen": 1771894415726
   },
   "xeon2686": {
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "online",
-    "since": 1778289675084,
+    "status": "offline",
+    "since": 1778338576233,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -230,8 +230,8 @@
     "first_seen": 1771904259023
   },
   "f15wifi": {
-    "status": "online",
-    "since": 1778334612285,
+    "status": "offline",
+    "since": 1778338576233,
     "first_seen": 1771904259023
   },
   "i5D": {
@@ -435,8 +435,8 @@
     "first_seen": 1771931250125
   },
   "y": {
-    "status": "offline",
-    "since": 1778266739545,
+    "status": "online",
+    "since": 1778338576233,
     "first_seen": 1771931250125
   },
   "i5Te": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "offline",
-    "since": 1778334612285,
+    "status": "online",
+    "since": 1778338576233,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "offline",
-    "since": 1778275828009,
+    "status": "online",
+    "since": 1778338576233,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -565,8 +565,8 @@
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "online",
-    "since": 1778289675084,
+    "status": "offline",
+    "since": 1778338576233,
     "first_seen": 1772076874941
   },
   "i728p": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "offline",
-    "since": 1777804799082,
+    "status": "online",
+    "since": 1778338576233,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "online",
-    "since": 1778334612285,
+    "status": "offline",
+    "since": 1778338576233,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "offline",
-    "since": 1778334612285,
+    "status": "online",
+    "since": 1778338576233,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1778325239502,
+    "status": "online",
+    "since": 1778338576233,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1778283363405,
+    "status": "offline",
+    "since": 1778338576233,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "online",
-    "since": 1778316845992,
+    "status": "offline",
+    "since": 1778338576233,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -970,8 +970,8 @@
     "first_seen": 1773968437686
   },
   "xeon26700": {
-    "status": "online",
-    "since": 1778334612285,
+    "status": "offline",
+    "since": 1778338576233,
     "first_seen": 1773983257584
   },
   "amz939": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "offline",
-    "since": 1778257078510,
+    "status": "online",
+    "since": 1778338576233,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "offline",
-    "since": 1778310670315,
+    "status": "online",
+    "since": 1778338576233,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "offline",
-    "since": 1778275828009,
+    "status": "online",
+    "since": 1778338576233,
     "first_seen": 1774975329240
   },
   "hd": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1778334612285,
+    "status": "offline",
+    "since": 1778338576233,
     "first_seen": 1775842385767
   },
   "AFF": {
