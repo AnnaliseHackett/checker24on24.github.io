@@ -68,8 +68,8 @@
     "since": 1778325239502
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1778279727103
+    "status": "online",
+    "since": 1778328285334
   },
   "tool1-2-2026": {
     "status": "online",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1778325239502,
+    "status": "online",
+    "since": 1778328285334,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -430,8 +430,8 @@
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "online",
-    "since": 1778302259366,
+    "status": "offline",
+    "since": 1778328285334,
     "first_seen": 1771931250125
   },
   "y": {
@@ -490,8 +490,8 @@
     "first_seen": 1771943661252
   },
   "xeonSL": {
-    "status": "offline",
-    "since": 1778310670315,
+    "status": "online",
+    "since": 1778328285334,
     "first_seen": 1771943661252
   },
   "mua5": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1778325239502,
+    "status": "offline",
+    "since": 1778328285334,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -525,8 +525,8 @@
     "first_seen": 1771990967353
   },
   "amd5": {
-    "status": "online",
-    "since": 1778325239502,
+    "status": "offline",
+    "since": 1778328285334,
     "first_seen": 1772011924609
   },
   "xeon2696v2": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "offline",
-    "since": 1778321426199,
+    "status": "online",
+    "since": 1778328285334,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "offline",
-    "since": 1778174729022,
+    "status": "online",
+    "since": 1778328285334,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "offline",
-    "since": 1778275828009,
+    "status": "online",
+    "since": 1778328285334,
     "first_seen": 1772808930371
   },
   "i728brute": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "offline",
-    "since": 1778271212815,
+    "status": "online",
+    "since": 1778328285334,
     "first_seen": 1774108506221
   },
   "i5L": {
