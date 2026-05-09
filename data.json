@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1778357330569,
+    "status": "offline",
+    "since": 1778360586871,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -490,8 +490,8 @@
     "first_seen": 1771943661252
   },
   "xeonSL": {
-    "status": "online",
-    "since": 1778328285334,
+    "status": "offline",
+    "since": 1778360586871,
     "first_seen": 1771943661252
   },
   "mua5": {
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "online",
-    "since": 1778354420998,
+    "status": "offline",
+    "since": 1778360586871,
     "first_seen": 1772808930371
   },
   "i728brute": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "online",
-    "since": 1778338576233,
+    "status": "offline",
+    "since": 1778360586871,
     "first_seen": 1774975329240
   },
   "hd": {
