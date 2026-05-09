@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1778302259366,
+    "status": "offline",
+    "since": 1778349819182,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -290,8 +290,8 @@
     "first_seen": 1771904259023
   },
   "sll": {
-    "status": "online",
-    "since": 1778346359371,
+    "status": "offline",
+    "since": 1778349819182,
     "first_seen": 1771904259023
   },
   "tool16": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1778325239502,
+    "status": "offline",
+    "since": 1778349819182,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1778346359371,
+    "status": "offline",
+    "since": 1778349819182,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1778342345149,
+    "status": "offline",
+    "since": 1778349819182,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "offline",
-    "since": 1778342345149,
+    "status": "online",
+    "since": 1778349819182,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1778328285334,
+    "status": "offline",
+    "since": 1778349819182,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "offline",
-    "since": 1778346359371,
+    "status": "online",
+    "since": 1778349819182,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "online",
-    "since": 1778302259366,
+    "status": "offline",
+    "since": 1778349819182,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1778342345149,
+    "status": "offline",
+    "since": 1778349819182,
     "first_seen": 1775842385767
   },
   "AFF": {
@@ -1115,8 +1115,8 @@
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
-    "status": "online",
-    "since": 1778334612285,
+    "status": "offline",
+    "since": 1778349819182,
     "first_seen": 1776068508511
   },
   "FP": {
