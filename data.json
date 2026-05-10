@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1778421249541,
+    "status": "offline",
+    "since": 1778448343044,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -940,8 +940,8 @@
     "first_seen": 1773580545754
   },
   "toolBOXP": {
-    "status": "online",
-    "since": 1778302259366,
+    "status": "offline",
+    "since": 1778448343044,
     "first_seen": 1773589622881
   },
   "amd758": {
