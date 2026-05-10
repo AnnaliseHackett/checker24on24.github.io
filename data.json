@@ -16,8 +16,8 @@
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1778402764942
+    "status": "offline",
+    "since": 1778444771489
   },
   "bluestack": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1778395299833,
+    "status": "offline",
+    "since": 1778444771489,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1778441677461,
+    "status": "offline",
+    "since": 1778444771489,
     "first_seen": 1775842385767
   },
   "AFF": {
@@ -1115,8 +1115,8 @@
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
-    "status": "online",
-    "since": 1778428903963,
+    "status": "offline",
+    "since": 1778444771489,
     "first_seen": 1776068508511
   },
   "FP": {
