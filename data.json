@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1778425062344
+    "status": "online",
+    "since": 1778454722045
   },
   "XEON8H": {
     "status": "offline",
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1778433015527,
+    "status": "online",
+    "since": 1778454722045,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "offline",
-    "since": 1778428903963,
+    "status": "online",
+    "since": 1778454722045,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -1040,8 +1040,8 @@
     "first_seen": 1774667680573
   },
   "x56xu": {
-    "status": "offline",
-    "since": 1778428903963,
+    "status": "online",
+    "since": 1778454722045,
     "first_seen": 1774957026104
   },
   "link": {
