@@ -20,8 +20,8 @@
     "since": 1778530837981
   },
   "bluestack": {
-    "status": "online",
-    "since": 1778474377505
+    "status": "offline",
+    "since": 1778539466193
   },
   "i5125": {
     "status": "online",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1778518042180
+    "status": "online",
+    "since": 1778539466193
   },
   "XEON8H": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1778524152906,
+    "status": "offline",
+    "since": 1778539466193,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1778518042180,
+    "status": "online",
+    "since": 1778539466193,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "offline",
-    "since": 1778451110454,
+    "status": "online",
+    "since": 1778539466193,
     "first_seen": 1774975329240
   },
   "hd": {
