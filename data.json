@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1778524152906,
+    "status": "online",
+    "since": 1778536182501,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1778518042180,
+    "status": "offline",
+    "since": 1778536182501,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1778524152906,
+    "status": "offline",
+    "since": 1778536182501,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1778487436358,
+    "status": "offline",
+    "since": 1778536182501,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
