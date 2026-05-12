@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "offline",
-    "since": 1778599881424
+    "status": "online",
+    "since": 1778629040018
   },
   "x": {
     "status": "online",
@@ -160,8 +160,8 @@
     "first_seen": 1771887545391
   },
   "nhungoc": {
-    "status": "offline",
-    "since": 1778562441236,
+    "status": "online",
+    "since": 1778629040018,
     "first_seen": 1771890094719
   },
   "cftmon": {
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1778573032153,
+    "status": "online",
+    "since": 1778629040018,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1778624506923,
+    "status": "online",
+    "since": 1778629040018,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1778607361503,
+    "status": "online",
+    "since": 1778629040018,
     "first_seen": 1771931250125
   },
   "pc": {
