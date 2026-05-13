@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1778670511578
+    "status": "online",
+    "since": 1778712784571
   },
   "XEON8H": {
     "status": "offline",
@@ -120,8 +120,8 @@
     "since": 1778474377505
   },
   "xeonVPS": {
-    "status": "online",
-    "since": 1778613687515
+    "status": "offline",
+    "since": 1778712784571
   },
   "E3": {
     "status": "offline",
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1778695990225,
+    "status": "online",
+    "since": 1778712784571,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1778660453298,
+    "status": "offline",
+    "since": 1778712784571,
     "first_seen": 1772895624848
   },
   "proxy": {
