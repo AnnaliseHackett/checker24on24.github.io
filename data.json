@@ -68,8 +68,8 @@
     "since": 1778708886786
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1778678932733
+    "status": "online",
+    "since": 1778717149922
   },
   "tool1-2-2026": {
     "status": "online",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "online",
-    "since": 1778712784571
+    "status": "offline",
+    "since": 1778717149922
   },
   "XEON8H": {
     "status": "offline",
@@ -120,8 +120,8 @@
     "since": 1778474377505
   },
   "xeonVPS": {
-    "status": "offline",
-    "since": 1778712784571
+    "status": "online",
+    "since": 1778717149922
   },
   "E3": {
     "status": "offline",
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1778678932733,
+    "status": "online",
+    "since": 1778717149922,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1778688335093,
+    "status": "offline",
+    "since": 1778717149922,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1778712784571,
+    "status": "offline",
+    "since": 1778717149922,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1778712784571,
+    "status": "online",
+    "since": 1778717149922,
     "first_seen": 1772895624848
   },
   "proxy": {
