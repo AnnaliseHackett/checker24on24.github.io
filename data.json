@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "offline",
-    "since": 1778743495547,
+    "status": "online",
+    "since": 1778794746186,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -570,8 +570,8 @@
     "first_seen": 1772076874941
   },
   "i728p": {
-    "status": "offline",
-    "since": 1778776260973,
+    "status": "online",
+    "since": 1778794746186,
     "first_seen": 1772082654222
   },
   "reg16": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1778776260973,
+    "status": "online",
+    "since": 1778794746186,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1778769056098,
+    "status": "offline",
+    "since": 1778794746186,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "online",
-    "since": 1778789709148,
+    "status": "offline",
+    "since": 1778794746186,
     "first_seen": 1774975329240
   },
   "hd": {
