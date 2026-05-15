@@ -16,8 +16,8 @@
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1778850193871
+    "status": "offline",
+    "since": 1778880867069
   },
   "bluestack": {
     "status": "offline",
@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1778865117462
+    "status": "offline",
+    "since": 1778880867069
   },
   "spacemarine": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1778802083047
+    "status": "online",
+    "since": 1778880867069
   },
   "XEON8H": {
     "status": "offline",
@@ -490,8 +490,8 @@
     "first_seen": 1771943661252
   },
   "xeonSL": {
-    "status": "offline",
-    "since": 1778865117462,
+    "status": "online",
+    "since": 1778880867069,
     "first_seen": 1771943661252
   },
   "mua5": {
