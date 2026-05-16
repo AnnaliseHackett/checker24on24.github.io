@@ -68,8 +68,8 @@
     "since": 1778964911487
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1778964911487
+    "status": "offline",
+    "since": 1778975852010
   },
   "tool1-2-2026": {
     "status": "online",
@@ -92,8 +92,8 @@
     "since": 1771869452421
   },
   "xeon2696": {
-    "status": "online",
-    "since": 1778968508404
+    "status": "offline",
+    "since": 1778975852010
   },
   "XEON8H": {
     "status": "offline",
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1778928012670,
+    "status": "online",
+    "since": 1778975852010,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "online",
-    "since": 1778964911487,
+    "status": "offline",
+    "since": 1778975852010,
     "first_seen": 1772808930371
   },
   "i728brute": {
@@ -815,8 +815,8 @@
     "first_seen": 1772927358632
   },
   "SM": {
-    "status": "offline",
-    "since": 1778949090959,
+    "status": "online",
+    "since": 1778975852010,
     "first_seen": 1772964700336
   },
   "xeon67": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1778971990400,
+    "status": "offline",
+    "since": 1778975852010,
     "first_seen": 1773226388097
   },
   "amd78s": {
