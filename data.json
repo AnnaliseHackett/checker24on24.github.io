@@ -64,12 +64,12 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1778945388571
+    "status": "offline",
+    "since": 1778964911487
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1778935485368
+    "status": "online",
+    "since": 1778964911487
   },
   "tool1-2-2026": {
     "status": "online",
@@ -790,8 +790,8 @@
     "first_seen": 1772692330320
   },
   "xeon64": {
-    "status": "offline",
-    "since": 1778953118524,
+    "status": "online",
+    "since": 1778964911487,
     "first_seen": 1772808930371
   },
   "i728brute": {
@@ -940,8 +940,8 @@
     "first_seen": 1773580545754
   },
   "toolBOXP": {
-    "status": "online",
-    "since": 1778928012670,
+    "status": "offline",
+    "since": 1778964911487,
     "first_seen": 1773589622881
   },
   "amd758": {
