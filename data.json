@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "offline",
-    "since": 1779014622830
+    "status": "online",
+    "since": 1779047727267
   },
   "spacemarine": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1779035826244,
+    "status": "online",
+    "since": 1779047727267,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1779039663918,
+    "status": "online",
+    "since": 1779047727267,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1778991169365,
+    "status": "offline",
+    "since": 1779047727267,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1778991169365,
+    "status": "offline",
+    "since": 1779047727267,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1070,8 +1070,8 @@
     "first_seen": 1775650197409
   },
   "xeon6789": {
-    "status": "online",
-    "since": 1779039663918,
+    "status": "offline",
+    "since": 1779047727267,
     "first_seen": 1775713494253
   },
   "ChangeD": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1778907338833,
+    "status": "offline",
+    "since": 1779047727267,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
