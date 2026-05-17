@@ -64,8 +64,8 @@
     "since": 1771869452421
   },
   "panel16": {
-    "status": "online",
-    "since": 1779047727267
+    "status": "offline",
+    "since": 1779051605169
   },
   "spacemarine": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1779047727267,
+    "status": "offline",
+    "since": 1779051605169,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1779047727267,
+    "status": "offline",
+    "since": 1779051605169,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "offline",
-    "since": 1779047727267,
+    "status": "online",
+    "since": 1779051605169,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
