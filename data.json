@@ -8,8 +8,8 @@
     "since": 1779105983126
   },
   "3672xeon": {
-    "status": "online",
-    "since": 1779134340550
+    "status": "offline",
+    "since": 1779143538026
   },
   "amz7profile": {
     "status": "offline",
@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1779119720225
+    "status": "online",
+    "since": 1779143538026
   },
   "tool1-2-2026": {
     "status": "online",
@@ -92,8 +92,8 @@
     "since": 1779063088222
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1779105983126
+    "status": "online",
+    "since": 1779143538026
   },
   "XEON8H": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1779139262648,
+    "status": "offline",
+    "since": 1779143538026,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1779119720225,
+    "status": "offline",
+    "since": 1779143538026,
     "first_seen": 1771947443714
   },
   "ryzen9": {
