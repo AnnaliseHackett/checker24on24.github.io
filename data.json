@@ -24,8 +24,8 @@
     "since": 1779197511213
   },
   "i5125": {
-    "status": "online",
-    "since": 1779127445123
+    "status": "offline",
+    "since": 1779227365911
   },
   "i5kf20": {
     "status": "offline",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1779215212107,
+    "status": "offline",
+    "since": 1779227365911,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1779208728467,
+    "status": "offline",
+    "since": 1779227365911,
     "first_seen": 1772895624848
   },
   "proxy": {
