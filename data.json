@@ -16,8 +16,8 @@
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1779373815597
+    "status": "offline",
+    "since": 1779407074148
   },
   "bluestack": {
     "status": "offline",
@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1779397998915
+    "status": "offline",
+    "since": 1779407074148
   },
   "tool1-2-2026": {
     "status": "online",
@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "offline",
-    "since": 1779383951038
+    "status": "online",
+    "since": 1779407074148
   },
   "x": {
     "status": "online",
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1779351890818,
+    "status": "online",
+    "since": 1779407074148,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1779373815597,
+    "status": "online",
+    "since": 1779407074148,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1779383951038,
+    "status": "online",
+    "since": 1779407074148,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1779391359552,
+    "status": "online",
+    "since": 1779407074148,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1779383951038,
+    "status": "online",
+    "since": 1779407074148,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1779403485611,
+    "status": "offline",
+    "since": 1779407074148,
     "first_seen": 1772895624848
   },
   "proxy": {
