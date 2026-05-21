@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1779373815597
+    "status": "online",
+    "since": 1779397998915
   },
   "tool1-2-2026": {
     "status": "online",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1779391359552,
+    "status": "online",
+    "since": 1779397998915,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1779383951038,
+    "status": "online",
+    "since": 1779397998915,
     "first_seen": 1773226388097
   },
   "amd78s": {
