@@ -92,8 +92,8 @@
     "since": 1779063088222
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1779322269077
+    "status": "online",
+    "since": 1779403485611
   },
   "XEON8H": {
     "status": "offline",
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1779364067561,
+    "status": "online",
+    "since": 1779403485611,
     "first_seen": 1772895624848
   },
   "proxy": {
