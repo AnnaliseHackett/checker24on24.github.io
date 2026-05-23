@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1779561653918
+    "status": "offline",
+    "since": 1779570098526
   },
   "tool1-2-2026": {
     "status": "online",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1779561653918,
+    "status": "online",
+    "since": 1779570098526,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1779561653918,
+    "status": "offline",
+    "since": 1779570098526,
     "first_seen": 1771904259023
   },
   "dell8": {
