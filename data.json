@@ -16,8 +16,8 @@
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1779544841220
+    "status": "offline",
+    "since": 1779577764260
   },
   "bluestack": {
     "status": "offline",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1779570098526,
+    "status": "online",
+    "since": 1779577764260,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1779573963946,
+    "status": "offline",
+    "since": 1779577764260,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1779549436444,
+    "status": "offline",
+    "since": 1779577764260,
     "first_seen": 1772895624848
   },
   "proxy": {
