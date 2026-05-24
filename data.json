@@ -32,8 +32,8 @@
     "since": 1779383951038
   },
   "i711": {
-    "status": "online",
-    "since": 1779636003454
+    "status": "offline",
+    "since": 1779640276048
   },
   "i7118": {
     "status": "online",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1779636003454,
+    "status": "online",
+    "since": 1779640276048,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1779624591175,
+    "status": "offline",
+    "since": 1779640276048,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -255,8 +255,8 @@
     "first_seen": 1771904259023
   },
   "i720m": {
-    "status": "online",
-    "since": 1779636003454,
+    "status": "offline",
+    "since": 1779640276048,
     "first_seen": 1771904259023
   },
   "i77": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1779597796090,
+    "status": "offline",
+    "since": 1779640276048,
     "first_seen": 1771918204510
   },
   "w": {
@@ -395,8 +395,8 @@
     "first_seen": 1771924014596
   },
   "0x8": {
-    "status": "online",
-    "since": 1779631259074,
+    "status": "offline",
+    "since": 1779640276048,
     "first_seen": 1771927690320
   },
   "xeon3672": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1779631259074,
+    "status": "offline",
+    "since": 1779640276048,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -440,13 +440,13 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1779391359552,
+    "status": "online",
+    "since": 1779640276048,
     "first_seen": 1771934133329
   },
   "meo": {
-    "status": "online",
-    "since": 1779636003454,
+    "status": "offline",
+    "since": 1779640276048,
     "first_seen": 1771934133329
   },
   "xeonutra": {
@@ -460,8 +460,8 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "online",
-    "since": 1779636003454,
+    "status": "offline",
+    "since": 1779640276048,
     "first_seen": 1771939283101
   },
   "i5kkey": {
@@ -470,8 +470,8 @@
     "first_seen": 1771939283101
   },
   "kataa": {
-    "status": "online",
-    "since": 1779624591175,
+    "status": "offline",
+    "since": 1779640276048,
     "first_seen": 1771939283101
   },
   "dell1": {
@@ -495,13 +495,13 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1779636003454,
+    "status": "offline",
+    "since": 1779640276048,
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1779631259074,
+    "status": "offline",
+    "since": 1779640276048,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1779636003454,
+    "status": "offline",
+    "since": 1779640276048,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -675,13 +675,13 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "online",
-    "since": 1779631259074,
+    "status": "offline",
+    "since": 1779640276048,
     "first_seen": 1772377040134
   },
   "xeonDell": {
-    "status": "offline",
-    "since": 1779636003454,
+    "status": "online",
+    "since": 1779640276048,
     "first_seen": 1772390452999
   },
   "umt7T": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1779636003454,
+    "status": "online",
+    "since": 1779640276048,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -815,8 +815,8 @@
     "first_seen": 1772927358632
   },
   "SM": {
-    "status": "online",
-    "since": 1779631259074,
+    "status": "offline",
+    "since": 1779640276048,
     "first_seen": 1772964700336
   },
   "xeon67": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1779391359552,
+    "status": "online",
+    "since": 1779640276048,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -1115,8 +1115,8 @@
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
-    "status": "online",
-    "since": 1779636003454,
+    "status": "offline",
+    "since": 1779640276048,
     "first_seen": 1776068508511
   },
   "FP": {
