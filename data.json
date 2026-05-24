@@ -128,8 +128,8 @@
     "since": 1775207301037
   },
   "i516p": {
-    "status": "offline",
-    "since": 1779660501270
+    "status": "online",
+    "since": 1779664472421
   },
   "i72028": {
     "status": "offline",
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1779656740606,
+    "status": "offline",
+    "since": 1779664472421,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1779656740606,
+    "status": "offline",
+    "since": 1779664472421,
     "first_seen": 1773968437686
   },
   "xeon26700": {
