@@ -20,8 +20,8 @@
     "since": 1779729926114
   },
   "bluestack": {
-    "status": "online",
-    "since": 1779685042414
+    "status": "offline",
+    "since": 1779741733189
   },
   "i5125": {
     "status": "online",
@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1779729926114
+    "status": "offline",
+    "since": 1779741733189
   },
   "tool1-2-2026": {
     "status": "online",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1779729926114,
+    "status": "offline",
+    "since": 1779741733189,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1779712992830,
+    "status": "offline",
+    "since": 1779741733189,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1779723835046,
+    "status": "offline",
+    "since": 1779741733189,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1779729926114,
+    "status": "offline",
+    "since": 1779741733189,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1779729926114,
+    "status": "offline",
+    "since": 1779741733189,
     "first_seen": 1775904626722
   },
   "HMck": {
