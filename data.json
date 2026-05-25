@@ -16,8 +16,8 @@
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1779729926114
+    "status": "offline",
+    "since": 1779746149767
   },
   "bluestack": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1779656740606
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1779615858850
+    "status": "online",
+    "since": 1779746149767
   },
   "XEON8H": {
     "status": "offline",
@@ -365,8 +365,8 @@
     "first_seen": 1771918204510
   },
   "xeonSHOPPE": {
-    "status": "online",
-    "since": 1779656740606,
+    "status": "offline",
+    "since": 1779746149767,
     "first_seen": 1771918204510
   },
   "L": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1779723835046,
+    "status": "offline",
+    "since": 1779746149767,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1779712992830,
+    "status": "offline",
+    "since": 1779746149767,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
