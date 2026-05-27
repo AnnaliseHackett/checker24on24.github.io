@@ -16,8 +16,8 @@
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1779906875025
+    "status": "offline",
+    "since": 1779921827564
   },
   "bluestack": {
     "status": "offline",
@@ -36,16 +36,16 @@
     "since": 1779735842813
   },
   "i7118": {
-    "status": "online",
-    "since": 1779906875025
+    "status": "offline",
+    "since": 1779921827564
   },
   "i7pubg": {
     "status": "offline",
     "since": 1774089183281
   },
   "i929k": {
-    "status": "offline",
-    "since": 1779906875025
+    "status": "online",
+    "since": 1779921827564
   },
   "i9-32": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1779656740606
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1779754623047
+    "status": "online",
+    "since": 1779921827564
   },
   "XEON8H": {
     "status": "offline",
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "online",
-    "since": 1779897885555,
+    "status": "offline",
+    "since": 1779921827564,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1779906875025,
+    "status": "online",
+    "since": 1779921827564,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1779915163289,
+    "status": "offline",
+    "since": 1779921827564,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1779870692207,
+    "status": "offline",
+    "since": 1779921827564,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
