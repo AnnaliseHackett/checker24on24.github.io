@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1779993858542,
+    "status": "offline",
+    "since": 1780002075371,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1779984630435,
+    "status": "offline",
+    "since": 1780002075371,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1779969182766,
+    "status": "offline",
+    "since": 1780002075371,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1779969182766,
+    "status": "online",
+    "since": 1780002075371,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1779984630435,
+    "status": "offline",
+    "since": 1780002075371,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1779941055420,
+    "status": "offline",
+    "since": 1780002075371,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1779993858542,
+    "status": "offline",
+    "since": 1780002075371,
     "first_seen": 1775904626722
   },
   "HMck": {
