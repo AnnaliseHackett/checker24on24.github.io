@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1780136192177,
+    "status": "offline",
+    "since": 1780177355330,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1780173588813,
+    "status": "offline",
+    "since": 1780177355330,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "online",
-    "since": 1780170307315,
+    "status": "offline",
+    "since": 1780177355330,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -270,13 +270,13 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "online",
-    "since": 1780161219772,
+    "status": "offline",
+    "since": 1780177355330,
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "online",
-    "since": 1780173588813,
+    "status": "offline",
+    "since": 1780177355330,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -430,8 +430,8 @@
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "online",
-    "since": 1780173588813,
+    "status": "offline",
+    "since": 1780177355330,
     "first_seen": 1771931250125
   },
   "y": {
