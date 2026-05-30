@@ -24,8 +24,8 @@
     "since": 1780128457042
   },
   "i5125": {
-    "status": "online",
-    "since": 1780077174811
+    "status": "offline",
+    "since": 1780180935073
   },
   "i5kf20": {
     "status": "offline",
@@ -44,8 +44,8 @@
     "since": 1774089183281
   },
   "i929k": {
-    "status": "online",
-    "since": 1779921827564
+    "status": "offline",
+    "since": 1780180935073
   },
   "i9-32": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1779656740606
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1780141684621
+    "status": "online",
+    "since": 1780180935073
   },
   "XEON8H": {
     "status": "offline",
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "offline",
-    "since": 1780177355330,
+    "status": "online",
+    "since": 1780180935073,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1780119371033,
+    "status": "offline",
+    "since": 1780180935073,
     "first_seen": 1772218383298
   },
   "xeon2670": {
