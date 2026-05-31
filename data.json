@@ -20,8 +20,8 @@
     "since": 1780243098263
   },
   "bluestack": {
-    "status": "offline",
-    "since": 1780261511441
+    "status": "online",
+    "since": 1780265512503
   },
   "i5125": {
     "status": "online",
@@ -92,8 +92,8 @@
     "since": 1779656740606
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1780184714869
+    "status": "online",
+    "since": 1780265512503
   },
   "XEON8H": {
     "status": "offline",
