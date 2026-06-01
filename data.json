@@ -8,8 +8,8 @@
     "since": 1780208662427
   },
   "3672xeon": {
-    "status": "offline",
-    "since": 1780339690569
+    "status": "online",
+    "since": 1780357065441
   },
   "amz7profile": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1779656740606
   },
   "xeon2696": {
-    "status": "offline",
-    "since": 1780270440108
+    "status": "online",
+    "since": 1780357065441
   },
   "XEON8H": {
     "status": "offline",
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1780297936427,
+    "status": "online",
+    "since": 1780357065441,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1780350913393,
+    "status": "online",
+    "since": 1780357065441,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1780339690569,
+    "status": "offline",
+    "since": 1780357065441,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -505,13 +505,13 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "online",
-    "since": 1780339690569,
+    "status": "offline",
+    "since": 1780357065441,
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "offline",
-    "since": 1780226354753,
+    "status": "online",
+    "since": 1780357065441,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "offline",
-    "since": 1780318982575,
+    "status": "online",
+    "since": 1780357065441,
     "first_seen": 1772091016863
   },
   "light": {
