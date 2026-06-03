@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1780499230850,
+    "status": "offline",
+    "since": 1780523841174,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1780279088928,
+    "status": "online",
+    "since": 1780523841174,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -250,8 +250,8 @@
     "first_seen": 1771904259023
   },
   "i7128": {
-    "status": "online",
-    "since": 1780499230850,
+    "status": "offline",
+    "since": 1780523841174,
     "first_seen": 1771904259023
   },
   "i720m": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1780499230850,
+    "status": "offline",
+    "since": 1780523841174,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1780513077428,
+    "status": "offline",
+    "since": 1780523841174,
     "first_seen": 1775842385767
   },
   "AFF": {
@@ -1095,13 +1095,13 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1780499230850,
+    "status": "offline",
+    "since": 1780523841174,
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1780481497862,
+    "status": "offline",
+    "since": 1780523841174,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
