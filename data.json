@@ -8,16 +8,16 @@
     "since": 1780208662427
   },
   "3672xeon": {
-    "status": "offline",
-    "since": 1780562447543
+    "status": "online",
+    "since": 1780617486626
   },
   "amz7profile": {
     "status": "offline",
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1780582661966
+    "status": "offline",
+    "since": 1780617486626
   },
   "bluestack": {
     "status": "offline",
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1780582661966,
+    "status": "online",
+    "since": 1780617486626,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1780593950730,
+    "status": "online",
+    "since": 1780617486626,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "offline",
-    "since": 1780601834199,
+    "status": "online",
+    "since": 1780617486626,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1780513077428,
+    "status": "online",
+    "since": 1780617486626,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1780613353470,
+    "status": "offline",
+    "since": 1780617486626,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -505,8 +505,8 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "online",
-    "since": 1780593950730,
+    "status": "offline",
+    "since": 1780617486626,
     "first_seen": 1771951499378
   },
   "2112026t4": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1780607847086,
+    "status": "offline",
+    "since": 1780617486626,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -1190,8 +1190,8 @@
     "first_seen": 1779770314071
   },
   "88V2": {
-    "status": "online",
-    "since": 1780582661966,
+    "status": "offline",
+    "since": 1780617486626,
     "first_seen": 1779897885555
   },
   "lan": {
