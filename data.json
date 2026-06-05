@@ -20,12 +20,12 @@
     "since": 1780677821147
   },
   "bluestack": {
-    "status": "online",
-    "since": 1780648485149
+    "status": "offline",
+    "since": 1780691485664
   },
   "i5125": {
-    "status": "offline",
-    "since": 1780684325286
+    "status": "online",
+    "since": 1780691485664
   },
   "i5kf20": {
     "status": "offline",
@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "online",
-    "since": 1780668744063
+    "status": "offline",
+    "since": 1780691485664
   },
   "x": {
     "status": "online",
@@ -132,8 +132,8 @@
     "since": 1780677821147
   },
   "i72028": {
-    "status": "online",
-    "since": 1780684325286
+    "status": "offline",
+    "since": 1780691485664
   },
   "xeonYEU": {
     "status": "offline",
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "online",
-    "since": 1780684325286,
+    "status": "offline",
+    "since": 1780691485664,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1780677821147,
+    "status": "offline",
+    "since": 1780691485664,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -430,8 +430,8 @@
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "online",
-    "since": 1780677821147,
+    "status": "offline",
+    "since": 1780691485664,
     "first_seen": 1771931250125
   },
   "y": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1780677821147,
+    "status": "offline",
+    "since": 1780691485664,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1780668744063,
+    "status": "offline",
+    "since": 1780691485664,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1780613353470,
+    "status": "offline",
+    "since": 1780691485664,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1780668744063,
+    "status": "offline",
+    "since": 1780691485664,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1780677821147,
+    "status": "offline",
+    "since": 1780691485664,
     "first_seen": 1775904626722
   },
   "HMck": {
