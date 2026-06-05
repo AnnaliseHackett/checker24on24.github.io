@@ -16,8 +16,8 @@
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1780677821147
+    "status": "offline",
+    "since": 1780697101265
   },
   "bluestack": {
     "status": "offline",
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1780648485149,
+    "status": "offline",
+    "since": 1780697101265,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
