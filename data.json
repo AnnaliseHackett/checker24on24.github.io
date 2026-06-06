@@ -545,8 +545,8 @@
     "first_seen": 1772026925768
   },
   "xeon20": {
-    "status": "offline",
-    "since": 1780759258374,
+    "status": "online",
+    "since": 1780786165660,
     "first_seen": 1772026925768
   },
   "xeon528": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1780782472156,
+    "status": "online",
+    "since": 1780786165660,
     "first_seen": 1773226388097
   },
   "amd78s": {
