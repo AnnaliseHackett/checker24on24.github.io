@@ -220,8 +220,8 @@
     "first_seen": 1771904259023
   },
   "dell8": {
-    "status": "offline",
-    "since": 1780741504391,
+    "status": "online",
+    "since": 1780746928402,
     "first_seen": 1771904259023
   },
   "driveGG": {
@@ -240,8 +240,8 @@
     "first_seen": 1771904259023
   },
   "i7120": {
-    "status": "online",
-    "since": 1780741504391,
+    "status": "offline",
+    "since": 1780746928402,
     "first_seen": 1771904259023
   },
   "i7127k": {
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "online",
-    "since": 1780741504391,
+    "status": "offline",
+    "since": 1780746928402,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1780724318097,
+    "status": "offline",
+    "since": 1780746928402,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1780724318097,
+    "status": "offline",
+    "since": 1780746928402,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1780741504391,
+    "status": "offline",
+    "since": 1780746928402,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1780709536719,
+    "status": "online",
+    "since": 1780746928402,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -435,8 +435,8 @@
     "first_seen": 1771931250125
   },
   "y": {
-    "status": "offline",
-    "since": 1780668744063,
+    "status": "online",
+    "since": 1780746928402,
     "first_seen": 1771931250125
   },
   "i5Te": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "offline",
-    "since": 1780684325286,
+    "status": "online",
+    "since": 1780746928402,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -535,8 +535,8 @@
     "first_seen": 1772015605036
   },
   "09799": {
-    "status": "offline",
-    "since": 1780741504391,
+    "status": "online",
+    "since": 1780746928402,
     "first_seen": 1772026925768
   },
   "laptop": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1780724318097,
+    "status": "offline",
+    "since": 1780746928402,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1780741504391,
+    "status": "offline",
+    "since": 1780746928402,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "offline",
-    "since": 1780668744063,
+    "status": "online",
+    "since": 1780746928402,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "offline",
-    "since": 1780741504391,
+    "status": "online",
+    "since": 1780746928402,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "offline",
-    "since": 1780741504391,
+    "status": "online",
+    "since": 1780746928402,
     "first_seen": 1775842385767
   },
   "AFF": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "offline",
-    "since": 1780741504391,
+    "status": "online",
+    "since": 1780746928402,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1210,13 +1210,18 @@
     "first_seen": 1780279088928
   },
   "cap72": {
-    "status": "offline",
-    "since": 1780659983335,
+    "status": "online",
+    "since": 1780746928402,
     "first_seen": 1780481497862
   },
   "72cpu": {
     "status": "offline",
     "since": 1780724318097,
     "first_seen": 1780668744063
+  },
+  "reg72": {
+    "status": "online",
+    "since": 1780746928402,
+    "first_seen": 1780746928402
   }
 }
