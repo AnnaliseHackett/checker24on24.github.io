@@ -8,16 +8,16 @@
     "since": 1780648485149
   },
   "3672xeon": {
-    "status": "offline",
-    "since": 1780852985805
+    "status": "online",
+    "since": 1780876301933
   },
   "amz7profile": {
     "status": "offline",
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1780852985805
+    "status": "offline",
+    "since": 1780876301933
   },
   "bluestack": {
     "status": "offline",
@@ -92,8 +92,8 @@
     "since": 1779656740606
   },
   "xeon2696": {
-    "status": "online",
-    "since": 1780872194280
+    "status": "offline",
+    "since": 1780876301933
   },
   "XEON8H": {
     "status": "offline",
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1780820176727,
+    "status": "online",
+    "since": 1780876301933,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1780764031420,
+    "status": "online",
+    "since": 1780876301933,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1780852985805,
+    "status": "online",
+    "since": 1780876301933,
     "first_seen": 1771931250125
   },
   "pc": {
