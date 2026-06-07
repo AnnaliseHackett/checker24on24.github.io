@@ -20,8 +20,8 @@
     "since": 1780852985805
   },
   "bluestack": {
-    "status": "online",
-    "since": 1780834320569
+    "status": "offline",
+    "since": 1780858160201
   },
   "i5125": {
     "status": "online",
@@ -255,8 +255,8 @@
     "first_seen": 1771904259023
   },
   "i720m": {
-    "status": "online",
-    "since": 1780842196229,
+    "status": "offline",
+    "since": 1780858160201,
     "first_seen": 1771904259023
   },
   "i77": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1780828658352,
+    "status": "offline",
+    "since": 1780858160201,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1780847501362,
+    "status": "offline",
+    "since": 1780858160201,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -390,13 +390,13 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1780852985805,
+    "status": "online",
+    "since": 1780858160201,
     "first_seen": 1771924014596
   },
   "0x8": {
-    "status": "online",
-    "since": 1780842196229,
+    "status": "offline",
+    "since": 1780858160201,
     "first_seen": 1771927690320
   },
   "xeon3672": {
@@ -475,13 +475,13 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1780828658352,
+    "status": "offline",
+    "since": 1780858160201,
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1780852985805,
+    "status": "offline",
+    "since": 1780858160201,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1780786165660,
+    "status": "offline",
+    "since": 1780858160201,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "offline",
-    "since": 1780768466538,
+    "status": "online",
+    "since": 1780858160201,
     "first_seen": 1775842385767
   },
   "AFF": {
