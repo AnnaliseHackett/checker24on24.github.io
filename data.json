@@ -430,8 +430,8 @@
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "online",
-    "since": 1781202195106,
+    "status": "offline",
+    "since": 1781211663972,
     "first_seen": 1771931250125
   },
   "y": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1781189873935,
+    "status": "offline",
+    "since": 1781211663972,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "online",
-    "since": 1781141574144,
+    "status": "offline",
+    "since": 1781211663972,
     "first_seen": 1772091016863
   },
   "light": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1781202195106,
+    "status": "offline",
+    "since": 1781211663972,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1781189873935,
+    "status": "offline",
+    "since": 1781211663972,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1781202195106,
+    "status": "offline",
+    "since": 1781211663972,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "online",
-    "since": 1781141574144,
+    "status": "offline",
+    "since": 1781211663972,
     "first_seen": 1780668744063
   },
   "reg72": {
@@ -1255,8 +1255,8 @@
     "first_seen": 1781080758414
   },
   "xeonTN": {
-    "status": "online",
-    "since": 1781159026014,
+    "status": "offline",
+    "since": 1781211663972,
     "first_seen": 1781107501015
   }
 }
