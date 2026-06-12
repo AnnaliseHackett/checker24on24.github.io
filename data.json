@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "offline",
-    "since": 1781296170535,
+    "status": "online",
+    "since": 1781302205611,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -1250,8 +1250,8 @@
     "first_seen": 1781045279201
   },
   "xeonem": {
-    "status": "online",
-    "since": 1781267835407,
+    "status": "offline",
+    "since": 1781302205611,
     "first_seen": 1781080758414
   },
   "xeonTN": {
