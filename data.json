@@ -8,8 +8,8 @@
     "since": 1781159026014
   },
   "3672xeon": {
-    "status": "offline",
-    "since": 1781202195106
+    "status": "online",
+    "since": 1781223741214
   },
   "amz7profile": {
     "status": "offline",
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1781176222755,
+    "status": "online",
+    "since": 1781223741214,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1781176222755,
+    "status": "online",
+    "since": 1781223741214,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -425,13 +425,13 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1781218619794,
+    "status": "offline",
+    "since": 1781223741214,
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "offline",
-    "since": 1781211663972,
+    "status": "online",
+    "since": 1781223741214,
     "first_seen": 1771931250125
   },
   "y": {
@@ -460,8 +460,8 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "offline",
-    "since": 1781202195106,
+    "status": "online",
+    "since": 1781223741214,
     "first_seen": 1771939283101
   },
   "i5kkey": {
@@ -520,8 +520,8 @@
     "first_seen": 1771990967353
   },
   "xeonGPU": {
-    "status": "online",
-    "since": 1781218619794,
+    "status": "offline",
+    "since": 1781223741214,
     "first_seen": 1771990967353
   },
   "amd5": {
@@ -545,8 +545,8 @@
     "first_seen": 1772026925768
   },
   "xeon20": {
-    "status": "offline",
-    "since": 1781066664329,
+    "status": "online",
+    "since": 1781223741214,
     "first_seen": 1772026925768
   },
   "xeon528": {
@@ -1015,8 +1015,8 @@
     "first_seen": 1774248212124
   },
   "ToolHM3": {
-    "status": "online",
-    "since": 1781218619794,
+    "status": "offline",
+    "since": 1781223741214,
     "first_seen": 1774248212124
   },
   "amz7435": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "offline",
-    "since": 1781211663972,
+    "status": "online",
+    "since": 1781223741214,
     "first_seen": 1780668744063
   },
   "reg72": {
