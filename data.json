@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "online",
-    "since": 1781383116160,
+    "status": "offline",
+    "since": 1781387453032,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -1115,8 +1115,8 @@
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
-    "status": "online",
-    "since": 1781383116160,
+    "status": "offline",
+    "since": 1781387453032,
     "first_seen": 1776068508511
   },
   "FP": {
@@ -1200,8 +1200,8 @@
     "first_seen": 1780064908928
   },
   "72hma": {
-    "status": "online",
-    "since": 1781352799367,
+    "status": "offline",
+    "since": 1781387453032,
     "first_seen": 1780232030050
   },
   "72V2": {
