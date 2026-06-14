@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1781447657721,
+    "status": "offline",
+    "since": 1781469554647,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1781453388858,
+    "status": "offline",
+    "since": 1781469554647,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1781463773559,
+    "status": "offline",
+    "since": 1781469554647,
     "first_seen": 1775842385767
   },
   "AFF": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1781337504666,
+    "status": "offline",
+    "since": 1781469554647,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
