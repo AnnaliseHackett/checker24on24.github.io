@@ -4,8 +4,8 @@
     "since": 1781014120548
   },
   "20CN": {
-    "status": "online",
-    "since": 1781159026014
+    "status": "offline",
+    "since": 1781479161978
   },
   "3672xeon": {
     "status": "offline",
@@ -24,8 +24,8 @@
     "since": 1781463773559
   },
   "i5125": {
-    "status": "online",
-    "since": 1781346924599
+    "status": "offline",
+    "since": 1781479161978
   },
   "i5kf20": {
     "status": "offline",
@@ -60,8 +60,8 @@
     "since": 1775502804450
   },
   "note": {
-    "status": "online",
-    "since": 1779656740606
+    "status": "offline",
+    "since": 1781479161978
   },
   "panel16": {
     "status": "offline",
@@ -72,8 +72,8 @@
     "since": 1781447657721
   },
   "tool1-2-2026": {
-    "status": "online",
-    "since": 1781255765092
+    "status": "offline",
+    "since": 1781479161978
   },
   "tool-8-2-2026": {
     "status": "offline",
@@ -225,8 +225,8 @@
     "first_seen": 1771904259023
   },
   "driveGG": {
-    "status": "online",
-    "since": 1781159026014,
+    "status": "offline",
+    "since": 1781479161978,
     "first_seen": 1771904259023
   },
   "f15wifi": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1781453388858,
+    "status": "offline",
+    "since": 1781479161978,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "offline",
-    "since": 1781469554647,
+    "status": "online",
+    "since": 1781479161978,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
