@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1781546913427,
+    "status": "offline",
+    "since": 1781558468210,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1781546913427,
+    "status": "offline",
+    "since": 1781558468210,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -475,13 +475,13 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1781546913427,
+    "status": "offline",
+    "since": 1781558468210,
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1781546913427,
+    "status": "offline",
+    "since": 1781558468210,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -495,13 +495,13 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1781546913427,
+    "status": "offline",
+    "since": 1781558468210,
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1781529899041,
+    "status": "offline",
+    "since": 1781558468210,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1781546913427,
+    "status": "offline",
+    "since": 1781558468210,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -940,8 +940,8 @@
     "first_seen": 1773580545754
   },
   "toolBOXP": {
-    "status": "online",
-    "since": 1781546913427,
+    "status": "offline",
+    "since": 1781558468210,
     "first_seen": 1773589622881
   },
   "amd758": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1781487800481,
+    "status": "offline",
+    "since": 1781558468210,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1781546913427,
+    "status": "offline",
+    "since": 1781558468210,
     "first_seen": 1775904626722
   },
   "HMck": {
