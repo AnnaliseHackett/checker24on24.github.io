@@ -44,8 +44,8 @@
     "since": 1774089183281
   },
   "i929k": {
-    "status": "offline",
-    "since": 1781631445461
+    "status": "online",
+    "since": 1781649252835
   },
   "i9-32": {
     "status": "offline",
@@ -430,8 +430,8 @@
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "offline",
-    "since": 1781631445461,
+    "status": "online",
+    "since": 1781649252835,
     "first_seen": 1771931250125
   },
   "y": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1781613328793,
+    "status": "offline",
+    "since": 1781649252835,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1781595618707,
+    "status": "offline",
+    "since": 1781649252835,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "offline",
-    "since": 1781631445461,
+    "status": "online",
+    "since": 1781649252835,
     "first_seen": 1780668744063
   },
   "reg72": {
