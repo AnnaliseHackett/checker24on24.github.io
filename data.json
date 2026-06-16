@@ -20,8 +20,8 @@
     "since": 1781202195106
   },
   "bluestack": {
-    "status": "online",
-    "since": 1781613328793
+    "status": "offline",
+    "since": 1781641891386
   },
   "i5125": {
     "status": "online",
@@ -32,12 +32,12 @@
     "since": 1781107501015
   },
   "i711": {
-    "status": "online",
-    "since": 1781631445461
+    "status": "offline",
+    "since": 1781641891386
   },
   "i7118": {
-    "status": "online",
-    "since": 1781595618707
+    "status": "offline",
+    "since": 1781641891386
   },
   "i7pubg": {
     "status": "offline",
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1781631445461,
+    "status": "offline",
+    "since": 1781641891386,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1781631445461,
+    "status": "offline",
+    "since": 1781641891386,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1781631445461,
+    "status": "offline",
+    "since": 1781641891386,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1781595618707,
+    "status": "offline",
+    "since": 1781641891386,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1781613328793,
+    "status": "offline",
+    "since": 1781641891386,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1781631445461,
+    "status": "offline",
+    "since": 1781641891386,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1781595618707,
+    "status": "online",
+    "since": 1781641891386,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1781595618707,
+    "status": "offline",
+    "since": 1781641891386,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1781631445461,
+    "status": "offline",
+    "since": 1781641891386,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1781631445461,
+    "status": "offline",
+    "since": 1781641891386,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1115,8 +1115,8 @@
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
-    "status": "online",
-    "since": 1781613328793,
+    "status": "offline",
+    "since": 1781641891386,
     "first_seen": 1776068508511
   },
   "FP": {
