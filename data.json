@@ -8,8 +8,8 @@
     "since": 1781487800481
   },
   "3672xeon": {
-    "status": "offline",
-    "since": 1781631445461
+    "status": "online",
+    "since": 1781654593095
   },
   "amz7profile": {
     "status": "offline",
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1781595618707,
+    "status": "online",
+    "since": 1781654593095,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -220,8 +220,8 @@
     "first_seen": 1771904259023
   },
   "dell8": {
-    "status": "offline",
-    "since": 1781595618707,
+    "status": "online",
+    "since": 1781654593095,
     "first_seen": 1771904259023
   },
   "driveGG": {
@@ -565,8 +565,8 @@
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "online",
-    "since": 1781613328793,
+    "status": "offline",
+    "since": 1781654593095,
     "first_seen": 1772076874941
   },
   "i728p": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1781613328793,
+    "status": "online",
+    "since": 1781654593095,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1781631445461,
+    "status": "offline",
+    "since": 1781654593095,
     "first_seen": 1775842385767
   },
   "AFF": {
