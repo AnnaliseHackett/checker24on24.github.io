@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1781704897851,
+    "status": "offline",
+    "since": 1781737591432,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -220,8 +220,8 @@
     "first_seen": 1771904259023
   },
   "dell8": {
-    "status": "online",
-    "since": 1781716853032,
+    "status": "offline",
+    "since": 1781737591432,
     "first_seen": 1771904259023
   },
   "driveGG": {
@@ -305,8 +305,8 @@
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "online",
-    "since": 1781691004383,
+    "status": "offline",
+    "since": 1781737591432,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1781724967320,
+    "status": "online",
+    "since": 1781737591432,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -445,8 +445,8 @@
     "first_seen": 1771934133329
   },
   "meo": {
-    "status": "online",
-    "since": 1781631445461,
+    "status": "offline",
+    "since": 1781737591432,
     "first_seen": 1771934133329
   },
   "xeonutra": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1781691004383,
+    "status": "offline",
+    "since": 1781737591432,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1781724967320,
+    "status": "online",
+    "since": 1781737591432,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1781716853032,
+    "status": "online",
+    "since": 1781737591432,
     "first_seen": 1773226388097
   },
   "amd78s": {
