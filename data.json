@@ -430,8 +430,8 @@
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "online",
-    "since": 1781792156018,
+    "status": "offline",
+    "since": 1781821024239,
     "first_seen": 1771931250125
   },
   "y": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1781804092527,
+    "status": "offline",
+    "since": 1781821024239,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1781812476757,
+    "status": "offline",
+    "since": 1781821024239,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1781804092527,
+    "status": "online",
+    "since": 1781821024239,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1781792156018,
+    "status": "offline",
+    "since": 1781821024239,
     "first_seen": 1775842385767
   },
   "AFF": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "offline",
-    "since": 1781812476757,
+    "status": "online",
+    "since": 1781821024239,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
