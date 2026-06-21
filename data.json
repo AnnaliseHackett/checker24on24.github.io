@@ -36,8 +36,8 @@
     "since": 1782037248950
   },
   "i7118": {
-    "status": "online",
-    "since": 1782053744405
+    "status": "offline",
+    "since": 1782082353501
   },
   "i7pubg": {
     "status": "offline",
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1782060534917,
+    "status": "online",
+    "since": 1782082353501,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "offline",
-    "since": 1782072419132,
+    "status": "online",
+    "since": 1782082353501,
     "first_seen": 1780668744063
   },
   "reg72": {
@@ -1280,8 +1280,8 @@
     "first_seen": 1781529899041
   },
   "XeonX": {
-    "status": "offline",
-    "since": 1782060534917,
+    "status": "online",
+    "since": 1782082353501,
     "first_seen": 1781613328793
   },
   "xeonC": {
