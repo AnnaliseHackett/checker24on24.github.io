@@ -8,8 +8,8 @@
     "since": 1781780204222
   },
   "3672xeon": {
-    "status": "offline",
-    "since": 1782157572453
+    "status": "online",
+    "since": 1782178288606
   },
   "amz7profile": {
     "status": "offline",
@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1782127179320
+    "status": "offline",
+    "since": 1782178288606
   },
   "tool1-2-2026": {
     "status": "online",
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1782144435003,
+    "status": "online",
+    "since": 1782178288606,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -265,8 +265,8 @@
     "first_seen": 1771904259023
   },
   "i7sql": {
-    "status": "offline",
-    "since": 1781876859357,
+    "status": "online",
+    "since": 1782178288606,
     "first_seen": 1771904259023
   },
   "key": {
@@ -290,8 +290,8 @@
     "first_seen": 1771904259023
   },
   "sll": {
-    "status": "offline",
-    "since": 1782144435003,
+    "status": "online",
+    "since": 1782178288606,
     "first_seen": 1771904259023
   },
   "tool16": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1782144435003,
+    "status": "offline",
+    "since": 1782178288606,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -425,13 +425,13 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1782170629673,
+    "status": "offline",
+    "since": 1782178288606,
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "offline",
-    "since": 1782023824998,
+    "status": "online",
+    "since": 1782178288606,
     "first_seen": 1771931250125
   },
   "y": {
@@ -465,8 +465,8 @@
     "first_seen": 1771939283101
   },
   "i5kkey": {
-    "status": "offline",
-    "since": 1782144435003,
+    "status": "online",
+    "since": 1782178288606,
     "first_seen": 1771939283101
   },
   "kataa": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "offline",
-    "since": 1782144435003,
+    "status": "online",
+    "since": 1782178288606,
     "first_seen": 1772091016863
   },
   "light": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "offline",
-    "since": 1782060534917,
+    "status": "online",
+    "since": 1782178288606,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -705,8 +705,8 @@
     "first_seen": 1772425676985
   },
   "UMTdau": {
-    "status": "offline",
-    "since": 1780043103798,
+    "status": "online",
+    "since": 1782178288606,
     "first_seen": 1772425676985
   },
   "toolLQ": {
@@ -735,8 +735,8 @@
     "first_seen": 1772513424370
   },
   "umt22": {
-    "status": "offline",
-    "since": 1779770314071,
+    "status": "online",
+    "since": 1782178288606,
     "first_seen": 1772513424370
   },
   "umt5": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "offline",
-    "since": 1782144435003,
+    "status": "online",
+    "since": 1782178288606,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1782157572453,
+    "status": "online",
+    "since": 1782178288606,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "offline",
-    "since": 1782157572453,
+    "status": "online",
+    "since": 1782178288606,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1175,8 +1175,8 @@
     "first_seen": 1779276156934
   },
   "U2": {
-    "status": "offline",
-    "since": 1782127179320,
+    "status": "online",
+    "since": 1782178288606,
     "first_seen": 1779351890818
   },
   "UV2": {
@@ -1185,8 +1185,8 @@
     "first_seen": 1779685042414
   },
   "UV4": {
-    "status": "offline",
-    "since": 1780043103798,
+    "status": "online",
+    "since": 1782178288606,
     "first_seen": 1779770314071
   },
   "88V2": {
