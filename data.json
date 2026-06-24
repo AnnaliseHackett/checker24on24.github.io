@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1782327837849,
+    "status": "offline",
+    "since": 1782339691626,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1782334467561,
+    "status": "offline",
+    "since": 1782339691626,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -610,8 +610,8 @@
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "offline",
-    "since": 1782321458676,
+    "status": "online",
+    "since": 1782339691626,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1782321458676,
+    "status": "online",
+    "since": 1782339691626,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1782327837849,
+    "status": "offline",
+    "since": 1782339691626,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1255,8 +1255,8 @@
     "first_seen": 1781080758414
   },
   "xeonTN": {
-    "status": "offline",
-    "since": 1782302940523,
+    "status": "online",
+    "since": 1782339691626,
     "first_seen": 1781107501015
   },
   "roblox": {
