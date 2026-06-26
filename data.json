@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1782489467773,
+    "status": "offline",
+    "since": 1782509920292,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1250,8 +1250,8 @@
     "first_seen": 1781045279201
   },
   "xeonem": {
-    "status": "online",
-    "since": 1782449074354,
+    "status": "offline",
+    "since": 1782509920292,
     "first_seen": 1781080758414
   },
   "xeonTN": {
