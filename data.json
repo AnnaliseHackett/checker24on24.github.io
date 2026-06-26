@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1782504206423,
+    "status": "online",
+    "since": 1782518064948,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -1265,8 +1265,8 @@
     "first_seen": 1781377229363
   },
   "GAmming": {
-    "status": "offline",
-    "since": 1782489467773,
+    "status": "online",
+    "since": 1782518064948,
     "first_seen": 1781447657721
   },
   "ld9os": {
