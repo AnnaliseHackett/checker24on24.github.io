@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1782575060460,
+    "status": "online",
+    "since": 1782603974263,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -175,8 +175,8 @@
     "first_seen": 1771894415726
   },
   "i5plugin": {
-    "status": "offline",
-    "since": 1782543385596,
+    "status": "online",
+    "since": 1782603974263,
     "first_seen": 1771894415726
   },
   "i7127": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1782575060460,
+    "status": "offline",
+    "since": 1782603974263,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1782569940884,
+    "status": "online",
+    "since": 1782603974263,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "offline",
-    "since": 1782496761246,
+    "status": "online",
+    "since": 1782603974263,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
