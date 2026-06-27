@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1782558808895,
+    "status": "offline",
+    "since": 1782575060460,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -180,13 +180,13 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1782558808895,
+    "status": "online",
+    "since": 1782575060460,
     "first_seen": 1771894415726
   },
   "ps4": {
-    "status": "offline",
-    "since": 1782408501102,
+    "status": "online",
+    "since": 1782575060460,
     "first_seen": 1771894415726
   },
   "xeon2686": {
@@ -250,8 +250,8 @@
     "first_seen": 1771904259023
   },
   "i7128": {
-    "status": "online",
-    "since": 1782564375363,
+    "status": "offline",
+    "since": 1782575060460,
     "first_seen": 1771904259023
   },
   "i720m": {
@@ -305,8 +305,8 @@
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "online",
-    "since": 1782532458863,
+    "status": "offline",
+    "since": 1782575060460,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "online",
-    "since": 1782564375363,
+    "status": "offline",
+    "since": 1782575060460,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1782569940884,
+    "status": "offline",
+    "since": 1782575060460,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -435,8 +435,8 @@
     "first_seen": 1771931250125
   },
   "y": {
-    "status": "online",
-    "since": 1782552730160,
+    "status": "offline",
+    "since": 1782575060460,
     "first_seen": 1771931250125
   },
   "i5Te": {
@@ -465,8 +465,8 @@
     "first_seen": 1771939283101
   },
   "i5kkey": {
-    "status": "offline",
-    "since": 1782480651452,
+    "status": "online",
+    "since": 1782575060460,
     "first_seen": 1771939283101
   },
   "kataa": {
@@ -495,13 +495,13 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "offline",
-    "since": 1782427859709,
+    "status": "online",
+    "since": 1782575060460,
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "offline",
-    "since": 1782504206423,
+    "status": "online",
+    "since": 1782575060460,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -540,8 +540,8 @@
     "first_seen": 1772026925768
   },
   "laptop": {
-    "status": "online",
-    "since": 1782569940884,
+    "status": "offline",
+    "since": 1782575060460,
     "first_seen": 1772026925768
   },
   "xeon20": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "online",
-    "since": 1782480651452,
+    "status": "offline",
+    "since": 1782575060460,
     "first_seen": 1772091016863
   },
   "light": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "offline",
-    "since": 1782432825890,
+    "status": "online",
+    "since": 1782575060460,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "online",
-    "since": 1782564375363,
+    "status": "offline",
+    "since": 1782575060460,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -1010,8 +1010,8 @@
     "first_seen": 1774213093845
   },
   "ToolHM2": {
-    "status": "online",
-    "since": 1782569940884,
+    "status": "offline",
+    "since": 1782575060460,
     "first_seen": 1774248212124
   },
   "ToolHM3": {
@@ -1115,8 +1115,8 @@
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
-    "status": "online",
-    "since": 1782569940884,
+    "status": "offline",
+    "since": 1782575060460,
     "first_seen": 1776068508511
   },
   "FP": {
@@ -1265,8 +1265,8 @@
     "first_seen": 1781377229363
   },
   "GAmming": {
-    "status": "online",
-    "since": 1782569940884,
+    "status": "offline",
+    "since": 1782575060460,
     "first_seen": 1781447657721
   },
   "ld9os": {
