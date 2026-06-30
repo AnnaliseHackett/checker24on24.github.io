@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1782843386680
+    "status": "offline",
+    "since": 1782856640899
   },
   "tool1-2-2026": {
     "status": "online",
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1782851011522,
+    "status": "offline",
+    "since": 1782856640899,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "offline",
-    "since": 1781039178914,
+    "status": "online",
+    "since": 1782856640899,
     "first_seen": 1774975329240
   },
   "hd": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1782809590438,
+    "status": "offline",
+    "since": 1782856640899,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
