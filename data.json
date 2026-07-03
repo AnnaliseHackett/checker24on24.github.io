@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "offline",
-    "since": 1783096679155,
+    "status": "online",
+    "since": 1783115438935,
     "first_seen": 1771943661252
   },
   "opengl": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1783107956185,
+    "status": "offline",
+    "since": 1783115438935,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1783096679155,
+    "status": "offline",
+    "since": 1783115438935,
     "first_seen": 1775842385767
   },
   "AFF": {
