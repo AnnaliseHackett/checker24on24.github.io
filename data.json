@@ -32,8 +32,8 @@
     "since": 1783012619981
   },
   "i711": {
-    "status": "offline",
-    "since": 1783163404144
+    "status": "online",
+    "since": 1783186856468
   },
   "i7118": {
     "status": "offline",
@@ -220,8 +220,8 @@
     "first_seen": 1771904259023
   },
   "dell8": {
-    "status": "offline",
-    "since": 1783178407722,
+    "status": "online",
+    "since": 1783186856468,
     "first_seen": 1771904259023
   },
   "driveGG": {
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "offline",
-    "since": 1782936762716,
+    "status": "online",
+    "since": 1783186856468,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -290,8 +290,8 @@
     "first_seen": 1771904259023
   },
   "sll": {
-    "status": "online",
-    "since": 1783178407722,
+    "status": "offline",
+    "since": 1783186856468,
     "first_seen": 1771904259023
   },
   "tool16": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1783178407722,
+    "status": "offline",
+    "since": 1783186856468,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1783182760145,
+    "status": "offline",
+    "since": 1783186856468,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1783163404144,
+    "status": "offline",
+    "since": 1783186856468,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1783157572130,
+    "status": "offline",
+    "since": 1783186856468,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -610,13 +610,13 @@
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "offline",
-    "since": 1783157572130,
+    "status": "online",
+    "since": 1783186856468,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1783173922566,
+    "status": "offline",
+    "since": 1783186856468,
     "first_seen": 1772120207512
   },
   "xeongG": {
