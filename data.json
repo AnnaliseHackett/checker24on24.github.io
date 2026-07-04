@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1783163404144,
+    "status": "offline",
+    "since": 1783167547947,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -290,8 +290,8 @@
     "first_seen": 1771904259023
   },
   "sll": {
-    "status": "online",
-    "since": 1783138012623,
+    "status": "offline",
+    "since": 1783167547947,
     "first_seen": 1771904259023
   },
   "tool16": {
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "offline",
-    "since": 1783163404144,
+    "status": "online",
+    "since": 1783167547947,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1783138012623,
+    "status": "offline",
+    "since": 1783167547947,
     "first_seen": 1771918204510
   },
   "w": {
@@ -430,8 +430,8 @@
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "online",
-    "since": 1783157572130,
+    "status": "offline",
+    "since": 1783167547947,
     "first_seen": 1771931250125
   },
   "y": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "offline",
-    "since": 1783163404144,
+    "status": "online",
+    "since": 1783167547947,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1280,8 +1280,8 @@
     "first_seen": 1781529899041
   },
   "XeonX": {
-    "status": "online",
-    "since": 1783064517311,
+    "status": "offline",
+    "since": 1783167547947,
     "first_seen": 1781613328793
   },
   "xeonC": {
