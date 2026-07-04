@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1783173922566,
+    "status": "offline",
+    "since": 1783199432991,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1783173922566,
+    "status": "offline",
+    "since": 1783199432991,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "offline",
-    "since": 1783195184982,
+    "status": "online",
+    "since": 1783199432991,
     "first_seen": 1775904626722
   },
   "HMck": {
