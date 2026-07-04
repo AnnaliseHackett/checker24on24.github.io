@@ -270,13 +270,13 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "online",
-    "since": 1783178407722,
+    "status": "offline",
+    "since": 1783190673184,
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "online",
-    "since": 1783186856468,
+    "status": "offline",
+    "since": 1783190673184,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -610,8 +610,8 @@
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "online",
-    "since": 1783186856468,
+    "status": "offline",
+    "since": 1783190673184,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1783182760145,
+    "status": "offline",
+    "since": 1783190673184,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1250,8 +1250,8 @@
     "first_seen": 1781045279201
   },
   "xeonem": {
-    "status": "online",
-    "since": 1783149174235,
+    "status": "offline",
+    "since": 1783190673184,
     "first_seen": 1781080758414
   },
   "xeonTN": {
