@@ -44,8 +44,8 @@
     "since": 1774089183281
   },
   "i929k": {
-    "status": "offline",
-    "since": 1783265783777
+    "status": "online",
+    "since": 1783295318167
   },
   "i9-32": {
     "status": "offline",
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1783269763414,
+    "status": "online",
+    "since": 1783295318167,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1783291213375,
+    "status": "offline",
+    "since": 1783295318167,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1783273820743,
+    "status": "online",
+    "since": 1783295318167,
     "first_seen": 1773226388097
   },
   "amd78s": {
