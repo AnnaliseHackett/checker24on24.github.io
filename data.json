@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1783273820743
+    "status": "offline",
+    "since": 1783287572419
   },
   "tool1-2-2026": {
     "status": "online",
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1783273820743,
+    "status": "offline",
+    "since": 1783287572419,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "offline",
-    "since": 1783265783777,
+    "status": "online",
+    "since": 1783287572419,
     "first_seen": 1780668744063
   },
   "reg72": {
