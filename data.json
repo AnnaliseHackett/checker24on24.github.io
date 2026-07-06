@@ -72,12 +72,12 @@
     "since": 1783287572419
   },
   "tool1-2-2026": {
-    "status": "online",
-    "since": 1782628439800
+    "status": "offline",
+    "since": 1783302452657
   },
   "tool-8-2-2026": {
-    "status": "offline",
-    "since": 1783269763414
+    "status": "online",
+    "since": 1783302452657
   },
   "toolAL23-2-2026": {
     "status": "offline",
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1783265783777,
+    "status": "online",
+    "since": 1783302452657,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1783291213375,
+    "status": "offline",
+    "since": 1783302452657,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1783269763414,
+    "status": "online",
+    "since": 1783302452657,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -265,8 +265,8 @@
     "first_seen": 1771904259023
   },
   "i7sql": {
-    "status": "offline",
-    "since": 1783074009883,
+    "status": "online",
+    "since": 1783302452657,
     "first_seen": 1771904259023
   },
   "key": {
@@ -290,8 +290,8 @@
     "first_seen": 1771904259023
   },
   "sll": {
-    "status": "offline",
-    "since": 1783247910586,
+    "status": "online",
+    "since": 1783302452657,
     "first_seen": 1771904259023
   },
   "tool16": {
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "offline",
-    "since": 1783247910586,
+    "status": "online",
+    "since": 1783302452657,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "offline",
-    "since": 1783178407722,
+    "status": "online",
+    "since": 1783302452657,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1783273820743,
+    "status": "online",
+    "since": 1783302452657,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "offline",
-    "since": 1783269763414,
+    "status": "online",
+    "since": 1783302452657,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1783295318167,
+    "status": "offline",
+    "since": 1783302452657,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -445,8 +445,8 @@
     "first_seen": 1771934133329
   },
   "meo": {
-    "status": "offline",
-    "since": 1783214159982,
+    "status": "online",
+    "since": 1783302452657,
     "first_seen": 1771934133329
   },
   "xeonutra": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "offline",
-    "since": 1783269763414,
+    "status": "online",
+    "since": 1783302452657,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -835,8 +835,8 @@
     "first_seen": 1772998826370
   },
   "UC": {
-    "status": "offline",
-    "since": 1782208273461,
+    "status": "online",
+    "since": 1783302452657,
     "first_seen": 1773023923207
   },
   "t16": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1783273820743,
+    "status": "online",
+    "since": 1783302452657,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "offline",
-    "since": 1783273820743,
+    "status": "online",
+    "since": 1783302452657,
     "first_seen": 1774108506221
   },
   "i5L": {
@@ -1280,8 +1280,8 @@
     "first_seen": 1781529899041
   },
   "XeonX": {
-    "status": "online",
-    "since": 1783228323198,
+    "status": "offline",
+    "since": 1783302452657,
     "first_seen": 1781613328793
   },
   "xeonC": {
