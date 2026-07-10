@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "offline",
-    "since": 1783536180740,
+    "status": "online",
+    "since": 1783716946966,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "online",
-    "since": 1783659894551,
+    "status": "offline",
+    "since": 1783716946966,
     "first_seen": 1780668744063
   },
   "reg72": {
