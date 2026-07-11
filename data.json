@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1783741622850,
+    "status": "offline",
+    "since": 1783789989775,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -290,8 +290,8 @@
     "first_seen": 1771904259023
   },
   "sll": {
-    "status": "online",
-    "since": 1783781900776,
+    "status": "offline",
+    "since": 1783789989775,
     "first_seen": 1771904259023
   },
   "tool16": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1783785753535,
+    "status": "offline",
+    "since": 1783789989775,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1783785753535,
+    "status": "offline",
+    "since": 1783789989775,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -555,13 +555,13 @@
     "first_seen": 1772026925768
   },
   "12thsql": {
-    "status": "offline",
-    "since": 1782646019739,
+    "status": "online",
+    "since": 1783789989775,
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1783771536503,
+    "status": "offline",
+    "since": 1783789989775,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1783768160339,
+    "status": "offline",
+    "since": 1783789989775,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1783777841835,
+    "status": "offline",
+    "since": 1783789989775,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "online",
-    "since": 1783728814985,
+    "status": "offline",
+    "since": 1783789989775,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -895,8 +895,8 @@
     "first_seen": 1773325655043
   },
   "iT": {
-    "status": "offline",
-    "since": 1783706333435,
+    "status": "online",
+    "since": 1783789989775,
     "first_seen": 1773329602916
   },
   "truomsi": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "online",
-    "since": 1783777841835,
+    "status": "offline",
+    "since": 1783789989775,
     "first_seen": 1780668744063
   },
   "reg72": {
@@ -1260,8 +1260,8 @@
     "first_seen": 1781107501015
   },
   "roblox": {
-    "status": "online",
-    "since": 1783777841835,
+    "status": "offline",
+    "since": 1783789989775,
     "first_seen": 1781377229363
   },
   "GAmming": {
