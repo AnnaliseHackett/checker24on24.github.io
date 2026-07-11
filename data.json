@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1783725359197,
+    "status": "offline",
+    "since": 1783728814985,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1783721420312,
+    "status": "offline",
+    "since": 1783728814985,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1783725359197,
+    "status": "offline",
+    "since": 1783728814985,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "offline",
-    "since": 1783699397264,
+    "status": "online",
+    "since": 1783728814985,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1783699397264,
+    "status": "offline",
+    "since": 1783728814985,
     "first_seen": 1775904626722
   },
   "HMck": {
