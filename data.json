@@ -20,12 +20,12 @@
     "since": 1783445286798
   },
   "bluestack": {
-    "status": "online",
-    "since": 1783868440048
+    "status": "offline",
+    "since": 1783884864553
   },
   "i5125": {
-    "status": "online",
-    "since": 1783872496344
+    "status": "offline",
+    "since": 1783884864553
   },
   "i5kf20": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1783857744803,
+    "status": "offline",
+    "since": 1783884864553,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -250,8 +250,8 @@
     "first_seen": 1771904259023
   },
   "i7128": {
-    "status": "online",
-    "since": 1783879970715,
+    "status": "offline",
+    "since": 1783884864553,
     "first_seen": 1771904259023
   },
   "i720m": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1783868440048,
+    "status": "offline",
+    "since": 1783884864553,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1783864353513,
+    "status": "offline",
+    "since": 1783884864553,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1783857744803,
+    "status": "offline",
+    "since": 1783884864553,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "online",
-    "since": 1783876597681,
+    "status": "offline",
+    "since": 1783884864553,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "offline",
-    "since": 1783831077212,
+    "status": "online",
+    "since": 1783884864553,
     "first_seen": 1774975329240
   },
   "hd": {
