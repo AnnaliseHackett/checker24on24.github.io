@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "online",
-    "since": 1783895090509
+    "status": "offline",
+    "since": 1783898865758
   },
   "x": {
     "status": "online",
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1783872496344,
+    "status": "online",
+    "since": 1783898865758,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -1280,8 +1280,8 @@
     "first_seen": 1781529899041
   },
   "XeonX": {
-    "status": "online",
-    "since": 1783872496344,
+    "status": "offline",
+    "since": 1783898865758,
     "first_seen": 1781613328793
   },
   "xeonC": {
