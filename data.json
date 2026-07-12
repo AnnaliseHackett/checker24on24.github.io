@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "online",
-    "since": 1783864353513
+    "status": "offline",
+    "since": 1783891466001
   },
   "x": {
     "status": "online",
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1783868440048,
+    "status": "online",
+    "since": 1783891466001,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1783876597681,
+    "status": "offline",
+    "since": 1783891466001,
     "first_seen": 1775842385767
   },
   "AFF": {
