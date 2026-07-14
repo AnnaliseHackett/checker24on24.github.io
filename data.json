@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "offline",
-    "since": 1784029735258,
+    "status": "online",
+    "since": 1784064331797,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1784024255785,
+    "status": "offline",
+    "since": 1784064331797,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1784046971527,
+    "status": "online",
+    "since": 1784064331797,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1095,13 +1095,13 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1784051160960,
+    "status": "offline",
+    "since": 1784064331797,
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1784008622812,
+    "status": "offline",
+    "since": 1784064331797,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
