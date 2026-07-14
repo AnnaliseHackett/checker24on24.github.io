@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1784041294242,
+    "status": "offline",
+    "since": 1784068270584,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1784064331797,
+    "status": "online",
+    "since": 1784068270584,
     "first_seen": 1772895624848
   },
   "proxy": {
