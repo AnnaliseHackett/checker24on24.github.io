@@ -610,8 +610,8 @@
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "online",
-    "since": 1784317456684,
+    "status": "offline",
+    "since": 1784320663568,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1784317456684,
+    "status": "online",
+    "since": 1784320663568,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1784304199682,
+    "status": "offline",
+    "since": 1784320663568,
     "first_seen": 1775842385767
   },
   "AFF": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1784259766034,
+    "status": "offline",
+    "since": 1784320663568,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "offline",
-    "since": 1784304199682,
+    "status": "online",
+    "since": 1784320663568,
     "first_seen": 1780668744063
   },
   "reg72": {
