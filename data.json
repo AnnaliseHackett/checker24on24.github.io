@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1784308903278,
+    "status": "online",
+    "since": 1784330943926,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1784304199682,
+    "status": "online",
+    "since": 1784330943926,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "offline",
-    "since": 1784308903278,
+    "status": "online",
+    "since": 1784330943926,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1784304199682,
+    "status": "offline",
+    "since": 1784330943926,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1784308903278,
+    "status": "online",
+    "since": 1784330943926,
     "first_seen": 1773226388097
   },
   "amd78s": {
