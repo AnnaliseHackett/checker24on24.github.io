@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1784373197071,
+    "status": "offline",
+    "since": 1784399818384,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1784382448439,
+    "status": "offline",
+    "since": 1784399818384,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -815,8 +815,8 @@
     "first_seen": 1772927358632
   },
   "SM": {
-    "status": "online",
-    "since": 1784385683216,
+    "status": "offline",
+    "since": 1784399818384,
     "first_seen": 1772964700336
   },
   "xeon67": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1784362865200,
+    "status": "offline",
+    "since": 1784399818384,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1783018339739,
+    "status": "offline",
+    "since": 1784399818384,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1280,8 +1280,8 @@
     "first_seen": 1781529899041
   },
   "XeonX": {
-    "status": "online",
-    "since": 1784392626112,
+    "status": "offline",
+    "since": 1784399818384,
     "first_seen": 1781613328793
   },
   "xeonC": {
