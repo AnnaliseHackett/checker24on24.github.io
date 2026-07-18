@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1784392626112,
+    "status": "online",
+    "since": 1784410373469,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1784396390662,
+    "status": "offline",
+    "since": 1784410373469,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1250,8 +1250,8 @@
     "first_seen": 1781045279201
   },
   "xeonem": {
-    "status": "online",
-    "since": 1784389197790,
+    "status": "offline",
+    "since": 1784410373469,
     "first_seen": 1781080758414
   },
   "xeonTN": {
