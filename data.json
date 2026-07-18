@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1784299549946,
+    "status": "online",
+    "since": 1784336441502,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1784243620684,
+    "status": "online",
+    "since": 1784336441502,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1784330943926,
+    "status": "offline",
+    "since": 1784336441502,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -535,8 +535,8 @@
     "first_seen": 1772015605036
   },
   "09799": {
-    "status": "offline",
-    "since": 1784299549946,
+    "status": "online",
+    "since": 1784336441502,
     "first_seen": 1772026925768
   },
   "laptop": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "offline",
-    "since": 1784308903278,
+    "status": "online",
+    "since": 1784336441502,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1784320663568,
+    "status": "offline",
+    "since": 1784336441502,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "offline",
-    "since": 1784313285501,
+    "status": "online",
+    "since": 1784336441502,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
