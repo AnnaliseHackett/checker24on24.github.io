@@ -315,8 +315,8 @@
     "first_seen": 1771904259023
   },
   "xeon2676": {
-    "status": "offline",
-    "since": 1784356007955,
+    "status": "online",
+    "since": 1784423318410,
     "first_seen": 1771904259023
   },
   "xeonNHO": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1784417493294,
+    "status": "online",
+    "since": 1784423318410,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -505,8 +505,8 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "online",
-    "since": 1784407034140,
+    "status": "offline",
+    "since": 1784423318410,
     "first_seen": 1771951499378
   },
   "2112026t4": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "offline",
-    "since": 1784399818384,
+    "status": "online",
+    "since": 1784423318410,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "online",
-    "since": 1784396390662,
+    "status": "offline",
+    "since": 1784423318410,
     "first_seen": 1774975329240
   },
   "hd": {
