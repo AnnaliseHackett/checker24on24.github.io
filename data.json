@@ -20,12 +20,12 @@
     "since": 1784276755098
   },
   "bluestack": {
-    "status": "online",
-    "since": 1784532582198
+    "status": "offline",
+    "since": 1784564787323
   },
   "i5125": {
-    "status": "online",
-    "since": 1784520584913
+    "status": "offline",
+    "since": 1784564787323
   },
   "i5kf20": {
     "status": "offline",
@@ -68,16 +68,16 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1784532582198
+    "status": "offline",
+    "since": 1784564787323
   },
   "tool1-2-2026": {
     "status": "online",
     "since": 1783318284894
   },
   "tool-8-2-2026": {
-    "status": "offline",
-    "since": 1784283564810
+    "status": "online",
+    "since": 1784564787323
   },
   "toolAL23-2-2026": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1784392626112,
+    "status": "online",
+    "since": 1784564787323,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1784550843936,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "online",
-    "since": 1784559299346,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -390,8 +390,8 @@
     "first_seen": 1771924014596
   },
   "ryzen5U": {
-    "status": "online",
-    "since": 1784550843936,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1771924014596
   },
   "0x8": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "offline",
-    "since": 1784543220938,
+    "status": "online",
+    "since": 1784564787323,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1784559299346,
+    "status": "online",
+    "since": 1784564787323,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1784559299346,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1784559299346,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "offline",
-    "since": 1784479140349,
+    "status": "online",
+    "since": 1784564787323,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -520,8 +520,8 @@
     "first_seen": 1771990967353
   },
   "xeonGPU": {
-    "status": "online",
-    "since": 1784559299346,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1771990967353
   },
   "amd5": {
@@ -570,8 +570,8 @@
     "first_seen": 1772076874941
   },
   "i728p": {
-    "status": "offline",
-    "since": 1784559299346,
+    "status": "online",
+    "since": 1784564787323,
     "first_seen": 1772082654222
   },
   "reg16": {
@@ -610,13 +610,13 @@
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "online",
-    "since": 1784550843936,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1784559299346,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1784559299346,
+    "status": "online",
+    "since": 1784564787323,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -815,8 +815,8 @@
     "first_seen": 1772927358632
   },
   "SM": {
-    "status": "online",
-    "since": 1784559299346,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1772964700336
   },
   "xeon67": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1784404203543,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -980,8 +980,8 @@
     "first_seen": 1774108506221
   },
   "i5L": {
-    "status": "online",
-    "since": 1784550843936,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1774172329547
   },
   "tiktok": {
@@ -1010,18 +1010,18 @@
     "first_seen": 1774213093845
   },
   "ToolHM2": {
-    "status": "offline",
-    "since": 1784550843936,
+    "status": "online",
+    "since": 1784564787323,
     "first_seen": 1774248212124
   },
   "ToolHM3": {
-    "status": "offline",
-    "since": 1784559299346,
+    "status": "online",
+    "since": 1784564787323,
     "first_seen": 1774248212124
   },
   "amz7435": {
-    "status": "online",
-    "since": 1784559299346,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1774323394496
   },
   "i5p": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "online",
-    "since": 1784559299346,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1774975329240
   },
   "hd": {
@@ -1255,13 +1255,13 @@
     "first_seen": 1781080758414
   },
   "xeonTN": {
-    "status": "online",
-    "since": 1784550843936,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1781107501015
   },
   "roblox": {
-    "status": "online",
-    "since": 1784550843936,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1781377229363
   },
   "GAmming": {
@@ -1295,8 +1295,8 @@
     "first_seen": 1782193825851
   },
   "7236": {
-    "status": "online",
-    "since": 1784550843936,
+    "status": "offline",
+    "since": 1784564787323,
     "first_seen": 1784268344530
   },
   "21years": {
