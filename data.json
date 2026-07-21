@@ -570,8 +570,8 @@
     "first_seen": 1772076874941
   },
   "i728p": {
-    "status": "online",
-    "since": 1784627688550,
+    "status": "offline",
+    "since": 1784668461493,
     "first_seen": 1772082654222
   },
   "reg16": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1784608336730,
+    "status": "offline",
+    "since": 1784668461493,
     "first_seen": 1772895624848
   },
   "proxy": {
