@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "offline",
-    "since": 1784743852751,
+    "status": "online",
+    "since": 1784753559951,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "online",
-    "since": 1784692296556,
+    "status": "offline",
+    "since": 1784753559951,
     "first_seen": 1784543220938
   },
   "AMZ": {
