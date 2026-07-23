@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1784830019934,
+    "status": "offline",
+    "since": 1784835847200,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1784819512985,
+    "status": "offline",
+    "since": 1784835847200,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1784819512985,
+    "status": "offline",
+    "since": 1784835847200,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1784805562673,
+    "status": "offline",
+    "since": 1784835847200,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1784819512985,
+    "status": "offline",
+    "since": 1784835847200,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "online",
-    "since": 1784787770195,
+    "status": "offline",
+    "since": 1784835847200,
     "first_seen": 1784543220938
   },
   "AMZ": {
