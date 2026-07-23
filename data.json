@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1784839525446,
+    "status": "offline",
+    "since": 1784846528225,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1784819512985,
+    "status": "offline",
+    "since": 1784846528225,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1784787770195,
+    "status": "offline",
+    "since": 1784846528225,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
