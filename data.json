@@ -28,8 +28,8 @@
     "since": 1784877466495
   },
   "i5kf20": {
-    "status": "online",
-    "since": 1784922949789
+    "status": "offline",
+    "since": 1784927487112
   },
   "i711": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1784877466495,
+    "status": "offline",
+    "since": 1784927487112,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1784922949789,
+    "status": "offline",
+    "since": 1784927487112,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -1100,8 +1100,8 @@
     "first_seen": 1775904626722
   },
   "HMck": {
-    "status": "online",
-    "since": 1784867922132,
+    "status": "offline",
+    "since": 1784927487112,
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "online",
-    "since": 1784855642860,
+    "status": "offline",
+    "since": 1784927487112,
     "first_seen": 1780668744063
   },
   "reg72": {
