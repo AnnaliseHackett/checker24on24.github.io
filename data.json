@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1784912108973,
+    "status": "online",
+    "since": 1784942082874,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1784905440178,
+    "status": "online",
+    "since": 1784942082874,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1784936461455,
+    "status": "offline",
+    "since": 1784942082874,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1784912108973,
+    "status": "offline",
+    "since": 1784942082874,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "offline",
-    "since": 1784905440178,
+    "status": "online",
+    "since": 1784942082874,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "offline",
-    "since": 1784912108973,
+    "status": "online",
+    "since": 1784942082874,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "offline",
-    "since": 1784927487112,
+    "status": "online",
+    "since": 1784942082874,
     "first_seen": 1780668744063
   },
   "reg72": {
@@ -1280,8 +1280,8 @@
     "first_seen": 1781529899041
   },
   "XeonX": {
-    "status": "online",
-    "since": 1784917281081,
+    "status": "offline",
+    "since": 1784942082874,
     "first_seen": 1781613328793
   },
   "xeonC": {
@@ -1310,13 +1310,13 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "offline",
-    "since": 1784922949789,
+    "status": "online",
+    "since": 1784942082874,
     "first_seen": 1784543220938
   },
   "AMZ": {
-    "status": "offline",
-    "since": 1784912108973,
+    "status": "online",
+    "since": 1784942082874,
     "first_seen": 1784618268473
   },
   "pCha": {
