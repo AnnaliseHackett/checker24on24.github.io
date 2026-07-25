@@ -1250,8 +1250,8 @@
     "first_seen": 1781045279201
   },
   "xeonem": {
-    "status": "online",
-    "since": 1784953926987,
+    "status": "offline",
+    "since": 1785015222298,
     "first_seen": 1781080758414
   },
   "xeonTN": {
@@ -1300,8 +1300,8 @@
     "first_seen": 1784268344530
   },
   "21years": {
-    "status": "online",
-    "since": 1784596144167,
+    "status": "offline",
+    "since": 1785015222298,
     "first_seen": 1784283564810
   },
   "s56": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "offline",
-    "since": 1785003086783,
+    "status": "online",
+    "since": 1785015222298,
     "first_seen": 1784543220938
   },
   "AMZ": {
