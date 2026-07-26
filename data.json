@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1785091171678,
+    "status": "online",
+    "since": 1785095669314,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "offline",
-    "since": 1784936461455,
+    "status": "online",
+    "since": 1785095669314,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "offline",
-    "since": 1784634573522,
+    "status": "online",
+    "since": 1785095669314,
     "first_seen": 1774975329240
   },
   "hd": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "online",
-    "since": 1785015222298,
+    "status": "offline",
+    "since": 1785095669314,
     "first_seen": 1784543220938
   },
   "AMZ": {
