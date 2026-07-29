@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1785361095441,
+    "status": "offline",
+    "since": 1785364742755,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1785348570987,
+    "status": "online",
+    "since": 1785364742755,
     "first_seen": 1771934133329
   },
   "meo": {
