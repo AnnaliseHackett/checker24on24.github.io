@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1785431000561
+    "status": "offline",
+    "since": 1785451460851
   },
   "tool1-2-2026": {
     "status": "online",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1785447016439,
+    "status": "offline",
+    "since": 1785451460851,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -325,8 +325,8 @@
     "first_seen": 1771904259023
   },
   "i7130h": {
-    "status": "online",
-    "since": 1785447016439,
+    "status": "offline",
+    "since": 1785451460851,
     "first_seen": 1771909942902
   },
   "i7update": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1785447016439,
+    "status": "offline",
+    "since": 1785451460851,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1785425168540,
+    "status": "online",
+    "since": 1785451460851,
     "first_seen": 1773226388097
   },
   "amd78s": {
