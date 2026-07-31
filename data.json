@@ -325,8 +325,8 @@
     "first_seen": 1771904259023
   },
   "i7130h": {
-    "status": "offline",
-    "since": 1785460641108,
+    "status": "online",
+    "since": 1785536915225,
     "first_seen": 1771909942902
   },
   "i7update": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1785532709102,
+    "status": "online",
+    "since": 1785536915225,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "offline",
-    "since": 1785528189109,
+    "status": "online",
+    "since": 1785536915225,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1785528189109,
+    "status": "offline",
+    "since": 1785536915225,
     "first_seen": 1774667680573
   },
   "x56xu": {
