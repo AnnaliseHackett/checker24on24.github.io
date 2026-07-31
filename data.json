@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1785510115963,
+    "status": "offline",
+    "since": 1785532709102,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1785516858443,
+    "status": "offline",
+    "since": 1785532709102,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1785528189109,
+    "status": "offline",
+    "since": 1785532709102,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "online",
-    "since": 1785473286262,
+    "status": "offline",
+    "since": 1785532709102,
     "first_seen": 1784543220938
   },
   "AMZ": {
