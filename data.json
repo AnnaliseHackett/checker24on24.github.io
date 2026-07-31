@@ -28,8 +28,8 @@
     "since": 1785442045388
   },
   "i5kf20": {
-    "status": "online",
-    "since": 1785522153392
+    "status": "offline",
+    "since": 1785528189109
   },
   "i711": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1785522153392,
+    "status": "offline",
+    "since": 1785528189109,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1785516858443,
+    "status": "offline",
+    "since": 1785528189109,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1785522153392,
+    "status": "online",
+    "since": 1785528189109,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -895,8 +895,8 @@
     "first_seen": 1773325655043
   },
   "iT": {
-    "status": "online",
-    "since": 1785522153392,
+    "status": "offline",
+    "since": 1785528189109,
     "first_seen": 1773329602916
   },
   "truomsi": {
@@ -960,13 +960,13 @@
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
-    "status": "offline",
-    "since": 1785522153392,
+    "status": "online",
+    "since": 1785528189109,
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1785296724076,
+    "status": "offline",
+    "since": 1785528189109,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "offline",
-    "since": 1785522153392,
+    "status": "online",
+    "since": 1785528189109,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1045,8 +1045,8 @@
     "first_seen": 1774957026104
   },
   "link": {
-    "status": "online",
-    "since": 1785473286262,
+    "status": "offline",
+    "since": 1785528189109,
     "first_seen": 1774975329240
   },
   "td": {
@@ -1250,8 +1250,8 @@
     "first_seen": 1781045279201
   },
   "xeonem": {
-    "status": "online",
-    "since": 1785473286262,
+    "status": "offline",
+    "since": 1785528189109,
     "first_seen": 1781080758414
   },
   "xeonTN": {
@@ -1330,8 +1330,8 @@
     "first_seen": 1784743852751
   },
   "vmx": {
-    "status": "offline",
-    "since": 1785516858443,
+    "status": "online",
+    "since": 1785528189109,
     "first_seen": 1784905440178
   },
   "xeonBLA": {
