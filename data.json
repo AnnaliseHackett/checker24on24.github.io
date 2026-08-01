@@ -24,8 +24,8 @@
     "since": 1785586254271
   },
   "i5125": {
-    "status": "offline",
-    "since": 1785600998861
+    "status": "online",
+    "since": 1785609099338
   },
   "i5kf20": {
     "status": "offline",
@@ -270,8 +270,8 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "online",
-    "since": 1785586254271,
+    "status": "offline",
+    "since": 1785609099338,
     "first_seen": 1771904259023
   },
   "MD5": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1785605225714,
+    "status": "offline",
+    "since": 1785609099338,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -435,8 +435,8 @@
     "first_seen": 1771931250125
   },
   "y": {
-    "status": "online",
-    "since": 1785576475222,
+    "status": "offline",
+    "since": 1785609099338,
     "first_seen": 1771931250125
   },
   "i5Te": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1785592901201,
+    "status": "offline",
+    "since": 1785609099338,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "online",
-    "since": 1785597320973,
+    "status": "offline",
+    "since": 1785609099338,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1785600998861,
+    "status": "offline",
+    "since": 1785609099338,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "online",
-    "since": 1785605225714,
+    "status": "offline",
+    "since": 1785609099338,
     "first_seen": 1774108506221
   },
   "i5L": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1785576475222,
+    "status": "offline",
+    "since": 1785609099338,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1045,8 +1045,8 @@
     "first_seen": 1774957026104
   },
   "link": {
-    "status": "online",
-    "since": 1785546702358,
+    "status": "offline",
+    "since": 1785609099338,
     "first_seen": 1774975329240
   },
   "td": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1785600998861,
+    "status": "offline",
+    "since": 1785609099338,
     "first_seen": 1775842385767
   },
   "AFF": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1785592901201,
+    "status": "offline",
+    "since": 1785609099338,
     "first_seen": 1775904626722
   },
   "HMck": {
