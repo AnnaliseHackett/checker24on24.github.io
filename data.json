@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1785605225714,
+    "status": "online",
+    "since": 1785625703234,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1785621812453,
+    "status": "offline",
+    "since": 1785625703234,
     "first_seen": 1771947443714
   },
   "ryzen9": {
