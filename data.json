@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "offline",
-    "since": 1785613888530,
+    "status": "online",
+    "since": 1785621812453,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1785617910462,
+    "status": "offline",
+    "since": 1785621812453,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -1305,8 +1305,8 @@
     "first_seen": 1784283564810
   },
   "s56": {
-    "status": "online",
-    "since": 1785582137479,
+    "status": "offline",
+    "since": 1785621812453,
     "first_seen": 1784445191719
   },
   "matrix": {
