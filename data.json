@@ -205,8 +205,8 @@
     "first_seen": 1771894415726
   },
   "2112026T3": {
-    "status": "online",
-    "since": 1785696286167,
+    "status": "offline",
+    "since": 1785700830267,
     "first_seen": 1771904259023
   },
   "amz7743": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1785696286167,
+    "status": "online",
+    "since": 1785700830267,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "online",
-    "since": 1785696286167,
+    "status": "offline",
+    "since": 1785700830267,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1785671321477,
+    "status": "offline",
+    "since": 1785700830267,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -860,13 +860,13 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1785667670673,
+    "status": "online",
+    "since": 1785700830267,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1785629486909,
+    "status": "offline",
+    "since": 1785700830267,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "offline",
-    "since": 1785680317399,
+    "status": "online",
+    "since": 1785700830267,
     "first_seen": 1774975329240
   },
   "hd": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "online",
-    "since": 1785652863634,
+    "status": "offline",
+    "since": 1785700830267,
     "first_seen": 1784543220938
   },
   "AMZ": {
