@@ -16,8 +16,8 @@
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1785688534631
+    "status": "offline",
+    "since": 1785704882812
   },
   "bluestack": {
     "status": "offline",
@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1785692543807
+    "status": "offline",
+    "since": 1785704882812
   },
   "tool1-2-2026": {
     "status": "online",
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1785700830267,
+    "status": "offline",
+    "since": 1785704882812,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "online",
-    "since": 1785700830267,
+    "status": "offline",
+    "since": 1785704882812,
     "first_seen": 1774975329240
   },
   "hd": {
