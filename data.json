@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "offline",
-    "since": 1785661333435,
+    "status": "online",
+    "since": 1785712305460,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -445,8 +445,8 @@
     "first_seen": 1771934133329
   },
   "meo": {
-    "status": "offline",
-    "since": 1785079072981,
+    "status": "online",
+    "since": 1785712305460,
     "first_seen": 1771934133329
   },
   "xeonutra": {
@@ -820,13 +820,13 @@
     "first_seen": 1772964700336
   },
   "xeon67": {
-    "status": "offline",
-    "since": 1785684793029,
+    "status": "online",
+    "since": 1785712305460,
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "offline",
-    "since": 1785684793029,
+    "status": "online",
+    "since": 1785712305460,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1785700830267,
+    "status": "online",
+    "since": 1785712305460,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "offline",
-    "since": 1785696286167,
+    "status": "online",
+    "since": 1785712305460,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "offline",
-    "since": 1785688534631,
+    "status": "online",
+    "since": 1785712305460,
     "first_seen": 1780668744063
   },
   "reg72": {
@@ -1280,8 +1280,8 @@
     "first_seen": 1781529899041
   },
   "XeonX": {
-    "status": "online",
-    "since": 1785692543807,
+    "status": "offline",
+    "since": 1785712305460,
     "first_seen": 1781613328793
   },
   "xeonC": {
