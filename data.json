@@ -24,8 +24,8 @@
     "since": 1785692543807
   },
   "i5125": {
-    "status": "offline",
-    "since": 1785716182082
+    "status": "online",
+    "since": 1785729718862
   },
   "i5kf20": {
     "status": "offline",
@@ -200,13 +200,13 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1785684793029,
+    "status": "online",
+    "since": 1785729718862,
     "first_seen": 1771894415726
   },
   "2112026T3": {
-    "status": "offline",
-    "since": 1785700830267,
+    "status": "online",
+    "since": 1785729718862,
     "first_seen": 1771904259023
   },
   "amz7743": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1785716182082,
+    "status": "online",
+    "since": 1785729718862,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1785671321477,
+    "status": "online",
+    "since": 1785729718862,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "offline",
-    "since": 1785586254271,
+    "status": "online",
+    "since": 1785729718862,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -355,13 +355,13 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1785716182082,
+    "status": "offline",
+    "since": 1785729718862,
     "first_seen": 1771918204510
   },
   "w": {
-    "status": "offline",
-    "since": 1785500867055,
+    "status": "online",
+    "since": 1785729718862,
     "first_seen": 1771918204510
   },
   "xeonSHOPPE": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1785716182082,
+    "status": "offline",
+    "since": 1785729718862,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -425,8 +425,8 @@
     "first_seen": 1771931250125
   },
   "msitool": {
-    "status": "online",
-    "since": 1785712305460,
+    "status": "offline",
+    "since": 1785729718862,
     "first_seen": 1771931250125
   },
   "pc": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1785692543807,
+    "status": "online",
+    "since": 1785729718862,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "offline",
-    "since": 1785700830267,
+    "status": "online",
+    "since": 1785729718862,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "offline",
-    "since": 1785559286945,
+    "status": "online",
+    "since": 1785729718862,
     "first_seen": 1772091016863
   },
   "light": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1785667670673,
+    "status": "offline",
+    "since": 1785729718862,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -955,13 +955,13 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "offline",
-    "since": 1785661333435,
+    "status": "online",
+    "since": 1785729718862,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
-    "status": "online",
-    "since": 1785528189109,
+    "status": "offline",
+    "since": 1785729718862,
     "first_seen": 1773917700355
   },
   "xmr": {
@@ -1105,8 +1105,8 @@
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
-    "status": "offline",
-    "since": 1785692543807,
+    "status": "online",
+    "since": 1785729718862,
     "first_seen": 1776009051585
   },
   "python": {
@@ -1305,13 +1305,13 @@
     "first_seen": 1784283564810
   },
   "s56": {
-    "status": "offline",
-    "since": 1785692543807,
+    "status": "online",
+    "since": 1785729718862,
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "offline",
-    "since": 1785700830267,
+    "status": "online",
+    "since": 1785729718862,
     "first_seen": 1784543220938
   },
   "AMZ": {
