@@ -8,20 +8,20 @@
     "since": 1781780204222
   },
   "3672xeon": {
-    "status": "online",
-    "since": 1785940762386
+    "status": "offline",
+    "since": 1785959493633
   },
   "amz7profile": {
     "status": "offline",
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1785940762386
+    "status": "offline",
+    "since": 1785959493633
   },
   "bluestack": {
-    "status": "online",
-    "since": 1785946895803
+    "status": "offline",
+    "since": 1785959493633
   },
   "i5125": {
     "status": "online",
@@ -132,8 +132,8 @@
     "since": 1785671321477
   },
   "i72028": {
-    "status": "online",
-    "since": 1785953132286
+    "status": "offline",
+    "since": 1785959493633
   },
   "xeonYEU": {
     "status": "offline",
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1785953132286,
+    "status": "offline",
+    "since": 1785959493633,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1785932142159,
+    "status": "offline",
+    "since": 1785959493633,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -635,8 +635,8 @@
     "first_seen": 1772204263223
   },
   "i5146": {
-    "status": "online",
-    "since": 1785953132286,
+    "status": "offline",
+    "since": 1785959493633,
     "first_seen": 1772218383298
   },
   "xeon2670": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "online",
-    "since": 1785953132286,
+    "status": "offline",
+    "since": 1785959493633,
     "first_seen": 1774975329240
   },
   "hd": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1785946895803,
+    "status": "offline",
+    "since": 1785959493633,
     "first_seen": 1775842385767
   },
   "AFF": {
@@ -1305,8 +1305,8 @@
     "first_seen": 1784283564810
   },
   "s56": {
-    "status": "online",
-    "since": 1785932142159,
+    "status": "offline",
+    "since": 1785959493633,
     "first_seen": 1784445191719
   },
   "matrix": {
@@ -1320,8 +1320,8 @@
     "first_seen": 1784618268473
   },
   "pCha": {
-    "status": "online",
-    "since": 1785940762386,
+    "status": "offline",
+    "since": 1785959493633,
     "first_seen": 1784733302621
   },
   "toolGR": {
