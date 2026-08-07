@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1786093887467,
+    "status": "offline",
+    "since": 1786097452845,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -225,8 +225,8 @@
     "first_seen": 1771904259023
   },
   "driveGG": {
-    "status": "online",
-    "since": 1786089473881,
+    "status": "offline",
+    "since": 1786097452845,
     "first_seen": 1771904259023
   },
   "f15wifi": {
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "offline",
-    "since": 1786061938069,
+    "status": "online",
+    "since": 1786097452845,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1786093887467,
+    "status": "offline",
+    "since": 1786097452845,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -360,8 +360,8 @@
     "first_seen": 1771918204510
   },
   "w": {
-    "status": "online",
-    "since": 1786084585962,
+    "status": "offline",
+    "since": 1786097452845,
     "first_seen": 1771918204510
   },
   "xeonSHOPPE": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "online",
-    "since": 1786089473881,
+    "status": "offline",
+    "since": 1786097452845,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1786093887467,
+    "status": "offline",
+    "since": 1786097452845,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "online",
-    "since": 1786093887467,
+    "status": "offline",
+    "since": 1786097452845,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "offline",
-    "since": 1786089473881,
+    "status": "online",
+    "since": 1786097452845,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1265,8 +1265,8 @@
     "first_seen": 1781377229363
   },
   "GAmming": {
-    "status": "offline",
-    "since": 1786027174241,
+    "status": "online",
+    "since": 1786097452845,
     "first_seen": 1781447657721
   },
   "ld9os": {
@@ -1295,8 +1295,8 @@
     "first_seen": 1782193825851
   },
   "7236": {
-    "status": "online",
-    "since": 1786084585962,
+    "status": "offline",
+    "since": 1786097452845,
     "first_seen": 1784268344530
   },
   "21years": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "offline",
-    "since": 1786061938069,
+    "status": "online",
+    "since": 1786097452845,
     "first_seen": 1784543220938
   },
   "AMZ": {
