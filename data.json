@@ -108,8 +108,8 @@
     "since": 1783157572130
   },
   "xeonNEW": {
-    "status": "online",
-    "since": 1786163914753
+    "status": "offline",
+    "since": 1786188732074
   },
   "xeonNH": {
     "status": "offline",
@@ -270,8 +270,8 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "offline",
-    "since": 1786179411309,
+    "status": "online",
+    "since": 1786188732074,
     "first_seen": 1771904259023
   },
   "MD5": {
@@ -460,8 +460,8 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "online",
-    "since": 1786179411309,
+    "status": "offline",
+    "since": 1786188732074,
     "first_seen": 1771939283101
   },
   "i5kkey": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "online",
-    "since": 1786182414147,
+    "status": "offline",
+    "since": 1786188732074,
     "first_seen": 1772091016863
   },
   "light": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "online",
-    "since": 1786163914753,
+    "status": "offline",
+    "since": 1786188732074,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "online",
-    "since": 1786184162169,
+    "status": "offline",
+    "since": 1786188732074,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "offline",
-    "since": 1786182414147,
+    "status": "online",
+    "since": 1786188732074,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1335,8 +1335,8 @@
     "first_seen": 1784905440178
   },
   "xeonBLA": {
-    "status": "online",
-    "since": 1786131218155,
+    "status": "offline",
+    "since": 1786188732074,
     "first_seen": 1785160486963
   },
   "verify": {
