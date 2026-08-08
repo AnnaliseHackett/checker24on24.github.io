@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1786201309821,
+    "status": "offline",
+    "since": 1786217611784,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "online",
-    "since": 1786210612490,
+    "status": "offline",
+    "since": 1786217611784,
     "first_seen": 1774108506221
   },
   "i5L": {
@@ -1290,8 +1290,8 @@
     "first_seen": 1781691004383
   },
   "xeonTN72": {
-    "status": "online",
-    "since": 1786215311143,
+    "status": "offline",
+    "since": 1786217611784,
     "first_seen": 1782193825851
   },
   "7236": {
@@ -1335,8 +1335,8 @@
     "first_seen": 1784905440178
   },
   "xeonBLA": {
-    "status": "online",
-    "since": 1786190403383,
+    "status": "offline",
+    "since": 1786217611784,
     "first_seen": 1785160486963
   },
   "verify": {
