@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1786205644654
+    "status": "offline",
+    "since": 1786208171350
   },
   "tool1-2-2026": {
     "status": "online",
@@ -270,8 +270,8 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "online",
-    "since": 1786188732074,
+    "status": "offline",
+    "since": 1786208171350,
     "first_seen": 1771904259023
   },
   "MD5": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1786197309458,
+    "status": "offline",
+    "since": 1786208171350,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -630,8 +630,8 @@
     "first_seen": 1772201190921
   },
   "ooo": {
-    "status": "online",
-    "since": 1786197309458,
+    "status": "offline",
+    "since": 1786208171350,
     "first_seen": 1772204263223
   },
   "i5146": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "online",
-    "since": 1786205644654,
+    "status": "offline",
+    "since": 1786208171350,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1786197309458,
+    "status": "offline",
+    "since": 1786208171350,
     "first_seen": 1775842385767
   },
   "AFF": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1786201309821,
+    "status": "offline",
+    "since": 1786208171350,
     "first_seen": 1775904626722
   },
   "HMck": {
