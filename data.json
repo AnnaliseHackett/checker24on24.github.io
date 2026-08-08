@@ -8,8 +8,8 @@
     "since": 1781780204222
   },
   "3672xeon": {
-    "status": "online",
-    "since": 1786205644654
+    "status": "offline",
+    "since": 1786215311143
   },
   "amz7profile": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1786203808232,
+    "status": "offline",
+    "since": 1786215311143,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -375,8 +375,8 @@
     "first_seen": 1771920460571
   },
   "amthanh": {
-    "status": "online",
-    "since": 1786210612490,
+    "status": "offline",
+    "since": 1786215311143,
     "first_seen": 1771924014596
   },
   "DMU": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1786212151155,
+    "status": "offline",
+    "since": 1786215311143,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1786197309458,
+    "status": "offline",
+    "since": 1786215311143,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1786205644654,
+    "status": "offline",
+    "since": 1786215311143,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1786197309458,
+    "status": "offline",
+    "since": 1786215311143,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "online",
-    "since": 1786212151155,
+    "status": "offline",
+    "since": 1786215311143,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -1125,8 +1125,8 @@
     "first_seen": 1776137638618
   },
   "13thgen": {
-    "status": "online",
-    "since": 1786197309458,
+    "status": "offline",
+    "since": 1786215311143,
     "first_seen": 1776176929025
   },
   "2026": {
@@ -1280,8 +1280,8 @@
     "first_seen": 1781529899041
   },
   "XeonX": {
-    "status": "online",
-    "since": 1786203808232,
+    "status": "offline",
+    "since": 1786215311143,
     "first_seen": 1781613328793
   },
   "xeonC": {
@@ -1290,8 +1290,8 @@
     "first_seen": 1781691004383
   },
   "xeonTN72": {
-    "status": "offline",
-    "since": 1782751376585,
+    "status": "online",
+    "since": 1786215311143,
     "first_seen": 1782193825851
   },
   "7236": {
