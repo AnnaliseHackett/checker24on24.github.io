@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1786203808232,
+    "status": "offline",
+    "since": 1786219196879,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -1110,8 +1110,8 @@
     "first_seen": 1776009051585
   },
   "python": {
-    "status": "online",
-    "since": 1786197309458,
+    "status": "offline",
+    "since": 1786219196879,
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
@@ -1335,8 +1335,8 @@
     "first_seen": 1784905440178
   },
   "xeonBLA": {
-    "status": "offline",
-    "since": 1786217611784,
+    "status": "online",
+    "since": 1786219196879,
     "first_seen": 1785160486963
   },
   "verify": {
