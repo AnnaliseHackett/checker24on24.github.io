@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1786109713655,
+    "status": "online",
+    "since": 1786173283737,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1786163914753,
+    "status": "offline",
+    "since": 1786173283737,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -505,13 +505,13 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "offline",
-    "since": 1786061938069,
+    "status": "online",
+    "since": 1786173283737,
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "offline",
-    "since": 1786154118145,
+    "status": "online",
+    "since": 1786173283737,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "offline",
-    "since": 1786166771030,
+    "status": "online",
+    "since": 1786173283737,
     "first_seen": 1772091016863
   },
   "light": {
@@ -820,8 +820,8 @@
     "first_seen": 1772964700336
   },
   "xeon67": {
-    "status": "offline",
-    "since": 1786166771030,
+    "status": "online",
+    "since": 1786173283737,
     "first_seen": 1772964700336
   },
   "maxcare": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1786146860323,
+    "status": "offline",
+    "since": 1786173283737,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "online",
-    "since": 1786154118145,
+    "status": "offline",
+    "since": 1786173283737,
     "first_seen": 1780668744063
   },
   "reg72": {
@@ -1250,8 +1250,8 @@
     "first_seen": 1781045279201
   },
   "xeonem": {
-    "status": "offline",
-    "since": 1786169305234,
+    "status": "online",
+    "since": 1786173283737,
     "first_seen": 1781080758414
   },
   "xeonTN": {
@@ -1280,8 +1280,8 @@
     "first_seen": 1781529899041
   },
   "XeonX": {
-    "status": "offline",
-    "since": 1786154118145,
+    "status": "online",
+    "since": 1786173283737,
     "first_seen": 1781613328793
   },
   "xeonC": {
