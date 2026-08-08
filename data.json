@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1786210612490
+    "status": "offline",
+    "since": 1786225800084
   },
   "tool1-2-2026": {
     "status": "online",
@@ -1105,8 +1105,8 @@
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
-    "status": "online",
-    "since": 1786212151155,
+    "status": "offline",
+    "since": 1786225800084,
     "first_seen": 1776009051585
   },
   "python": {
