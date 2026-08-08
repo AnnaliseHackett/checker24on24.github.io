@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1786093887467
+    "status": "offline",
+    "since": 1786176193363
   },
   "tool1-2-2026": {
     "status": "online",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1786173283737,
+    "status": "offline",
+    "since": 1786176193363,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1786123864860,
+    "status": "online",
+    "since": 1786176193363,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -240,8 +240,8 @@
     "first_seen": 1771904259023
   },
   "i7120": {
-    "status": "offline",
-    "since": 1784819512985,
+    "status": "online",
+    "since": 1786176193363,
     "first_seen": 1771904259023
   },
   "i7127k": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1786154118145,
+    "status": "offline",
+    "since": 1786176193363,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1786166771030,
+    "status": "offline",
+    "since": 1786176193363,
     "first_seen": 1771918204510
   },
   "w": {
@@ -430,8 +430,8 @@
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "online",
-    "since": 1786163914753,
+    "status": "offline",
+    "since": 1786176193363,
     "first_seen": 1771931250125
   },
   "y": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1786163914753,
+    "status": "offline",
+    "since": 1786176193363,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1786154118145,
+    "status": "offline",
+    "since": 1786176193363,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -630,8 +630,8 @@
     "first_seen": 1772201190921
   },
   "ooo": {
-    "status": "online",
-    "since": 1786154118145,
+    "status": "offline",
+    "since": 1786176193363,
     "first_seen": 1772204263223
   },
   "i5146": {
@@ -820,8 +820,8 @@
     "first_seen": 1772964700336
   },
   "xeon67": {
-    "status": "online",
-    "since": 1786173283737,
+    "status": "offline",
+    "since": 1786176193363,
     "first_seen": 1772964700336
   },
   "maxcare": {
