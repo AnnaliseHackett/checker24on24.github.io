@@ -28,8 +28,8 @@
     "since": 1786289936884
   },
   "i5kf20": {
-    "status": "online",
-    "since": 1786289936884
+    "status": "offline",
+    "since": 1786294293803
   },
   "i711": {
     "status": "offline",
@@ -128,8 +128,8 @@
     "since": 1782170629673
   },
   "i516p": {
-    "status": "online",
-    "since": 1786291443953
+    "status": "offline",
+    "since": 1786294293803
   },
   "i72028": {
     "status": "offline",
@@ -270,8 +270,8 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "online",
-    "since": 1786291443953,
+    "status": "offline",
+    "since": 1786294293803,
     "first_seen": 1771904259023
   },
   "MD5": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "offline",
-    "since": 1786269042176,
+    "status": "online",
+    "since": 1786294293803,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -445,8 +445,8 @@
     "first_seen": 1771934133329
   },
   "meo": {
-    "status": "online",
-    "since": 1786255377832,
+    "status": "offline",
+    "since": 1786294293803,
     "first_seen": 1771934133329
   },
   "xeonutra": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1786291443953,
+    "status": "offline",
+    "since": 1786294293803,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1786287436052,
+    "status": "offline",
+    "since": 1786294293803,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1250,8 +1250,8 @@
     "first_seen": 1781045279201
   },
   "xeonem": {
-    "status": "offline",
-    "since": 1786276160864,
+    "status": "online",
+    "since": 1786294293803,
     "first_seen": 1781080758414
   },
   "xeonTN": {
@@ -1280,8 +1280,8 @@
     "first_seen": 1781529899041
   },
   "XeonX": {
-    "status": "offline",
-    "since": 1786271910933,
+    "status": "online",
+    "since": 1786294293803,
     "first_seen": 1781613328793
   },
   "xeonC": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "online",
-    "since": 1786291443953,
+    "status": "offline",
+    "since": 1786294293803,
     "first_seen": 1784543220938
   },
   "AMZ": {
