@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1786289936884,
+    "status": "online",
+    "since": 1786319508733,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1786317333410,
+    "status": "online",
+    "since": 1786319508733,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1786296872842,
+    "status": "online",
+    "since": 1786319508733,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1045,13 +1045,13 @@
     "first_seen": 1774957026104
   },
   "link": {
-    "status": "offline",
-    "since": 1786271910933,
+    "status": "online",
+    "since": 1786319508733,
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "offline",
-    "since": 1786317333410,
+    "status": "online",
+    "since": 1786319508733,
     "first_seen": 1774975329240
   },
   "hd": {
@@ -1280,8 +1280,8 @@
     "first_seen": 1781529899041
   },
   "XeonX": {
-    "status": "offline",
-    "since": 1786304456735,
+    "status": "online",
+    "since": 1786319508733,
     "first_seen": 1781613328793
   },
   "xeonC": {
