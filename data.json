@@ -20,20 +20,20 @@
     "since": 1785959493633
   },
   "bluestack": {
-    "status": "online",
-    "since": 1786369198485
+    "status": "offline",
+    "since": 1786383325082
   },
   "i5125": {
-    "status": "online",
-    "since": 1786369198485
+    "status": "offline",
+    "since": 1786383325082
   },
   "i5kf20": {
     "status": "online",
     "since": 1786369198485
   },
   "i711": {
-    "status": "offline",
-    "since": 1785932142159
+    "status": "online",
+    "since": 1786383325082
   },
   "i7118": {
     "status": "offline",
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1786319508733,
+    "status": "offline",
+    "since": 1786383325082,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1786376627387,
+    "status": "offline",
+    "since": 1786383325082,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1786379849737,
+    "status": "offline",
+    "since": 1786383325082,
     "first_seen": 1771918204510
   },
   "w": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "online",
-    "since": 1786373052605,
+    "status": "offline",
+    "since": 1786383325082,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -610,8 +610,8 @@
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "offline",
-    "since": 1786340518742,
+    "status": "online",
+    "since": 1786383325082,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "online",
-    "since": 1786327629802,
+    "status": "offline",
+    "since": 1786383325082,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -895,8 +895,8 @@
     "first_seen": 1773325655043
   },
   "iT": {
-    "status": "online",
-    "since": 1786379849737,
+    "status": "offline",
+    "since": 1786383325082,
     "first_seen": 1773329602916
   },
   "truomsi": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1786369198485,
+    "status": "offline",
+    "since": 1786383325082,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1110,8 +1110,8 @@
     "first_seen": 1776009051585
   },
   "python": {
-    "status": "online",
-    "since": 1786360763327,
+    "status": "offline",
+    "since": 1786383325082,
     "first_seen": 1776060380203
   },
   "trieuvanmien": {
@@ -1250,8 +1250,8 @@
     "first_seen": 1781045279201
   },
   "xeonem": {
-    "status": "online",
-    "since": 1786373052605,
+    "status": "offline",
+    "since": 1786383325082,
     "first_seen": 1781080758414
   },
   "xeonTN": {
@@ -1320,8 +1320,8 @@
     "first_seen": 1784618268473
   },
   "pCha": {
-    "status": "online",
-    "since": 1786369198485,
+    "status": "offline",
+    "since": 1786383325082,
     "first_seen": 1784733302621
   },
   "toolGR": {
