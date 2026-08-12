@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1786508769713,
+    "status": "online",
+    "since": 1786529441357,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "offline",
-    "since": 1786514340249,
+    "status": "online",
+    "since": 1786529441357,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1786520694945,
+    "status": "online",
+    "since": 1786529441357,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -460,8 +460,8 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "online",
-    "since": 1786524843270,
+    "status": "offline",
+    "since": 1786529441357,
     "first_seen": 1771939283101
   },
   "i5kkey": {
@@ -535,8 +535,8 @@
     "first_seen": 1772015605036
   },
   "09799": {
-    "status": "offline",
-    "since": 1786442894482,
+    "status": "online",
+    "since": 1786529441357,
     "first_seen": 1772026925768
   },
   "laptop": {
@@ -570,13 +570,13 @@
     "first_seen": 1772076874941
   },
   "i728p": {
-    "status": "offline",
-    "since": 1786520694945,
+    "status": "online",
+    "since": 1786529441357,
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "offline",
-    "since": 1786514340249,
+    "status": "online",
+    "since": 1786529441357,
     "first_seen": 1772091016863
   },
   "light": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1786520694945,
+    "status": "offline",
+    "since": 1786529441357,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1280,8 +1280,8 @@
     "first_seen": 1781529899041
   },
   "XeonX": {
-    "status": "offline",
-    "since": 1786489705470,
+    "status": "online",
+    "since": 1786529441357,
     "first_seen": 1781613328793
   },
   "xeonC": {
@@ -1320,8 +1320,8 @@
     "first_seen": 1784618268473
   },
   "pCha": {
-    "status": "offline",
-    "since": 1786469823716,
+    "status": "online",
+    "since": 1786529441357,
     "first_seen": 1784733302621
   },
   "toolGR": {
