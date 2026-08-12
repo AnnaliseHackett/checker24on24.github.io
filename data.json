@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1786552828778
+    "status": "offline",
+    "since": 1786569818952
   },
   "tool1-2-2026": {
     "status": "online",
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1786097452845,
+    "status": "offline",
+    "since": 1786569818952,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "offline",
-    "since": 1786566552414,
+    "status": "online",
+    "since": 1786569818952,
     "first_seen": 1774975329240
   },
   "hd": {
