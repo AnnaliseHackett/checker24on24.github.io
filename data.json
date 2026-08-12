@@ -44,8 +44,8 @@
     "since": 1774089183281
   },
   "i929k": {
-    "status": "offline",
-    "since": 1786564128398
+    "status": "online",
+    "since": 1786578941267
   },
   "i9-32": {
     "status": "offline",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1786552828778,
+    "status": "online",
+    "since": 1786578941267,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1786545966119,
+    "status": "online",
+    "since": 1786578941267,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -380,8 +380,8 @@
     "first_seen": 1771924014596
   },
   "DMU": {
-    "status": "offline",
-    "since": 1786556679348,
+    "status": "online",
+    "since": 1786578941267,
     "first_seen": 1771924014596
   },
   "manghinhL": {
@@ -1280,8 +1280,8 @@
     "first_seen": 1781529899041
   },
   "XeonX": {
-    "status": "online",
-    "since": 1786564128398,
+    "status": "offline",
+    "since": 1786578941267,
     "first_seen": 1781613328793
   },
   "xeonC": {
