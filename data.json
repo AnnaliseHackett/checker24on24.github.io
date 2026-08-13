@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1786652671653,
+    "status": "offline",
+    "since": 1786662376720,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1786659114049,
+    "status": "online",
+    "since": 1786662376720,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1786635819630,
+    "status": "online",
+    "since": 1786662376720,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "offline",
-    "since": 1786659114049,
+    "status": "online",
+    "since": 1786662376720,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "offline",
-    "since": 1786572680942,
+    "status": "online",
+    "since": 1786662376720,
     "first_seen": 1774975329240
   },
   "hd": {
