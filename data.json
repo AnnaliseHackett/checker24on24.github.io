@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1786662376720,
+    "status": "offline",
+    "since": 1786744938736,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1280,8 +1280,8 @@
     "first_seen": 1781529899041
   },
   "XeonX": {
-    "status": "offline",
-    "since": 1786708547434,
+    "status": "online",
+    "since": 1786744938736,
     "first_seen": 1781613328793
   },
   "xeonC": {
