@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1786702027537,
+    "status": "offline",
+    "since": 1786724669562,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1786713566482,
+    "status": "offline",
+    "since": 1786724669562,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1786717708260,
+    "status": "offline",
+    "since": 1786724669562,
     "first_seen": 1771918204510
   },
   "w": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "offline",
-    "since": 1786508769713,
+    "status": "online",
+    "since": 1786724669562,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1786721038624,
+    "status": "online",
+    "since": 1786724669562,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1786721038624,
+    "status": "offline",
+    "since": 1786724669562,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "offline",
-    "since": 1786702027537,
+    "status": "online",
+    "since": 1786724669562,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -815,8 +815,8 @@
     "first_seen": 1772927358632
   },
   "SM": {
-    "status": "online",
-    "since": 1786721038624,
+    "status": "offline",
+    "since": 1786724669562,
     "first_seen": 1772964700336
   },
   "xeon67": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "online",
-    "since": 1786693455614,
+    "status": "offline",
+    "since": 1786724669562,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "offline",
-    "since": 1786721038624,
+    "status": "online",
+    "since": 1786724669562,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1260,8 +1260,8 @@
     "first_seen": 1781107501015
   },
   "roblox": {
-    "status": "online",
-    "since": 1786713566482,
+    "status": "offline",
+    "since": 1786724669562,
     "first_seen": 1781377229363
   },
   "GAmming": {
