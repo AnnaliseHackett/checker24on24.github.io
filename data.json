@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1786740573548,
+    "status": "offline",
+    "since": 1786743836082,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "offline",
-    "since": 1786742079704,
+    "status": "online",
+    "since": 1786743836082,
     "first_seen": 1774975329240
   },
   "hd": {
