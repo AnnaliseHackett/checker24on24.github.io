@@ -32,8 +32,8 @@
     "since": 1786386652932
   },
   "i711": {
-    "status": "online",
-    "since": 1786813565393
+    "status": "offline",
+    "since": 1786820436013
   },
   "i7118": {
     "status": "offline",
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1786790145323,
+    "status": "offline",
+    "since": 1786820436013,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1786812281852,
+    "status": "offline",
+    "since": 1786820436013,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1786802274040,
+    "status": "offline",
+    "since": 1786820436013,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -555,8 +555,8 @@
     "first_seen": 1772026925768
   },
   "12thsql": {
-    "status": "online",
-    "since": 1786818882105,
+    "status": "offline",
+    "since": 1786820436013,
     "first_seen": 1772030425253
   },
   "baroi": {
@@ -1305,8 +1305,8 @@
     "first_seen": 1784283564810
   },
   "s56": {
-    "status": "online",
-    "since": 1786790145323,
+    "status": "offline",
+    "since": 1786820436013,
     "first_seen": 1784445191719
   },
   "matrix": {
