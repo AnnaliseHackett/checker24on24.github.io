@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1786801020053,
+    "status": "online",
+    "since": 1786825577348,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1786812281852,
+    "status": "offline",
+    "since": 1786825577348,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1786805816801,
+    "status": "offline",
+    "since": 1786825577348,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
