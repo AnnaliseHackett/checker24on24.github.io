@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1786790145323,
+    "status": "online",
+    "since": 1786836400729,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "offline",
-    "since": 1786807717201,
+    "status": "online",
+    "since": 1786836400729,
     "first_seen": 1771918204510
   },
   "w": {
@@ -720,8 +720,8 @@
     "first_seen": 1772437053482
   },
   "tmp": {
-    "status": "online",
-    "since": 1786713566482,
+    "status": "offline",
+    "since": 1786836400729,
     "first_seen": 1772461962322
   },
   "UMT33": {
