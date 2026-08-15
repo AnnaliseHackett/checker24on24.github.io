@@ -270,8 +270,8 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "online",
-    "since": 1786788139932,
+    "status": "offline",
+    "since": 1786816483844,
     "first_seen": 1771904259023
   },
   "MD5": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1786807717201,
+    "status": "offline",
+    "since": 1786816483844,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "online",
-    "since": 1786813565393,
+    "status": "offline",
+    "since": 1786816483844,
     "first_seen": 1784543220938
   },
   "AMZ": {
