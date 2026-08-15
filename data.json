@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1786785097598,
+    "status": "offline",
+    "since": 1786794466921,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -820,8 +820,8 @@
     "first_seen": 1772964700336
   },
   "xeon67": {
-    "status": "offline",
-    "since": 1786779647331,
+    "status": "online",
+    "since": 1786794466921,
     "first_seen": 1772964700336
   },
   "maxcare": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "offline",
-    "since": 1786790145323,
+    "status": "online",
+    "since": 1786794466921,
     "first_seen": 1784543220938
   },
   "AMZ": {
