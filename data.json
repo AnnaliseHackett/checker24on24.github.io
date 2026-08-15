@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1786766680633
+    "status": "online",
+    "since": 1786779647331
   },
   "tool1-2-2026": {
     "status": "online",
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1786777283758,
+    "status": "online",
+    "since": 1786779647331,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "online",
-    "since": 1786777283758,
+    "status": "offline",
+    "since": 1786779647331,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -820,8 +820,8 @@
     "first_seen": 1772964700336
   },
   "xeon67": {
-    "status": "online",
-    "since": 1786777283758,
+    "status": "offline",
+    "since": 1786779647331,
     "first_seen": 1772964700336
   },
   "maxcare": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "online",
-    "since": 1786766680633,
+    "status": "offline",
+    "since": 1786779647331,
     "first_seen": 1784543220938
   },
   "AMZ": {
