@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1786764059412,
+    "status": "online",
+    "since": 1786791394209,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "offline",
-    "since": 1786728581803,
+    "status": "online",
+    "since": 1786791394209,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1786772705812,
+    "status": "offline",
+    "since": 1786791394209,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "online",
-    "since": 1786787076986,
+    "status": "offline",
+    "since": 1786791394209,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -980,8 +980,8 @@
     "first_seen": 1774108506221
   },
   "i5L": {
-    "status": "online",
-    "since": 1786787076986,
+    "status": "offline",
+    "since": 1786791394209,
     "first_seen": 1774172329547
   },
   "tiktok": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "offline",
-    "since": 1786748307040,
+    "status": "online",
+    "since": 1786791394209,
     "first_seen": 1774975329240
   },
   "hd": {
@@ -1295,8 +1295,8 @@
     "first_seen": 1782193825851
   },
   "7236": {
-    "status": "offline",
-    "since": 1786721038624,
+    "status": "online",
+    "since": 1786791394209,
     "first_seen": 1784268344530
   },
   "21years": {
