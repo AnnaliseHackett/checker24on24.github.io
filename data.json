@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1786809003484,
+    "status": "online",
+    "since": 1786810356103,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1786801020053,
+    "status": "online",
+    "since": 1786810356103,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1786807717201,
+    "status": "offline",
+    "since": 1786810356103,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "offline",
-    "since": 1786798744456,
+    "status": "online",
+    "since": 1786810356103,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1786801020053,
+    "status": "offline",
+    "since": 1786810356103,
     "first_seen": 1775842385767
   },
   "AFF": {
@@ -1330,8 +1330,8 @@
     "first_seen": 1784743852751
   },
   "vmx": {
-    "status": "online",
-    "since": 1786757196754,
+    "status": "offline",
+    "since": 1786810356103,
     "first_seen": 1784905440178
   },
   "xeonBLA": {
