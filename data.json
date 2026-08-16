@@ -8,8 +8,8 @@
     "since": 1781780204222
   },
   "3672xeon": {
-    "status": "online",
-    "since": 1786891020701
+    "status": "offline",
+    "since": 1786900946237
   },
   "amz7profile": {
     "status": "offline",
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1786892293185,
+    "status": "offline",
+    "since": 1786900946237,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1786897777724,
+    "status": "offline",
+    "since": 1786900946237,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "online",
-    "since": 1786899264389,
+    "status": "offline",
+    "since": 1786900946237,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1786887732747,
+    "status": "offline",
+    "since": 1786900946237,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -1105,8 +1105,8 @@
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
-    "status": "offline",
-    "since": 1786891020701,
+    "status": "online",
+    "since": 1786900946237,
     "first_seen": 1776009051585
   },
   "python": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "offline",
-    "since": 1786899264389,
+    "status": "online",
+    "since": 1786900946237,
     "first_seen": 1780668744063
   },
   "reg72": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "offline",
-    "since": 1786895489205,
+    "status": "online",
+    "since": 1786900946237,
     "first_seen": 1784543220938
   },
   "AMZ": {
