@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1786891020701,
+    "status": "online",
+    "since": 1786924452029,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1786923226657,
+    "status": "offline",
+    "since": 1786924452029,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1786894179346,
+    "status": "online",
+    "since": 1786924452029,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -1270,8 +1270,8 @@
     "first_seen": 1781447657721
   },
   "ld9os": {
-    "status": "online",
-    "since": 1786674764988,
+    "status": "offline",
+    "since": 1786924452029,
     "first_seen": 1781529899041
   },
   "xeonL50": {
