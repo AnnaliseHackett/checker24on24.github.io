@@ -128,8 +128,8 @@
     "since": 1782170629673
   },
   "i516p": {
-    "status": "online",
-    "since": 1786880907292
+    "status": "offline",
+    "since": 1786882265075
   },
   "i72028": {
     "status": "offline",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1786880907292,
+    "status": "offline",
+    "since": 1786882265075,
     "first_seen": 1771904259023
   },
   "dell8": {
