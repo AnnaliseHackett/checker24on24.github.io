@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1786902405514,
+    "status": "offline",
+    "since": 1786919242929,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "online",
-    "since": 1786917345416,
+    "status": "offline",
+    "since": 1786919242929,
     "first_seen": 1774975329240
   },
   "hd": {
