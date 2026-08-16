@@ -44,8 +44,8 @@
     "since": 1774089183281
   },
   "i929k": {
-    "status": "offline",
-    "since": 1786892293185
+    "status": "online",
+    "since": 1786921778850
   },
   "i9-32": {
     "status": "online",
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1786905869540,
+    "status": "online",
+    "since": 1786921778850,
     "first_seen": 1773226388097
   },
   "amd78s": {
