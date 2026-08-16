@@ -16,8 +16,8 @@
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "offline",
-    "since": 1786823596076
+    "status": "online",
+    "since": 1786867835823
   },
   "bluestack": {
     "status": "online",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1786863836836,
+    "status": "offline",
+    "since": 1786867835823,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -265,8 +265,8 @@
     "first_seen": 1771904259023
   },
   "i7sql": {
-    "status": "offline",
-    "since": 1786793206593,
+    "status": "online",
+    "since": 1786867835823,
     "first_seen": 1771904259023
   },
   "key": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "offline",
-    "since": 1786728581803,
+    "status": "online",
+    "since": 1786867835823,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -470,8 +470,8 @@
     "first_seen": 1771939283101
   },
   "kataa": {
-    "status": "offline",
-    "since": 1786849893566,
+    "status": "online",
+    "since": 1786867835823,
     "first_seen": 1771939283101
   },
   "dell1": {
@@ -535,8 +535,8 @@
     "first_seen": 1772015605036
   },
   "09799": {
-    "status": "offline",
-    "since": 1786632429633,
+    "status": "online",
+    "since": 1786867835823,
     "first_seen": 1772026925768
   },
   "laptop": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1786852991067,
+    "status": "online",
+    "since": 1786867835823,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1020,8 +1020,8 @@
     "first_seen": 1774248212124
   },
   "amz7435": {
-    "status": "offline",
-    "since": 1786852991067,
+    "status": "online",
+    "since": 1786867835823,
     "first_seen": 1774323394496
   },
   "i5p": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "offline",
-    "since": 1786866166149,
+    "status": "online",
+    "since": 1786867835823,
     "first_seen": 1784543220938
   },
   "AMZ": {
