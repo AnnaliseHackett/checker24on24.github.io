@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1786866166149,
+    "status": "online",
+    "since": 1786877807455,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "online",
-    "since": 1786876226307,
+    "status": "offline",
+    "since": 1786877807455,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "online",
-    "since": 1786863836836,
+    "status": "offline",
+    "since": 1786877807455,
     "first_seen": 1772091016863
   },
   "light": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1786852991067,
+    "status": "offline",
+    "since": 1786877807455,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1045,8 +1045,8 @@
     "first_seen": 1774957026104
   },
   "link": {
-    "status": "online",
-    "since": 1786852991067,
+    "status": "offline",
+    "since": 1786877807455,
     "first_seen": 1774975329240
   },
   "td": {
@@ -1125,8 +1125,8 @@
     "first_seen": 1776137638618
   },
   "13thgen": {
-    "status": "online",
-    "since": 1786876226307,
+    "status": "offline",
+    "since": 1786877807455,
     "first_seen": 1776176929025
   },
   "2026": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "online",
-    "since": 1786876226307,
+    "status": "offline",
+    "since": 1786877807455,
     "first_seen": 1784543220938
   },
   "AMZ": {
