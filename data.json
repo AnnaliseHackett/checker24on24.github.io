@@ -32,8 +32,8 @@
     "since": 1786386652932
   },
   "i711": {
-    "status": "offline",
-    "since": 1786820436013
+    "status": "online",
+    "since": 1786905869540
   },
   "i7118": {
     "status": "offline",
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1786831026651,
+    "status": "offline",
+    "since": 1786905869540,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -980,8 +980,8 @@
     "first_seen": 1774108506221
   },
   "i5L": {
-    "status": "online",
-    "since": 1786895489205,
+    "status": "offline",
+    "since": 1786905869540,
     "first_seen": 1774172329547
   },
   "tiktok": {
