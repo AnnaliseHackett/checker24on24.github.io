@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1786852991067,
+    "status": "offline",
+    "since": 1786857280977,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "online",
-    "since": 1786849893566,
+    "status": "offline",
+    "since": 1786857280977,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1786852991067,
+    "status": "offline",
+    "since": 1786857280977,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -565,8 +565,8 @@
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "online",
-    "since": 1786849893566,
+    "status": "offline",
+    "since": 1786857280977,
     "first_seen": 1772076874941
   },
   "i728p": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "online",
-    "since": 1786846002102,
+    "status": "offline",
+    "since": 1786857280977,
     "first_seen": 1772091016863
   },
   "light": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1786855660116,
+    "status": "offline",
+    "since": 1786857280977,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -1080,8 +1080,8 @@
     "first_seen": 1775828580753
   },
   "gt": {
-    "status": "online",
-    "since": 1786852991067,
+    "status": "offline",
+    "since": 1786857280977,
     "first_seen": 1775842385767
   },
   "AFF": {
@@ -1320,8 +1320,8 @@
     "first_seen": 1784618268473
   },
   "pCha": {
-    "status": "offline",
-    "since": 1786831026651,
+    "status": "online",
+    "since": 1786857280977,
     "first_seen": 1784733302621
   },
   "toolGR": {
