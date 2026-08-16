@@ -24,16 +24,16 @@
     "since": 1786870229134
   },
   "i5125": {
-    "status": "offline",
-    "since": 1786902405514
+    "status": "online",
+    "since": 1786908812132
   },
   "i5kf20": {
     "status": "offline",
     "since": 1786386652932
   },
   "i711": {
-    "status": "online",
-    "since": 1786905869540
+    "status": "offline",
+    "since": 1786908812132
   },
   "i7118": {
     "status": "offline",
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1786894179346,
+    "status": "offline",
+    "since": 1786908812132,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -1070,8 +1070,8 @@
     "first_seen": 1775650197409
   },
   "xeon6789": {
-    "status": "online",
-    "since": 1786907362436,
+    "status": "offline",
+    "since": 1786908812132,
     "first_seen": 1775713494253
   },
   "ChangeD": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "offline",
-    "since": 1786903236468,
+    "status": "online",
+    "since": 1786908812132,
     "first_seen": 1784543220938
   },
   "AMZ": {
