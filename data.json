@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1786999002270,
+    "status": "offline",
+    "since": 1787007483837,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1786975972661,
+    "status": "online",
+    "since": 1787007483837,
     "first_seen": 1773226388097
   },
   "amd78s": {
