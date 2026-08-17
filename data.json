@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1786940641071,
+    "status": "offline",
+    "since": 1786943365775,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1786940641071,
+    "status": "offline",
+    "since": 1786943365775,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1786930594248,
+    "status": "offline",
+    "since": 1786943365775,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -250,8 +250,8 @@
     "first_seen": 1771904259023
   },
   "i7128": {
-    "status": "online",
-    "since": 1786940641071,
+    "status": "offline",
+    "since": 1786943365775,
     "first_seen": 1771904259023
   },
   "i720m": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "offline",
-    "since": 1786899264389,
+    "status": "online",
+    "since": 1786943365775,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "offline",
-    "since": 1786934738843,
+    "status": "online",
+    "since": 1786943365775,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "online",
-    "since": 1786940641071,
+    "status": "offline",
+    "since": 1786943365775,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -815,8 +815,8 @@
     "first_seen": 1772927358632
   },
   "SM": {
-    "status": "online",
-    "since": 1786940641071,
+    "status": "offline",
+    "since": 1786943365775,
     "first_seen": 1772964700336
   },
   "xeon67": {
@@ -1270,8 +1270,8 @@
     "first_seen": 1781447657721
   },
   "ld9os": {
-    "status": "online",
-    "since": 1786930594248,
+    "status": "offline",
+    "since": 1786943365775,
     "first_seen": 1781529899041
   },
   "xeonL50": {
@@ -1345,8 +1345,8 @@
     "first_seen": 1786093887467
   },
   "ryzen9hs": {
-    "status": "offline",
-    "since": 1786899264389,
+    "status": "online",
+    "since": 1786943365775,
     "first_seen": 1786160235561
   },
   "i9": {
