@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1786960018175,
+    "status": "online",
+    "since": 1786966176773,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "offline",
-    "since": 1786877807455,
+    "status": "online",
+    "since": 1786966176773,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "offline",
-    "since": 1786961821115,
+    "status": "online",
+    "since": 1786966176773,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -380,8 +380,8 @@
     "first_seen": 1771924014596
   },
   "DMU": {
-    "status": "offline",
-    "since": 1786897777724,
+    "status": "online",
+    "since": 1786966176773,
     "first_seen": 1771924014596
   },
   "manghinhL": {
@@ -720,8 +720,8 @@
     "first_seen": 1772437053482
   },
   "tmp": {
-    "status": "online",
-    "since": 1786885459605,
+    "status": "offline",
+    "since": 1786966176773,
     "first_seen": 1772461962322
   },
   "UMT33": {
@@ -1020,8 +1020,8 @@
     "first_seen": 1774248212124
   },
   "amz7435": {
-    "status": "online",
-    "since": 1786956844585,
+    "status": "offline",
+    "since": 1786966176773,
     "first_seen": 1774323394496
   },
   "i5p": {
