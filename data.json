@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "online",
-    "since": 1786953488004
+    "status": "offline",
+    "since": 1786960018175
   },
   "x": {
     "status": "online",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1786953488004,
+    "status": "offline",
+    "since": 1786960018175,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1786953488004,
+    "status": "offline",
+    "since": 1786960018175,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1786950187600,
+    "status": "online",
+    "since": 1786960018175,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "online",
-    "since": 1786953488004,
+    "status": "offline",
+    "since": 1786960018175,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1786956844585,
+    "status": "offline",
+    "since": 1786960018175,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1786953488004,
+    "status": "offline",
+    "since": 1786960018175,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1280,8 +1280,8 @@
     "first_seen": 1781529899041
   },
   "XeonX": {
-    "status": "offline",
-    "since": 1786934738843,
+    "status": "online",
+    "since": 1786960018175,
     "first_seen": 1781613328793
   },
   "xeonC": {
@@ -1305,8 +1305,8 @@
     "first_seen": 1784283564810
   },
   "s56": {
-    "status": "offline",
-    "since": 1786897777724,
+    "status": "online",
+    "since": 1786960018175,
     "first_seen": 1784445191719
   },
   "matrix": {
@@ -1345,8 +1345,8 @@
     "first_seen": 1786093887467
   },
   "ryzen9hs": {
-    "status": "offline",
-    "since": 1786950187600,
+    "status": "online",
+    "since": 1786960018175,
     "first_seen": 1786160235561
   },
   "i9": {
