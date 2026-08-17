@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1786986774149,
+    "status": "offline",
+    "since": 1786988912094,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "online",
-    "since": 1786963904575,
+    "status": "offline",
+    "since": 1786988912094,
     "first_seen": 1774108506221
   },
   "i5L": {
@@ -1105,8 +1105,8 @@
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
-    "status": "offline",
-    "since": 1786953488004,
+    "status": "online",
+    "since": 1786988912094,
     "first_seen": 1776009051585
   },
   "python": {
