@@ -8,8 +8,8 @@
     "since": 1781780204222
   },
   "3672xeon": {
-    "status": "online",
-    "since": 1786930594248
+    "status": "offline",
+    "since": 1786956844585
   },
   "amz7profile": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1786943365775,
+    "status": "online",
+    "since": 1786956844585,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "offline",
-    "since": 1786940641071,
+    "status": "online",
+    "since": 1786956844585,
     "first_seen": 1771918204510
   },
   "w": {
@@ -1020,8 +1020,8 @@
     "first_seen": 1774248212124
   },
   "amz7435": {
-    "status": "offline",
-    "since": 1786937741256,
+    "status": "online",
+    "since": 1786956844585,
     "first_seen": 1774323394496
   },
   "i5p": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "offline",
-    "since": 1786870229134,
+    "status": "online",
+    "since": 1786956844585,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1340,8 +1340,8 @@
     "first_seen": 1785160486963
   },
   "verify": {
-    "status": "online",
-    "since": 1786953488004,
+    "status": "offline",
+    "since": 1786956844585,
     "first_seen": 1786093887467
   },
   "ryzen9hs": {
