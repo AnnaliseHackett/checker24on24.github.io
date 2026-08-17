@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1786981460401,
+    "status": "offline",
+    "since": 1786985112043,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "offline",
-    "since": 1786978109324,
+    "status": "online",
+    "since": 1786985112043,
     "first_seen": 1771918204510
   },
   "w": {
@@ -380,8 +380,8 @@
     "first_seen": 1771924014596
   },
   "DMU": {
-    "status": "online",
-    "since": 1786979526357,
+    "status": "offline",
+    "since": 1786985112043,
     "first_seen": 1771924014596
   },
   "manghinhL": {
@@ -470,8 +470,8 @@
     "first_seen": 1771939283101
   },
   "kataa": {
-    "status": "online",
-    "since": 1786974096310,
+    "status": "offline",
+    "since": 1786985112043,
     "first_seen": 1771939283101
   },
   "dell1": {
@@ -610,13 +610,13 @@
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "online",
-    "since": 1786979526357,
+    "status": "offline",
+    "since": 1786985112043,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1786971108610,
+    "status": "offline",
+    "since": 1786985112043,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "online",
-    "since": 1786982937857,
+    "status": "offline",
+    "since": 1786985112043,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1786919242929,
+    "status": "online",
+    "since": 1786985112043,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1330,8 +1330,8 @@
     "first_seen": 1784743852751
   },
   "vmx": {
-    "status": "online",
-    "since": 1786923226657,
+    "status": "offline",
+    "since": 1786985112043,
     "first_seen": 1784905440178
   },
   "xeonBLA": {
