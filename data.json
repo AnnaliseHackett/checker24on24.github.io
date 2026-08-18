@@ -32,8 +32,8 @@
     "since": 1787069595500
   },
   "i711": {
-    "status": "online",
-    "since": 1787074221167
+    "status": "offline",
+    "since": 1787081425898
   },
   "i7118": {
     "status": "offline",
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "online",
-    "since": 1787074221167,
+    "status": "offline",
+    "since": 1787081425898,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "online",
-    "since": 1787026711450,
+    "status": "offline",
+    "since": 1787081425898,
     "first_seen": 1774108506221
   },
   "i5L": {
