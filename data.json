@@ -250,8 +250,8 @@
     "first_seen": 1771904259023
   },
   "i7128": {
-    "status": "online",
-    "since": 1787053000461,
+    "status": "offline",
+    "since": 1787054360759,
     "first_seen": 1771904259023
   },
   "i720m": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "offline",
-    "since": 1786986774149,
+    "status": "online",
+    "since": 1787054360759,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "offline",
-    "since": 1786978109324,
+    "status": "online",
+    "since": 1787054360759,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "offline",
-    "since": 1787042470434,
+    "status": "online",
+    "since": 1787054360759,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1265,8 +1265,8 @@
     "first_seen": 1781377229363
   },
   "GAmming": {
-    "status": "offline",
-    "since": 1786628561126,
+    "status": "online",
+    "since": 1787054360759,
     "first_seen": 1781447657721
   },
   "ld9os": {
