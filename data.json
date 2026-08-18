@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "online",
-    "since": 1787063811559
+    "status": "offline",
+    "since": 1787065519070
   },
   "x": {
     "status": "online",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1787061256978,
+    "status": "offline",
+    "since": 1787065519070,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -180,13 +180,13 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1787046767629,
+    "status": "online",
+    "since": 1787065519070,
     "first_seen": 1771894415726
   },
   "ps4": {
-    "status": "offline",
-    "since": 1785431000561,
+    "status": "online",
+    "since": 1787065519070,
     "first_seen": 1771894415726
   },
   "xeon2686": {
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "online",
-    "since": 1787017044141,
+    "status": "offline",
+    "since": 1787065519070,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -235,8 +235,8 @@
     "first_seen": 1771904259023
   },
   "i5D": {
-    "status": "online",
-    "since": 1787063811559,
+    "status": "offline",
+    "since": 1787065519070,
     "first_seen": 1771904259023
   },
   "i7120": {
@@ -300,8 +300,8 @@
     "first_seen": 1771904259023
   },
   "toolLONG": {
-    "status": "online",
-    "since": 1787061256978,
+    "status": "offline",
+    "since": 1787065519070,
     "first_seen": 1771904259023
   },
   "toolrealtime": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "offline",
-    "since": 1787046767629,
+    "status": "online",
+    "since": 1787065519070,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -460,13 +460,13 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "online",
-    "since": 1787058114948,
+    "status": "offline",
+    "since": 1787065519070,
     "first_seen": 1771939283101
   },
   "i5kkey": {
-    "status": "online",
-    "since": 1787058114948,
+    "status": "offline",
+    "since": 1787065519070,
     "first_seen": 1771939283101
   },
   "kataa": {
@@ -565,8 +565,8 @@
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "online",
-    "since": 1787036452247,
+    "status": "offline",
+    "since": 1787065519070,
     "first_seen": 1772076874941
   },
   "i728p": {
