@@ -28,8 +28,8 @@
     "since": 1787002619598
   },
   "i5kf20": {
-    "status": "online",
-    "since": 1787067838987
+    "status": "offline",
+    "since": 1787069595500
   },
   "i711": {
     "status": "offline",
@@ -128,8 +128,8 @@
     "since": 1782170629673
   },
   "i516p": {
-    "status": "offline",
-    "since": 1787067838987
+    "status": "online",
+    "since": 1787069595500
   },
   "i72028": {
     "status": "offline",
@@ -185,8 +185,8 @@
     "first_seen": 1771894415726
   },
   "ps4": {
-    "status": "online",
-    "since": 1787065519070,
+    "status": "offline",
+    "since": 1787069595500,
     "first_seen": 1771894415726
   },
   "xeon2686": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1787044578914,
+    "status": "offline",
+    "since": 1787069595500,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -270,8 +270,8 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "online",
-    "since": 1787058114948,
+    "status": "offline",
+    "since": 1787069595500,
     "first_seen": 1771904259023
   },
   "MD5": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1787067838987,
+    "status": "offline",
+    "since": 1787069595500,
     "first_seen": 1771918204510
   },
   "w": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "online",
-    "since": 1787061256978,
+    "status": "offline",
+    "since": 1787069595500,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "online",
-    "since": 1787031385193,
+    "status": "offline",
+    "since": 1787069595500,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1787061256978,
+    "status": "offline",
+    "since": 1787069595500,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
