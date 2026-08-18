@@ -16,8 +16,8 @@
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1787031385193
+    "status": "offline",
+    "since": 1787032821987
   },
   "bluestack": {
     "status": "online",
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1787031385193,
+    "status": "offline",
+    "since": 1787032821987,
     "first_seen": 1775904626722
   },
   "HMck": {
