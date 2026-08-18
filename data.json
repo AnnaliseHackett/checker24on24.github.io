@@ -250,8 +250,8 @@
     "first_seen": 1771904259023
   },
   "i7128": {
-    "status": "offline",
-    "since": 1787031385193,
+    "status": "online",
+    "since": 1787053000461,
     "first_seen": 1771904259023
   },
   "i720m": {
@@ -270,8 +270,8 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "online",
-    "since": 1787050818519,
+    "status": "offline",
+    "since": 1787053000461,
     "first_seen": 1771904259023
   },
   "MD5": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "online",
-    "since": 1787031385193,
+    "status": "offline",
+    "since": 1787053000461,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "offline",
-    "since": 1787031385193,
+    "status": "online",
+    "since": 1787053000461,
     "first_seen": 1774667680573
   },
   "x56xu": {
