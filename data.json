@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1787153714772,
+    "status": "offline",
+    "since": 1787182238786,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -1330,8 +1330,8 @@
     "first_seen": 1784743852751
   },
   "vmx": {
-    "status": "offline",
-    "since": 1787141652775,
+    "status": "online",
+    "since": 1787182238786,
     "first_seen": 1784905440178
   },
   "xeonBLA": {
