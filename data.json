@@ -16,8 +16,8 @@
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "offline",
-    "since": 1787132571569
+    "status": "online",
+    "since": 1787136581687
   },
   "bluestack": {
     "status": "offline",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1787134325182,
+    "status": "online",
+    "since": 1787136581687,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -360,8 +360,8 @@
     "first_seen": 1771918204510
   },
   "w": {
-    "status": "online",
-    "since": 1787125304986,
+    "status": "offline",
+    "since": 1787136581687,
     "first_seen": 1771918204510
   },
   "xeonSHOPPE": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1787134325182,
+    "status": "online",
+    "since": 1787136581687,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "online",
-    "since": 1787122255721,
+    "status": "offline",
+    "since": 1787136581687,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "online",
-    "since": 1787122255721,
+    "status": "offline",
+    "since": 1787136581687,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "offline",
-    "since": 1787069595500,
+    "status": "online",
+    "since": 1787136581687,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
