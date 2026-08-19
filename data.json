@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1787129965172,
+    "status": "offline",
+    "since": 1787134325182,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "offline",
-    "since": 1787069595500,
+    "status": "online",
+    "since": 1787134325182,
     "first_seen": 1771918204510
   },
   "w": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1787129965172,
+    "status": "offline",
+    "since": 1787134325182,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -720,8 +720,8 @@
     "first_seen": 1772437053482
   },
   "tmp": {
-    "status": "offline",
-    "since": 1787132571569,
+    "status": "online",
+    "since": 1787134325182,
     "first_seen": 1772461962322
   },
   "UMT33": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "online",
-    "since": 1786900946237,
+    "status": "offline",
+    "since": 1787134325182,
     "first_seen": 1780668744063
   },
   "reg72": {
@@ -1305,8 +1305,8 @@
     "first_seen": 1784283564810
   },
   "s56": {
-    "status": "offline",
-    "since": 1787129965172,
+    "status": "online",
+    "since": 1787134325182,
     "first_seen": 1784445191719
   },
   "matrix": {
