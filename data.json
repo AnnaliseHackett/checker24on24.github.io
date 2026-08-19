@@ -8,8 +8,8 @@
     "since": 1781780204222
   },
   "3672xeon": {
-    "status": "online",
-    "since": 1787145248639
+    "status": "offline",
+    "since": 1787159502290
   },
   "amz7profile": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1787145248639,
+    "status": "offline",
+    "since": 1787159502290,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1787114704806,
+    "status": "offline",
+    "since": 1787159502290,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "offline",
-    "since": 1787081425898,
+    "status": "online",
+    "since": 1787159502290,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -895,8 +895,8 @@
     "first_seen": 1773325655043
   },
   "iT": {
-    "status": "offline",
-    "since": 1787157843837,
+    "status": "online",
+    "since": 1787159502290,
     "first_seen": 1773329602916
   },
   "truomsi": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "online",
-    "since": 1787141652775,
+    "status": "offline",
+    "since": 1787159502290,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
