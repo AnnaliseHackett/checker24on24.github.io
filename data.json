@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "offline",
-    "since": 1787167923727,
+    "status": "online",
+    "since": 1787169397489,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -1305,8 +1305,8 @@
     "first_seen": 1784283564810
   },
   "s56": {
-    "status": "offline",
-    "since": 1787161473723,
+    "status": "online",
+    "since": 1787169397489,
     "first_seen": 1784445191719
   },
   "matrix": {
