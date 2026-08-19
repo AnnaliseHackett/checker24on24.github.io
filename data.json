@@ -16,8 +16,8 @@
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1787136581687
+    "status": "offline",
+    "since": 1787141652775
   },
   "bluestack": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1787129965172,
+    "status": "offline",
+    "since": 1787141652775,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1787136581687,
+    "status": "offline",
+    "since": 1787141652775,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "offline",
-    "since": 1787136581687,
+    "status": "online",
+    "since": 1787141652775,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1787139860346,
+    "status": "offline",
+    "since": 1787141652775,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1330,8 +1330,8 @@
     "first_seen": 1784743852751
   },
   "vmx": {
-    "status": "online",
-    "since": 1787020839909,
+    "status": "offline",
+    "since": 1787141652775,
     "first_seen": 1784905440178
   },
   "xeonBLA": {
@@ -1340,8 +1340,8 @@
     "first_seen": 1785160486963
   },
   "verify": {
-    "status": "offline",
-    "since": 1787125304986,
+    "status": "online",
+    "since": 1787141652775,
     "first_seen": 1786093887467
   },
   "ryzen9hs": {
