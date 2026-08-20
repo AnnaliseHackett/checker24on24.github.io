@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "offline",
-    "since": 1787255510144
+    "status": "online",
+    "since": 1787257951668
   },
   "tool1-2-2026": {
     "status": "online",
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1787237509958,
+    "status": "offline",
+    "since": 1787257951668,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "online",
-    "since": 1787255510144,
+    "status": "offline",
+    "since": 1787257951668,
     "first_seen": 1784543220938
   },
   "AMZ": {
