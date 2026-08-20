@@ -20,8 +20,8 @@
     "since": 1787237509958
   },
   "bluestack": {
-    "status": "online",
-    "since": 1787246177454
+    "status": "offline",
+    "since": 1787266103630
   },
   "i5125": {
     "status": "online",
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "online",
-    "since": 1787262014489,
+    "status": "offline",
+    "since": 1787266103630,
     "first_seen": 1774975329240
   },
   "hd": {
