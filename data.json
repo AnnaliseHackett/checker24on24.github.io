@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1787251520253,
+    "status": "offline",
+    "since": 1787267530498,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1787231799013,
+    "status": "online",
+    "since": 1787267530498,
     "first_seen": 1773226388097
   },
   "amd78s": {
