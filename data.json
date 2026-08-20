@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1787159502290,
+    "status": "online",
+    "since": 1787196796504,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "offline",
-    "since": 1786902405514,
+    "status": "online",
+    "since": 1787196796504,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -430,8 +430,8 @@
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "offline",
-    "since": 1787145248639,
+    "status": "online",
+    "since": 1787196796504,
     "first_seen": 1771931250125
   },
   "y": {
@@ -460,8 +460,8 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "online",
-    "since": 1787193851413,
+    "status": "offline",
+    "since": 1787196796504,
     "first_seen": 1771939283101
   },
   "i5kkey": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1787138106371,
+    "status": "online",
+    "since": 1787196796504,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "online",
-    "since": 1787193851413,
+    "status": "offline",
+    "since": 1787196796504,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -605,8 +605,8 @@
     "first_seen": 1772116732672
   },
   "i5ssd": {
-    "status": "online",
-    "since": 1787193851413,
+    "status": "offline",
+    "since": 1787196796504,
     "first_seen": 1772116732672
   },
   "YEU": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "online",
-    "since": 1787193851413,
+    "status": "offline",
+    "since": 1787196796504,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "offline",
-    "since": 1787178862095,
+    "status": "online",
+    "since": 1787196796504,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
