@@ -610,8 +610,8 @@
     "first_seen": 1772116732672
   },
   "YEU": {
-    "status": "online",
-    "since": 1787212793360,
+    "status": "offline",
+    "since": 1787220313525,
     "first_seen": 1772116732672
   },
   "xeon3.5": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "online",
-    "since": 1787218686979,
+    "status": "offline",
+    "since": 1787220313525,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1787215859909,
+    "status": "offline",
+    "since": 1787220313525,
     "first_seen": 1772895624848
   },
   "proxy": {
