@@ -245,13 +245,13 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1787301924893,
+    "status": "offline",
+    "since": 1787306468306,
     "first_seen": 1771904259023
   },
   "i7128": {
-    "status": "offline",
-    "since": 1787290556093,
+    "status": "online",
+    "since": 1787306468306,
     "first_seen": 1771904259023
   },
   "i720m": {
@@ -270,13 +270,13 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "offline",
-    "since": 1787240229847,
+    "status": "online",
+    "since": 1787306468306,
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "online",
-    "since": 1787304055098,
+    "status": "offline",
+    "since": 1787306468306,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -520,8 +520,8 @@
     "first_seen": 1771990967353
   },
   "xeonGPU": {
-    "status": "online",
-    "since": 1787295877644,
+    "status": "offline",
+    "since": 1787306468306,
     "first_seen": 1771990967353
   },
   "amd5": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "offline",
-    "since": 1787246177454,
+    "status": "online",
+    "since": 1787306468306,
     "first_seen": 1774108506221
   },
   "i5L": {
@@ -1345,8 +1345,8 @@
     "first_seen": 1786093887467
   },
   "ryzen9hs": {
-    "status": "online",
-    "since": 1787304055098,
+    "status": "offline",
+    "since": 1787306468306,
     "first_seen": 1786160235561
   },
   "i9": {
