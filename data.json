@@ -325,8 +325,8 @@
     "first_seen": 1771904259023
   },
   "i7130h": {
-    "status": "offline",
-    "since": 1787344643504,
+    "status": "online",
+    "since": 1787353085855,
     "first_seen": 1771909942902
   },
   "i7update": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1787326628763,
+    "status": "online",
+    "since": 1787353085855,
     "first_seen": 1773226388097
   },
   "amd78s": {
