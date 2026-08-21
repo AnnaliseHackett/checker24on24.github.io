@@ -8,8 +8,8 @@
     "since": 1781780204222
   },
   "3672xeon": {
-    "status": "offline",
-    "since": 1787244510030
+    "status": "online",
+    "since": 1787278083081
   },
   "amz7profile": {
     "status": "offline",
@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "offline",
-    "since": 1787244510030
+    "status": "online",
+    "since": 1787278083081
   },
   "x": {
     "status": "online",
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1787237509958,
+    "status": "online",
+    "since": 1787278083081,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1787141652775,
+    "status": "online",
+    "since": 1787278083081,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -355,13 +355,13 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "offline",
-    "since": 1787240229847,
+    "status": "online",
+    "since": 1787278083081,
     "first_seen": 1771918204510
   },
   "w": {
-    "status": "offline",
-    "since": 1787222659277,
+    "status": "online",
+    "since": 1787278083081,
     "first_seen": 1771918204510
   },
   "xeonSHOPPE": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1787224296458,
+    "status": "online",
+    "since": 1787278083081,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -565,8 +565,8 @@
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "offline",
-    "since": 1787237509958,
+    "status": "online",
+    "since": 1787278083081,
     "first_seen": 1772076874941
   },
   "i728p": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "offline",
-    "since": 1787237509958,
+    "status": "online",
+    "since": 1787278083081,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -1250,8 +1250,8 @@
     "first_seen": 1781045279201
   },
   "xeonem": {
-    "status": "offline",
-    "since": 1787244510030,
+    "status": "online",
+    "since": 1787278083081,
     "first_seen": 1781080758414
   },
   "xeonTN": {
@@ -1305,8 +1305,8 @@
     "first_seen": 1784283564810
   },
   "s56": {
-    "status": "offline",
-    "since": 1787248243270,
+    "status": "online",
+    "since": 1787278083081,
     "first_seen": 1784445191719
   },
   "matrix": {
@@ -1335,8 +1335,8 @@
     "first_seen": 1784905440178
   },
   "xeonBLA": {
-    "status": "offline",
-    "since": 1787237509958,
+    "status": "online",
+    "since": 1787278083081,
     "first_seen": 1785160486963
   },
   "verify": {
