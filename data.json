@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1787304055098,
+    "status": "offline",
+    "since": 1787312766414,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "online",
-    "since": 1787310693399,
+    "status": "offline",
+    "since": 1787312766414,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -305,8 +305,8 @@
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "online",
-    "since": 1787290556093,
+    "status": "offline",
+    "since": 1787312766414,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -430,8 +430,8 @@
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "offline",
-    "since": 1787290556093,
+    "status": "online",
+    "since": 1787312766414,
     "first_seen": 1771931250125
   },
   "y": {
@@ -565,8 +565,8 @@
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "offline",
-    "since": 1787301924893,
+    "status": "online",
+    "since": 1787312766414,
     "first_seen": 1772076874941
   },
   "i728p": {
@@ -630,8 +630,8 @@
     "first_seen": 1772201190921
   },
   "ooo": {
-    "status": "offline",
-    "since": 1787237509958,
+    "status": "online",
+    "since": 1787312766414,
     "first_seen": 1772204263223
   },
   "i5146": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1787310693399,
+    "status": "offline",
+    "since": 1787312766414,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1787285111127,
+    "status": "offline",
+    "since": 1787312766414,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1045,8 +1045,8 @@
     "first_seen": 1774957026104
   },
   "link": {
-    "status": "online",
-    "since": 1787310693399,
+    "status": "offline",
+    "since": 1787312766414,
     "first_seen": 1774975329240
   },
   "td": {
