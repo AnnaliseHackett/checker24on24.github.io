@@ -160,8 +160,8 @@
     "first_seen": 1771887545391
   },
   "nhungoc": {
-    "status": "online",
-    "since": 1787290556093,
+    "status": "offline",
+    "since": 1787295877644,
     "first_seen": 1771890094719
   },
   "cftmon": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "offline",
-    "since": 1787285111127,
+    "status": "online",
+    "since": 1787295877644,
     "first_seen": 1771918204510
   },
   "w": {
@@ -520,8 +520,8 @@
     "first_seen": 1771990967353
   },
   "xeonGPU": {
-    "status": "offline",
-    "since": 1787218686979,
+    "status": "online",
+    "since": 1787295877644,
     "first_seen": 1771990967353
   },
   "amd5": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1787287881946,
+    "status": "online",
+    "since": 1787295877644,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "offline",
-    "since": 1787257951668,
+    "status": "online",
+    "since": 1787295877644,
     "first_seen": 1784543220938
   },
   "AMZ": {
