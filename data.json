@@ -8,8 +8,8 @@
     "since": 1781780204222
   },
   "3672xeon": {
-    "status": "online",
-    "since": 1787318145322
+    "status": "offline",
+    "since": 1787326628763
   },
   "amz7profile": {
     "status": "offline",
@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "online",
-    "since": 1787278083081
+    "status": "offline",
+    "since": 1787326628763
   },
   "x": {
     "status": "online",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1787301924893,
+    "status": "offline",
+    "since": 1787326628763,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1787255510144,
+    "status": "online",
+    "since": 1787326628763,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -235,8 +235,8 @@
     "first_seen": 1771904259023
   },
   "i5D": {
-    "status": "online",
-    "since": 1787320895249,
+    "status": "offline",
+    "since": 1787326628763,
     "first_seen": 1771904259023
   },
   "i7120": {
@@ -305,8 +305,8 @@
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "online",
-    "since": 1787320895249,
+    "status": "offline",
+    "since": 1787326628763,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "offline",
-    "since": 1787320895249,
+    "status": "online",
+    "since": 1787326628763,
     "first_seen": 1771918204510
   },
   "w": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1787323863319,
+    "status": "online",
+    "since": 1787326628763,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1787309046056,
+    "status": "online",
+    "since": 1787326628763,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1787320895249,
+    "status": "offline",
+    "since": 1787326628763,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1787267530498,
+    "status": "offline",
+    "since": 1787326628763,
     "first_seen": 1773226388097
   },
   "amd78s": {
