@@ -325,8 +325,8 @@
     "first_seen": 1771904259023
   },
   "i7130h": {
-    "status": "offline",
-    "since": 1787323863319,
+    "status": "online",
+    "since": 1787334620926,
     "first_seen": 1771909942902
   },
   "i7update": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1787328201769,
+    "status": "offline",
+    "since": 1787334620926,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "online",
-    "since": 1787304055098,
+    "status": "offline",
+    "since": 1787334620926,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
