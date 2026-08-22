@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1787409314333,
+    "status": "offline",
+    "since": 1787418269185,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1787362975759,
+    "status": "online",
+    "since": 1787418269185,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "online",
-    "since": 1787406142171,
+    "status": "offline",
+    "since": 1787418269185,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
