@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "offline",
-    "since": 1787323863319,
+    "status": "online",
+    "since": 1787441277500,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1787425375900,
+    "status": "offline",
+    "since": 1787441277500,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1787417057241,
+    "status": "online",
+    "since": 1787441277500,
     "first_seen": 1773226388097
   },
   "amd78s": {
