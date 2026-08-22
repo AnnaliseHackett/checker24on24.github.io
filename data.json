@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1787330929542
+    "status": "offline",
+    "since": 1787386283299
   },
   "tool1-2-2026": {
     "status": "online",
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1787382251783,
+    "status": "offline",
+    "since": 1787386283299,
     "first_seen": 1771918204510
   },
   "w": {
@@ -430,8 +430,8 @@
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "offline",
-    "since": 1787379285920,
+    "status": "online",
+    "since": 1787386283299,
     "first_seen": 1771931250125
   },
   "y": {
@@ -1105,8 +1105,8 @@
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
-    "status": "offline",
-    "since": 1787285111127,
+    "status": "online",
+    "since": 1787386283299,
     "first_seen": 1776009051585
   },
   "python": {
