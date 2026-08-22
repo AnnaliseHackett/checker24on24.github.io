@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "online",
-    "since": 1787377611586,
+    "status": "offline",
+    "since": 1787435268328,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "online",
-    "since": 1787415140654,
+    "status": "offline",
+    "since": 1787435268328,
     "first_seen": 1774975329240
   },
   "hd": {
