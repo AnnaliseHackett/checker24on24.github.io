@@ -20,8 +20,8 @@
     "since": 1787237509958
   },
   "bluestack": {
-    "status": "online",
-    "since": 1787403902182
+    "status": "offline",
+    "since": 1787421328712
   },
   "i5125": {
     "status": "online",
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1787407313597,
+    "status": "offline",
+    "since": 1787421328712,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "online",
-    "since": 1787415140654,
+    "status": "offline",
+    "since": 1787421328712,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "offline",
-    "since": 1787413798601,
+    "status": "online",
+    "since": 1787421328712,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "offline",
-    "since": 1787341322841,
+    "status": "online",
+    "since": 1787421328712,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1787392602369,
+    "status": "offline",
+    "since": 1787421328712,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1345,8 +1345,8 @@
     "first_seen": 1786093887467
   },
   "ryzen9hs": {
-    "status": "online",
-    "since": 1787420018914,
+    "status": "offline",
+    "since": 1787421328712,
     "first_seen": 1786160235561
   },
   "i9": {
