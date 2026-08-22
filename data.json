@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "online",
-    "since": 1787356643151,
+    "status": "offline",
+    "since": 1787410580584,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "offline",
-    "since": 1787396218863,
+    "status": "online",
+    "since": 1787410580584,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "online",
-    "since": 1787409314333,
+    "status": "offline",
+    "since": 1787410580584,
     "first_seen": 1772437053482
   },
   "tmp": {
