@@ -48,8 +48,8 @@
     "since": 1786921778850
   },
   "i9-32": {
-    "status": "online",
-    "since": 1786990663190
+    "status": "offline",
+    "since": 1787420018914
   },
   "i9pokemon": {
     "status": "online",
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1787403902182,
+    "status": "offline",
+    "since": 1787420018914,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -1250,8 +1250,8 @@
     "first_seen": 1781045279201
   },
   "xeonem": {
-    "status": "online",
-    "since": 1787369287967,
+    "status": "offline",
+    "since": 1787420018914,
     "first_seen": 1781080758414
   },
   "xeonTN": {
@@ -1345,8 +1345,8 @@
     "first_seen": 1786093887467
   },
   "ryzen9hs": {
-    "status": "offline",
-    "since": 1787417057241,
+    "status": "online",
+    "since": 1787420018914,
     "first_seen": 1786160235561
   },
   "i9": {
