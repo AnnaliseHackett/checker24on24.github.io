@@ -140,8 +140,8 @@
     "since": 1772116732672
   },
   "word": {
-    "status": "online",
-    "since": 1787495484839,
+    "status": "offline",
+    "since": 1787499014287,
     "first_seen": 1771872177555
   },
   "hieu": {
@@ -265,8 +265,8 @@
     "first_seen": 1771904259023
   },
   "i7sql": {
-    "status": "online",
-    "since": 1787497044497,
+    "status": "offline",
+    "since": 1787499014287,
     "first_seen": 1771904259023
   },
   "key": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "offline",
-    "since": 1787463154485,
+    "status": "online",
+    "since": 1787499014287,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -345,8 +345,8 @@
     "first_seen": 1771909942902
   },
   "VM": {
-    "status": "online",
-    "since": 1787492100647,
+    "status": "offline",
+    "since": 1787499014287,
     "first_seen": 1771913721773
   },
   "nguye": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1787497044497,
+    "status": "online",
+    "since": 1787499014287,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -470,8 +470,8 @@
     "first_seen": 1771939283101
   },
   "kataa": {
-    "status": "offline",
-    "since": 1787495484839,
+    "status": "online",
+    "since": 1787499014287,
     "first_seen": 1771939283101
   },
   "dell1": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "offline",
-    "since": 1787479727773,
+    "status": "online",
+    "since": 1787499014287,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -715,8 +715,8 @@
     "first_seen": 1772437053482
   },
   "utra125": {
-    "status": "online",
-    "since": 1787497044497,
+    "status": "offline",
+    "since": 1787499014287,
     "first_seen": 1772437053482
   },
   "tmp": {
@@ -1020,8 +1020,8 @@
     "first_seen": 1774248212124
   },
   "amz7435": {
-    "status": "online",
-    "since": 1787492100647,
+    "status": "offline",
+    "since": 1787499014287,
     "first_seen": 1774323394496
   },
   "i5p": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "offline",
-    "since": 1787435268328,
+    "status": "online",
+    "since": 1787499014287,
     "first_seen": 1774975329240
   },
   "hd": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "online",
-    "since": 1787180291620,
+    "status": "offline",
+    "since": 1787499014287,
     "first_seen": 1780668744063
   },
   "reg72": {
