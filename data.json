@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1787492100647,
+    "status": "offline",
+    "since": 1787500541010,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -235,8 +235,8 @@
     "first_seen": 1771904259023
   },
   "i5D": {
-    "status": "online",
-    "since": 1787495484839,
+    "status": "offline",
+    "since": 1787500541010,
     "first_seen": 1771904259023
   },
   "i7120": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1787479727773,
+    "status": "offline",
+    "since": 1787500541010,
     "first_seen": 1771918204510
   },
   "w": {
@@ -380,8 +380,8 @@
     "first_seen": 1771924014596
   },
   "DMU": {
-    "status": "online",
-    "since": 1787497044497,
+    "status": "offline",
+    "since": 1787500541010,
     "first_seen": 1771924014596
   },
   "manghinhL": {
@@ -980,8 +980,8 @@
     "first_seen": 1774108506221
   },
   "i5L": {
-    "status": "online",
-    "since": 1787489421431,
+    "status": "offline",
+    "since": 1787500541010,
     "first_seen": 1774172329547
   },
   "tiktok": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1787493456778,
+    "status": "offline",
+    "since": 1787500541010,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "offline",
-    "since": 1787499014287,
+    "status": "online",
+    "since": 1787500541010,
     "first_seen": 1780668744063
   },
   "reg72": {
@@ -1340,8 +1340,8 @@
     "first_seen": 1785160486963
   },
   "verify": {
-    "status": "online",
-    "since": 1787489421431,
+    "status": "offline",
+    "since": 1787500541010,
     "first_seen": 1786093887467
   },
   "ryzen9hs": {
