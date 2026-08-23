@@ -505,8 +505,8 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "online",
-    "since": 1787521840164,
+    "status": "offline",
+    "since": 1787527472798,
     "first_seen": 1771951499378
   },
   "2112026t4": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "offline",
-    "since": 1787495484839,
+    "status": "online",
+    "since": 1787527472798,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1787506094304,
+    "status": "online",
+    "since": 1787527472798,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "offline",
-    "since": 1787504309191,
+    "status": "online",
+    "since": 1787527472798,
     "first_seen": 1774108506221
   },
   "i5L": {
