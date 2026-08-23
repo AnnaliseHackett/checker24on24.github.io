@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "offline",
-    "since": 1787463154485
+    "status": "online",
+    "since": 1787471995218
   },
   "x": {
     "status": "online",
@@ -128,8 +128,8 @@
     "since": 1782170629673
   },
   "i516p": {
-    "status": "online",
-    "since": 1787470603188
+    "status": "offline",
+    "since": 1787471995218
   },
   "i72028": {
     "status": "offline",
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1787470603188,
+    "status": "offline",
+    "since": 1787471995218,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "offline",
-    "since": 1787468118730,
+    "status": "online",
+    "since": 1787471995218,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1787430420866,
+    "status": "offline",
+    "since": 1787471995218,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -815,8 +815,8 @@
     "first_seen": 1772927358632
   },
   "SM": {
-    "status": "online",
-    "since": 1787460730206,
+    "status": "offline",
+    "since": 1787471995218,
     "first_seen": 1772964700336
   },
   "xeon67": {
@@ -1340,8 +1340,8 @@
     "first_seen": 1785160486963
   },
   "verify": {
-    "status": "online",
-    "since": 1787470603188,
+    "status": "offline",
+    "since": 1787471995218,
     "first_seen": 1786093887467
   },
   "ryzen9hs": {
