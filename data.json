@@ -28,8 +28,8 @@
     "since": 1787492100647
   },
   "i5kf20": {
-    "status": "online",
-    "since": 1787497044497
+    "status": "offline",
+    "since": 1787506094304
   },
   "i711": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1787502739641,
+    "status": "offline",
+    "since": 1787506094304,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1787493456778,
+    "status": "offline",
+    "since": 1787506094304,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1787441277500,
+    "status": "offline",
+    "since": 1787506094304,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1045,13 +1045,13 @@
     "first_seen": 1774957026104
   },
   "link": {
-    "status": "online",
-    "since": 1787478430193,
+    "status": "offline",
+    "since": 1787506094304,
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "offline",
-    "since": 1787504309191,
+    "status": "online",
+    "since": 1787506094304,
     "first_seen": 1774975329240
   },
   "hd": {
