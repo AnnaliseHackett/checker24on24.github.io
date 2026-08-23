@@ -270,8 +270,8 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "online",
-    "since": 1787481624892,
+    "status": "offline",
+    "since": 1787483159537,
     "first_seen": 1771904259023
   },
   "MD5": {
@@ -545,8 +545,8 @@
     "first_seen": 1772026925768
   },
   "xeon20": {
-    "status": "offline",
-    "since": 1787481624892,
+    "status": "online",
+    "since": 1787483159537,
     "first_seen": 1772026925768
   },
   "xeon528": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "online",
-    "since": 1787468118730,
+    "status": "offline",
+    "since": 1787483159537,
     "first_seen": 1772091016863
   },
   "light": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1787470603188,
+    "status": "offline",
+    "since": 1787483159537,
     "first_seen": 1775904626722
   },
   "HMck": {
