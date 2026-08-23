@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1787489421431,
+    "status": "offline",
+    "since": 1787493456778,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1787492100647,
+    "status": "online",
+    "since": 1787493456778,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1787463154485,
+    "status": "online",
+    "since": 1787493456778,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -460,8 +460,8 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "online",
-    "since": 1787489421431,
+    "status": "offline",
+    "since": 1787493456778,
     "first_seen": 1771939283101
   },
   "i5kkey": {
@@ -470,8 +470,8 @@
     "first_seen": 1771939283101
   },
   "kataa": {
-    "status": "offline",
-    "since": 1787337701825,
+    "status": "online",
+    "since": 1787493456778,
     "first_seen": 1771939283101
   },
   "dell1": {
@@ -545,8 +545,8 @@
     "first_seen": 1772026925768
   },
   "xeon20": {
-    "status": "online",
-    "since": 1787489421431,
+    "status": "offline",
+    "since": 1787493456778,
     "first_seen": 1772026925768
   },
   "xeon528": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "offline",
-    "since": 1787420018914,
+    "status": "online",
+    "since": 1787493456778,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "offline",
-    "since": 1787492100647,
+    "status": "online",
+    "since": 1787493456778,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "offline",
-    "since": 1787474531532,
+    "status": "online",
+    "since": 1787493456778,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "offline",
-    "since": 1787492100647,
+    "status": "online",
+    "since": 1787493456778,
     "first_seen": 1775904626722
   },
   "HMck": {
