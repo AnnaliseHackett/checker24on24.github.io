@@ -48,8 +48,8 @@
     "since": 1786921778850
   },
   "i9-32": {
-    "status": "offline",
-    "since": 1787420018914
+    "status": "online",
+    "since": 1787463154485
   },
   "i9pokemon": {
     "status": "online",
@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "online",
-    "since": 1787455508626
+    "status": "offline",
+    "since": 1787463154485
   },
   "x": {
     "status": "online",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1787460730206,
+    "status": "offline",
+    "since": 1787463154485,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -235,8 +235,8 @@
     "first_seen": 1771904259023
   },
   "i5D": {
-    "status": "online",
-    "since": 1787458169879,
+    "status": "offline",
+    "since": 1787463154485,
     "first_seen": 1771904259023
   },
   "i7120": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1787451147419,
+    "status": "offline",
+    "since": 1787463154485,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -270,8 +270,8 @@
     "first_seen": 1771904259023
   },
   "key": {
-    "status": "offline",
-    "since": 1787458169879,
+    "status": "online",
+    "since": 1787463154485,
     "first_seen": 1771904259023
   },
   "MD5": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1787455508626,
+    "status": "offline",
+    "since": 1787463154485,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "offline",
-    "since": 1787428435803,
+    "status": "online",
+    "since": 1787463154485,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "offline",
-    "since": 1787412492337,
+    "status": "online",
+    "since": 1787463154485,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -1105,8 +1105,8 @@
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
-    "status": "online",
-    "since": 1787455508626,
+    "status": "offline",
+    "since": 1787463154485,
     "first_seen": 1776009051585
   },
   "python": {
@@ -1340,8 +1340,8 @@
     "first_seen": 1785160486963
   },
   "verify": {
-    "status": "online",
-    "since": 1787460730206,
+    "status": "offline",
+    "since": 1787463154485,
     "first_seen": 1786093887467
   },
   "ryzen9hs": {
