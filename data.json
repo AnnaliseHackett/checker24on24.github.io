@@ -8,8 +8,8 @@
     "since": 1781780204222
   },
   "3672xeon": {
-    "status": "online",
-    "since": 1787537282959
+    "status": "offline",
+    "since": 1787544616046
   },
   "amz7profile": {
     "status": "offline",
@@ -128,8 +128,8 @@
     "since": 1782170629673
   },
   "i516p": {
-    "status": "online",
-    "since": 1787537282959
+    "status": "offline",
+    "since": 1787544616046
   },
   "i72028": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1787541350809,
+    "status": "offline",
+    "since": 1787544616046,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "online",
-    "since": 1787541350809,
+    "status": "offline",
+    "since": 1787544616046,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -445,8 +445,8 @@
     "first_seen": 1771934133329
   },
   "meo": {
-    "status": "online",
-    "since": 1787394676629,
+    "status": "offline",
+    "since": 1787544616046,
     "first_seen": 1771934133329
   },
   "xeonutra": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "offline",
-    "since": 1787502739641,
+    "status": "online",
+    "since": 1787544616046,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "offline",
-    "since": 1787528843394,
+    "status": "online",
+    "since": 1787544616046,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "online",
-    "since": 1787537282959,
+    "status": "offline",
+    "since": 1787544616046,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -1105,8 +1105,8 @@
     "first_seen": 1775972863673
   },
   "UchihaItachi": {
-    "status": "offline",
-    "since": 1787504309191,
+    "status": "online",
+    "since": 1787544616046,
     "first_seen": 1776009051585
   },
   "python": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "online",
-    "since": 1787500541010,
+    "status": "offline",
+    "since": 1787544616046,
     "first_seen": 1780668744063
   },
   "reg72": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "online",
-    "since": 1787541350809,
+    "status": "offline",
+    "since": 1787544616046,
     "first_seen": 1784543220938
   },
   "AMZ": {
