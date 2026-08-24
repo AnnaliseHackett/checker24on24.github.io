@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "offline",
-    "since": 1787502739641
+    "status": "online",
+    "since": 1787541350809
   },
   "x": {
     "status": "online",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1787515231183,
+    "status": "online",
+    "since": 1787541350809,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1787531086243,
+    "status": "offline",
+    "since": 1787541350809,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "offline",
-    "since": 1787306468306,
+    "status": "online",
+    "since": 1787541350809,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -355,13 +355,13 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1787537282959,
+    "status": "offline",
+    "since": 1787541350809,
     "first_seen": 1771918204510
   },
   "w": {
-    "status": "offline",
-    "since": 1787309046056,
+    "status": "online",
+    "since": 1787541350809,
     "first_seen": 1771918204510
   },
   "xeonSHOPPE": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "offline",
-    "since": 1787504309191,
+    "status": "online",
+    "since": 1787541350809,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -465,8 +465,8 @@
     "first_seen": 1771939283101
   },
   "i5kkey": {
-    "status": "online",
-    "since": 1787531086243,
+    "status": "offline",
+    "since": 1787541350809,
     "first_seen": 1771939283101
   },
   "kataa": {
@@ -565,8 +565,8 @@
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "offline",
-    "since": 1787375636718,
+    "status": "online",
+    "since": 1787541350809,
     "first_seen": 1772076874941
   },
   "i728p": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "offline",
-    "since": 1787483159537,
+    "status": "online",
+    "since": 1787541350809,
     "first_seen": 1772091016863
   },
   "light": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "offline",
-    "since": 1787507395628,
+    "status": "online",
+    "since": 1787541350809,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -730,8 +730,8 @@
     "first_seen": 1772506376749
   },
   "umt10": {
-    "status": "offline",
-    "since": 1787031385193,
+    "status": "online",
+    "since": 1787541350809,
     "first_seen": 1772513424370
   },
   "umt22": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "offline",
-    "since": 1787502739641,
+    "status": "online",
+    "since": 1787541350809,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "online",
-    "since": 1786917345416,
+    "status": "offline",
+    "since": 1787541350809,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1045,8 +1045,8 @@
     "first_seen": 1774957026104
   },
   "link": {
-    "status": "offline",
-    "since": 1787506094304,
+    "status": "online",
+    "since": 1787541350809,
     "first_seen": 1774975329240
   },
   "td": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1787537282959,
+    "status": "offline",
+    "since": 1787541350809,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "offline",
-    "since": 1787518638986,
+    "status": "online",
+    "since": 1787541350809,
     "first_seen": 1784543220938
   },
   "AMZ": {
@@ -1345,8 +1345,8 @@
     "first_seen": 1786093887467
   },
   "ryzen9hs": {
-    "status": "online",
-    "since": 1787537282959,
+    "status": "offline",
+    "since": 1787541350809,
     "first_seen": 1786160235561
   },
   "i9": {
