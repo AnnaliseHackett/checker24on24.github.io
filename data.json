@@ -24,16 +24,16 @@
     "since": 1787562100959
   },
   "i5125": {
-    "status": "online",
-    "since": 1787531086243
+    "status": "offline",
+    "since": 1787602339955
   },
   "i5kf20": {
     "status": "offline",
     "since": 1787590885307
   },
   "i711": {
-    "status": "online",
-    "since": 1787595398666
+    "status": "offline",
+    "since": 1787602339955
   },
   "i7118": {
     "status": "offline",
@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1787598337367
+    "status": "offline",
+    "since": 1787602339955
   },
   "tool1-2-2026": {
     "status": "online",
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1787562100959,
+    "status": "offline",
+    "since": 1787602339955,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "online",
-    "since": 1787565644106,
+    "status": "offline",
+    "since": 1787602339955,
     "first_seen": 1784543220938
   },
   "AMZ": {
