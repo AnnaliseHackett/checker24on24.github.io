@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1787583420049,
+    "status": "online",
+    "since": 1787615730183,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1787595398666,
+    "status": "offline",
+    "since": 1787615730183,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -505,13 +505,13 @@
     "first_seen": 1771947443714
   },
   "i512500": {
-    "status": "online",
-    "since": 1787614349226,
+    "status": "offline",
+    "since": 1787615730183,
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1787576825144,
+    "status": "offline",
+    "since": 1787615730183,
     "first_seen": 1771990967353
   },
   "i512adobe": {
