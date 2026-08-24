@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1787595398666,
+    "status": "offline",
+    "since": 1787600500065,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1125,8 +1125,8 @@
     "first_seen": 1776137638618
   },
   "13thgen": {
-    "status": "online",
-    "since": 1787583420049,
+    "status": "offline",
+    "since": 1787600500065,
     "first_seen": 1776176929025
   },
   "2026": {
@@ -1330,8 +1330,8 @@
     "first_seen": 1784743852751
   },
   "vmx": {
-    "status": "online",
-    "since": 1787550631257,
+    "status": "offline",
+    "since": 1787600500065,
     "first_seen": 1784905440178
   },
   "xeonBLA": {
