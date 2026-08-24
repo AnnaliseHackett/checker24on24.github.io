@@ -245,13 +245,13 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "online",
-    "since": 1787572773518,
+    "status": "offline",
+    "since": 1787588341609,
     "first_seen": 1771904259023
   },
   "i7128": {
-    "status": "offline",
-    "since": 1787484766568,
+    "status": "online",
+    "since": 1787588341609,
     "first_seen": 1771904259023
   },
   "i720m": {
@@ -410,8 +410,8 @@
     "first_seen": 1771931250125
   },
   "DELL": {
-    "status": "offline",
-    "since": 1787586466403,
+    "status": "online",
+    "since": 1787588341609,
     "first_seen": 1771931250125
   },
   "i7136": {
@@ -465,8 +465,8 @@
     "first_seen": 1771939283101
   },
   "i5kkey": {
-    "status": "online",
-    "since": 1787565644106,
+    "status": "offline",
+    "since": 1787588341609,
     "first_seen": 1771939283101
   },
   "kataa": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "offline",
-    "since": 1787586466403,
+    "status": "online",
+    "since": 1787588341609,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1787576825144,
+    "status": "offline",
+    "since": 1787588341609,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -675,8 +675,8 @@
     "first_seen": 1772377040134
   },
   "i5k": {
-    "status": "online",
-    "since": 1787571138629,
+    "status": "offline",
+    "since": 1787588341609,
     "first_seen": 1772377040134
   },
   "xeonDell": {
@@ -815,8 +815,8 @@
     "first_seen": 1772927358632
   },
   "SM": {
-    "status": "online",
-    "since": 1787583420049,
+    "status": "offline",
+    "since": 1787588341609,
     "first_seen": 1772964700336
   },
   "xeon67": {
@@ -1305,8 +1305,8 @@
     "first_seen": 1784283564810
   },
   "s56": {
-    "status": "online",
-    "since": 1787537282959,
+    "status": "offline",
+    "since": 1787588341609,
     "first_seen": 1784445191719
   },
   "matrix": {
@@ -1345,8 +1345,8 @@
     "first_seen": 1786093887467
   },
   "ryzen9hs": {
-    "status": "offline",
-    "since": 1787580051183,
+    "status": "online",
+    "since": 1787588341609,
     "first_seen": 1786160235561
   },
   "i9": {
