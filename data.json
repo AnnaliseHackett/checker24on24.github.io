@@ -32,8 +32,8 @@
     "since": 1787590885307
   },
   "i711": {
-    "status": "offline",
-    "since": 1787602339955
+    "status": "online",
+    "since": 1787642168091
   },
   "i7118": {
     "status": "offline",
@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1787638746082
+    "status": "offline",
+    "since": 1787642168091
   },
   "tool1-2-2026": {
     "status": "online",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1787634349128,
+    "status": "offline",
+    "since": 1787642168091,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1787638746082,
+    "status": "offline",
+    "since": 1787642168091,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -460,8 +460,8 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "offline",
-    "since": 1787634349128,
+    "status": "online",
+    "since": 1787642168091,
     "first_seen": 1771939283101
   },
   "i5kkey": {
@@ -575,8 +575,8 @@
     "first_seen": 1772082654222
   },
   "reg16": {
-    "status": "offline",
-    "since": 1787568630035,
+    "status": "online",
+    "since": 1787642168091,
     "first_seen": 1772091016863
   },
   "light": {
@@ -1020,8 +1020,8 @@
     "first_seen": 1774248212124
   },
   "amz7435": {
-    "status": "online",
-    "since": 1787634349128,
+    "status": "offline",
+    "since": 1787642168091,
     "first_seen": 1774323394496
   },
   "i5p": {
