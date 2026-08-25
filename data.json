@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1787655263220,
+    "status": "offline",
+    "since": 1787657507509,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1787648220193,
+    "status": "offline",
+    "since": 1787657507509,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "offline",
-    "since": 1787648220193,
+    "status": "online",
+    "since": 1787657507509,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "offline",
-    "since": 1787312766414,
+    "status": "online",
+    "since": 1787657507509,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
