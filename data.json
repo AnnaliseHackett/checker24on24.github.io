@@ -8,8 +8,8 @@
     "since": 1781780204222
   },
   "3672xeon": {
-    "status": "online",
-    "since": 1787663311129
+    "status": "offline",
+    "since": 1787680256145
   },
   "amz7profile": {
     "status": "offline",
@@ -24,8 +24,8 @@
     "since": 1787636712014
   },
   "i5125": {
-    "status": "offline",
-    "since": 1787678336892
+    "status": "online",
+    "since": 1787680256145
   },
   "i5kf20": {
     "status": "online",
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1787670072454,
+    "status": "offline",
+    "since": 1787680256145,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "online",
-    "since": 1787673403732,
+    "status": "offline",
+    "since": 1787680256145,
     "first_seen": 1774975329240
   },
   "hd": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1787663311129,
+    "status": "offline",
+    "since": 1787680256145,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1305,8 +1305,8 @@
     "first_seen": 1784283564810
   },
   "s56": {
-    "status": "online",
-    "since": 1787636712014,
+    "status": "offline",
+    "since": 1787680256145,
     "first_seen": 1784445191719
   },
   "matrix": {
