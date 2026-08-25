@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "online",
-    "since": 1787621841938
+    "status": "offline",
+    "since": 1787648220193
   },
   "x": {
     "status": "online",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1787644974878,
+    "status": "offline",
+    "since": 1787648220193,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1787644974878,
+    "status": "offline",
+    "since": 1787648220193,
     "first_seen": 1771918204510
   },
   "w": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1787644974878,
+    "status": "online",
+    "since": 1787648220193,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1787571138629,
+    "status": "online",
+    "since": 1787648220193,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1787625839859,
+    "status": "offline",
+    "since": 1787648220193,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -1020,8 +1020,8 @@
     "first_seen": 1774248212124
   },
   "amz7435": {
-    "status": "offline",
-    "since": 1787642168091,
+    "status": "online",
+    "since": 1787648220193,
     "first_seen": 1774323394496
   },
   "i5p": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "offline",
-    "since": 1787644974878,
+    "status": "online",
+    "since": 1787648220193,
     "first_seen": 1784543220938
   },
   "AMZ": {
@@ -1350,8 +1350,8 @@
     "first_seen": 1786160235561
   },
   "i9": {
-    "status": "offline",
-    "since": 1787634349128,
+    "status": "online",
+    "since": 1787648220193,
     "first_seen": 1786879608507
   }
 }
