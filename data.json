@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "online",
-    "since": 1787655263220
+    "status": "offline",
+    "since": 1787659226497
   },
   "x": {
     "status": "online",
@@ -275,8 +275,8 @@
     "first_seen": 1771904259023
   },
   "MD5": {
-    "status": "offline",
-    "since": 1787631673856,
+    "status": "online",
+    "since": 1787659226497,
     "first_seen": 1771904259023
   },
   "print1": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "offline",
-    "since": 1787642168091,
+    "status": "online",
+    "since": 1787659226497,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -460,13 +460,13 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "offline",
-    "since": 1787655263220,
+    "status": "online",
+    "since": 1787659226497,
     "first_seen": 1771939283101
   },
   "i5kkey": {
-    "status": "offline",
-    "since": 1787644974878,
+    "status": "online",
+    "since": 1787659226497,
     "first_seen": 1771939283101
   },
   "kataa": {
@@ -535,8 +535,8 @@
     "first_seen": 1772015605036
   },
   "09799": {
-    "status": "offline",
-    "since": 1787231799013,
+    "status": "online",
+    "since": 1787659226497,
     "first_seen": 1772026925768
   },
   "laptop": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "offline",
-    "since": 1787628898881,
+    "status": "online",
+    "since": 1787659226497,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -860,8 +860,8 @@
     "first_seen": 1773219560028
   },
   "X": {
-    "status": "online",
-    "since": 1787657507509,
+    "status": "offline",
+    "since": 1787659226497,
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "offline",
-    "since": 1787612408890,
+    "status": "online",
+    "since": 1787659226497,
     "first_seen": 1774975329240
   },
   "hd": {
