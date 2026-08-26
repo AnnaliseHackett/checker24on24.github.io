@@ -128,8 +128,8 @@
     "since": 1782170629673
   },
   "i516p": {
-    "status": "offline",
-    "since": 1787670072454
+    "status": "online",
+    "since": 1787744243822
   },
   "i72028": {
     "status": "offline",
@@ -520,8 +520,8 @@
     "first_seen": 1771990967353
   },
   "xeonGPU": {
-    "status": "online",
-    "since": 1787727951661,
+    "status": "offline",
+    "since": 1787744243822,
     "first_seen": 1771990967353
   },
   "amd5": {
@@ -605,8 +605,8 @@
     "first_seen": 1772116732672
   },
   "i5ssd": {
-    "status": "online",
-    "since": 1787737629179,
+    "status": "offline",
+    "since": 1787744243822,
     "first_seen": 1772116732672
   },
   "YEU": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1787731013841,
+    "status": "offline",
+    "since": 1787744243822,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1345,8 +1345,8 @@
     "first_seen": 1786093887467
   },
   "ryzen9hs": {
-    "status": "offline",
-    "since": 1787737629179,
+    "status": "online",
+    "since": 1787744243822,
     "first_seen": 1786160235561
   },
   "i9": {
