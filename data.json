@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1787670072454,
+    "status": "online",
+    "since": 1787703873699,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "offline",
-    "since": 1787676417437,
+    "status": "online",
+    "since": 1787703873699,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1787673403732,
+    "status": "offline",
+    "since": 1787703873699,
     "first_seen": 1771990967353
   },
   "i512adobe": {
