@@ -20,8 +20,8 @@
     "since": 1787237509958
   },
   "bluestack": {
-    "status": "online",
-    "since": 1787710136900
+    "status": "offline",
+    "since": 1787722648585
   },
   "i5125": {
     "status": "offline",
@@ -72,8 +72,8 @@
     "since": 1787691626413
   },
   "tool1-2-2026": {
-    "status": "online",
-    "since": 1786870229134
+    "status": "offline",
+    "since": 1787722648585
   },
   "tool-8-2-2026": {
     "status": "offline",
@@ -240,8 +240,8 @@
     "first_seen": 1771904259023
   },
   "i7120": {
-    "status": "online",
-    "since": 1787714287729,
+    "status": "offline",
+    "since": 1787722648585,
     "first_seen": 1771904259023
   },
   "i7127k": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "offline",
-    "since": 1787710136900,
+    "status": "online",
+    "since": 1787722648585,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -460,8 +460,8 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "offline",
-    "since": 1787720050113,
+    "status": "online",
+    "since": 1787722648585,
     "first_seen": 1771939283101
   },
   "i5kkey": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1787673403732,
+    "status": "online",
+    "since": 1787722648585,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "offline",
-    "since": 1787717212338,
+    "status": "online",
+    "since": 1787722648585,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -815,8 +815,8 @@
     "first_seen": 1772927358632
   },
   "SM": {
-    "status": "offline",
-    "since": 1787676417437,
+    "status": "online",
+    "since": 1787722648585,
     "first_seen": 1772964700336
   },
   "xeon67": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "offline",
-    "since": 1787717212338,
+    "status": "online",
+    "since": 1787722648585,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -1005,8 +1005,8 @@
     "first_seen": 1774193772333
   },
   "T300": {
-    "status": "offline",
-    "since": 1787685514249,
+    "status": "online",
+    "since": 1787722648585,
     "first_seen": 1774213093845
   },
   "ToolHM2": {
