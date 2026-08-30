@@ -32,8 +32,8 @@
     "since": 1787717212338
   },
   "i711": {
-    "status": "online",
-    "since": 1788115584620
+    "status": "offline",
+    "since": 1788125952869
   },
   "i7118": {
     "status": "offline",
@@ -48,8 +48,8 @@
     "since": 1786921778850
   },
   "i9-32": {
-    "status": "online",
-    "since": 1788103753994
+    "status": "offline",
+    "since": 1788125952869
   },
   "i9pokemon": {
     "status": "online",
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1788069364802,
+    "status": "offline",
+    "since": 1788125952869,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -965,8 +965,8 @@
     "first_seen": 1773917700355
   },
   "xmr": {
-    "status": "offline",
-    "since": 1788115584620,
+    "status": "online",
+    "since": 1788125952869,
     "first_seen": 1773968437686
   },
   "xeon26700": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1788103753994,
+    "status": "offline",
+    "since": 1788125952869,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1200,8 +1200,8 @@
     "first_seen": 1780064908928
   },
   "72hma": {
-    "status": "online",
-    "since": 1788115584620,
+    "status": "offline",
+    "since": 1788125952869,
     "first_seen": 1780232030050
   },
   "72V2": {
@@ -1215,8 +1215,8 @@
     "first_seen": 1780481497862
   },
   "72cpu": {
-    "status": "offline",
-    "since": 1788115584620,
+    "status": "online",
+    "since": 1788125952869,
     "first_seen": 1780668744063
   },
   "reg72": {
