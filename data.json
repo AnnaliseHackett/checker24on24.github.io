@@ -16,8 +16,8 @@
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1788199249136
+    "status": "offline",
+    "since": 1788216431539
   },
   "bluestack": {
     "status": "offline",
@@ -132,8 +132,8 @@
     "since": 1788103753994
   },
   "i72028": {
-    "status": "online",
-    "since": 1788199249136
+    "status": "offline",
+    "since": 1788216431539
   },
   "xeonYEU": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1788199249136,
+    "status": "offline",
+    "since": 1788216431539,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1788199249136,
+    "status": "offline",
+    "since": 1788216431539,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -560,8 +560,8 @@
     "first_seen": 1772030425253
   },
   "baroi": {
-    "status": "online",
-    "since": 1788199249136,
+    "status": "offline",
+    "since": 1788216431539,
     "first_seen": 1772034326495
   },
   "xeonv36": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1788199249136,
+    "status": "online",
+    "since": 1788216431539,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1788199249136,
+    "status": "offline",
+    "since": 1788216431539,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1788199249136,
+    "status": "offline",
+    "since": 1788216431539,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1125,8 +1125,8 @@
     "first_seen": 1776137638618
   },
   "13thgen": {
-    "status": "online",
-    "since": 1788199249136,
+    "status": "offline",
+    "since": 1788216431539,
     "first_seen": 1776176929025
   },
   "2026": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "offline",
-    "since": 1788199249136,
+    "status": "online",
+    "since": 1788216431539,
     "first_seen": 1784543220938
   },
   "AMZ": {
@@ -1350,8 +1350,8 @@
     "first_seen": 1786160235561
   },
   "i9": {
-    "status": "online",
-    "since": 1788174600118,
+    "status": "offline",
+    "since": 1788216431539,
     "first_seen": 1786879608507
   }
 }
