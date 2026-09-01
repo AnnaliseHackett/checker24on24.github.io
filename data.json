@@ -8,8 +8,8 @@
     "since": 1781780204222
   },
   "3672xeon": {
-    "status": "offline",
-    "since": 1788174600118
+    "status": "online",
+    "since": 1788226026106
   },
   "amz7profile": {
     "status": "offline",
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1788199249136,
+    "status": "online",
+    "since": 1788226026106,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1788199249136,
+    "status": "offline",
+    "since": 1788226026106,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -235,8 +235,8 @@
     "first_seen": 1771904259023
   },
   "i5D": {
-    "status": "offline",
-    "since": 1788090245966,
+    "status": "online",
+    "since": 1788226026106,
     "first_seen": 1771904259023
   },
   "i7120": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1788199249136,
+    "status": "online",
+    "since": 1788226026106,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1788199249136,
+    "status": "online",
+    "since": 1788226026106,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -1125,8 +1125,8 @@
     "first_seen": 1776137638618
   },
   "13thgen": {
-    "status": "offline",
-    "since": 1788216431539,
+    "status": "online",
+    "since": 1788226026106,
     "first_seen": 1776176929025
   },
   "2026": {
@@ -1340,8 +1340,8 @@
     "first_seen": 1785160486963
   },
   "verify": {
-    "status": "offline",
-    "since": 1787500541010,
+    "status": "online",
+    "since": 1788226026106,
     "first_seen": 1786093887467
   },
   "ryzen9hs": {
