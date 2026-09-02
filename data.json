@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1788300053169,
+    "status": "offline",
+    "since": 1788307726404,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1788280617132,
+    "status": "online",
+    "since": 1788307726404,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -480,8 +480,8 @@
     "first_seen": 1771943661252
   },
   "i5136": {
-    "status": "online",
-    "since": 1788300053169,
+    "status": "offline",
+    "since": 1788307726404,
     "first_seen": 1771943661252
   },
   "opengl": {
