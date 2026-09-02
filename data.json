@@ -32,8 +32,8 @@
     "since": 1788379266059
   },
   "i711": {
-    "status": "online",
-    "since": 1788369658005
+    "status": "offline",
+    "since": 1788388557997
   },
   "i7118": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1788356180736,
+    "status": "offline",
+    "since": 1788388557997,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1788379266059,
+    "status": "offline",
+    "since": 1788388557997,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1788379266059,
+    "status": "online",
+    "since": 1788388557997,
     "first_seen": 1773226388097
   },
   "amd78s": {
