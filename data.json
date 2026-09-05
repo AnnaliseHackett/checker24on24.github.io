@@ -8,8 +8,8 @@
     "since": 1781780204222
   },
   "3672xeon": {
-    "status": "online",
-    "since": 1788573723671
+    "status": "offline",
+    "since": 1788591270403
   },
   "amz7profile": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "offline",
-    "since": 1788457585756,
+    "status": "online",
+    "since": 1788591270403,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1788573723671,
+    "status": "online",
+    "since": 1788591270403,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1788541833357,
+    "status": "online",
+    "since": 1788591270403,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -355,8 +355,8 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "online",
-    "since": 1788573723671,
+    "status": "offline",
+    "since": 1788591270403,
     "first_seen": 1771918204510
   },
   "w": {
@@ -430,8 +430,8 @@
     "first_seen": 1771931250125
   },
   "pc": {
-    "status": "offline",
-    "since": 1788443778594,
+    "status": "online",
+    "since": 1788591270403,
     "first_seen": 1771931250125
   },
   "y": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1788558699130,
+    "status": "online",
+    "since": 1788591270403,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -465,8 +465,8 @@
     "first_seen": 1771939283101
   },
   "i5kkey": {
-    "status": "online",
-    "since": 1788573723671,
+    "status": "offline",
+    "since": 1788591270403,
     "first_seen": 1771939283101
   },
   "kataa": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1788443778594,
+    "status": "online",
+    "since": 1788591270403,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "offline",
-    "since": 1788550859183,
+    "status": "online",
+    "since": 1788591270403,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "offline",
-    "since": 1788573723671,
+    "status": "online",
+    "since": 1788591270403,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -590,8 +590,8 @@
     "first_seen": 1772105043530
   },
   "driver2": {
-    "status": "offline",
-    "since": 1788541833357,
+    "status": "online",
+    "since": 1788591270403,
     "first_seen": 1772113352656
   },
   "i5v2": {
@@ -815,8 +815,8 @@
     "first_seen": 1772927358632
   },
   "SM": {
-    "status": "offline",
-    "since": 1788565796184,
+    "status": "online",
+    "since": 1788591270403,
     "first_seen": 1772964700336
   },
   "xeon67": {
@@ -975,13 +975,13 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "offline",
-    "since": 1788457585756,
+    "status": "online",
+    "since": 1788591270403,
     "first_seen": 1774108506221
   },
   "i5L": {
-    "status": "offline",
-    "since": 1788558699130,
+    "status": "online",
+    "since": 1788591270403,
     "first_seen": 1774172329547
   },
   "tiktok": {
@@ -1020,8 +1020,8 @@
     "first_seen": 1774248212124
   },
   "amz7435": {
-    "status": "online",
-    "since": 1788573723671,
+    "status": "offline",
+    "since": 1788591270403,
     "first_seen": 1774323394496
   },
   "i5p": {
@@ -1250,8 +1250,8 @@
     "first_seen": 1781045279201
   },
   "xeonem": {
-    "status": "offline",
-    "since": 1788565796184,
+    "status": "online",
+    "since": 1788591270403,
     "first_seen": 1781080758414
   },
   "xeonTN": {
@@ -1335,8 +1335,8 @@
     "first_seen": 1784905440178
   },
   "xeonBLA": {
-    "status": "online",
-    "since": 1788573723671,
+    "status": "offline",
+    "since": 1788591270403,
     "first_seen": 1785160486963
   },
   "verify": {
