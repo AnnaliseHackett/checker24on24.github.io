@@ -44,8 +44,8 @@
     "since": 1774089183281
   },
   "i929k": {
-    "status": "offline",
-    "since": 1788979308333
+    "status": "online",
+    "since": 1788996035915
   },
   "i9-32": {
     "status": "offline",
@@ -305,8 +305,8 @@
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "offline",
-    "since": 1788966661067,
+    "status": "online",
+    "since": 1788996035915,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -815,8 +815,8 @@
     "first_seen": 1772927358632
   },
   "SM": {
-    "status": "offline",
-    "since": 1788979308333,
+    "status": "online",
+    "since": 1788996035915,
     "first_seen": 1772964700336
   },
   "xeon67": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1788966661067,
+    "status": "online",
+    "since": 1788996035915,
     "first_seen": 1773226388097
   },
   "amd78s": {
