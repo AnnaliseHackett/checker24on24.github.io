@@ -24,8 +24,8 @@
     "since": 1789210665571
   },
   "i5125": {
-    "status": "online",
-    "since": 1789074461995
+    "status": "offline",
+    "since": 1789254872606
   },
   "i5kf20": {
     "status": "offline",
@@ -48,8 +48,8 @@
     "since": 1788996035915
   },
   "i9-32": {
-    "status": "online",
-    "since": 1789248562141
+    "status": "offline",
+    "since": 1789254872606
   },
   "i9pokemon": {
     "status": "online",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1789106234418,
+    "status": "online",
+    "since": 1789254872606,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "offline",
-    "since": 1789039820327,
+    "status": "online",
+    "since": 1789254872606,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "offline",
-    "since": 1789151019603,
+    "status": "online",
+    "since": 1789254872606,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1789232429654,
+    "status": "online",
+    "since": 1789254872606,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1200,8 +1200,8 @@
     "first_seen": 1780064908928
   },
   "72hma": {
-    "status": "online",
-    "since": 1789052899174,
+    "status": "offline",
+    "since": 1789254872606,
     "first_seen": 1780232030050
   },
   "72V2": {
