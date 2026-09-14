@@ -32,8 +32,8 @@
     "since": 1789411327496
   },
   "i711": {
-    "status": "online",
-    "since": 1789411327496
+    "status": "offline",
+    "since": 1789423633491
   },
   "i7118": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1789367214822,
+    "status": "offline",
+    "since": 1789423633491,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1789411327496,
+    "status": "offline",
+    "since": 1789423633491,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1789367214822,
+    "status": "offline",
+    "since": 1789423633491,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -960,8 +960,8 @@
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
-    "status": "offline",
-    "since": 1789279820518,
+    "status": "online",
+    "since": 1789423633491,
     "first_seen": 1773917700355
   },
   "xmr": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "online",
-    "since": 1789411327496,
+    "status": "offline",
+    "since": 1789423633491,
     "first_seen": 1774108506221
   },
   "i5L": {
@@ -1250,8 +1250,8 @@
     "first_seen": 1781045279201
   },
   "xeonem": {
-    "status": "online",
-    "since": 1789367214822,
+    "status": "offline",
+    "since": 1789423633491,
     "first_seen": 1781080758414
   },
   "xeonTN": {
