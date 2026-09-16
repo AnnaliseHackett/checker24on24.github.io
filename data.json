@@ -215,8 +215,8 @@
     "first_seen": 1771904259023
   },
   "amz7wifi": {
-    "status": "online",
-    "since": 1789583316945,
+    "status": "offline",
+    "since": 1789602703370,
     "first_seen": 1771904259023
   },
   "dell8": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "offline",
-    "since": 1789569794760,
+    "status": "online",
+    "since": 1789602703370,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "online",
-    "since": 1789583316945,
+    "status": "offline",
+    "since": 1789602703370,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1789583316945,
+    "status": "online",
+    "since": 1789602703370,
     "first_seen": 1773226388097
   },
   "amd78s": {
