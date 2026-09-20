@@ -132,8 +132,8 @@
     "since": 1789052899174
   },
   "i72028": {
-    "status": "online",
-    "since": 1789930460227
+    "status": "offline",
+    "since": 1789939140905
   },
   "xeonYEU": {
     "status": "offline",
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1789906707745,
+    "status": "offline",
+    "since": 1789939140905,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -465,8 +465,8 @@
     "first_seen": 1771939283101
   },
   "i5kkey": {
-    "status": "online",
-    "since": 1789921080748,
+    "status": "offline",
+    "since": 1789939140905,
     "first_seen": 1771939283101
   },
   "kataa": {
