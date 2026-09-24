@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1790245421868
+    "status": "offline",
+    "since": 1790289621226
   },
   "tool1-2-2026": {
     "status": "offline",
@@ -720,8 +720,8 @@
     "first_seen": 1772437053482
   },
   "tmp": {
-    "status": "online",
-    "since": 1790158691446,
+    "status": "offline",
+    "since": 1790289621226,
     "first_seen": 1772461962322
   },
   "UMT33": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "online",
-    "since": 1790227419913,
+    "status": "offline",
+    "since": 1790289621226,
     "first_seen": 1774108506221
   },
   "i5L": {
@@ -1050,8 +1050,8 @@
     "first_seen": 1774975329240
   },
   "td": {
-    "status": "online",
-    "since": 1790277969818,
+    "status": "offline",
+    "since": 1790289621226,
     "first_seen": 1774975329240
   },
   "hd": {
@@ -1365,8 +1365,8 @@
     "first_seen": 1788606686838
   },
   "ldp72": {
-    "status": "online",
-    "since": 1790142055894,
+    "status": "offline",
+    "since": 1790289621226,
     "first_seen": 1789972338473
   }
 }
