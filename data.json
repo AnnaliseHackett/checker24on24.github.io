@@ -24,8 +24,8 @@
     "since": 1790158691446
   },
   "i5125": {
-    "status": "online",
-    "since": 1790505946443
+    "status": "offline",
+    "since": 1790547608645
   },
   "i5kf20": {
     "status": "offline",
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "online",
-    "since": 1790536276958,
+    "status": "offline",
+    "since": 1790547608645,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -305,8 +305,8 @@
     "first_seen": 1771904259023
   },
   "toolrealtime": {
-    "status": "online",
-    "since": 1790487485542,
+    "status": "offline",
+    "since": 1790547608645,
     "first_seen": 1771904259023
   },
   "ToolsV3.5": {
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1790487485542,
+    "status": "offline",
+    "since": 1790547608645,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1790536276958,
+    "status": "offline",
+    "since": 1790547608645,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1350,8 +1350,8 @@
     "first_seen": 1786160235561
   },
   "i9": {
-    "status": "online",
-    "since": 1790522504206,
+    "status": "offline",
+    "since": 1790547608645,
     "first_seen": 1786879608507
   },
   "2gop": {
