@@ -28,8 +28,8 @@
     "since": 1790547608645
   },
   "i5kf20": {
-    "status": "offline",
-    "since": 1790423524170
+    "status": "online",
+    "since": 1790557398389
   },
   "i711": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "offline",
-    "since": 1790536276958,
+    "status": "online",
+    "since": 1790557398389,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -200,13 +200,13 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1790522504206,
+    "status": "online",
+    "since": 1790557398389,
     "first_seen": 1771894415726
   },
   "2112026T3": {
-    "status": "offline",
-    "since": 1790386852479,
+    "status": "online",
+    "since": 1790557398389,
     "first_seen": 1771904259023
   },
   "amz7743": {
@@ -240,8 +240,8 @@
     "first_seen": 1771904259023
   },
   "i7120": {
-    "status": "offline",
-    "since": 1790522504206,
+    "status": "online",
+    "since": 1790557398389,
     "first_seen": 1771904259023
   },
   "i7127k": {
@@ -260,8 +260,8 @@
     "first_seen": 1771904259023
   },
   "i77": {
-    "status": "offline",
-    "since": 1790547608645,
+    "status": "online",
+    "since": 1790557398389,
     "first_seen": 1771904259023
   },
   "i7sql": {
@@ -280,8 +280,8 @@
     "first_seen": 1771904259023
   },
   "print1": {
-    "status": "offline",
-    "since": 1790227419913,
+    "status": "online",
+    "since": 1790557398389,
     "first_seen": 1771904259023
   },
   "ryzen784u": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1790522504206,
+    "status": "offline",
+    "since": 1790557398389,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1790536276958,
+    "status": "online",
+    "since": 1790557398389,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1210,8 +1210,8 @@
     "first_seen": 1780279088928
   },
   "cap72": {
-    "status": "offline",
-    "since": 1790522504206,
+    "status": "online",
+    "since": 1790557398389,
     "first_seen": 1780481497862
   },
   "72cpu": {
