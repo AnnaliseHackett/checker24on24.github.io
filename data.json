@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1790753187860,
+    "status": "offline",
+    "since": 1790809739521,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -720,8 +720,8 @@
     "first_seen": 1772437053482
   },
   "tmp": {
-    "status": "online",
-    "since": 1790753187860,
+    "status": "offline",
+    "since": 1790809739521,
     "first_seen": 1772461962322
   },
   "UMT33": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1790777337497,
+    "status": "online",
+    "since": 1790809739521,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "online",
-    "since": 1790777337497,
+    "status": "offline",
+    "since": 1790809739521,
     "first_seen": 1774108506221
   },
   "i5L": {
