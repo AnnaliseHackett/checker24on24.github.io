@@ -16,8 +16,8 @@
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1791044032155
+    "status": "offline",
+    "since": 1791065621195
   },
   "bluestack": {
     "status": "offline",
@@ -84,8 +84,8 @@
     "since": 1773144042180
   },
   "utral9": {
-    "status": "offline",
-    "since": 1791044032155
+    "status": "online",
+    "since": 1791065621195
   },
   "x": {
     "status": "offline",
@@ -132,8 +132,8 @@
     "since": 1789052899174
   },
   "i72028": {
-    "status": "online",
-    "since": 1791055064867
+    "status": "offline",
+    "since": 1791065621195
   },
   "xeonYEU": {
     "status": "offline",
@@ -150,8 +150,8 @@
     "first_seen": 1771884332768
   },
   "i93224": {
-    "status": "online",
-    "since": 1791009715844,
+    "status": "offline",
+    "since": 1791065621195,
     "first_seen": 1771887545391
   },
   "xeon80v1": {
@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1791029101642,
+    "status": "offline",
+    "since": 1791065621195,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1790990386621,
+    "status": "offline",
+    "since": 1791065621195,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "offline",
-    "since": 1791029101642,
+    "status": "online",
+    "since": 1791065621195,
     "first_seen": 1774108506221
   },
   "i5L": {
