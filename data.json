@@ -585,8 +585,8 @@
     "first_seen": 1772101563109
   },
   "panel": {
-    "status": "online",
-    "since": 1791730044036,
+    "status": "offline",
+    "since": 1791759509762,
     "first_seen": 1772105043530
   },
   "driver2": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "online",
-    "since": 1791682962194,
+    "status": "offline",
+    "since": 1791759509762,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1791588308989,
+    "status": "offline",
+    "since": 1791759509762,
     "first_seen": 1773226388097
   },
   "amd78s": {
