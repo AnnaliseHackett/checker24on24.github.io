@@ -28,12 +28,12 @@
     "since": 1791745959392
   },
   "i5kf20": {
-    "status": "offline",
-    "since": 1791705155354
+    "status": "online",
+    "since": 1791771380436
   },
   "i711": {
-    "status": "offline",
-    "since": 1791745959392
+    "status": "online",
+    "since": 1791771380436
   },
   "i7118": {
     "status": "offline",
@@ -200,8 +200,8 @@
     "first_seen": 1771894415726
   },
   "xeonW": {
-    "status": "offline",
-    "since": 1791730044036,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1771894415726
   },
   "2112026T3": {
@@ -245,8 +245,8 @@
     "first_seen": 1771904259023
   },
   "i7127k": {
-    "status": "offline",
-    "since": 1791745959392,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1771904259023
   },
   "i7128": {
@@ -280,8 +280,8 @@
     "first_seen": 1771904259023
   },
   "print1": {
-    "status": "offline",
-    "since": 1791528359973,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1771904259023
   },
   "ryzen784u": {
@@ -355,13 +355,13 @@
     "first_seen": 1771918204510
   },
   "thinkbad": {
-    "status": "offline",
-    "since": 1791622799121,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1771918204510
   },
   "w": {
-    "status": "offline",
-    "since": 1791553891567,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1771918204510
   },
   "xeonSHOPPE": {
@@ -445,8 +445,8 @@
     "first_seen": 1771934133329
   },
   "meo": {
-    "status": "online",
-    "since": 1791730044036,
+    "status": "offline",
+    "since": 1791771380436,
     "first_seen": 1771934133329
   },
   "xeonutra": {
@@ -460,13 +460,13 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "offline",
-    "since": 1791573666621,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1771939283101
   },
   "i5kkey": {
-    "status": "offline",
-    "since": 1791745959392,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1771939283101
   },
   "kataa": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "offline",
-    "since": 1791553891567,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -510,8 +510,8 @@
     "first_seen": 1771951499378
   },
   "2112026t4": {
-    "status": "online",
-    "since": 1791745959392,
+    "status": "offline",
+    "since": 1791771380436,
     "first_seen": 1771990967353
   },
   "i512adobe": {
@@ -520,8 +520,8 @@
     "first_seen": 1771990967353
   },
   "xeonGPU": {
-    "status": "offline",
-    "since": 1789655169339,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1771990967353
   },
   "amd5": {
@@ -565,8 +565,8 @@
     "first_seen": 1772034326495
   },
   "xeonv36": {
-    "status": "offline",
-    "since": 1791745959392,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1772076874941
   },
   "i728p": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "offline",
-    "since": 1791745959392,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1791759509762,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -955,8 +955,8 @@
     "first_seen": 1773824542240
   },
   "TshopeT": {
-    "status": "offline",
-    "since": 1791622799121,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1773824542240
   },
   "xeonHOTMAIL": {
@@ -975,13 +975,13 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "offline",
-    "since": 1791745959392,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1774108506221
   },
   "i5L": {
-    "status": "offline",
-    "since": 1791745959392,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1774172329547
   },
   "tiktok": {
@@ -1045,8 +1045,8 @@
     "first_seen": 1774957026104
   },
   "link": {
-    "status": "offline",
-    "since": 1791745959392,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1774975329240
   },
   "td": {
@@ -1130,8 +1130,8 @@
     "first_seen": 1776176929025
   },
   "2026": {
-    "status": "offline",
-    "since": 1791745959392,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1776331552718
   },
   "ryzenZ1": {
@@ -1335,8 +1335,8 @@
     "first_seen": 1784905440178
   },
   "xeonBLA": {
-    "status": "offline",
-    "since": 1791553891567,
+    "status": "online",
+    "since": 1791771380436,
     "first_seen": 1785160486963
   },
   "verify": {
