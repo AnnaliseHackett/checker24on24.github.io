@@ -20,8 +20,8 @@
     "since": 1792006615004
   },
   "bluestack": {
-    "status": "online",
-    "since": 1792160424470
+    "status": "offline",
+    "since": 1792185807502
   },
   "i5125": {
     "status": "offline",
@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1792174588260
+    "status": "offline",
+    "since": 1792185807502
   },
   "tool1-2-2026": {
     "status": "offline",
@@ -132,8 +132,8 @@
     "since": 1791144589526
   },
   "i72028": {
-    "status": "online",
-    "since": 1792174588260
+    "status": "offline",
+    "since": 1792185807502
   },
   "xeonYEU": {
     "status": "offline",
@@ -445,8 +445,8 @@
     "first_seen": 1771934133329
   },
   "meo": {
-    "status": "online",
-    "since": 1792143846989,
+    "status": "offline",
+    "since": 1792185807502,
     "first_seen": 1771934133329
   },
   "xeonutra": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1792143846989,
+    "status": "offline",
+    "since": 1792185807502,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -805,8 +805,8 @@
     "first_seen": 1772814154131
   },
   "z": {
-    "status": "offline",
-    "since": 1792174588260,
+    "status": "online",
+    "since": 1792185807502,
     "first_seen": 1772895624848
   },
   "proxy": {
@@ -980,8 +980,8 @@
     "first_seen": 1774108506221
   },
   "i5L": {
-    "status": "online",
-    "since": 1792174588260,
+    "status": "offline",
+    "since": 1792185807502,
     "first_seen": 1774172329547
   },
   "tiktok": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1792160424470,
+    "status": "offline",
+    "since": 1792185807502,
     "first_seen": 1775904626722
   },
   "HMck": {
