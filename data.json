@@ -460,8 +460,8 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "offline",
-    "since": 1792256929715,
+    "status": "online",
+    "since": 1792279570684,
     "first_seen": 1771939283101
   },
   "i5kkey": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "offline",
-    "since": 1792160424470,
+    "status": "online",
+    "since": 1792279570684,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1792273094792,
+    "status": "online",
+    "since": 1792279570684,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1310,8 +1310,8 @@
     "first_seen": 1784445191719
   },
   "matrix": {
-    "status": "offline",
-    "since": 1792256929715,
+    "status": "online",
+    "since": 1792279570684,
     "first_seen": 1784543220938
   },
   "AMZ": {
