@@ -132,8 +132,8 @@
     "since": 1792256929715
   },
   "i72028": {
-    "status": "online",
-    "since": 1792265048760
+    "status": "offline",
+    "since": 1792273094792
   },
   "xeonYEU": {
     "status": "offline",
@@ -440,8 +440,8 @@
     "first_seen": 1771931250125
   },
   "i5Te": {
-    "status": "online",
-    "since": 1792256929715,
+    "status": "offline",
+    "since": 1792273094792,
     "first_seen": 1771934133329
   },
   "meo": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "online",
-    "since": 1792265048760,
+    "status": "offline",
+    "since": 1792273094792,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1792246060899,
+    "status": "offline",
+    "since": 1792273094792,
     "first_seen": 1774667680573
   },
   "x56xu": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1792234553085,
+    "status": "offline",
+    "since": 1792273094792,
     "first_seen": 1775904626722
   },
   "HMck": {
