@@ -132,8 +132,8 @@
     "since": 1792256929715
   },
   "i72028": {
-    "status": "offline",
-    "since": 1792185807502
+    "status": "online",
+    "since": 1792265048760
   },
   "xeonYEU": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1792256929715,
+    "status": "offline",
+    "since": 1792265048760,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -320,8 +320,8 @@
     "first_seen": 1771904259023
   },
   "xeonNHO": {
-    "status": "online",
-    "since": 1792256929715,
+    "status": "offline",
+    "since": 1792265048760,
     "first_seen": 1771904259023
   },
   "i7130h": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1792246060899,
+    "status": "offline",
+    "since": 1792265048760,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -615,8 +615,8 @@
     "first_seen": 1772116732672
   },
   "xeon3.5": {
-    "status": "online",
-    "since": 1792256929715,
+    "status": "offline",
+    "since": 1792265048760,
     "first_seen": 1772120207512
   },
   "xeongG": {
@@ -825,8 +825,8 @@
     "first_seen": 1772964700336
   },
   "maxcare": {
-    "status": "online",
-    "since": 1792201069056,
+    "status": "offline",
+    "since": 1792265048760,
     "first_seen": 1772985264348
   },
   "ModSkinFrozen": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1792246060899,
+    "status": "online",
+    "since": 1792265048760,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -980,8 +980,8 @@
     "first_seen": 1774108506221
   },
   "i5L": {
-    "status": "online",
-    "since": 1792234553085,
+    "status": "offline",
+    "since": 1792265048760,
     "first_seen": 1774172329547
   },
   "tiktok": {
@@ -1045,8 +1045,8 @@
     "first_seen": 1774957026104
   },
   "link": {
-    "status": "online",
-    "since": 1792217552285,
+    "status": "offline",
+    "since": 1792265048760,
     "first_seen": 1774975329240
   },
   "td": {
@@ -1370,8 +1370,8 @@
     "first_seen": 1789972338473
   },
   "ryzen9u": {
-    "status": "online",
-    "since": 1792256929715,
+    "status": "offline",
+    "since": 1792265048760,
     "first_seen": 1790606117449
   },
   "bot-1": {
