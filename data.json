@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "offline",
-    "since": 1792757136098,
+    "status": "online",
+    "since": 1792787095859,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -500,8 +500,8 @@
     "first_seen": 1771947443714
   },
   "ryzen9": {
-    "status": "online",
-    "since": 1792774936777,
+    "status": "offline",
+    "since": 1792787095859,
     "first_seen": 1771947443714
   },
   "i512500": {
@@ -720,8 +720,8 @@
     "first_seen": 1772437053482
   },
   "tmp": {
-    "status": "online",
-    "since": 1792774936777,
+    "status": "offline",
+    "since": 1792787095859,
     "first_seen": 1772461962322
   },
   "UMT33": {
@@ -980,8 +980,8 @@
     "first_seen": 1774108506221
   },
   "i5L": {
-    "status": "online",
-    "since": 1792757136098,
+    "status": "offline",
+    "since": 1792787095859,
     "first_seen": 1774172329547
   },
   "tiktok": {
@@ -1095,8 +1095,8 @@
     "first_seen": 1775901560198
   },
   "sh": {
-    "status": "online",
-    "since": 1792774936777,
+    "status": "offline",
+    "since": 1792787095859,
     "first_seen": 1775904626722
   },
   "HMck": {
@@ -1370,8 +1370,8 @@
     "first_seen": 1789972338473
   },
   "ryzen9u": {
-    "status": "online",
-    "since": 1792737287861,
+    "status": "offline",
+    "since": 1792787095859,
     "first_seen": 1790606117449
   },
   "bot-1": {
@@ -1400,8 +1400,8 @@
     "first_seen": 1792579756142
   },
   "x88x": {
-    "status": "online",
-    "since": 1792757136098,
+    "status": "offline",
+    "since": 1792787095859,
     "first_seen": 1792579756142
   },
   "xccleanerx": {
