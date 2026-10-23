@@ -16,8 +16,8 @@
     "since": 1778252089056
   },
   "AMZ9HX32": {
-    "status": "online",
-    "since": 1792774936777
+    "status": "offline",
+    "since": 1792797711791
   },
   "bluestack": {
     "status": "offline",
@@ -68,8 +68,8 @@
     "since": 1779119720225
   },
   "spacemarine": {
-    "status": "online",
-    "since": 1792757136098
+    "status": "offline",
+    "since": 1792797711791
   },
   "tool1-2-2026": {
     "status": "offline",
@@ -180,8 +180,8 @@
     "first_seen": 1771894415726
   },
   "i7127": {
-    "status": "online",
-    "since": 1792774936777,
+    "status": "offline",
+    "since": 1792797711791,
     "first_seen": 1771894415726
   },
   "ps4": {
@@ -460,8 +460,8 @@
     "first_seen": 1771939283101
   },
   "camera": {
-    "status": "offline",
-    "since": 1792757136098,
+    "status": "online",
+    "since": 1792797711791,
     "first_seen": 1771939283101
   },
   "i5kkey": {
@@ -475,8 +475,8 @@
     "first_seen": 1771939283101
   },
   "dell1": {
-    "status": "online",
-    "since": 1792787095859,
+    "status": "offline",
+    "since": 1792797711791,
     "first_seen": 1771943661252
   },
   "i5136": {
@@ -495,8 +495,8 @@
     "first_seen": 1771943661252
   },
   "mua5": {
-    "status": "offline",
-    "since": 1792757136098,
+    "status": "online",
+    "since": 1792797711791,
     "first_seen": 1771947443714
   },
   "ryzen9": {
@@ -865,8 +865,8 @@
     "first_seen": 1773223006889
   },
   "xeon2856ld": {
-    "status": "offline",
-    "since": 1792774936777,
+    "status": "online",
+    "since": 1792797711791,
     "first_seen": 1773226388097
   },
   "amd78s": {
@@ -975,8 +975,8 @@
     "first_seen": 1773983257584
   },
   "amz939": {
-    "status": "online",
-    "since": 1792757136098,
+    "status": "offline",
+    "since": 1792797711791,
     "first_seen": 1774108506221
   },
   "i5L": {
@@ -1035,8 +1035,8 @@
     "first_seen": 1774446507062
   },
   "dual99": {
-    "status": "online",
-    "since": 1792757136098,
+    "status": "offline",
+    "since": 1792797711791,
     "first_seen": 1774667680573
   },
   "x56xu": {
